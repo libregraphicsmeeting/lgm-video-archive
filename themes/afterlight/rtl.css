@@ -1,0 +1,465 @@
+/*
+Theme Name: Afterlight
+
+Adding support for language written in a Right To Left (RTL) direction is easy -
+it's just a matter of overwriting all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+
+http://codex.wordpress.org/Right_to_Left_Language_Support
+*/
+
+@-webkit-keyframes slideIn {
+	from {
+		-webkit-transform: translateX(-100%);
+
+	}
+	to {
+		-webkit-transform: translateX(0);
+	}
+}
+
+@keyframes slideIn {
+	from {
+		-moz-transform: translateX(-100%);
+		transform: translateX(-100%);
+	}
+	to {
+		-moz-transform: translateX(0);
+		transform: translateX(0);
+	}
+}
+
+body {
+	direction: rtl;
+	unicode-bidi: embed;
+}
+
+body {
+	font-family: Arial, Tahoma, sans-serif;
+}
+
+blockquote {
+	border-right: 1px solid currentColor;
+	border-left: none;
+	padding-right: 23px;
+	padding-left: 0;
+}
+
+ul, ol {
+	margin: 0 20px 24px 0;
+}
+
+caption,
+th,
+td {
+	text-align: right;
+}
+
+input[type="checkbox"],
+input[type="radio"] {
+	margin-right: auto;
+	margin-left: 6px;
+}
+
+.site-header .nav-menu > li {
+	border-width: 1px 0 1px 1px;
+	float: right;
+}
+
+.site-header .nav-menu .menu-item-has-children > a {
+	padding-right: 24px;
+	padding-left: 46px;
+}
+
+.site-header .nav-menu .menu-item-has-children > a:after {
+	right: auto;
+	left: 20px;
+}
+
+.site-header .sub-menu {
+	right: -1px;
+	left: auto;
+}
+
+.site-header .sub-menu ul {
+	right: 100%;
+	left: auto;
+}
+
+.site-header .sub-menu .menu-item-has-children > a {
+	padding-right: 0;
+	padding-left: 41px;
+}
+
+.site-header .sub-menu .menu-item-has-children > a:after {
+	right: auto;
+	left: 19px;
+}
+
+.sidebar .main-navigation ul ul {
+	margin-right: 12px;
+	margin-left: auto;
+}
+
+.sidebar .main-navigation .menu-item-has-children > a {
+	padding-right: 0;
+	padding-left: 48px;
+}
+
+.dropdown-toggle {
+	right: auto;
+	left: 0;
+}
+
+.dropdown-toggle:after {
+	right: 1px;
+	left: auto;
+}
+
+.social-navigation li {
+	float: right;
+}
+
+.sidebar .social-navigation li {
+	margin: 0 0 12px 12px;
+}
+
+.sidebar-toggle {
+	border-right: 1px solid currentColor;
+	border-left: 0;
+	right: auto;
+	left: 0;
+}
+
+.sidebar-toggle.toggled-on:before {
+	right: -1px;
+	left: auto;
+}
+
+.pagination .prev {
+	border-right: none;
+	border-left: 1px solid currentColor;
+	right: 0;
+	left: auto;
+}
+
+.pagination .prev:before {
+	content: "\f429";
+	right: -1px;
+	left: auto;
+}
+
+.pagination .next {
+	border-left: none;
+	border-right: 1px solid currentColor;
+	right: auto;
+	left: 0;
+}
+
+.pagination .next:before {
+	content: "\f430";
+	right: auto;
+	left: -1px;
+}
+
+.image-navigation .nav-next a:after,
+.comment-navigation .nav-next a:after {
+	content: "\f430";
+	margin-right: 4px;
+	margin-left: auto;
+}
+
+.image-navigation .nav-previous a:before,
+.comment-navigation .nav-previous a:before {
+	content: "\f429";
+	margin-right: auto;
+	margin-left: 4px;
+}
+
+.site .skip-link {
+	right: -9999em;
+	left: auto;
+}
+
+.site .skip-link:focus {
+	right: 6px;
+	left: auto;
+}
+
+.widget_archive ul ul,
+.widget_categories ul ul,
+.widget_links ul ul,
+.widget_meta ul ul,
+.widget_nav_menu ul ul,
+.widget_pages ul ul,
+.widget_recent_comments ul ul,
+.widget_recent_entries ul ul {
+	margin: 12px 24px 0 0;
+}
+
+.sidebar {
+	right: auto;
+	left: 100%;
+}
+
+.sidebar-open .sidebar {
+	right: auto;
+	left: 0;
+}
+
+.no-js .sidebar {
+	right: auto;
+	left: auto;
+}
+
+.site-branding-inner {
+	float: right;
+}
+
+.site-navigation {
+	float: left;
+}
+
+.author-info .avatar {
+	float: right;
+	margin: 5px 0 0 24px;
+}
+
+.cat-links,
+.tags-links,
+.comments-link,
+.edit-link,
+.full-size-link {
+	padding: 3px 19px 3px 0;
+}
+
+.cat-links:before,
+.tags-links:before,
+.comments-link:before,
+.edit-link:before,
+.full-size-link:before {
+	right: 0;
+	left: auto;
+}
+
+.page-links a,
+.page-links > span {
+	margin: 0 0 4px 4px;
+}
+
+.page-links > .page-links-title {
+	padding-right: 0;
+	padding-left:11px;
+}
+
+.comment-list .children > li {
+	padding-right: 12px;
+	padding-left: 0;
+}
+
+.comment-author .avatar {
+	float: right;
+	margin-right: auto;
+	margin-left: 12px;
+}
+
+.bypostauthor > article .fn:after {
+	right: 3px;
+	left: auto;
+}
+
+.comment-metadata .edit-link,
+.pingback .edit-link {
+	margin-right: 6px;
+	margin-left: auto;
+}
+
+.comment-content ul,
+.comment-content ol {
+	margin: 0 20px 24px 0;
+}
+
+.comment-reply-title small a {
+	float: left;
+}
+
+.infinite-loader .spinner {
+	right: -webkit-calc(7.6923% + 12px) !important;
+	right: calc(7.6923% + 12px) !important;
+	left: auto;
+}
+
+.widget_jetpack_display_posts_widget .jetpack-display-remote-posts p {
+	margin: 0 !important 24px 0;
+}
+
+.widget_top-posts .widgets-list-layout .widgets-list-layout-blavatar {
+	margin-right: auto;
+	margin-left: 12px;
+}
+
+.widget_top-posts .widgets-list-layout-links {
+	float: right;
+}
+
+.widget_rss_links ul ul,
+.widget_top-posts ul ul,
+.widget_upcoming_events_widget ul ul {
+	margin: 12px 12px 0 0;
+}
+
+.hentry div#jp-relatedposts div.jp-relatedposts-items-visual .jp-relatedposts-post {
+	padding-right: 0;
+	padding-left: 0;
+}
+
+@media screen and (min-width: 36.3125em) {
+	blockquote {
+		margin-right: -32px;
+		margin-left: auto;
+		padding-right: 31px;
+		padding-left: 0;
+	}
+
+	blockquote > blockquote {
+		margin-right: 0;
+		margin-left: auto;
+	}
+
+	ul, ol {
+		margin: 0 0 32px 0;
+	}
+
+	li > ul,
+	li > ol,
+	blockquote > ul,
+	blockquote > ol {
+		margin-right: 24px;
+		margin-left: auto;
+	}
+
+	input[type="checkbox"],
+	input[type="radio"] {
+		margin-right: auto;
+		margin-left: 8px;
+	}
+
+	.sidebar .main-navigation ul ul {
+		margin-right: 16px;
+		margin-left: auto;
+	}
+
+	.pagination .prev:before {
+		right: -10px;
+		left: auto;
+	}
+
+	.pagination .next:before {
+		right: auto;
+		left: 3px;
+	}
+
+	.widget_archive ul ul,
+	.widget_categories ul ul,
+	.widget_links ul ul,
+	.widget_meta ul ul,
+	.widget_nav_menu ul ul,
+	.widget_pages ul ul,
+	.widget_recent_comments ul ul,
+	.widget_recent_entries ul ul {
+		margin: 16px 32px 0 0;
+	}
+
+	.author-info .avatar {
+		margin: 7px 0 0 32px;
+	}
+
+	.cat-links,
+	.tags-links,
+	.comments-link,
+	.edit-link,
+	.full-size-link {
+		padding: 4px 19px 4px 0;
+	}
+
+	.page-links > .page-links-title {
+		padding-right: 0;
+		padding-left: 20px;
+	}
+
+	.comment-list .children > li {
+		padding-right: 32px;
+		padding-left: 0;
+	}
+
+	.comment-author .avatar {
+		margin-right: auto;
+		margin-left: 32px;
+	}
+
+	.comment-metadata .edit-link,
+	.pingback .edit-link {
+		margin-right: 8px;
+		margin-left: auto;
+	}
+
+	.comment-content li > ul,
+	.comment-content li > ol,
+	.comment-content blockquote > ul,
+	.comment-content blockquote > ol {
+		margin-right: 24px;
+		margin-left: auto;
+	}
+
+	.widget_rss_links ul ul,
+	.widget_top-posts ul ul,
+	.widget_upcoming_events_widget ul ul {
+		margin: 16px 16px 0 0;
+	}
+
+	.hentry div#jp-relatedposts div.jp-relatedposts-items .jp-relatedposts-post {
+		padding-right: 0;
+		padding-left: 16px;
+	}
+}
+
+@media screen and (min-width: 52.0625em) {
+	.post-navigation:after {
+		right: 50%;
+		left: auto;
+	}
+
+	.post-navigation .nav-previous,
+	.post-navigation .nav-next {
+		float: right;
+	}
+
+	.site-header .social-navigation {
+		float: left;
+		margin: 0 12px 0 -24px;
+	}
+
+	.no-widgets .site-header .social-navigation,
+	.no-js .site-header .social-navigation {
+		margin: 0 12px 0 -12px;
+	}
+
+	.social-menu-right .social-navigation,
+	.no-widgets.social-menu-right .site-header .social-navigation {
+		float: right;
+		margin: 12px -12px -12px 0;
+	}
+}
+
+@media screen and (min-width: 64.0625em) {
+	.post-thumbnail,
+	.size-big,
+	.caption-big,
+	.entry-content embed,
+	.entry-content iframe,
+	.entry-content object,
+	.entry-content video {
+		margin-right: 0;
+		margin-left: -18.18181818%;
+	}
+}
