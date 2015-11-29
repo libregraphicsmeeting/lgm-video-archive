@@ -1,0 +1,42 @@
+@font-face {
+    font-family: 'univers-else';
+    src: url('../../fonts/univers-else/universelse-bold.eot');
+    src: url('../../fonts/univers-else/universelse-bold.eot?#iefix') format('embedded-opentype'),
+         url('../../fonts/univers-else/universelse-bold.woff2') format('woff2'),
+         url('../../fonts/univers-else/universelse-bold.woff') format('woff'),
+         url('../../fonts/univers-else/universelse-bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'sophia-nubian';
+    src: url('../../fonts/sophia-nubian/snr.eot');
+    src: url('../../fonts/sophia-nubian/snr.eot?#iefix') format('embedded-opentype'),
+         url('../../fonts/sophia-nubian/snr.woff2') format('woff2'),
+         url('../../fonts/sophia-nubian/snr.woff') format('woff'),
+         url('../../fonts/sophia-nubian/snr.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+body,
+button,
+input,
+select,
+textarea,
+.comments-title,
+.comment-reply-title {
+	font-family: 'sophia-nubian', sans-serif;
+}
+
+.site-title,
+.page-title,
+.entry-title,
+.post-navigation .post-title,
+.entry-caption,
+.wp-caption-text,
+.gallery-caption {
+	font-family: 'univers-else', sans-serif;
+}

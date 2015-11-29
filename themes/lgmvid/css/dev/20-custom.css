@@ -1,0 +1,20 @@
+/* @override 
+	http://libregraphicsmeeting.org/video/wp-content/themes/lgmvid/css/dev/20-custom.css */
+
+body,
+body.has-overlay:after {
+ opacity: 1;
+ background: #e7e7e7;
+}
+
+body, button, input, select, textarea {
+	color: #222222;
+}
+
+p {
+	line-height: 1.25;
+}
+
+.wp-video {
+	margin-top: 9.0909091%;
+}
