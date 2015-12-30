@@ -19,18 +19,26 @@
 	<?php 
 	
 	// display video files
-	if( have_rows('talk_video_elsewhere_list') ):
 	
-	    while ( have_rows('talk_video_elsewhere_list') ) : the_row();
+	// test for custom field "talk_video"
+	//  get_post_meta($post_id, $key, $single);
 	
-	        $lgm_video_src = get_sub_field('talk_video_elsewhere_url');
-	        
-	        echo do_shortcode( '[video src="'.$lgm_video_src.'"]' );
-	        	
-	    endwhile;
+	$talk_videos = get_post_meta(
+		get_the_ID(), // post ID
+		'talk_video', // $key
+		false ); // true = string, false = array
 	
-	else :
-	endif;
+	if ( !empty($talk_videos) ) {
+		
+		foreach($talk_videos as $video) {
+			
+			echo '<div class="video-player">';
+			echo do_shortcode( '[video src="'.$video.'"]' );
+			echo '</div>';
+			
+		}
+	
+	}
 	
 	 ?>
 

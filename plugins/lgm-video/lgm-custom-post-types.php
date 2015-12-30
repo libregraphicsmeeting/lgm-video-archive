@@ -4,7 +4,7 @@
  ********************
 */
 
-add_action( 'init', 'lgm_register_post_types' );
+// add_action( 'init', 'lgm_register_post_types' );
 function lgm_register_post_types() {
 
 		$labels = array(
@@ -50,68 +50,6 @@ function lgm_register_post_types() {
 } // end defining post types
 
 
-// relabel "post" as "talk" 
-
-function change_post_menu_label() {
-    global $menu, $submenu;
-
-    $menu[5][0] = 'Talks';
-    $submenu['edit.php'][5][0] = 'Talks';
-    $submenu['edit.php'][10][0] = 'New Talk';
-    // $submenu['edit.php'][16][0] = 'Topics';
-    echo '';
-}
-add_action( 'admin_menu', 'change_post_menu_label' );
-
-function change_post_object_label() {
-    global $wp_post_types;
-
-    $labels = &$wp_post_types['post']->labels;
-    $labels->name = 'Talks';
-    $labels->singular_name = 'Talk';
-    $labels->add_new = 'New Talk';
-    $labels->add_new_item = 'New Talk';
-    $labels->edit_item = 'Edit Talk';
-    $labels->new_item = 'New Talk';
-    $labels->view_item = 'View Talk';
-    $labels->search_items = 'Search Talks';
-    $labels->not_found = 'Not found';
-    $labels->not_found_in_trash = 'Not found in trash';
-}
-add_action( 'init', 'change_post_object_label' );
-
-
-/**
- * Rename 'Tags' to be Notes or anything you want
- * http://new2wp.com/snippet/rename-default-post-tags-taxonomy-wordpress/
- * see also: http://w4dev.com/wp/remove-taxonomy/
- */
- 
-function notes_tagged_init() {
-	global $wp_taxonomies;
-	$wp_taxonomies['post_tag']->labels = (object) array(
-		'name' => 'Topics',
-		'singular_name' => 'Topic',
-		'all_items' => 'All Topics',
-		'edit_item' => 'Edit',
-		'view_item' => 'View',
-		'menu_name' => 'Topics',
-		'update_item' => 'Update Topic',
-		'add_new_item' => 'Add Topic',
-		'search_items' => 'Search',
-		'popular_items' => 'Popular Topics',
-		'new_item_name' => 'Topic name',
-		'add_or_remove_items' => 'Add or remove items',
-		'parent_item' => null, 'parent_item_colon' => null,
-		'choose_from_most_used' => 'Choose from the most used topics',
-		'separate_items_with_commas' => 'Separate topics with commas',
-	);
-	$wp_taxonomies['post_tag']->label = 'Séries';
-}
-add_action( 'init', 'notes_tagged_init' );
-
-
-
 // Post 2 Post - connection between talks and speakers
 
 // post_2_posts plugin
@@ -133,7 +71,7 @@ function lgm_connection_types() {
 	
 
 }
-add_action( 'init', 'lgm_connection_types', 100 );
+// add_action( 'init', 'lgm_connection_types', 100 );
 
 
 
