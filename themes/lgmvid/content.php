@@ -12,9 +12,6 @@
 <article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
 	<header class="entry-header">
 		<?php if ( 'post' == get_post_type() ) : ?>
-			<div class="entry-date">
-				<?php afterlight_entry_date(); ?>
-			</div><!-- .entry-date -->
 			<?php 
 			
 			// display speakers:

@@ -6,6 +6,8 @@
 
 require_once('functions/theme-override.php');
 
+require_once('functions/archive-query.php');
+
 
 function custom_register_styles() {
 	

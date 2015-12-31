@@ -32,7 +32,11 @@ Other metadata we could add at some moment:
 
 #### Talks: Categories
 
-The default categories taxonomy could be used to designate the events: LGM 2006, LGM 2007, etc. We could base the event on the year ... but we could decide to open the video archive to other events, such as LGRU, OSP summer school, etc... so it will be practical to identify the events by a taxonomy.
+The default *categories* taxonomy could be used to identify the event: LGM 2006, LGM 2007, etc. We could bypass the category and identify the the event by the year ... but we could also decide to open the video archive to related events (such as LGRU, Relearn, etc...) - in that case, it will be necessary to identify the events by a taxonomy.
+
+This taxonomy could hold further metadata:
+
+- `event_location`: the city where the event takes place.
 
 ### Speakers: content metadata
 
