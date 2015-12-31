@@ -10,7 +10,23 @@
 		<div class="entry-date">
 			<?php afterlight_entry_date(); ?>
 		</div>
-
+		<?php 
+		
+		// display speakers:
+		// using taxonomy: speaker
+		
+		$id = $post->ID;
+		
+		echo get_the_term_list( 
+			$id, // Post ID
+			'speaker', // Name of taxonomy
+			'', // $before - Leading text
+			', ', // $sep - String to separate tags
+			'' // $after - Trailing text
+		);
+		
+		
+		 ?>
 		<?php the_title( '<h1 class="entry-title">', '</h1>' ); ?>
 	</header>
 
@@ -21,23 +37,19 @@
 	// display video files
 	
 	// test for custom field "talk_video"
-	//  get_post_meta($post_id, $key, $single);
+	// get_post_meta($post_id, $key, $single);
 	
 	$talk_videos = get_post_meta(
-		get_the_ID(), // post ID
+		$id, // post ID
 		'talk_video', // $key
 		false ); // true = string, false = array
 	
 	if ( !empty($talk_videos) ) {
-		
 		foreach($talk_videos as $video) {
-			
 			echo '<div class="video-player">';
 			echo do_shortcode( '[video src="'.$video.'"]' );
 			echo '</div>';
-			
 		}
-	
 	}
 	
 	 ?>
@@ -57,12 +69,8 @@
 	</div><!-- .entry-content -->
 
 	<footer class="entry-footer">
-		<?php
-			if ( '' != get_the_author_meta( 'description' ) ) :
-				get_template_part( 'author-bio' );
-			endif;
-		?>
+		
 		<?php afterlight_entry_meta(); ?>
-		<?php edit_post_link( __( 'Edit', 'afterlight' ), '<span class="edit-link">', '</span>' ); ?>
+
 	</footer><!-- .entry-footer -->
 </article><!-- #post-## -->

@@ -27,6 +27,12 @@ Other metadata we could add at some moment:
 
 - transcript
 - audio recording
+- language : there were talks in French at LGM 2007
+- licence : some talks in the 2007 have licence information: CC-BY, CC-BY-SA, Public Domain...
+
+#### Talks: Categories
+
+The default categories taxonomy could be used to designate the events: LGM 2006, LGM 2007, etc. We could base the event on the year ... but we could decide to open the video archive to other events, such as LGRU, OSP summer school, etc... so it will be practical to identify the events by a taxonomy.
 
 ### Speakers: content metadata
 
