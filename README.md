@@ -16,4 +16,4 @@ The theme has it’s own [documentation file](themes/lgmvid/README.md).
 
 ### Functionality Plugin
 
-A custom WordPress plugin, for keeping functionality separated from design. It also has it’s own [documentation file](plugins/lgm-video/README.md).
+We created a functionality plugin, which does things such as declaring *Custom Post Types* and *Taxonomies*. It also has it’s own [documentation file](plugins/lgm-video/README.md).
