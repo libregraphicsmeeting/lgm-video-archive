@@ -1,6 +1,6 @@
 # Basic Structure
 
-This document explains the basic structure of the LGM Video Archive website.
+This document explains the basic content structure of the [LGM Video Archive](http://libregraphicsmeeting.org/video/) website.
 
 The archive is - as of fall 2015 - built with WordPress. However, it should be possible to migrate the data into any other system in the future.
 
@@ -8,9 +8,9 @@ The archive is - as of fall 2015 - built with WordPress. However, it should be p
 
 The main content types of the archive are:
 
-1. **Talks** : since this is the most important content, we use the "post", the default content type in WordPress. We simply rename it as "Talks".
-2. **Speakers** : a custom taxonomy, defined in our functionality plugin.
-3. **Topics** : a taxonomy - for simplicity we use the built-in "tags" functionality, and rename it as "Topics.
+1. **Talks** : since this is the most important content, we use the "post", the default content type in WordPress. We simply [rename it](../plugins/lgm-video/lgm-talks.php) as "Talks".
+2. **Speakers** : a custom taxonomy, [defined](../plugins/lgm-video/lgm-speakers.php) in our functionality plugin.
+3. **Topics** : a taxonomy - for simplicity, we use the built-in "tags" functionality, and [rename it](../plugins/lgm-video/lgm-topics.php) as "Topics".
 
 ### Talks : content metadata
 
@@ -20,13 +20,14 @@ The content metadata we want to attach to Talks. They are implemented as WordPre
 - Video URL (Archive.org): `talk_video_archiveorg`
 - Video URL: `talk_video` - expects direct link to video file, for example: http://video.constantvzw.org/LGM15/day-04/38-Snelting-Conversations.ogv
 - Slides URL: `talk_slides` - can be a direct link to the slides, or to a web page displaying them. 
+- Audio URL: `talk_audio` - audio recording
 
 Why do we use specific fields for Youtube and Archive.org? Because we will use those links to embed the player. We could create a function to parse the URLs, but it seems OK to anticipate those specific video providers.
 
 Other metadata we could add at some moment: 
 
 - transcript
-- audio recording
+- <del>audio recording</del> (added)
 - language : there were talks in French at LGM 2007
 - licence : some talks in the 2007 have licence information: CC-BY, CC-BY-SA, Public Domain...
 
