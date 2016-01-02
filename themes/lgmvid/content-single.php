@@ -17,6 +17,24 @@
 		
 		$id = $post->ID;
 		
+		$speakers = get_the_terms( $id, 'speaker' );
+		
+		if ( !empty($speakers) && !is_wp_error($speakers) ) { 
+			
+			// echo '<div class="speaker-names">';
+			
+			if ( count($speakers) > 1 ) {
+				echo 'Speakers: ';
+			} else {
+				echo 'Speaker: ';
+			}
+			
+			foreach ( $speakers as $speaker ) {
+				
+			}
+			// echo '</div>';
+		}
+		
 		echo get_the_term_list( 
 			$id, // Post ID
 			'speaker', // Name of taxonomy
@@ -25,12 +43,14 @@
 			'' // $after - Trailing text
 		);
 		
-		
+
 		 ?>
 		<?php the_title( '<h1 class="entry-title">', '</h1>' ); ?>
 	</header>
 
 	<?php afterlight_post_thumbnail(); ?>
+	
+	<div class="entry-content">
 	
 	<?php 
 	
@@ -46,16 +66,47 @@
 	
 	if ( !empty($talk_videos) ) {
 		foreach($talk_videos as $video) {
-			echo '<div class="video-player">';
+			echo '<div class="lgm-video-player">';
 			echo do_shortcode( '[video src="'.$video.'"]' );
+			echo '</div>';
+		}
+	}
+	
+	// display audio files
+	
+	$talk_audio = get_post_meta(
+		$id, // post ID
+		'talk_audio', // $key
+		false ); // true = string, false = array
+	
+	if ( !empty($talk_audio) ) {
+		foreach($talk_audio as $audio) {
+			echo '<div class="lgm-audio-player">';
+			echo do_shortcode( '[audio src="'.$audio.'"]' );
+			echo '<div>[<a href="'.$audio.'">audio file</a>]</div>';
 			echo '</div>';
 		}
 	}
 	
 	 ?>
 
-	<div class="entry-content">
-		<?php the_content(); ?>
+		<?php the_content(); 
+		
+		// display speaker bio
+									
+		if ( !empty($speakers) && !is_wp_error($speakers) ) { 
+			
+			echo '<div class="lgm-speakers">';
+			foreach ( $speakers as $speaker ) {
+					echo '<div class="lgm-speaker-info">';
+					echo '<h4 class="lgm-speaker-name"><a href="'.site_url('/speakers/').$speaker->slug.'/">'.$speaker->name.'</a></h4>'; 
+					echo '<p class="lgm-speaker-bio">'.$speaker->description.'</p>';
+					echo '</div>';
+			}
+			echo '</div>';
+		}
+		
+		?>
 		<?php
 			wp_link_pages( array(
 				'before'      => '<div class="page-links"><span class="page-links-title">' . __( 'Pages:', 'afterlight' ) . '</span>',

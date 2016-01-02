@@ -39,3 +39,87 @@ p {
 }
 
 /* @end */
+
+/* @group Sigle Item Page */
+
+.single entry-header {
+	
+}
+
+.single .entry-content {
+	margin-top: 1em;
+}
+
+.single .lgm-video-player {
+}
+
+.single .lgm-audio-player {
+}
+
+.single .lgm-video-player,
+.single .lgm-audio-player {
+	margin-bottom: 1em;
+/*	border: 1px solid #333;*/
+}
+
+.lgm-audio-player .wp-audio-shortcode {
+	margin-bottom: 0;
+}
+
+
+.lgm-speakers {
+	margin-top: 1em;
+	border: 1px solid #333;
+	padding: 1em;
+	font-size: 86%;
+	background-color: #fff;
+}
+
+.entry-content .lgm-speaker-info {
+	margin-bottom: 1em;
+}
+.entry-content .lgm-speaker-info:last-of-type {
+	margin-bottom: 0;
+}
+
+.entry-content .lgm-speaker-name {
+	text-transform: none;
+	letter-spacing: normal;
+	display: inline;
+	font-size: 100%;
+}
+
+
+.entry-content .lgm-speaker-name a {
+/* text-decoration: none; - no effect */
+/* note: underline is added by theme via background-gradient */
+}
+
+
+.entry-content .lgm-speaker-name:after {
+	content:  " – ";
+}
+
+.entry-content .lgm-speaker-bio {
+	display: inline;
+}
+
+/* @end */
+
+@media screen and (min-width: 36.3125em) {
+		.single .entry-title {
+		    font-size: 31px;
+		    font-size: 1.9375rem;
+		    line-height: 1.161290323;
+		}
+}
+
+@media screen and (min-width: 52.0625em) {
+	
+		.single .entry-title {
+		    font-size: 41px;
+		    font-size: 2.5625rem;
+		    line-height: 1.1707317073;
+		}
+		
+}
