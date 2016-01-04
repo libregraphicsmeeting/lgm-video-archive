@@ -8,7 +8,11 @@ body.has-overlay:after {
 }
 
 body, button, input, select, textarea {
-	color: #222222;
+	color: #222;
+}
+
+.site-header .nav-menu > li {
+	border-color: #222;
 }
 
 p {
@@ -17,6 +21,15 @@ p {
 
 .wp-video {
 	margin-top: 9.0909091%;
+}
+
+
+.site-branding {
+	display: none;
+}
+
+.site-header .nav-menu > li {
+	border-bottom-width: 0px;
 }
 
 /* @group Archive Pages */

@@ -16,13 +16,9 @@ The main content types of the archive are:
 
 The content metadata we want to attach to Talks. They are implemented as WordPress [custom fields](https://codex.wordpress.org/Custom_Fields).
 
-- Video URL (Youtube): `talk_video_youtube`
-- Video URL (Archive.org): `talk_video_archiveorg`
-- Video URL: `talk_video` - expects direct link to video file, for example: http://video.constantvzw.org/LGM15/day-04/38-Snelting-Conversations.ogv
+- Video URL: `talk_video` - can be a direct link to video file, for example: http://video.constantvzw.org/LGM15/day-04/38-Snelting-Conversations.ogv ... or a link to Youtube or Archive.org
 - Slides URL: `talk_slides` - can be a direct link to the slides, or to a web page displaying them. 
 - Audio URL: `talk_audio` - audio recording
-
-Why do we use specific fields for Youtube and Archive.org? Because we will use those links to embed the player. We could create a function to parse the URLs, but it seems OK to anticipate those specific video providers.
 
 Other metadata we could add at some moment: 
 
@@ -30,6 +26,8 @@ Other metadata we could add at some moment:
 - <del>audio recording</del> (added)
 - language : there were talks in French at LGM 2007
 - licence : some talks in the 2007 have licence information: CC-BY, CC-BY-SA, Public Domain...
+
+Note: Should we use specific fields for Youtube and Archive.org? This doesn't seem helpful. The ElementJS media player (included in WordPress) can handle Youtube links as well as direct links to OGV or MP4 files. So let's keep it simple and use one custom field for all video formats and providers.
 
 #### Talks: Categories
 
