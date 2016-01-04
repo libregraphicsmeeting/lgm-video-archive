@@ -30,6 +30,6 @@ We use the following CSS directory structure:
 
 ## More Documentation
 
-Documentation about the principles and architecture of the archive can be found [in the project README](../docs/README.md). 
+Documentation about the principles and architecture of the archive can be found [in the project README](../../docs/README.md). 
 
 
