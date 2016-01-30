@@ -16,9 +16,9 @@ The main content types of the archive are:
 
 The content metadata we want to attach to Talks. They are implemented as WordPress [custom fields](https://codex.wordpress.org/Custom_Fields).
 
-- Video URL: `talk_video` - can be a direct link to video file, for example: http://video.constantvzw.org/LGM15/day-04/38-Snelting-Conversations.ogv ... or a link to Youtube or Archive.org
-- Slides URL: `talk_slides` - can be a direct link to the slides, or to a web page displaying them. 
-- Audio URL: `talk_audio` - audio recording
+- **Video URL**: `talk_video` - can be a direct link to video file, for example: http://video.constantvzw.org/LGM15/day-04/38-Snelting-Conversations.ogv ... or a link to Youtube or Archive.org
+- **Slides URL**: `talk_slides` - can be a direct link to the slides, or to a web page displaying them. 
+- **Audio URL**: `talk_audio` - audio recording
 
 Other metadata we could add at some moment: 
 
@@ -35,7 +35,24 @@ The default *categories* taxonomy could be used to identify the event: LGM 2006,
 
 This taxonomy could hold further metadata:
 
-- `event_location`: the city where the event takes place.
+- `event_location`: the city where the event takes place (in that way, we don't need to tag each event - we simply tag "LGM 2008 Wroclaw" with the city).
+
+#### Talks: Tags
+
+As mentioned above, we keep this default taxonomy, and relabel it as "Topics"
+
+#### Talks: Type
+
+We use this taxonomy to identify specific event types: 
+
+- Lightning-talk
+- Workshop 
+- Meeting / BoF
+- Party
+
+NOTE: can be defined in XML in this way:
+
+`<category domain="type" nicename="workshop"><![CDATA[Workshop]]></category>`
 
 ### Speakers: content metadata
 
@@ -45,7 +62,7 @@ The speakers are handled as a custom taxonomy. There are three default content f
 2. **Slug:** how the name will be rendered in the URL
 3. **Description:** the speaker biography
 
-**Additional fields:** implemented as Custom Fields. Since WordPress 4.4, taxonomies offer support for custom metadata. 
+**Additional fields:** implemented as Custom Fields. Since WordPress 4.4, taxonomies offer support for custom metadata. NOTE: currently, they aren't yet handled by the default importer.
 
 - **URL:** personal homepage of the speaker. Field ID: `speaker_url` - could also be used for social media profiles, WikiPedia page, etc.
 

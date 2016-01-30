@@ -1,6 +1,5 @@
 <?php 
 
-
 add_action( 'init', 'lgm_speaker_taxonomy', 0 );
 
 function lgm_speaker_taxonomy() {
@@ -43,9 +42,10 @@ function lgm_speaker_taxonomy() {
 		'show_admin_column'     => true,
 		'update_count_callback' => '_update_post_term_count',
 		'query_var'             => true,
-		'rewrite'               => array( 'slug' => 'speakers' ),
+		'rewrite'               => array( 'slug' => 'speaker' ),
 	);
 
 	register_taxonomy( 'speaker', 'post', $args );
 }
+
 ?>

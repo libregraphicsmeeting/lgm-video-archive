@@ -16,3 +16,24 @@ To import such a file, it is needed to install the [WordPress Importer](https://
 **Q:** What to do when several talks start at the same time (in different rooms)? 
 **A:** Add a difference of 10 seconds - this allows the "next / previous" links to work correctly in WordPress.
 
+## Notes on exporting from WordPress with Formidable
+
+Method used to export from LGM 2015:
+
+Created two custom Formidable views:
+
+1) for the Speakers: Speaker list XML
+
+- Use entries from : LGM 2015 proposal submissions
+- View format: all entries
+- Content: 
+ 
+```<wp:term><wp:term_taxonomy><![CDATA[speaker]]></wp:term_taxonomy><wp:term_slug><![CDATA[[86] [87]]]></wp:term_slug><wp:term_name><![CDATA[[86] [87]]]></wp:term_name><wp:term_description><![CDATA[[92][if 93]<div class="speaker-website">[93]</div>[/if 93]]]></wp:term_description></wp:term>```
+
+Keys: 86 = first name, 87 = last name, 92 = biography, 93 = website
+
+NOTE: the output needs a little bit of search-replace: Formidable replaces > with &gt;
+
+2) For the talks: Talks as XML
+
+

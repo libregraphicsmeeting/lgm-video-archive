@@ -85,6 +85,8 @@ add_action( 'after_setup_theme', 'afterlight_setup' );
 
 
 if ( ! function_exists( 'afterlight_fonts_url' ) ) :
+
+
 /**
  * Register Google fonts for afterlight.
  *
@@ -100,3 +102,36 @@ function afterlight_fonts_url() {
 endif;
 
 
+if ( ! function_exists( 'afterlight_entry_date' ) ) :
+/**
+ * Prints HTML with meta information for the post date.
+ *
+ * @since Afterlight 1.0
+ */
+function afterlight_entry_date() {
+	if ( is_sticky() && is_home() && ! is_paged() ) {
+		printf( '<span class="sticky-post">%s</span>', __( 'Featured', 'afterlight' ) );
+	}
+
+	if ( in_array( get_post_type(), array( 'post', 'attachment' ) ) ) {
+		$time_string = '<time class="entry-date published updated" datetime="%1$s">%2$s</time>';
+
+		if ( get_the_time( 'U' ) !== get_the_modified_time( 'U' ) ) {
+			$time_string = '<time class="entry-date published" datetime="%1$s">%2$s</time><time class="updated" datetime="%3$s">%4$s</time>';
+		}
+
+		$time_string = sprintf( $time_string,
+			esc_attr( get_the_date( 'c' ) ),
+			get_the_date(),
+			esc_attr( get_the_modified_date( 'c' ) ),
+			get_the_modified_date()
+		);
+
+		printf( '<span class="posted-on"><span class="screen-reader-text">%1$s </span>%3$s</span>',
+			_x( 'Posted on', 'Used before publish date.', 'afterlight' ),
+			esc_url( get_permalink() ),
+			$time_string
+		);
+	}
+}
+endif;
