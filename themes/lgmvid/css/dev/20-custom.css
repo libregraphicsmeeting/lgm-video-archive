@@ -23,6 +23,7 @@ p {
 	margin-top: 9.0909091%;
 }
 
+/* @group Header */
 
 .site-branding {
 	display: none;
@@ -31,6 +32,21 @@ p {
 .site-header .nav-menu > li {
 	border-bottom-width: 0px;
 }
+
+.nav-menu .menu-item-322 {
+	background-color: #7ed221;
+}
+
+.nav-menu .menu-item-323 {
+	background-color: #4a90e1;
+	color: #fff;
+}
+
+.nav-menu .menu-item-324 {
+	background-color: #f7e61b;
+}
+
+/* @end */
 
 /* @group Archive Pages */
 
@@ -61,6 +77,11 @@ p {
 
 .single .entry-content {
 	margin-top: 1em;
+}
+
+.single .entry-content,
+.single .entry-content p {
+	line-height: 1.4;
 }
 
 .single .lgm-video-player {
