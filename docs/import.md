@@ -22,7 +22,7 @@ Method used to export from LGM 2015:
 
 Created two custom Formidable views:
 
-1) for the Speakers: Speaker list XML
+1) **for the Speakers: Speaker list XML**
 
 - Use entries from : LGM 2015 proposal submissions
 - View format: all entries
@@ -32,8 +32,32 @@ Created two custom Formidable views:
 
 Keys: 86 = first name, 87 = last name, 92 = biography, 93 = website
 
-NOTE: the output needs a little bit of search-replace: Formidable replaces > with &gt;
+NOTE: the output needs a little bit of search-replace: Formidable replaces > with ```&gt;```
 
-2) For the talks: Talks as XML
+2) **For the talks: Talks as XML**
+
+- Use entries from : LGM 2015 proposal submissions
+- View format: all entries
+- Content: 
+
+```<item>
+  <dc:creator><![CDATA[lgm-infra]]></dc:creator>
+  <title>[88]</title>
+  <content:encoded><![CDATA[[90][if 91] Additional speakers: [91][/if 91]]]></content:encoded>
+  <wp:post_date><![CDATA[[172] [173]]]></wp:post_date>
+  <wp:status><![CDATA[publish]]></wp:status>
+  <wp:post_type><![CDATA[post]]></wp:post_type>
+  <category domain="speaker" nicename="[86][87]"><![CDATA[[86][87]]]></category>
+  <wp:postmeta>
+    <wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+    <wp:meta_value><![CDATA[VIDEOURL]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key><![CDATA[talk_slides]]></wp:meta_key>
+    <wp:meta_value><![CDATA[SLIDEURL]]></wp:meta_value>
+  </wp:postmeta>
+  <category domain="category" nicename="lgm-2015"><![CDATA[LGM 2015]]></category>
+</item>```
+
 
 
