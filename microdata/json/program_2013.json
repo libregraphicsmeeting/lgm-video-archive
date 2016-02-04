@@ -1,0 +1,1373 @@
+{
+  "items": [
+    {
+      "properties": {
+        "presenter": [
+          "Femke Snelting", 
+          "Laura Fernandez", 
+          "Marcos Garcia"
+        ], 
+        "title": [
+          "Future Tools"
+        ], 
+        "video": [
+          "http://medialab-prado.es/mmedia/10/10872/10872.flv"
+        ], 
+        "city": [
+          "Madrid"
+        ], 
+        "year": [
+          2013
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://programalaplaza.medialab-prado.es"
+        ], 
+        "city": [
+          "Madrid"
+        ], 
+        "title": [
+          "Programalaplaza: an online tool to write visual sketches for the Medialab-prado Media facade"
+        ], 
+        "presenter": [
+          "Sergio Gal\u00e1n", 
+          "Victor Diaz"
+        ], 
+        "video": [
+          "http://medialab-prado.es/mmedia/10/10861/10861.flv"
+        ], 
+        "year": [
+          2013
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://karl-tux-stadt.de/ktuxs/"
+        ], 
+        "city": [
+          "Madrid"
+        ], 
+        "title": [
+          "The Fedora Design Suite - Distribute The Tools"
+        ], 
+        "presenter": [
+          "Sirko Kemter"
+        ], 
+        "video": [
+          "http://medialab-prado.es/mmedia/10/10856/10856.flv"
+        ], 
+        "year": [
+          2013
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://code.sat.qc.ca/tempi"
+        ], 
+        "city": [
+          "Madrid"
+        ], 
+        "title": [
+          "Mikado, a \"Future tool\" for image manipulation with graphs and nodes based on Tempi and GEGL"
+        ], 
+        "presenter": [
+          "Camille Bissuel", 
+          "Cedric G\u00e9my", 
+          "Alexandre Quessy"
+        ], 
+        "video": [
+          "http://medialab-prado.es/mmedia/10/10851/10851.flv"
+        ], 
+        "year": [
+          2013
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://pycessing.org"
+        ], 
+        "city": [
+          "Madrid"
+        ], 
+        "title": [
+          "PyCessing"
+        ], 
+        "presenter": [
+          "Brendan Howell"
+        ], 
+        "video": [
+          "http://medialab-prado.es/mmedia/10/10846/10846.flv"
+        ], 
+        "year": [
+          2013
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://kune.ourproject.org"
+        ], 
+        "city": [
+          "Madrid"
+        ], 
+        "title": [
+          "Kune Collaborative Software"
+        ], 
+        "presenter": [
+          "Samer Hassan", 
+          "Vicente Ruiz Jurado"
+        ], 
+        "video": [
+          "http://medialab-prado.es/mmedia/10/10821/10821.flv"
+        ], 
+        "year": [
+          2013
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://tomlechner.com"
+        ], 
+        "city": [
+          "Madrid"
+        ], 
+        "title": [
+          "Shareable Tools"
+        ], 
+        "presenter": [
+          "Tom Lechner"
+        ], 
+        "video": [
+          "http://medialab-prado.es/mmedia/10/10826/10826.flv"
+        ], 
+        "year": [
+          2013
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Claudia Krummenacher"
+        ], 
+        "title": [
+          "Printed Books versus eBooks; What we will use DTP for in the future."
+        ], 
+        "video": [
+          "http://medialab-prado.es/mmedia/10/10831/10831.flv"
+        ], 
+        "city": [
+          "Madrid"
+        ], 
+        "year": [
+          2013
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://libregraphicsmag.com"
+        ], 
+        "city": [
+          "Madrid"
+        ], 
+        "title": [
+          "Making pages turn: The physical side of F/LOSS design"
+        ], 
+        "presenter": [
+          "Ana Isabel Carvalho", 
+          "ginger coons", 
+          "Ricardo Lafuente"
+        ], 
+        "video": [
+          "http://medialab-prado.es/mmedia/10/10836/10836.flv"
+        ], 
+        "year": [
+          2013
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://tavmjong.free.fr"
+        ], 
+        "city": [
+          "Madrid"
+        ], 
+        "title": [
+          "The future of SVG and Web standards."
+        ], 
+        "presenter": [
+          "Tavmjong Bah"
+        ], 
+        "video": [
+          "http://medialab-prado.es/mmedia/10/10841/10841.flv"
+        ], 
+        "year": [
+          2013
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://fontforge.github.com"
+        ], 
+        "city": [
+          "Madrid"
+        ], 
+        "title": [
+          "Fonts of DOOM: Real Time Collaboration in FontForge"
+        ], 
+        "presenter": [
+          "Ben Martin", 
+          "Dave Crossland"
+        ], 
+        "video": [
+          "http://medialab-prado.es/mmedia/10/10866/10866.flv"
+        ], 
+        "year": [
+          2013
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://www.madrimasd.org/blogs/futurosdellibro"
+        ], 
+        "city": [
+          "Madrid"
+        ], 
+        "title": [
+          "Digital Potlatch"
+        ], 
+        "presenter": [
+          "Joaquin Rodriguez"
+        ], 
+        "video": [
+          "http://medialab-prado.es/mmedia/10/10694/10694.flv"
+        ], 
+        "year": [
+          2013
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Jos\u00e9 Mar\u00eda Blanco", 
+          "Mar\u00eda Sol\u00e9 Bravo", 
+          "Anna Carreras"
+        ], 
+        "title": [
+          "Free Freedom of Speech Kit (F2SK)"
+        ], 
+        "video": [
+          "http://medialab-prado.es/mmedia/10/10926/10926.flv"
+        ], 
+        "city": [
+          "Madrid"
+        ], 
+        "year": [
+          2013
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://w.xuv.be/projects/design_with_git"
+        ], 
+        "city": [
+          "Madrid"
+        ], 
+        "title": [
+          "Design with Git"
+        ], 
+        "presenter": [
+          "Julien Deswaef"
+        ], 
+        "video": [
+          "http://medialab-prado.es/mmedia/10/10931/10931.flv"
+        ], 
+        "year": [
+          2013
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://www.robocicla.net/"
+        ], 
+        "city": [
+          "Madrid"
+        ], 
+        "title": [
+          "Colaboratorio de Relatos"
+        ], 
+        "presenter": [
+          "Carla Bosermann"
+        ], 
+        "video": [
+          "http://medialab-prado.es/mmedia/10/10936/10936.flv"
+        ], 
+        "year": [
+          2013
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Ben Martin"
+        ], 
+        "title": [
+          "ZeroMQ and Real Time Collaborative Font Design"
+        ], 
+        "video": [
+          "http://medialab-prado.es/mmedia/11/11376/11376.flv"
+        ], 
+        "city": [
+          "Madrid"
+        ], 
+        "year": [
+          2013
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://eleanorg.org/"
+        ], 
+        "city": [
+          "Madrid"
+        ], 
+        "title": [
+          "Yes, No? Maybe"
+        ], 
+        "presenter": [
+          "Eleanor Greenhalgh"
+        ], 
+        "video": [
+          "http://medialab-prado.es/mmedia/11/11023/11023.flv"
+        ], 
+        "year": [
+          2013
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Miguel Arana Catania", 
+          "Carlos Barrag\u00e1n"
+        ], 
+        "title": [
+          "Incoma. Exploiting the \"collective\" of the collective intelligence"
+        ], 
+        "video": [
+          "http://medialab-prado.es/mmedia/10/10978/10978.flv"
+        ], 
+        "city": [
+          "Madrid"
+        ], 
+        "year": [
+          2013
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://www.makeatuvida.net/?page_id=11"
+        ], 
+        "presenter": [
+          "Makeatuvida"
+        ], 
+        "title": [
+          "El Recetario"
+        ], 
+        "city": [
+          "Madrid"
+        ], 
+        "year": [
+          2013
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Enrique C\u00e9sar"
+        ], 
+        "title": [
+          "Prometeo: Libre copia"
+        ], 
+        "video": [
+          "http://medialab-prado.es/mmedia/10/10983/10983.flv"
+        ], 
+        "city": [
+          "Madrid"
+        ], 
+        "year": [
+          2013
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://www.taumeta.org"
+        ], 
+        "city": [
+          "Madrid"
+        ], 
+        "title": [
+          "Tau Meta Tau Physica"
+        ], 
+        "presenter": [
+          "Susan Spencer"
+        ], 
+        "video": [
+          "http://medialab-prado.es/mmedia/10/10973/10973.flv"
+        ], 
+        "year": [
+          2013
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://krita.org"
+        ], 
+        "city": [
+          "Madrid"
+        ], 
+        "title": [
+          "Introducing the Krita Foundation"
+        ], 
+        "presenter": [
+          "Boudewijn Rempt"
+        ], 
+        "video": [
+          "http://medialab-prado.es/mmedia/11/11018/11018.flv"
+        ], 
+        "year": [
+          2013
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://www.timotheegiet.com"
+        ], 
+        "city": [
+          "Madrid"
+        ], 
+        "title": [
+          "The \"Krita Sketch\" project"
+        ], 
+        "presenter": [
+          "Timoth\u00e9e Giet"
+        ], 
+        "video": [
+          "http://medialab-prado.es/mmedia/10/10998/10998.flv"
+        ], 
+        "year": [
+          2013
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://www.hughsie.com"
+        ], 
+        "city": [
+          "Madrid"
+        ], 
+        "title": [
+          "The Inconvenient Truth About Display Calibration"
+        ], 
+        "presenter": [
+          "Richard Hughes"
+        ], 
+        "video": [
+          "http://medialab-prado.es/mmedia/11/11003/11003.flv"
+        ], 
+        "year": [
+          2013
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://roussos.cc"
+        ], 
+        "city": [
+          "Madrid"
+        ], 
+        "title": [
+          "Make Popcorn"
+        ], 
+        "presenter": [
+          "Nikos Roussos"
+        ], 
+        "video": [
+          "http://medialab-prado.es/mmedia/10/10988/10988.flv"
+        ], 
+        "year": [
+          2013
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://gmic.sourceforge.net"
+        ], 
+        "city": [
+          "Madrid"
+        ], 
+        "title": [
+          "G'MIC : A full-featured framework for image processing with various interfaces"
+        ], 
+        "presenter": [
+          "David Tschumperl\u00e9"
+        ], 
+        "video": [
+          "http://medialab-prado.es/mmedia/10/10993/10993.flv"
+        ], 
+        "year": [
+          2013
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://bitergia.com"
+        ], 
+        "city": [
+          "Madrid"
+        ], 
+        "title": [
+          "vizGrimoireJS: A framework for Metrics Visualization in Javascript"
+        ], 
+        "presenter": [
+          "Alvaro del Castillo San Felix"
+        ], 
+        "video": [
+          "http://medialab-prado.es/mmedia/11/11013/11013.flv"
+        ], 
+        "year": [
+          2013
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "GIMP team"
+        ], 
+        "title": [
+          "Save your work, export results^W^W^W^W^W^WQ+A with GIMPers"
+        ], 
+        "video": [
+          "http://medialab-prado.es/mmedia/11/11028/11028.flv"
+        ], 
+        "city": [
+          "Madrid"
+        ], 
+        "year": [
+          2013
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://kelty.org/"
+        ], 
+        "city": [
+          "Madrid"
+        ], 
+        "title": [
+          "The Internet and its Parasites: Freedom and Participation"
+        ], 
+        "presenter": [
+          "Chris Kelty"
+        ], 
+        "video": [
+          "http://medialab-prado.es/mmedia/10/10727/10727.flv"
+        ], 
+        "year": [
+          2013
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Vernon Adams"
+        ], 
+        "title": [
+          "Free-ness as an aspect of type design."
+        ], 
+        "video": [
+          "http://medialab-prado.es/mmedia/10/10895/10895.flv"
+        ], 
+        "city": [
+          "Madrid"
+        ], 
+        "year": [
+          2013
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://glyphography.com/fonts"
+        ], 
+        "city": [
+          "Madrid"
+        ], 
+        "title": [
+          "How we wrote a FontForge user manual in three days"
+        ], 
+        "presenter": [
+          "Nathan Willis", 
+          "Vernon Adams"
+        ], 
+        "video": [
+          "http://medialab-prado.es/mmedia/10/10900/10900.flv"
+        ], 
+        "year": [
+          2013
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://greyscalepress.com"
+        ], 
+        "city": [
+          "Madrid"
+        ], 
+        "title": [
+          "Designing a Libre Font Specimen Book"
+        ], 
+        "presenter": [
+          "Manuel Schmalstieg"
+        ], 
+        "video": [
+          "http://medialab-prado.es/mmedia/10/10906/10906.flv"
+        ], 
+        "year": [
+          2013
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://110design.ru"
+        ], 
+        "city": [
+          "Madrid"
+        ], 
+        "title": [
+          "It takes a team to make a font"
+        ], 
+        "presenter": [
+          "Alexei Vanyashin"
+        ], 
+        "video": [
+          "http://medialab-prado.es/mmedia/10/10911/10911.flv"
+        ], 
+        "year": [
+          2013
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://github.com/raphaelbastide"
+        ], 
+        "city": [
+          "Madrid"
+        ], 
+        "title": [
+          "Unified Typeface Design"
+        ], 
+        "presenter": [
+          "Rapha\u00ebl Bastide"
+        ], 
+        "video": [
+          "http://medialab-prado.es/mmedia/10/10916/10916.flv"
+        ], 
+        "year": [
+          2013
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Werner Lemberg"
+        ], 
+        "title": [
+          "The development of ttfautohint, a TrueType auto-hinter"
+        ], 
+        "video": [
+          "http://medialab-prado.es/mmedia/10/10921/10921.flv"
+        ], 
+        "city": [
+          "Madrid"
+        ], 
+        "year": [
+          2013
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Miroslav Mazel"
+        ], 
+        "title": [
+          "Design and LibreOffice"
+        ], 
+        "video": [
+          "http://medialab-prado.es/mmedia/11/11392/11392.flv"
+        ], 
+        "city": [
+          "Madrid"
+        ], 
+        "year": [
+          2013
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://apertus.org"
+        ], 
+        "city": [
+          "Madrid"
+        ], 
+        "title": [
+          "Libre Cinema! Apertus Axiom: the open digital cinema camera"
+        ], 
+        "presenter": [
+          "Jehan Pag\u00e8s"
+        ], 
+        "video": [
+          "http://medialab-prado.es/mmedia/10/10941/10941.flv"
+        ], 
+        "year": [
+          2013
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://karl-tux-stadt.de/ktuxs/"
+        ], 
+        "city": [
+          "Madrid"
+        ], 
+        "title": [
+          "Make The Movies Free"
+        ], 
+        "presenter": [
+          "Sirko Kemter"
+        ], 
+        "video": [
+          "http://medialab-prado.es/mmedia/11/11106/11106.flv"
+        ], 
+        "year": [
+          2013
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://ninapaley.com"
+        ], 
+        "city": [
+          "Madrid"
+        ], 
+        "title": [
+          "It's 2013. Do You Know Where My Free Vector Animation Software Is?"
+        ], 
+        "presenter": [
+          "Nina Paley"
+        ], 
+        "video": [
+          "http://medialab-prado.es/mmedia/10/10951/10951.flv"
+        ], 
+        "year": [
+          2013
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://ospwork.constantvzw.org/work/"
+        ], 
+        "city": [
+          "Madrid"
+        ], 
+        "title": [
+          "Along school fences."
+        ], 
+        "presenter": [
+          "Pierre Huyghebaert", 
+          "Alexandre Leray", 
+          "Ludivine Loiseau", 
+          "Pierre Marchand", 
+          "Eric Schrijver", 
+          "St\u00e9phanie Vilayphiou"
+        ], 
+        "video": [
+          "http://medialab-prado.es/mmedia/10/10956/10956.flv"
+        ], 
+        "year": [
+          2013
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://wdka.nl"
+        ], 
+        "city": [
+          "Madrid"
+        ], 
+        "title": [
+          "Willem de Kooning Academie strikes back: open source approach in art and design BA education"
+        ], 
+        "presenter": [
+          "Aymeric Mansoux", 
+          "Aldje van Meer", 
+          "Deanna Herst"
+        ], 
+        "video": [
+          "http://medialab-prado.es/mmedia/10/10962/10962.flv"
+        ], 
+        "year": [
+          2013
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://iamnotarchitect.wordpress.com/2013/01/09/furniture/"
+        ], 
+        "city": [
+          "Madrid"
+        ], 
+        "title": [
+          "smart furnitures' database"
+        ], 
+        "presenter": [
+          "ver\u00f3nica velaz garc\u00eda"
+        ], 
+        "video": [
+          "http://medialab-prado.es/mmedia/11/11397/11397.flv"
+        ], 
+        "year": [
+          2013
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://xuv.be"
+        ], 
+        "city": [
+          "Madrid"
+        ], 
+        "title": [
+          "uHbench: open source hardware public bench"
+        ], 
+        "presenter": [
+          "Julien Deswaef"
+        ], 
+        "video": [
+          "http://medialab-prado.es/mmedia/11/11066/11066.flv"
+        ], 
+        "year": [
+          2013
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://www.hotglue.org"
+        ], 
+        "city": [
+          "Madrid"
+        ], 
+        "title": [
+          "Hotglue, Superglue"
+        ], 
+        "presenter": [
+          "Daniil Vasiliev"
+        ], 
+        "video": [
+          "http://medialab-prado.es/mmedia/11/11066/11066.flv"
+        ], 
+        "year": [
+          2013
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://www.numediart.org/projects/project-18-2-eye-nimation/"
+        ], 
+        "city": [
+          "Madrid"
+        ], 
+        "title": [
+          "EYE-NIMATION: Interfacing of animation software for didactic purposes"
+        ], 
+        "presenter": [
+          "Thierry Ravet"
+        ], 
+        "video": [
+          "http://medialab-prado.es/mmedia/11/11046/11046.flv"
+        ], 
+        "year": [
+          2013
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Ale Rimoldi"
+        ], 
+        "title": [
+          "Ceci n'est pas une pipe"
+        ], 
+        "video": [
+          "http://medialab-prado.es/mmedia/11/11051/11051.flv"
+        ], 
+        "city": [
+          "Madrid"
+        ], 
+        "year": [
+          2013
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://laidout.org"
+        ], 
+        "city": [
+          "Madrid"
+        ], 
+        "title": [
+          "New Laidout Tools"
+        ], 
+        "presenter": [
+          "Tom Lechner"
+        ], 
+        "video": [
+          "http://medialab-prado.es/mmedia/11/11112/11112.flv"
+        ], 
+        "year": [
+          2013
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://jenniferdopazo.com/nm/portfolio/flossify-digitalfoundations/"
+        ], 
+        "city": [
+          "Madrid"
+        ], 
+        "title": [
+          "Digital Foundations"
+        ], 
+        "presenter": [
+          "Jennifer Dopazo"
+        ], 
+        "video": [
+          "http://medialab-prado.es/mmedia/11/11056/11056.flv"
+        ], 
+        "year": [
+          2013
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://mondonerd.com"
+        ], 
+        "city": [
+          "Madrid"
+        ], 
+        "title": [
+          "ARsenico: Libre Augmented Reality Platform"
+        ], 
+        "presenter": [
+          "Massimo Maria Avvisati"
+        ], 
+        "video": [
+          "http://medialab-prado.es/mmedia/11/11061/11061.flv"
+        ], 
+        "year": [
+          2013
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://maefloresta.com"
+        ], 
+        "city": [
+          "Madrid"
+        ], 
+        "title": [
+          "Tupi: Open 2D Magic (to rule them all!)"
+        ], 
+        "presenter": [
+          "Gustav Gonzalez"
+        ], 
+        "video": [
+          "http://medialab-prado.es/mmedia/11/11071/11071.flv"
+        ], 
+        "year": [
+          2013
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://research.dataflower.org"
+        ], 
+        "city": [
+          "Madrid"
+        ], 
+        "title": [
+          "dataflower - harnessing heterogeneous parallelism for creative applications"
+        ], 
+        "presenter": [
+          "Pedro \u00c2ngelo"
+        ], 
+        "video": [
+          "http://medialab-prado.es/mmedia/11/11076/11076.flv"
+        ], 
+        "year": [
+          2013
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://www.numediart.org"
+        ], 
+        "city": [
+          "Madrid"
+        ], 
+        "title": [
+          "Melon - a kinect based controller"
+        ], 
+        "presenter": [
+          "Fran\u00e7ois Zaj\u00e9ga"
+        ], 
+        "video": [
+          "http://medialab-prado.es/mmedia/11/11091/11091.flv"
+        ], 
+        "year": [
+          2013
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://okfn.org"
+        ], 
+        "city": [
+          "Madrid"
+        ], 
+        "title": [
+          "Open Design"
+        ], 
+        "presenter": [
+          "Kat Braybrooke", 
+          "Primavera De Fillipi"
+        ], 
+        "video": [
+          "http://medialab-prado.es/mmedia/11/11096/11096.flv"
+        ], 
+        "year": [
+          2013
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://gimpmagazine.org"
+        ], 
+        "city": [
+          "Madrid"
+        ], 
+        "title": [
+          "GIMP Magazine"
+        ], 
+        "presenter": [
+          "Steve Czajka"
+        ], 
+        "video": [
+          "http://medialab-prado.es/mmedia/10/10761/10761.flv"
+        ], 
+        "year": [
+          2013
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Stella Carrera"
+        ], 
+        "title": [
+          "Use of Open Source Software in Secundary Education"
+        ], 
+        "video": [
+          "http://medialab-prado.es/mmedia/10/10816/10816.flv"
+        ], 
+        "city": [
+          "Madrid"
+        ], 
+        "year": [
+          2013
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://www.proyectoinfancia.com"
+        ], 
+        "city": [
+          "Madrid"
+        ], 
+        "title": [
+          "Proyecto Infancia Digital Poor Camera"
+        ], 
+        "presenter": [
+          "Jos\u00e9 Mogrol", 
+          "Andr\u00e9s Vargas LLano", 
+          "Rebeca Rodriguez"
+        ], 
+        "video": [
+          "http://medialab-prado.es/mmedia/10/10786/10786.flv"
+        ], 
+        "year": [
+          2013
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Fridrich Strba", 
+          "Valentin Filippov"
+        ], 
+        "title": [
+          "Give me my drawing back! - Dragging your proprietary files to free-sofware world"
+        ], 
+        "video": [
+          "http://medialab-prado.es/mmedia/10/10771/10771.flv"
+        ], 
+        "city": [
+          "Madrid"
+        ], 
+        "year": [
+          2013
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://joaclintistgud.wordpress.com/"
+        ], 
+        "city": [
+          "Madrid"
+        ], 
+        "title": [
+          "Presentation of the eBook Blender: 3D for Educati\u00f3n"
+        ], 
+        "presenter": [
+          "Joaqu\u00edn Herrera"
+        ], 
+        "video": [
+          "http://medialab-prado.es/mmedia/10/10766/10766.flv"
+        ], 
+        "year": [
+          2013
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://tavmjong.free.fr"
+        ], 
+        "city": [
+          "Madrid"
+        ], 
+        "title": [
+          "Inkscape Update"
+        ], 
+        "presenter": [
+          "Tavmjong Bah"
+        ], 
+        "video": [
+          "http://medialab-prado.es/mmedia/10/10791/10791.flv"
+        ], 
+        "year": [
+          2013
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://graficantsdetrisseny.net/"
+        ], 
+        "city": [
+          "Madrid"
+        ], 
+        "title": [
+          "Imago Sonification "
+        ], 
+        "presenter": [
+          "Xavi Manzanares"
+        ], 
+        "video": [
+          "http://medialab-prado.es/mmedia/10/10796/10796.flv"
+        ], 
+        "year": [
+          2013
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://jimmac.musichall.cz"
+        ], 
+        "city": [
+          "Madrid"
+        ], 
+        "title": [
+          "Localized Animation with Blender"
+        ], 
+        "presenter": [
+          "Jakub Steiner"
+        ], 
+        "video": [
+          "http://medialab-prado.es/mmedia/10/10801/10801.flv"
+        ], 
+        "year": [
+          2013
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://www.jonnor.com"
+        ], 
+        "city": [
+          "Madrid"
+        ], 
+        "title": [
+          "libmypaint: MyPaint brushes in every application"
+        ], 
+        "presenter": [
+          "Jon Nordby"
+        ], 
+        "video": [
+          "http://medialab-prado.es/mmedia/10/10806/10806.flv"
+        ], 
+        "year": [
+          2013
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://manufacturaindependente.org"
+        ], 
+        "city": [
+          "Madrid"
+        ], 
+        "title": [
+          "Libre type design: breaking tradition and going new ways"
+        ], 
+        "presenter": [
+          "Ana Isabel Carvalho", 
+          "Ricardo Lafuente"
+        ], 
+        "video": [
+          "http://medialab-prado.es/mmedia/10/10811/10811.flv"
+        ], 
+        "year": [
+          2013
+        ]
+      }
+    }
+  ]
+}

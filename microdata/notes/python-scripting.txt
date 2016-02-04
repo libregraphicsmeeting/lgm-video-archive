@@ -1,0 +1,28 @@
+Steps accomplished:
+
+downloaded this: 
+https://github.com/hay/xml2json
+
+command line:
+
+- cd to the xml2json-master folder
+- run: sudo python setup.py install
+
+xml2json -t json2xml -o file.xml file.json
+
+xml2json.py -t json2xml -o program_2007.xml program_2007.json
+
+
+***
+
+Could also convert to XML with Perl:
+
+http://stackoverflow.com/questions/28443160/xml-to-json-conversion-using-perl
+
+http://search.cpan.org/~ken/XML-XML2JSON-0.06/lib/XML/XML2JSON.pm
+
+***
+
+Online utility:
+http://www.utilities-online.info/xmltojson/
+

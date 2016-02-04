@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!-- generator="WordPress/4.4" created="2015-12-30 22:34" -->
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>LGM Video Archive 2008</title>
+	<link>http://libregraphicsmeeting.org/video</link>
+	<description>Libre Graphics Meeting Video Archive</description>
+	<pubDate>Wed, 30 Dec 2015 22:34:47 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>http://libregraphicsmeeting.org/video</wp:base_site_url>
+	<wp:base_blog_url>http://libregraphicsmeeting.org/video</wp:base_blog_url>
+
+	<generator>https://wordpress.org/?v=4.4</generator>
+
+
+
+<wp:term><wp:term_taxonomy><![CDATA[speaker]]></wp:term_taxonomy><wp:term_slug><![CDATA[Matt Lee]]></wp:term_slug><wp:term_name><![CDATA[Matt Lee]]></wp:term_name><wp:term_description><![CDATA[<p>Matt Lee is the technical lead at Creative Commons. He previously ran campaigns at the Free Software Foundation. </p>
+<p>He is the founder of Libre.fm and the GNU social network, and is currently directing the feature comedy movie, Orang-U. The movie will be released under CC-BY-SA along with all of the source materials for the movie.</p>
+<div class="speaker-website">http://creativecommons.org/</div>]]></wp:term_description></wp:term>
+
+<wp:term><wp:term_taxonomy><![CDATA[speaker]]></wp:term_taxonomy><wp:term_slug><![CDATA[Jon Nordby]]></wp:term_slug><wp:term_name><![CDATA[Jon Nordby]]></wp:term_name><wp:term_description><![CDATA[<p>Jon is a software engineer at The Grid, responsible for the image processing capabilities of their AI web publishing tool. Since 2010 he has worked on several libre graphics projects, including MyPaint, OpenRaster and GEGL. In his spare time, Jon currently researches digital fabrication technologies at the Bitraf hackerspace in Oslo.</p>
+<div class="speaker-website">http://imgflo.org</div>]]></wp:term_description></wp:term>
+
+
+<wp:term><wp:term_taxonomy><![CDATA[speaker]]></wp:term_taxonomy><wp:term_slug><![CDATA[Pathum Egodawatta]]></wp:term_slug><wp:term_name><![CDATA[Pathum Egodawatta]]></wp:term_name><wp:term_description><![CDATA[<p>Pathum Egodawatta is a Graphic Designer based in Colombo, Sri Lanka, who graduated from the Academy of Design, Colombo with a 1st Class BA Graphic Design degree in 2013, topping the batch. He currently works with a bunch of like minded designers at mooniak, a collaborative creative practice focused on visual design, type design and design centric social enterprises. Mooniak appreciates free culture and sharing and releases almost all its work under free culture licenses.</p>
+<div class="speaker-website">mooniak.com</div>]]></wp:term_description></wp:term>
+
+<wp:term><wp:term_taxonomy><![CDATA[speaker]]></wp:term_taxonomy><wp:term_slug><![CDATA[Myriam Cea]]></wp:term_slug><wp:term_name><![CDATA[Myriam Cea]]></wp:term_name><wp:term_description><![CDATA[<p>Myriam Cea (Madrid, Spain, 1975). I've always been interested in Arts and creativity; it's for that that I studied Sculpture (Escuela de Artes y Oficios La Palma, Madrid. 1997-2000), Engraving (Escola superior de disseny i art Llotja. Barcelona. 1995-2000), and finally Graphic Design (Escuela Superior de Diseño, Madrid. 2009-2013).<br />
+Among other professional activities related to design and its promotion, I'd been in charge of the Libre Graphics WorkStation in Medialab-Prado Madrid the last two years. At the same time I concived the idea of forming a working group on open source tools and practices. Today this group has become in an Association for Open Design and a graphic design studio, the first one that works exclusively whit libre tools in Madrid. We called it Gráfica Liebre, curretly leaded by Beatriz F. Estévez and myself.</p>
+<div class="speaker-website">www.graficaliebre.com</div>]]></wp:term_description></wp:term>
+
+<wp:term><wp:term_taxonomy><![CDATA[speaker]]></wp:term_taxonomy><wp:term_slug><![CDATA[Antonio Roberts]]></wp:term_slug><wp:term_name><![CDATA[Antonio Roberts]]></wp:term_name><wp:term_description><![CDATA[<p>Antonio Roberts is a new-media artist and curator based in Birmingham, UK. Since 2007 he has curated exhibitions and projects including fizzPOP (2009 - 2010), GLI.TC/H Birmingham (2011), the Birmingham editions of Bring Your Own Beamer (2012, 2013) and Dirty New Media (2013).</p>
+<p>As a performer and visual artist his work has been featured at galleries and festivals including Databit.me in Arles, France, Laptops Meet Musicians Festival in Venice, Italy, f(Glitch) at Stony Brook University, NY, glitChicago at the Ukrainian Institute of Modern art in Chicago, IL, Loud Tate: Code at Tate Britain, UK, and the Barber Institute of Fine Arts in Birmingham, UK.</p>
+<p>He is artist in residence at the University of Birmingham where he is conducting research into copyright and the reuse and remixing of archive material.</p>
+<div class="speaker-website">http://www.hellocatfood.com</div>]]></wp:term_description></wp:term>
+
+<wp:term><wp:term_taxonomy><![CDATA[speaker]]></wp:term_taxonomy><wp:term_slug><![CDATA[Amelia Bellamy-Royds]]></wp:term_slug><wp:term_name><![CDATA[Amelia Bellamy-Royds]]></wp:term_name><wp:term_description><![CDATA[<p>Amelia Bellamy-Royds is an invited expert member of the W3C's SVG Working Group, active in the SVG Accessibility Task Force.  She is the co-author of SVG Essentials, 2nd Edition (with J. David Eisenberg) and the forthcoming Using SVG with CSS3 and HTML5 (with Kurt Cagle).</p>
+<p>More broadly, Amelia is a freelance writer specializing in scientific and technical communication, with a particular interest in data visualization.  She has a B.Sc. in Bioinformatics, a Master's in Journalism, and an unending desire to discover new things.  Online, you can find her as AmeliaBR on Codepen, Stack Exchange, Github, or Web Platform Docs.  Offline, she lives in Edmonton, Alberta, Canada.</p>
+]]></wp:term_description></wp:term>
+
+<wp:term><wp:term_taxonomy><![CDATA[speaker]]></wp:term_taxonomy><wp:term_slug><![CDATA[Carl Chouinard]]></wp:term_slug><wp:term_name><![CDATA[Carl Chouinard]]></wp:term_name><wp:term_description><![CDATA[<p>Software engineer for more than 10 years, I'm involved with TheGrid creating the first artificial intelligence capable of creating and designing websites. I'm actively contributing to the GSS open source project which is used for layout designs of TheGrid' websites.</p>
+<div class="speaker-website">http://gridstylesheets.org/</div>]]></wp:term_description></wp:term>
+
+<wp:term><wp:term_taxonomy><![CDATA[speaker]]></wp:term_taxonomy><wp:term_slug><![CDATA[Eric Schrijver]]></wp:term_slug><wp:term_name><![CDATA[Eric Schrijver]]></wp:term_name><wp:term_description><![CDATA[<p>OSP makes graphic design using only free and open source software. A caravan of practitioners from diverse fields, they design, program, research and teach. Working for print and web and its hybrids, OSP creates visual identities and digital utilities, always digging for a more intimate relation with the tool.  </p>
+<p>Eric Schrijver designs and develops with OSP. He also teaches at the Royal Academy of Art in The Hague and is the editor in chief of the group blog ‘I like tight pants and mathematics’</p>
+<div class="speaker-website">http://osp.kitchen/ http://i.liketightpants.net/and/</div>]]></wp:term_description></wp:term>
+
+<wp:term><wp:term_taxonomy><![CDATA[speaker]]></wp:term_taxonomy><wp:term_slug><![CDATA[Chris Murphy]]></wp:term_slug><wp:term_name><![CDATA[Chris Murphy]]></wp:term_name><wp:term_description><![CDATA[<p>Chris Murphy is president of Color Remedies™ based in Denver. He specializes in worldwide training and consulting in emerging color technologies and has extensive experience in implementing color management workflows. He has been an instructor at the School of Visual Arts in the City of New York, and is co-author of “Real World Color Management” published by Peachpit Press. Some say he has extra-sensory vision, but he continues to assure everyone that he does not.</p>
+]]></wp:term_description></wp:term>
+
+
+<wp:term><wp:term_taxonomy><![CDATA[speaker]]></wp:term_taxonomy><wp:term_slug><![CDATA[Jan-Christoph Borchardt]]></wp:term_slug><wp:term_name><![CDATA[Jan-Christoph Borchardt]]></wp:term_name><wp:term_description><![CDATA[<p>Jan-Christoph Borchardt is an open source designer, currently focused on ownCloud. He worked with several open source software projects including Unhosted, Terms of Service; Didn’t Read, Litewrite, Shotwell (Ubuntu's photo app), Diaspora and more. Jan regularly collaborates with design universities to get students involved in open source, and tries to connect the open source design community.</p>
+<div class="speaker-website">http://jancborchardt.net</div>]]></wp:term_description></wp:term>
+
+<wp:term><wp:term_taxonomy><![CDATA[speaker]]></wp:term_taxonomy><wp:term_slug><![CDATA[Alexandre Gauthier-Foichat]]></wp:term_slug><wp:term_name><![CDATA[Alexandre Gauthier-Foichat]]></wp:term_name><wp:term_description><![CDATA[<p>Alexandre Gauthier-Foichat is lead developer of the Natron project. He began thinking the architecture of the software in june 2012 while finishing up his studies at the university. Shortly after, joined by scientist Frédéric Devernay, the team ambitioned to bring to the compositing industry the open-source mind so that is practise may be more wide-spread.</p>
+<div class="speaker-website">http://natron.inria.fr</div>]]></wp:term_description></wp:term>
+
+<wp:term><wp:term_taxonomy><![CDATA[speaker]]></wp:term_taxonomy><wp:term_slug><![CDATA[Stéphanie Vilayphiou]]></wp:term_slug><wp:term_name><![CDATA[Stéphanie Vilayphiou]]></wp:term_name><wp:term_description><![CDATA[<p>Stéphanie Vilayphiou is a young artist and designer investigating how software (transparently developed) can deeply question the fixity of the printed page and the whole defensive copyright practices historically consolidated. (From: http://espacevirtuel.jeudepaume.org/la-carte-ou-le-territoire-1834/)</p>
+<div class="speaker-website">http://osp.kitchen</div>]]></wp:term_description></wp:term>
+
+<wp:term><wp:term_taxonomy><![CDATA[speaker]]></wp:term_taxonomy><wp:term_slug><![CDATA[Shankari Priyadarshini Ravichandran]]></wp:term_slug><wp:term_name><![CDATA[Shankari Priyadarshini Ravichandran]]></wp:term_name><wp:term_description><![CDATA[<p>Pria is interested in the problem solving aspect of design. Being a native of Chennai, India, the typographic standards of Tamil led her to pursue an MA in Typeface Design at the University of Reading. She consults for URW++, Monotype &amp; Google. Libre fonts are a natural extension of her interests in Indic Type-Design, as it is an effective platform that aids the transition of scripts into the digital future.</p>
+]]></wp:term_description></wp:term>
+
+
+
+<wp:term><wp:term_taxonomy><![CDATA[speaker]]></wp:term_taxonomy><wp:term_slug><![CDATA[Christina Kral]]></wp:term_slug><wp:term_name><![CDATA[Christina Kral]]></wp:term_name><wp:term_description><![CDATA[<p>Christina Kral:  As part of a transdisciplinary research team, Kral explores the future of publishing in relation to open educational technologies. In particular, Kral researches forms of communication and engagement, learning habits and routines and develops transitional platforms and encounters that push publishing beyond normal conventions. In her capacity as an artist, she explores practical utopias in form of experimental facilitation and publishing projects. She is co-creator of an educational reality game (YKON Game). She is co-founder of Betta Zine, an artistic research publication project that draws from first hand experiences with the goal to open multiple perspectives/entry points to seemingly contradictory combinations such as shopping &amp; war, education &amp; war. She has been awarded artist residencies &amp; stipends at Eyebeam, Art and Technology Center in New York, the EdLab Digital Arts Residency at Columbia University, New York, the Interdisciplinary Residency in Art and Ecology in Guapamacátaro, Mexico and at SPACE in London, UK.</p>
+<p>Simon Worthington: works on open source software infrastructures for independent publishing—realtime, transcluded, transmedia, scaleable and cloud-based. In 1994 he co-founded Mute magazine. In 2012 he founded the Hybrid Publishing Consortium as a technology research organisation to support publisher innovation and book liberation. simon@metamute.org</p>
+<div class="speaker-website">http://www.consortium.io/mcluhan-media-sprint-recap-outlook</div>]]></wp:term_description></wp:term>
+
+<wp:term><wp:term_taxonomy><![CDATA[speaker]]></wp:term_taxonomy><wp:term_slug><![CDATA[Hong Phuc Dang]]></wp:term_slug><wp:term_name><![CDATA[Hong Phuc Dang]]></wp:term_name><wp:term_description><![CDATA[<p>Hong Phuc Dang is mainly known as the founder and organizer of FOSSASIA. She has lived several years in the US and Singapore after her childhood in Vietnam. Apart from the fascination in mathematics and technology she is interested in how technology can improve peoples live. As a member of the FashionTec working group she works on topics of mathematical grading of garment patterns. She also coordinates the Google Summer of Code program of FOSSASIA.</p>
+<div class="speaker-website">http://blog.fossasia.org</div>]]></wp:term_description></wp:term>
+
+
+<wp:term><wp:term_taxonomy><![CDATA[speaker]]></wp:term_taxonomy><wp:term_slug><![CDATA[Loraine Furter]]></wp:term_slug><wp:term_name><![CDATA[Loraine Furter]]></wp:term_name><wp:term_description><![CDATA[<p>Loraine Furter is a graphic designer who recently met the Open Source approach, enriching her (graphical) practice and vision of creation. Loraine is active in the research around new forms of publishing, from digital and hybrid publishing to book sprints, and frequently gives workshops on this subject.</p>
+<div class="speaker-website">http://specimen.meteor.com/</div>]]></wp:term_description></wp:term>
+
+<wp:term><wp:term_taxonomy><![CDATA[speaker]]></wp:term_taxonomy><wp:term_slug><![CDATA[Colm O'Neill]]></wp:term_slug><wp:term_name><![CDATA[Colm O'Neill]]></wp:term_name><wp:term_description><![CDATA[<p>OSP makes graphic design using only free and open source software. A caravan of practitioners from diverse fields, they design, program, research and teach. Working for print and web and its hybrids, OSP creates visual identities and digital utilities, always digging for a more intimate relation with the tool.</p>
+<div class="speaker-website">osp.kitchen</div>]]></wp:term_description></wp:term>
+
+<wp:term><wp:term_taxonomy><![CDATA[speaker]]></wp:term_taxonomy><wp:term_slug><![CDATA[Nathan Willis]]></wp:term_slug><wp:term_name><![CDATA[Nathan Willis]]></wp:term_name><wp:term_description><![CDATA[<p>Nathan Willis is a free-software journalist and open font designer.</p>
+<div class="speaker-website">glyphography.com</div>]]></wp:term_description></wp:term>
+
+
+<wp:term><wp:term_taxonomy><![CDATA[speaker]]></wp:term_taxonomy><wp:term_slug><![CDATA[ben sainsbury]]></wp:term_slug><wp:term_name><![CDATA[ben sainsbury]]></wp:term_name><wp:term_description><![CDATA[<p>Ben Sainsbury was born in Toronto, Ontario, Canada, and spent eight years in Mayaguez, Puerto Rico after a family move. After high school, he lived in California and Arizona for 16 years, and studied acting. He got his bachelors degree in film making at Prescott College in 1996. In 2005, he received a Masters in Professional Writing at the University of Southern California.</p>
+<p>Sainsbury holds dual Canadian-U.S. citizenship, and did a three-year enlistment term in the U.S. Army in a Psychological Operations unit.</p>
+<p>His animated film Private Snuffy was inspired by the torture and prisoner abuse committed by military interrogators at Abu Ghraib, Private Snuffy premiered on April 12, 2011, at the Tiburon International Film Festival, and won 'Best Animation' at the 2011 Cinefest in Sudbury, Ontario and "Best Short Documentary" at the 2011 Rincon, Puerto Rico Film Festival.</p>
+<p>Ben is currently working on his PhD in Computer Science at the University of Ontario Institute of Technology.</p>
+<div class="speaker-website">http://www.filmtime.co/</div>]]></wp:term_description></wp:term>
+
+<wp:term><wp:term_taxonomy><![CDATA[speaker]]></wp:term_taxonomy><wp:term_slug><![CDATA[Chris Murphy]]></wp:term_slug><wp:term_name><![CDATA[Chris Murphy]]></wp:term_name><wp:term_description><![CDATA[<p>Chris Murphy is president of Color Remedies™ based in Denver. He specializes in worldwide training and consulting in emerging color technologies and has extensive experience in implementing color management workflows. He has been an instructor at the School of Visual Arts in the City of New York, and is co-author of “Real World Color Management” published by Peachpit Press. Some say he has extra-sensory vision, but he continues to assure everyone that he does not.</p>
+]]></wp:term_description></wp:term>
+
+
+<wp:term><wp:term_taxonomy><![CDATA[speaker]]></wp:term_taxonomy><wp:term_slug><![CDATA[Gijs de Heij]]></wp:term_slug><wp:term_name><![CDATA[Gijs de Heij]]></wp:term_name><wp:term_description><![CDATA[<p>OSP is a collective of graphic designers &amp; programmers using only free and open source software. A caravan of practitioners from diverse fields, they design, program, research and teach. Working for print and web and its hybrids, OSP creates visual identities and digital utilities, always digging for a more intimate relation with the tool.</p>
+<p>Gijs de Heij is a designer and programmer, part of OSP. And shares OSP's fascination for typography and it's (hidden) underlying formats &amp; techniques.</p>
+<div class="speaker-website">osp.kitchen, de-heij.com</div>]]></wp:term_description></wp:term>
+
+
+<wp:term><wp:term_taxonomy><![CDATA[speaker]]></wp:term_taxonomy><wp:term_slug><![CDATA[Phil Langley]]></wp:term_slug><wp:term_name><![CDATA[Phil Langley]]></wp:term_name><wp:term_description><![CDATA[<p>I am an architect and computational designer based in London and I am a PhD candidate at the Sheffield School of Architecture (SSoA) where my research is concerned with the agency of software and its social production within the field of architectural design. I am a visiting design tutor at SSoA where I co-organised the postgraduate design studio 'Open Data', with Mark Meagher. I am also a co-director of the design and research collective openkhana.net</p>
+<div class="speaker-website">https://github.com/phiLangley/openPHD</div>]]></wp:term_description></wp:term>
+
+<wp:term><wp:term_taxonomy><![CDATA[speaker]]></wp:term_taxonomy><wp:term_slug><![CDATA[Brent Patterson]]></wp:term_slug><wp:term_name><![CDATA[Brent Patterson]]></wp:term_name><wp:term_description><![CDATA[<p>Brent Patterson has been teaching animation, interactive design, and visual effects at several colleges and universities since 2002. He has been a practicing artist and designer for twenty years. He has taught at Washington State University, West Virginia Wesleyan University, Marshall University and SUNY Buffalo State. His work has been exhibited at the Wexner Center for the Arts in Columbus, Ohio, the Jacob Lawrence Gallery in Seattle, Washington, as well as the Clay Center in Charleston, West Virginia. He currently lives and works in Buffalo, New York.</p>
+<div class="speaker-website">http://www.brentpatterson.com</div>]]></wp:term_description></wp:term>
+
+<wp:term><wp:term_taxonomy><![CDATA[speaker]]></wp:term_taxonomy><wp:term_slug><![CDATA[Yvonne Micklich]]></wp:term_slug><wp:term_name><![CDATA[Yvonne Micklich]]></wp:term_name><wp:term_description><![CDATA[<p>I studied Product Development in Clothing and come from a classical fashion background. I worked for a clothing company. In 2009, I start to explore new Technology including LEDs in cloth, but it was not so easy to get a lot of information about it. During my research, especially the big Designers were at the forefront to market new Technology features. Although, there were only prototypes or couture pieces, they showed something new. Now, a lot of knowledge has been shared and during the codemotion in Berlin, I attended a workshop to learn about Arduino programming. Since then, I improved my skills in creative coding and eTextile. Also, I am part of the Fashion Tec Working group in Berlin to build a community of people to share their knowledge.</p>
+<div class="speaker-website">http://www.meetup.com/FashionTec-Meetup-Berlin/</div>]]></wp:term_description></wp:term>
+
+<wp:term><wp:term_taxonomy><![CDATA[speaker]]></wp:term_taxonomy><wp:term_slug><![CDATA[Erwin Sacluti]]></wp:term_slug><wp:term_name><![CDATA[Erwin Sacluti]]></wp:term_name><wp:term_description><![CDATA[<p>I am Erwin Sacluti, 38 years of age, FIlipino, a former local youth leader, former public servant, computer graphics and programming enthusiast. I do share my free acquired knowledge at no cost for deserving young students and public educators in our community.</p>
+]]></wp:term_description></wp:term>
+
+<wp:term><wp:term_taxonomy><![CDATA[speaker]]></wp:term_taxonomy><wp:term_slug><![CDATA[Liam Quin]]></wp:term_slug><wp:term_name><![CDATA[Liam Quin]]></wp:term_name><wp:term_description><![CDATA[<p>Liam Quin is a member of the staff at the World Wide Web Consortium and has a background in digital typography and computer science. He also runs a stock image site, http://www.fromoldbooks.org/</p>
+<p>Similar talks (but not directed at this community) are http://www.w3.org/Talks/2015/0214-digipub-xml-prague/ and http://w3c.github.io/epubweb/presentation/</p>
+]]></wp:term_description></wp:term>
+
+
+<wp:term><wp:term_taxonomy><![CDATA[speaker]]></wp:term_taxonomy><wp:term_slug><![CDATA[Tom Lechner]]></wp:term_slug><wp:term_name><![CDATA[Tom Lechner]]></wp:term_name><wp:term_description><![CDATA[<p>Tom is a cartoonist living in Portland, Oregon. He also makes Laidout, which he uses to produce his cartoon books.</p>
+<div class="speaker-website">http://www.tomlechner.com</div>]]></wp:term_description></wp:term>
+
+<wp:term><wp:term_taxonomy><![CDATA[speaker]]></wp:term_taxonomy><wp:term_slug><![CDATA[Markus Mohrhard]]></wp:term_slug><wp:term_name><![CDATA[Markus Mohrhard]]></wp:term_name><wp:term_description><![CDATA[<p>Markus is studying Mathematics at the Karlsruhe Institue for Techonoology and works part time on LibreOffice for Collabora. He mainly concentrates on LibreOffice calc and charts and in recent times the OpenGL support. He also maintains the LibreOffice cppunit version and is a co-maintainer of mdds, ixion and orcus.</p>
+<p>In his free time he likes to travel and see interesting new places.</p>
+]]></wp:term_description></wp:term>
+
+<wp:term><wp:term_taxonomy><![CDATA[speaker]]></wp:term_taxonomy><wp:term_slug><![CDATA[Fridrich Strba]]></wp:term_slug><wp:term_name><![CDATA[Fridrich Strba]]></wp:term_name><wp:term_description><![CDATA[<p>Fridrich Strba is double national of Switzerland and Slovakia, Free Software enthusiast and evangelist. A founding member of the Document Liberation Project, he worked in the code base of LibreOffice during years. His favourite activity is writing of import filters for various undocumented file-formats. Currently he works for SUSE at SUSE Linux Enterprise. Fridrich continues to dedicate his time to free proprietary documents from vendor lock in. Mr. Strba is also a polyglot.</p>
+]]></wp:term_description></wp:term>
+
+
+<wp:term><wp:term_taxonomy><![CDATA[speaker]]></wp:term_taxonomy><wp:term_slug><![CDATA[Larisa Blazic]]></wp:term_slug><wp:term_name><![CDATA[Larisa Blazic]]></wp:term_name><wp:term_description><![CDATA[<p>Larisa Blazic, artist and lecturer, living in London, unionising data and organising post-graduate studies in FLOSS+art&amp;design. Contributor to FLOSS Manuals, Libre Graphics and FLOSSIE communities and Software Sustainability Institute fellow. Founding member of Autonomous Tech Fetish (ATF) group, exploring how digital technology is fetishised and how we can respond – to defetishise it or refetishise into new forms, new configurations that serve our needs and desires.</p>
+<div class="speaker-website">http://www.e-w-n-s.net</div>]]></wp:term_description></wp:term>
+
+<wp:term><wp:term_taxonomy><![CDATA[speaker]]></wp:term_taxonomy><wp:term_slug><![CDATA[Diane Jung]]></wp:term_slug><wp:term_name><![CDATA[Diane Jung]]></wp:term_name><wp:term_description><![CDATA[<p>Diane is a Creative Commons activist, geek, writer, and embroidery lover. She has worked and volunteered with Creative Commons Korea, Code for Seoul, Open Government Partnership IRM, and other groups believing that the value of open matters. She is now a Torontonian, and looking for a job opportunity in the city.</p>
+<div class="speaker-website">http://cckorea.org</div>]]></wp:term_description></wp:term>
+
+<wp:term><wp:term_taxonomy><![CDATA[speaker]]></wp:term_taxonomy><wp:term_slug><![CDATA[Jean-François Fortin Tam]]></wp:term_slug><wp:term_name><![CDATA[Jean-François Fortin Tam]]></wp:term_name><wp:term_description><![CDATA[<p>Jean-François (&ldquo;Jeff&rdquo;) is a long-time interaction and UX designer. His experience and fields of interest include desktop software UI design, web and mobile, natural language and alternative input methods, branding, marketing, business strategy, cognitive and social psychology. With a deep passion for FLOSS, he has been an active Pitivi &amp; GNOME contributor throughout the past decade.</p>
+<p>Elected as the president of the GNOME Foundation in 2014, Jean-François is also the founder of the idéemarque branding &amp; strategy company, located in Montréal, Canada.</p>
+<div class="speaker-website">http://jeff.ecchi.ca</div>]]></wp:term_description></wp:term>
+
+<wp:term><wp:term_taxonomy><![CDATA[speaker]]></wp:term_taxonomy><wp:term_slug><![CDATA[Jehan Pagès]]></wp:term_slug><wp:term_name><![CDATA[Jehan Pagès]]></wp:term_name><wp:term_description><![CDATA[<p>Aryeom is a young South Korean independant animation film director and animation artists. Her first co-directed short animation, &ldquo;Grandma Ocean&rdquo; got screened in more than a dozen festivals and won 2 prices. She is now an artist in residency in the association LILA in Paris, and is trying to create her own animation studio, Studio Girin. Also she is an awesome user of GIMP.<br />
+Jehan has been an actor as a young kid for a dozen of years, especially for movie dubbings, and also won an &ldquo;Outstanding Youth Actor in a Foreign Film&rdquo; award. Nowadays he spends time as a software developer (among others for GIMP…), and he spent a few years traveling the world alone on a motorcycle (in particular from France to Japan), then he traveled with Aryeom. Their travels are inspirational of ZeMarmot's story.</p>
+<div class="speaker-website">http://girinstud.io</div>]]></wp:term_description></wp:term>
+
+<wp:term><wp:term_taxonomy><![CDATA[speaker]]></wp:term_taxonomy><wp:term_slug><![CDATA[David Andrade]]></wp:term_slug><wp:term_name><![CDATA[David Andrade]]></wp:term_name><wp:term_description><![CDATA[<p>Szymon Buhajczuk is a Engineering Manager with SimuTech Group and an Animator at Theory Animation. His passions include Blender, animating and aviation photography.<br />
+David Andrade is co-founder and animator at Theory Animation, the world's first online animation studio. He co-founded the company a day after Rhythm &amp; Hues Studios laid him and his team off.</p>
+<div class="speaker-website">http://theoryanimation.com</div>]]></wp:term_description></wp:term>
+
+</channel>
+</rss>

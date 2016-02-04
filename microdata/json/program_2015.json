@@ -1,0 +1,943 @@
+{
+  "items": [
+    {
+      "properties": {
+        "slides": [
+          "http://video.constantvzw.org/LGM15/day-01/01-state_of_libre_graphics"
+        ], 
+        "city": [
+          "Toronto"
+        ], 
+        "title": [
+          "State of the Libre Graphics"
+        ], 
+        "video": [
+          "http://video.constantvzw.org/LGM15/day-01/01-state_of_libre_graphics"
+        ], 
+        "year": [
+          2015
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Pathum Egodawatta"
+        ], 
+        "title": [
+          "Jumping"
+        ], 
+        "video": [
+          "http://video.constantvzw.org/LGM15/day-01/06-Pathum_Egodawatta-Jumping"
+        ], 
+        "city": [
+          "Toronto"
+        ], 
+        "year": [
+          2015
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "city": [
+          "Toronto"
+        ], 
+        "title": [
+          "Creating textbook-grade SVG illustrations for Wikipedia"
+        ], 
+        "slides": [
+          "http://video.constantvzw.org/LGM15/day-01/02-Kelvin_Ma_illustrations_for_Wikipedia"
+        ], 
+        "presenter": [
+          "Kelvin Ma"
+        ], 
+        "video": [
+          "http://video.constantvzw.org/LGM15/day-01/02-Kelvin_Ma_illustrations_for_Wikipedia"
+        ], 
+        "year": [
+          2015
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "city": [
+          "Toronto"
+        ], 
+        "title": [
+          "The List powered by Creative Commons"
+        ], 
+        "slides": [
+          "http://video.constantvzw.org/LGM15/day-01/03-Matt_Lee-List_CC"
+        ], 
+        "presenter": [
+          "Matt Lee"
+        ], 
+        "video": [
+          "http://video.constantvzw.org/LGM15/day-01/03-Matt_Lee-List_CC"
+        ], 
+        "year": [
+          2015
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "city": [
+          "Toronto"
+        ], 
+        "title": [
+          "imgflo: On-demand serverside image processing"
+        ], 
+        "slides": [
+          "http://video.constantvzw.org/LGM15/day-01/04-Jon-Nordby-Imgflo"
+        ], 
+        "presenter": [
+          "Jon Nordby"
+        ], 
+        "video": [
+          "http://video.constantvzw.org/LGM15/day-01/04-Jon_Nordby-imgflo"
+        ], 
+        "year": [
+          2015
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Erwin Sacluti"
+        ], 
+        "title": [
+          "Wilber for us!"
+        ], 
+        "city": [
+          "Toronto"
+        ], 
+        "year": [
+          2015
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "city": [
+          "Toronto"
+        ], 
+        "title": [
+          "Towards Open Textile and Garment Production"
+        ], 
+        "slides": [
+          "http://video.constantvzw.org/LGM15/day-02/18-Hong_Phuc_Dang-Open_Textile"
+        ], 
+        "presenter": [
+          "Hong Phuc Dang"
+        ], 
+        "video": [
+          "http://video.constantvzw.org/LGM15/day-02/18-Hong_Phuc_Dang-Open_Textile"
+        ], 
+        "year": [
+          2015
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "city": [
+          "Toronto"
+        ], 
+        "title": [
+          "Metapolator: designing interaction for creative pros"
+        ], 
+        "slides": [
+          "http://video.constantvzw.org/LGM15/day-01/05-Peter_Sikking-Metapolator"
+        ], 
+        "presenter": [
+          "peter sikking"
+        ], 
+        "video": [
+          "http://video.constantvzw.org/LGM15/day-01/05-Peter_Sikking-Metapolator"
+        ], 
+        "year": [
+          2015
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "city": [
+          "Toronto"
+        ], 
+        "title": [
+          "Why are black plums red when they are green?"
+        ], 
+        "slides": [
+          "http://video.constantvzw.org/LGM15/day-01/07-Myriam_Cea-Black_plums"
+        ], 
+        "presenter": [
+          "Myriam Cea"
+        ], 
+        "video": [
+          "http://video.constantvzw.org/LGM15/day-01/07-Myriam_Cea-Black_plums"
+        ], 
+        "year": [
+          2015
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "city": [
+          "Toronto"
+        ], 
+        "title": [
+          "Allowing Mistakes to Happen"
+        ], 
+        "slides": [
+          "http://video.constantvzw.org/LGM15/day-01/08-Antonio_Roberts-Mistakes"
+        ], 
+        "presenter": [
+          "Antonio Roberts"
+        ], 
+        "video": [
+          "http://video.constantvzw.org/LGM15/day-01/08-Antonio_Roberts-Mistakes"
+        ], 
+        "year": [
+          2015
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Amelia Bellamy-Royds"
+        ], 
+        "title": [
+          "Accessible Graphics on the Web"
+        ], 
+        "video": [
+          "http://video.constantvzw.org/LGM15/day-02/09-Amelia_Bellamy_Royds-AccessibleGraphics"
+        ], 
+        "city": [
+          "Toronto"
+        ], 
+        "year": [
+          2015
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "city": [
+          "Toronto"
+        ], 
+        "title": [
+          "Designing websites using constraints with GSS"
+        ], 
+        "slides": [
+          "http://video.constantvzw.org/LGM15/day-02/10-Carl_Chouinard-GSS"
+        ], 
+        "presenter": [
+          "Carl Chouinard"
+        ], 
+        "video": [
+          "http://video.constantvzw.org/LGM15/day-02/10-Carl_Chouinard-GSS"
+        ], 
+        "year": [
+          2015
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Eric Schrijver"
+        ], 
+        "title": [
+          "Creating realtime collaborative web applications with Derby.js and Meteor.js"
+        ], 
+        "video": [
+          "http://video.constantvzw.org/LGM15/day-02/11-Eric%20Schrijver-Derby.js_Meteor.js"
+        ], 
+        "city": [
+          "Toronto"
+        ], 
+        "year": [
+          2015
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "city": [
+          "Toronto"
+        ], 
+        "title": [
+          "The State of Color Management"
+        ], 
+        "slides": [
+          "http://video.constantvzw.org/LGM15/day-02/12-ChrisMurphy-Color_Management"
+        ], 
+        "presenter": [
+          "Chris Murphy"
+        ], 
+        "video": [
+          "http://video.constantvzw.org/LGM15/day-02/12-Chris_Murphy-Color_Management"
+        ], 
+        "year": [
+          2015
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Jan-Christoph Borchardt"
+        ], 
+        "title": [
+          "Pushing open source UX design \u2013 how we do it in ownCloud"
+        ], 
+        "video": [
+          "http://video.constantvzw.org/LGM15/day-02/13-Jan-Christoph_Borchardt-ownCloud"
+        ], 
+        "city": [
+          "Toronto"
+        ], 
+        "year": [
+          2015
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "city": [
+          "Toronto"
+        ], 
+        "title": [
+          "Natron: compositing with Blender integration"
+        ], 
+        "slides": [
+          "http://video.constantvzw.org/LGM15/day-02/14-Alexandre_Gauthier_Foichat-Natron"
+        ], 
+        "presenter": [
+          "Alexandre Gauthier-Foichat"
+        ], 
+        "video": [
+          "http://video.constantvzw.org/LGM15/day-02/14-Alexandre_Gauthier_Foichat-Natron"
+        ], 
+        "year": [
+          2015
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "St\u00e9phanie Vilayphiou", 
+          "Eric Schrijver"
+        ], 
+        "title": [
+          "html2print"
+        ], 
+        "video": [
+          "http://video.constantvzw.org/LGM15/day-02/15-St%c3%a9phanie_Vilayphiou,%20Colm_ONeill-Html2print"
+        ], 
+        "city": [
+          "Toronto"
+        ], 
+        "year": [
+          2015
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "city": [
+          "Toronto"
+        ], 
+        "title": [
+          "Libre fonts for Tamil"
+        ], 
+        "slides": [
+          "http://video.constantvzw.org/LGM15/day-02/16-Shankari_Priyadarshini_Ravichandran-Tamil_fonts"
+        ], 
+        "presenter": [
+          "Shankari Priyadarshini Ravichandran"
+        ], 
+        "video": [
+          "http://video.constantvzw.org/LGM15/day-02/16-Shankari_Priyadarshini_Ravichandran-Tamil_fonts"
+        ], 
+        "year": [
+          2015
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Livio Fania"
+        ], 
+        "title": [
+          "Children illustrations with MyPaint and Krita"
+        ], 
+        "city": [
+          "Toronto"
+        ], 
+        "year": [
+          2015
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Jan-Christoph Borchardt"
+        ], 
+        "title": [
+          "UX review of each other\u2019s projects"
+        ], 
+        "city": [
+          "Toronto"
+        ], 
+        "year": [
+          2015
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Christina Kral", 
+          "Simon Worthington"
+        ], 
+        "title": [
+          "Marshall McLuhan Archive - Media Sprint"
+        ], 
+        "city": [
+          "Toronto"
+        ], 
+        "year": [
+          2015
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Louis Desjardins"
+        ], 
+        "title": [
+          "Text interaction - how far and how better can it get?"
+        ], 
+        "city": [
+          "Toronto"
+        ], 
+        "year": [
+          2015
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "city": [
+          "Toronto"
+        ], 
+        "title": [
+          "SPECIMEN \u2013 designing fonts (hi)story(ies)"
+        ], 
+        "slides": [
+          "http://video.constantvzw.org/LGM15/day-02/21-Loraine_Furter-SPECIMEN"
+        ], 
+        "presenter": [
+          "Loraine Furter"
+        ], 
+        "video": [
+          "http://video.constantvzw.org/LGM15/day-02/21-Loraine_Furter-SPECIMEN"
+        ], 
+        "year": [
+          2015
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "city": [
+          "Toronto"
+        ], 
+        "title": [
+          "Stroke fonts"
+        ], 
+        "slides": [
+          "http://video.constantvzw.org/LGM15/day-02/22-OSP_Stroke-Fonts"
+        ], 
+        "presenter": [
+          "Colm O'Neill", 
+          "Ludi Loiseau", 
+          "Gijs de Heij", 
+          "Pierre Huyghebaert"
+        ], 
+        "video": [
+          "http://video.constantvzw.org/LGM15/day-02/22-OSP_Stroke-Fonts"
+        ], 
+        "year": [
+          2015
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "city": [
+          "Toronto"
+        ], 
+        "title": [
+          "Thrilling Developments From the Field of Boring Font Utilities"
+        ], 
+        "slides": [
+          "http://video.constantvzw.org/LGM15/day-02/23-Nate_Willis-Thrilling_Developments"
+        ], 
+        "presenter": [
+          "Nathan Willis"
+        ], 
+        "video": [
+          "http://video.constantvzw.org/LGM15/day-02/23-Nate_Willis-Thrilling_Developments"
+        ], 
+        "year": [
+          2015
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Dave Crossland"
+        ], 
+        "title": [
+          "Goodbye FontForge"
+        ], 
+        "video": [
+          "http://video.constantvzw.org/LGM15/day-02/24-Dave_Crossland-Goodbye_Fontforge"
+        ], 
+        "city": [
+          "Toronto"
+        ], 
+        "year": [
+          2015
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Loraine Furter"
+        ], 
+        "title": [
+          "SPECIMEN SPRINT"
+        ], 
+        "city": [
+          "Toronto"
+        ], 
+        "year": [
+          2015
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "ben sainsbury", 
+          "Dr Andrew Hogue", 
+          "Michael Gharbharan"
+        ], 
+        "title": [
+          "Using Tangibles for pre-production"
+        ], 
+        "city": [
+          "Toronto"
+        ], 
+        "year": [
+          2015
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Chris Murphy"
+        ], 
+        "title": [
+          "Color: Putting it together"
+        ], 
+        "city": [
+          "Toronto"
+        ], 
+        "year": [
+          2015
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Gijs de Heij", 
+          "Pierre Huyghebaert", 
+          "Colm O'Neill", 
+          "Ludivine Loiseau"
+        ], 
+        "title": [
+          "Stroke-Fonts \u2014 open call for a standard?"
+        ], 
+        "city": [
+          "Toronto"
+        ], 
+        "year": [
+          2015
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Larisa Blazic", 
+          "Femke Snelting"
+        ], 
+        "title": [
+          "A network of free culture aware educators in art, music and design education"
+        ], 
+        "city": [
+          "Toronto"
+        ], 
+        "year": [
+          2015
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Chris Murphy"
+        ], 
+        "title": [
+          "Color: Now What?"
+        ], 
+        "video": [
+          "http://video.constantvzw.org/LGM15/day-02/19-Chris_Murphy-Color_Management2"
+        ], 
+        "city": [
+          "Toronto"
+        ], 
+        "year": [
+          2015
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Livio Fania"
+        ], 
+        "title": [
+          "Low-cost FLOSS exhibition"
+        ], 
+        "city": [
+          "Toronto"
+        ], 
+        "year": [
+          2015
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Andy Fitzsimon"
+        ], 
+        "title": [
+          "Generative design is awesome, awesome, awesome."
+        ], 
+        "city": [
+          "Toronto"
+        ], 
+        "year": [
+          2015
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Tom Lechner"
+        ], 
+        "title": [
+          "A Brief History of Lines"
+        ], 
+        "video": [
+          "http://video.constantvzw.org/LGM15/day-03/30-Tom_Lechner-History_of_Lines"
+        ], 
+        "city": [
+          "Toronto"
+        ], 
+        "year": [
+          2015
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "\u00d8yvind Kol\u00e5s"
+        ], 
+        "title": [
+          "Microraptor gui, an immediate compromise"
+        ], 
+        "video": [
+          "http://video.constantvzw.org/LGM15/day-03/31-0yvind_Kolas-Microraptor"
+        ], 
+        "city": [
+          "Toronto"
+        ], 
+        "year": [
+          2015
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "city": [
+          "Toronto"
+        ], 
+        "title": [
+          "OpenGL in LibreOffice"
+        ], 
+        "slides": [
+          "http://video.constantvzw.org/LGM15/day-03/32-Markus_Mohrhard-OpenGL"
+        ], 
+        "presenter": [
+          "Markus Mohrhard"
+        ], 
+        "video": [
+          "http://video.constantvzw.org/LGM15/day-03/32-Markus_Mohrhard-OpenGL"
+        ], 
+        "year": [
+          2015
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "city": [
+          "Toronto"
+        ], 
+        "title": [
+          "Document Liberation Project: One year after"
+        ], 
+        "slides": [
+          "http://video.constantvzw.org/LGM15/day-03/33-Strba+Filippov-DLP"
+        ], 
+        "presenter": [
+          "Fridrich Strba", 
+          "Valek Filippov"
+        ], 
+        "video": [
+          "http://video.constantvzw.org/LGM15/day-03/33-Strba+Filippov-DLP"
+        ], 
+        "year": [
+          2015
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "ginger coons"
+        ], 
+        "title": [
+          "The first Code of Conduct year"
+        ], 
+        "city": [
+          "Toronto"
+        ], 
+        "year": [
+          2015
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Antonio Roberts"
+        ], 
+        "title": [
+          "Allowing Mistakes to Happen Workshop"
+        ], 
+        "city": [
+          "Toronto"
+        ], 
+        "year": [
+          2015
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Nathan Willis"
+        ], 
+        "title": [
+          "Bringing OpenType features to Open Source"
+        ], 
+        "city": [
+          "Toronto"
+        ], 
+        "year": [
+          2015
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Larisa Blazic"
+        ], 
+        "title": [
+          "FLOSS Manuals - Libre Graphics update&expand"
+        ], 
+        "city": [
+          "Toronto"
+        ], 
+        "year": [
+          2015
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "city": [
+          "Toronto"
+        ], 
+        "title": [
+          "How Hobbyists Impact Culture by Opening and Archiving"
+        ], 
+        "slides": [
+          "http://video.constantvzw.org/LGM15/day-04/34-Diane_Jung-Hobbyist_culture"
+        ], 
+        "presenter": [
+          "Diane Jung"
+        ], 
+        "video": [
+          "http://video.constantvzw.org/LGM15/day-04/34-Diane_Jung-Hobbyist_culture"
+        ], 
+        "year": [
+          2015
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "city": [
+          "Toronto"
+        ], 
+        "title": [
+          "Ten years of Pitivi (and of libre video editing in general)"
+        ], 
+        "slides": [
+          "http://video.constantvzw.org/LGM15/day-04/35-JF_Fortin_Tam-Pitivi"
+        ], 
+        "presenter": [
+          "Jean-Fran\u00e7ois Fortin Tam"
+        ], 
+        "video": [
+          "http://video.constantvzw.org/LGM15/day-04/35-JF_Fortin_Tam-Pitivi"
+        ], 
+        "year": [
+          2015
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "city": [
+          "Toronto"
+        ], 
+        "title": [
+          "Project of a 2D Libre Movie: ZeMarmot"
+        ], 
+        "slides": [
+          "http://video.constantvzw.org/LGM15/day-04/36-Jehan_Pages+Han_Aryeom-ZeMarMot"
+        ], 
+        "presenter": [
+          "Jehan Pag\u00e8s", 
+          "Han Aryeom"
+        ], 
+        "video": [
+          "http://video.constantvzw.org/LGM15/day-04/36-Jehan_Pages+Han_Aryeom-ZeMarMot"
+        ], 
+        "year": [
+          2015
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "city": [
+          "Toronto"
+        ], 
+        "title": [
+          "How to Build an Online Animation Studio"
+        ], 
+        "slides": [
+          "http://video.constantvzw.org/LGM15/day-04/37-Andrade+Buhajczuk-animation_studio"
+        ], 
+        "presenter": [
+          "David Andrade", 
+          "Szymon Buhajczuk"
+        ], 
+        "video": [
+          "http://video.constantvzw.org/LGM15/day-04/37-Andrade+Buhajczuk-animation_studio"
+        ], 
+        "year": [
+          2015
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "city": [
+          "Toronto"
+        ], 
+        "title": [
+          "'I think that conversations are the best, biggest thing that free software has to offer its user'"
+        ], 
+        "slides": [
+          "http://video.constantvzw.org/LGM15/day-04/38-Snelting-Conversations"
+        ], 
+        "presenter": [
+          "Femke Snelting", 
+          "Christoph Haag"
+        ], 
+        "video": [
+          "http://video.constantvzw.org/LGM15/day-04/38-Snelting-Conversations"
+        ], 
+        "year": [
+          2015
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Larisa Blasic"
+        ], 
+        "title": [
+          "LGM2016: London"
+        ], 
+        "city": [
+          "Toronto"
+        ], 
+        "year": [
+          2015
+        ]
+      }
+    }
+  ]
+}

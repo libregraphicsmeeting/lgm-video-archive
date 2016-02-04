@@ -1,0 +1,102 @@
+http://www.utilities-online.info/xmltojson/
+
+LGM 2007: 39 talks
+
+LGM 2008: 33 talks - 22 videos
+
+replace:
+<properties>
+</properties>
+= not needed
+
+\t\t</properties>\r
+in atom: \t\t</properties>\n
+
+
+
+<items></items>
+replace:
+<item></item>
+
+***
+
+### Add Category ###
+
+<year>2007</year>
+with: 
+<category domain="category" nicename="lgm-2007"><![CDATA[LGM 2007]]></category>
+
+<year>2008</year>
+<category domain="category" nicename="lgm-2008"><![CDATA[LGM 2008]]></category>
+
+***
+
+<title>Opening Talk</title>
+stays the same!
+
+<presenter>Louis Desjardins</presenter>
+with:
+<category domain="speaker" nicename="Cedric-Gemy"><![CDATA[Cédric Gemy]]></category>
+
+REGEX:
+
+Search: <presenter>([^<]*)</presenter>
+Replace: <category domain="speaker"><![CDATA[\1]]></category>
+
+***
+
+REGEX Fix: add nicename to speaker:
+
+Search: <category domain="speaker"><!\[CDATA\[([^.\]]*)]]></category>
+
+Replace:
+<category domain="speaker" nicename="\1"><![CDATA[\1]]></category>
+
+***
+
+### VIDEO ###
+
+<video>http://people.xiph.org/~giles/2007/lgm/LGM_20070504-6-Peter_Linnell.ogg</video>
+REGEX:
+
+Search: <video>([^<]*)</video>
+
+<wp:postmeta>
+\t\t\t\t<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+\t\t\t\t<wp:meta_value><![CDATA[\1]]></wp:meta_value>
+\t\t\t</wp:postmeta>
+
+<audio>http://people.xiph.org/~giles/2007/lgm/LGM_20070504-0-Louis_Desjardins.audio.ogg</audio>
+
+search: <audio>([^<]*)</audio>
+replace:
+<wp:postmeta>
+        <wp:meta_key><![CDATA[talk_audio]]></wp:meta_key>
+        <wp:meta_value><![CDATA[\1]]></wp:meta_value>
+      </wp:postmeta>
+
+***
+
+<slides>http://gould.cx/ted/presentations/lgm/</slides>
+replace:
+Search: <slides>([^<]*)</slides>
+<wp:postmeta>
+        <wp:meta_key><![CDATA[talk_slides]]></wp:meta_key>
+        <wp:meta_value><![CDATA[\1]]></wp:meta_value>
+      </wp:postmeta>
+
+***
+Add some defaults:
+
+  <item>
+  
+  replace:
+  
+<item>
+\t\t\t<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+\t\t\t<content:encoded><![CDATA[]]></content:encoded>
+\t\t\t<wp:post_date><![CDATA[2008-05-08 08:00:00]]></wp:post_date>
+\t\t\t<wp:status><![CDATA[publish]]></wp:status>
+\t\t\t<wp:post_type><![CDATA[post]]></wp:post_type>
+
+***

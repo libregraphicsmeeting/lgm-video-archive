@@ -1,0 +1,735 @@
+{
+  "items": [
+    {
+      "properties": {
+        "presenter": [
+          "Louis Desjardins"
+        ], 
+        "title": [
+          "Opening Talk"
+        ], 
+        "city": [
+          "Vienna"
+        ], 
+        "year": [
+          2012
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Richard Hughes"
+        ], 
+        "title": [
+          "ColorHug - The Open Hardware Colorimeter"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=GVH3ykJiNt0"
+        ], 
+        "city": [
+          "Vienna"
+        ], 
+        "year": [
+          2012
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Kai-Uwe Behrmann"
+        ], 
+        "title": [
+          "Evolving Concepts for Colour Management"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=9EL-mgiEBq0"
+        ], 
+        "city": [
+          "Vienna"
+        ], 
+        "year": [
+          2012
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Chris Lilley"
+        ], 
+        "title": [
+          "Color Management in SVG2"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=e2J3k_S1eb0"
+        ], 
+        "city": [
+          "Vienna"
+        ], 
+        "year": [
+          2012
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "speaker": [
+          "Kai-Uwe Behrmann"
+        ], 
+        "title": [
+          "Colour Management a la Greek"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=KBdpQ-daaJ8"
+        ], 
+        "city": [
+          "Vienna"
+        ], 
+        "year": [
+          2012
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Richard Hughes"
+        ], 
+        "title": [
+          "colord - Linux Color Management Framework, One Year On"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=gzTyVkHsdjo"
+        ], 
+        "city": [
+          "Vienna"
+        ], 
+        "year": [
+          2012
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Sirko Kemter"
+        ], 
+        "title": [
+          "Taxi DB - Call A Cab To Bring The Colors"
+        ], 
+        "city": [
+          "Vienna"
+        ], 
+        "year": [
+          2012
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Valek Filippov"
+        ], 
+        "title": [
+          "Re-lab project. Formats reverse engineering: tools and results."
+        ], 
+        "city": [
+          "Vienna"
+        ], 
+        "year": [
+          2012
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Fridrich Strba"
+        ], 
+        "title": [
+          "Import filters for vector graphic formats in LibreOffice: the reverse- and straight engineering fun"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=TfB4rO2x1TY"
+        ], 
+        "city": [
+          "Vienna"
+        ], 
+        "year": [
+          2012
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Igor Novikov"
+        ], 
+        "title": [
+          "sK1 Project Reloaded"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=KaHSmr0cWO8"
+        ], 
+        "city": [
+          "Vienna"
+        ], 
+        "year": [
+          2012
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Behdad Esfahbod"
+        ], 
+        "title": [
+          "GLyphy, a GPU-accelerated text rendering engine"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=hheWzVA6llc"
+        ], 
+        "city": [
+          "Vienna"
+        ], 
+        "year": [
+          2012
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Daniel Phillips"
+        ], 
+        "title": [
+          "World Welder: Solid Modeling from a New Perspective"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=N6HivabHHnA"
+        ], 
+        "city": [
+          "Vienna"
+        ], 
+        "year": [
+          2012
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Ricardo Lafuente", 
+          "Ana Carvalho"
+        ], 
+        "title": [
+          "The awesome things that libre web type enables you to do"
+        ], 
+        "city": [
+          "Vienna"
+        ], 
+        "year": [
+          2012
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "jeroen dijkmeijer"
+        ], 
+        "title": [
+          "I script design and so can you"
+        ], 
+        "city": [
+          "Vienna"
+        ], 
+        "year": [
+          2012
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Ramon Miranda"
+        ], 
+        "title": [
+          "Digital Painting with open source."
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=nQDDxzAS_oE"
+        ], 
+        "city": [
+          "Vienna"
+        ], 
+        "year": [
+          2012
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Martin Renold"
+        ], 
+        "title": [
+          "Predictable Painting"
+        ], 
+        "city": [
+          "Vienna"
+        ], 
+        "year": [
+          2012
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Tom Lechner"
+        ], 
+        "title": [
+          "Laidout"
+        ], 
+        "city": [
+          "Vienna"
+        ], 
+        "year": [
+          2012
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://www.markus-raab.org/ftp/elektra/thesis.pdf"
+        ], 
+        "presenter": [
+          "Markus Raab"
+        ], 
+        "title": [
+          "Elektra - A Modular Approach to Configuration Storage"
+        ], 
+        "city": [
+          "Vienna"
+        ], 
+        "year": [
+          2012
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Behdad Esfahbod"
+        ], 
+        "title": [
+          "HarfBuzz, the Free text shaping engine"
+        ], 
+        "city": [
+          "Vienna"
+        ], 
+        "year": [
+          2012
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "M\u00e1ir\u00edn Duffy", 
+          "Emily Dirsh"
+        ], 
+        "title": [
+          "An awesome FLOSS design collaboration workflow"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=3sgbJVqBLpQ"
+        ], 
+        "city": [
+          "Vienna"
+        ], 
+        "year": [
+          2012
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Silvia Schiaulini"
+        ], 
+        "title": [
+          "The importance of new tools to enable collective design process"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=B-N_ZUbSgro"
+        ], 
+        "city": [
+          "Vienna"
+        ], 
+        "year": [
+          2012
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Helen Jamieson", 
+          "Martin Eisenbarth", 
+          "Jenny Pickett"
+        ], 
+        "title": [
+          "Re-Imagining UpStage"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=YDoEyXyzylk"
+        ], 
+        "city": [
+          "Vienna"
+        ], 
+        "year": [
+          2012
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "slides": [
+          "../wp/wp-content/uploads/gravity_forms/3/2012/05/LGM2012_-_Powerstroke.pdf"
+        ], 
+        "presenter": [
+          "Johan Engelen"
+        ], 
+        "title": [
+          "Powerstroke: variable stroke width in Inkscape"
+        ], 
+        "city": [
+          "Vienna"
+        ], 
+        "year": [
+          2012
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "peter sikking", 
+          "Kate Price"
+        ], 
+        "title": [
+          "rethinking text handling in GIMP"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=eWCmb3eIr6k"
+        ], 
+        "city": [
+          "Vienna"
+        ], 
+        "year": [
+          2012
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Victor Oliveira"
+        ], 
+        "title": [
+          "Implementing OpenCL support in GEGL and GIMP"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=UzBPUalkqg8"
+        ], 
+        "city": [
+          "Vienna"
+        ], 
+        "year": [
+          2012
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "\u00d8yvind Kol\u00e5s"
+        ], 
+        "title": [
+          "GeglBuffer tight and flexible raster abstraction."
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=HFDbSQk9Ba0"
+        ], 
+        "city": [
+          "Vienna"
+        ], 
+        "year": [
+          2012
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Michael Natterer"
+        ], 
+        "title": [
+          "Goat Invasion in GIMP"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=HFDbSQk9Ba0"
+        ], 
+        "city": [
+          "Vienna"
+        ], 
+        "year": [
+          2012
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "\u00d8yvind Kol\u00e5s"
+        ], 
+        "title": [
+          "Petting Zoo with Goats"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=HFDbSQk9Ba0"
+        ], 
+        "city": [
+          "Vienna"
+        ], 
+        "year": [
+          2012
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Sirko Kemter", 
+          "M\u00e1ir\u00edn Duffy", 
+          "Allan Day"
+        ], 
+        "title": [
+          "Doing Design In The World Of FLOSS"
+        ], 
+        "city": [
+          "Vienna"
+        ], 
+        "year": [
+          2012
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Femke Snelting", 
+          "Marcos Garcia"
+        ], 
+        "title": [
+          "Tools shape practice, practice shapes tools: The Libre Graphics Research Unit"
+        ], 
+        "city": [
+          "Vienna"
+        ], 
+        "year": [
+          2012
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Nicu Buculei"
+        ], 
+        "title": [
+          "Free Culture meets Free Software: Wiki Loves Monuments"
+        ], 
+        "city": [
+          "Vienna"
+        ], 
+        "year": [
+          2012
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Bassam  Kurdali", 
+          "Fateh Slavitskaya"
+        ], 
+        "title": [
+          "Tube Open Movie: Blender 3D Animation in a Distributed Pipeline "
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=9r4JSYWAKvE"
+        ], 
+        "city": [
+          "Vienna"
+        ], 
+        "year": [
+          2012
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Luk\u00e1\u0161 Tvrd\u00fd", 
+          "Timoth\u00e9e Giet"
+        ], 
+        "title": [
+          "Krita:"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=OXGSW_oAAy8"
+        ], 
+        "city": [
+          "Vienna"
+        ], 
+        "year": [
+          2012
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Timoth\u00e9e Giet"
+        ], 
+        "title": [
+          "Introducing Synfig Studio"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=TY4R5PQeVMc"
+        ], 
+        "city": [
+          "Vienna"
+        ], 
+        "year": [
+          2012
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://morevnaproject.org/tag/remake/"
+        ], 
+        "city": [
+          "Vienna"
+        ], 
+        "title": [
+          "Remake - build system for animation projects"
+        ], 
+        "presenter": [
+          "Konstantin Dmitriev"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=Jbd7GjRrrBc"
+        ], 
+        "year": [
+          2012
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Diego Barrios Romero"
+        ], 
+        "title": [
+          "Coding for Synfig: Our road ahead"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=Hhs1Xn9wXjM"
+        ], 
+        "city": [
+          "Vienna"
+        ], 
+        "year": [
+          2012
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Amir Hassan"
+        ], 
+        "title": [
+          "SoundFumble: live sound generation with Gimp"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=teNkaSs_OmY"
+        ], 
+        "city": [
+          "Vienna"
+        ], 
+        "year": [
+          2012
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Pete Ippel"
+        ], 
+        "title": [
+          "Transitional Work Flow For Artists Making The Libre Graphics Leap"
+        ], 
+        "city": [
+          "Vienna"
+        ], 
+        "year": [
+          2012
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Nathan Willis"
+        ], 
+        "title": [
+          "It Builds Character"
+        ], 
+        "city": [
+          "Vienna"
+        ], 
+        "year": [
+          2012
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Louis Desjardins"
+        ], 
+        "title": [
+          "Closing Talk"
+        ], 
+        "city": [
+          "Vienna"
+        ], 
+        "year": [
+          2012
+        ]
+      }
+    }
+  ]
+}

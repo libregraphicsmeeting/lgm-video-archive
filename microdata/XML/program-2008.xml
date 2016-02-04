@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!-- generator="WordPress/4.4" created="2015-12-30 22:34" -->
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>LGM Video Archive 2008</title>
+	<link>http://libregraphicsmeeting.org/video</link>
+	<description>Libre Graphics Meeting Video Archive</description>
+	<pubDate>Wed, 30 Dec 2015 22:34:47 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>http://libregraphicsmeeting.org/video</wp:base_site_url>
+	<wp:base_blog_url>http://libregraphicsmeeting.org/video</wp:base_blog_url>
+
+	<generator>https://wordpress.org/?v=4.4</generator>
+	
+	<item>
+		<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<wp:post_date><![CDATA[2008-05-08 08:30:00]]></wp:post_date>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<category domain="speaker" nicename="Kamila-Giedrojc"><![CDATA[Kamila Giedrojć]]></category>
+		<title>Opening Talk</title>
+		<category domain="category" nicename="lgm-2008"><![CDATA[LGM 2008]]></category>
+	</item>
+	<item>
+		<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<wp:post_date><![CDATA[2008-05-08 08:50:00]]></wp:post_date>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<category domain="speaker" nicename="Pablo-dangelo"><![CDATA[Pablo d’Angelo]]></category>
+		<title>Presentation about Hugin</title>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+			<wp:meta_value><![CDATA[https://www.youtube.com/watch?v=qfWj2LKisKA]]></wp:meta_value>
+		</wp:postmeta>
+		<category domain="category" nicename="lgm-2008"><![CDATA[LGM 2008]]></category>
+	</item>
+	<item>
+		<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<wp:post_date><![CDATA[2008-05-08 09:40:00]]></wp:post_date>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<category domain="speaker" nicename="Stani"><![CDATA[Stani]]></category>
+		<title>Presentation about Phatch - GUI Photo Batch Processor</title>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+			<wp:meta_value><![CDATA[https://www.youtube.com/watch?v=w91EDcU75Qw]]></wp:meta_value>
+		</wp:postmeta>
+		<category domain="category" nicename="lgm-2008"><![CDATA[LGM 2008]]></category>
+	</item>
+	<item>
+		<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<wp:post_date><![CDATA[2008-05-08 10:45:00]]></wp:post_date>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<category domain="speaker" nicename="Igor-Novikov"><![CDATA[Igor Novikov]]></category>
+		<category domain="speaker" nicename="Vladimir-Korenev"><![CDATA[Vladimir Korenev]]></category>
+		<title>About sK1 and UniConvertor</title>
+		<category domain="category" nicename="lgm-2008"><![CDATA[LGM 2008]]></category>
+	</item>
+	<item>
+		<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<wp:post_date><![CDATA[2008-05-08 11:40:00]]></wp:post_date>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<category domain="speaker" nicename="Chris Lilley"><![CDATA[Chris Lilley]]></category>
+		<title>What is happening with SVG</title>
+		<category domain="category" nicename="lgm-2008"><![CDATA[LGM 2008]]></category>
+	</item>
+	<item>
+		<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<wp:post_date><![CDATA[2008-05-08 14:15:00]]></wp:post_date>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<category domain="speaker" nicename="Harrisson"><![CDATA[Harrisson]]></category>
+		<category domain="speaker" nicename="Pierre Huyghebaert"><![CDATA[Pierre Huyghebaert]]></category>
+		<category domain="speaker" nicename="Femke Snelting"><![CDATA[Femke Snelting]]></category>
+		<category domain="speaker" nicename="Nicolas Malevé"><![CDATA[Nicolas Malevé]]></category>
+		<title>Designing with free software</title>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+			<wp:meta_value><![CDATA[https://www.youtube.com/watch?v=NiW0qAk-SNo]]></wp:meta_value>
+		</wp:postmeta>
+		<category domain="category" nicename="lgm-2008"><![CDATA[LGM 2008]]></category>
+	</item>
+	<item>
+		<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<wp:post_date><![CDATA[2008-05-08 15:10:00]]></wp:post_date>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<category domain="speaker" nicename="Dave Crossland"><![CDATA[Dave Crossland]]></category>
+		<title>Font Software Freedom</title>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+			<wp:meta_value><![CDATA[https://www.youtube.com/watch?v=soBLKkwJUWI]]></wp:meta_value>
+		</wp:postmeta>
+		<category domain="category" nicename="lgm-2008"><![CDATA[LGM 2008]]></category>
+	</item>
+	<item>
+		<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<wp:post_date><![CDATA[2008-05-08 16:15:00]]></wp:post_date>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<category domain="speaker" nicename="Øyvind Kolås"><![CDATA[Øyvind Kolås]]></category>
+		<title>Extending GEGL with new operations and an introduction to GeglBuffers, the functionality offered by them and their underlying mechanisms.</title>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+			<wp:meta_value><![CDATA[https://www.youtube.com/watch?v=H8eLAs2UgIU]]></wp:meta_value>
+		</wp:postmeta>
+		<category domain="category" nicename="lgm-2008"><![CDATA[LGM 2008]]></category>
+	</item>
+	<item>
+		<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<wp:post_date><![CDATA[2008-05-08 17:05:00]]></wp:post_date>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<category domain="speaker" nicename="Erik Gebers"><![CDATA[Erik Gebers]]></category>
+		<title>Scenari Presentation: a software suite for the conception and use of publishing chains.</title>
+		<category domain="category" nicename="lgm-2008"><![CDATA[LGM 2008]]></category>
+	</item>
+	<item>
+		<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<wp:post_date><![CDATA[2008-05-09 08:45:00]]></wp:post_date>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<category domain="speaker" nicename="Boudewijn Rempt"><![CDATA[Boudewijn Rempt]]></category>
+		<title>Natural media simulation: the field, free software and the future</title>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+			<wp:meta_value><![CDATA[https://www.youtube.com/watch?v=e43tuaRAemg]]></wp:meta_value>
+		</wp:postmeta>
+		<category domain="category" nicename="lgm-2008"><![CDATA[LGM 2008]]></category>
+	</item>
+	<item>
+		<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<wp:post_date><![CDATA[2008-05-09 09:35:00]]></wp:post_date>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<category domain="speaker" nicename="Pablo-dAngelo"><![CDATA[Pablo d’Angelo]]></category>
+		<title>Hugin workshop</title>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+			<wp:meta_value><![CDATA[https://www.youtube.com/watch?v=qNypPHUHtvI]]></wp:meta_value>
+		</wp:postmeta>
+		<category domain="category" nicename="lgm-2008"><![CDATA[LGM 2008]]></category>
+	</item>
+	<item>
+		<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<wp:post_date><![CDATA[2008-05-09 10:25:00]]></wp:post_date>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<category domain="speaker" nicename="Peter Linnell"><![CDATA[Peter Linnell]]></category>
+		<title>Scribus Presentation</title>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+			<wp:meta_value><![CDATA[https://www.youtube.com/watch?v=mNwYsUti_6w]]></wp:meta_value>
+		</wp:postmeta>
+		<category domain="category" nicename="lgm-2008"><![CDATA[LGM 2008]]></category>
+	</item>
+	<item>
+		<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<wp:post_date><![CDATA[2008-05-09 11:15:00]]></wp:post_date>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<category domain="speaker" nicename="Andy Fitzsimon"><![CDATA[Andy Fitzsimon]]></category>
+		<title>Publican, the new Open Source publishing tool-chain</title>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+			<wp:meta_value><![CDATA[https://www.youtube.com/watch?v=WY9qAoBbujk]]></wp:meta_value>
+		</wp:postmeta>
+		<category domain="category" nicename="lgm-2008"><![CDATA[LGM 2008]]></category>
+	</item>
+	<item>
+		<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<wp:post_date><![CDATA[2008-05-09 13:35:00]]></wp:post_date>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<category domain="speaker" nicename="Ricardo Lafuente"><![CDATA[Ricardo Lafuente]]></category>
+		<title>Type design strategies with free software</title>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+			<wp:meta_value><![CDATA[https://www.youtube.com/watch?v=ish4VPaZQUQ]]></wp:meta_value>
+		</wp:postmeta>
+		<category domain="category" nicename="lgm-2008"><![CDATA[LGM 2008]]></category>
+	</item>
+	<item>
+		<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<wp:post_date><![CDATA[2008-05-09 14:25:00]]></wp:post_date>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<category domain="speaker" nicename="Michael Dominic Kostrzewa"><![CDATA[Michael Dominic Kostrzewa]]></category>
+		<title>Programmers hell: working with the UI designer</title>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+			<wp:meta_value><![CDATA[https://www.youtube.com/watch?v=uo89MeOywfw]]></wp:meta_value>
+		</wp:postmeta>
+		<category domain="category" nicename="lgm-2008"><![CDATA[LGM 2008]]></category>
+	</item>
+	<item>
+		<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<wp:post_date><![CDATA[2008-05-09 14:25:00]]></wp:post_date>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<category domain="speaker" nicename="Cedric-Gemy"><![CDATA[Cédric Gémy]]></category>
+		<title>Live creation of a magazine using Inkscape+Gimp+Blender+Scribus</title>
+		<category domain="category" nicename="lgm-2008"><![CDATA[LGM 2008]]></category>
+	</item>
+	<item>
+		<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<wp:post_date><![CDATA[2008-05-09 15:30:00]]></wp:post_date>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<category domain="speaker" nicename="Louis Desjardins"><![CDATA[Louis Desjardins]]></category>
+		<title>Scribus Demo - text and image manipulation, pdf output, interaction with printing world</title>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+			<wp:meta_value><![CDATA[https://www.youtube.com/watch?v=73NmkuIozhA]]></wp:meta_value>
+		</wp:postmeta>
+		<category domain="category" nicename="lgm-2008"><![CDATA[LGM 2008]]></category>
+	</item>
+	<item>
+		<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<wp:post_date><![CDATA[2008-05-09 16:20:10]]></wp:post_date>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<category domain="speaker" nicename="Karl Stiefvater"><![CDATA[Karl Stiefvater]]></category>
+		<title>Open Source in Second Life</title>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+			<wp:meta_value><![CDATA[https://www.youtube.com/watch?v=lctM-gYclA0]]></wp:meta_value>
+		</wp:postmeta>
+		<category domain="category" nicename="lgm-2008"><![CDATA[LGM 2008]]></category>
+	</item>
+	<item>
+		<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<wp:post_date><![CDATA[2008-05-10 09:00:00]]></wp:post_date>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<category domain="speaker" nicename="Håkon Wium Lie"><![CDATA[Håkon Wium Lie]]></category>
+		<title>WebFonts: changing the face of the web</title>
+		<category domain="category" nicename="lgm-2008"><![CDATA[LGM 2008]]></category>
+	</item>
+	<item>
+		<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<wp:post_date><![CDATA[2008-05-10 10:30:00]]></wp:post_date>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<category domain="speaker" nicename="Peter Sikking"><![CDATA[Peter Sikking]]></category>
+		<title>GIMP: a new simple interface for a complex application</title>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+			<wp:meta_value><![CDATA[https://www.youtube.com/watch?v=CTsQw__Bszo]]></wp:meta_value>
+		</wp:postmeta>
+		<category domain="category" nicename="lgm-2008"><![CDATA[LGM 2008]]></category>
+	</item>
+	<item>
+		<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<wp:post_date><![CDATA[2008-05-10 11:15:00]]></wp:post_date>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<category domain="speaker" nicename="Andy Fitzsimon"><![CDATA[Andy Fitzsimon]]></category>
+		<title>New Inkscape features and other cool things</title>
+		<category domain="category" nicename="lgm-2008"><![CDATA[LGM 2008]]></category>
+	</item>
+	<item>
+		<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<wp:post_date><![CDATA[2008-05-10 13:35:00]]></wp:post_date>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<category domain="speaker" nicename="Pierre Marchand"><![CDATA[Pierre Marchand]]></category>
+		<title>Managing fonts, experimenting with text display</title>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+			<wp:meta_value><![CDATA[https://www.youtube.com/watch?v=xVtWgbycRa0]]></wp:meta_value>
+		</wp:postmeta>
+		<category domain="category" nicename="lgm-2008"><![CDATA[LGM 2008]]></category>
+	</item>
+	<item>
+		<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<wp:post_date><![CDATA[2008-05-10 13:35:00]]></wp:post_date>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<category domain="speaker" nicename="Emanuele Tamponi"><![CDATA[Emanuele Tamponi]]></category>
+		<title>A realistic color model for representing pigment</title>
+		<category domain="category" nicename="lgm-2008"><![CDATA[LGM 2008]]></category>
+	</item>
+	<item>
+		<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<wp:post_date><![CDATA[2008-05-10 14:25:00]]></wp:post_date>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<category domain="speaker" nicename="Gilles Caulier"><![CDATA[Gilles Caulier]]></category>
+		<title>Photo-management under Linux with digiKam</title>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+			<wp:meta_value><![CDATA[https://www.youtube.com/watch?v=A1Q3x4JaSbA]]></wp:meta_value>
+		</wp:postmeta>
+		<category domain="category" nicename="lgm-2008"><![CDATA[LGM 2008]]></category>
+	</item>
+	<item>
+		<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<wp:post_date><![CDATA[2008-05-10 14:25:10]]></wp:post_date>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<category domain="speaker" nicename="Carl Worth"><![CDATA[Carl Worth]]></category>
+		<title>What cairo has to offer now (with 1.6.0) and where it's going (colour management, extended PDF capability, hardware acceleration, etc.)</title>
+		<category domain="category" nicename="lgm-2008"><![CDATA[LGM 2008]]></category>
+	</item>
+	<item>
+		<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<wp:post_date><![CDATA[2008-05-10 15:30:00]]></wp:post_date>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<category domain="speaker" nicename="Liam Quin"><![CDATA[Liam Quin]]></category>
+		<title>Proposal, shared type/text specification for the desktop</title>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+			<wp:meta_value><![CDATA[https://www.youtube.com/watch?v=_qAGfkwj9wI]]></wp:meta_value>
+		</wp:postmeta>
+		<category domain="category" nicename="lgm-2008"><![CDATA[LGM 2008]]></category>
+	</item>
+	<item>
+		<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<wp:post_date><![CDATA[2008-05-10 15:30:10]]></wp:post_date>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<category domain="speaker" nicename="Dariusz Dawidowski"><![CDATA[Dariusz Dawidowski]]></category>
+		<title>Working on Apricot</title>
+		<category domain="category" nicename="lgm-2008"><![CDATA[LGM 2008]]></category>
+	</item>
+	<item>
+		<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<wp:post_date><![CDATA[2008-05-10 16:25:00]]></wp:post_date>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<category domain="speaker" nicename="Cédric Gémy"><![CDATA[Cédric Gémy]]></category>
+		<title>Blender for retouching photo</title>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+			<wp:meta_value><![CDATA[https://www.youtube.com/watch?v=i-kPnCfLn5U]]></wp:meta_value>
+		</wp:postmeta>
+		<category domain="category" nicename="lgm-2008"><![CDATA[LGM 2008]]></category>
+	</item>
+	<item>
+		<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<wp:post_date><![CDATA[2008-05-10 16:25:10]]></wp:post_date>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<category domain="speaker" nicename="Udi Fuchs"><![CDATA[Udi Fuchs]]></category>
+		<title>UFRaw</title>
+		<category domain="category" nicename="lgm-2008"><![CDATA[LGM 2008]]></category>
+	</item>
+	
+	<item>
+		<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<wp:post_date><![CDATA[2008-05-10 17:15:00]]></wp:post_date>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<category domain="speaker" nicename="Michael Terry"><![CDATA[Michael Terry]]></category>
+		<title>ingimp 1 Year Later: Initial Data Analyses and Lessons Learned</title>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+			<wp:meta_value><![CDATA[https://www.youtube.com/watch?v=HzpwSSWCq9Y]]></wp:meta_value>
+		</wp:postmeta>
+		<category domain="category" nicename="lgm-2008"><![CDATA[LGM 2008]]></category>
+	</item>
+	
+	
+	<item>
+		<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<wp:post_date><![CDATA[2008-05-11 09:00:00]]></wp:post_date>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<category domain="speaker" nicename="Kai-Uwe Behrmann"><![CDATA[Kai-Uwe Behrmann]]></category>
+		<category domain="speaker" nicename="Tomas Carneckey"><![CDATA[Tomas Carneckey]]></category>
+		<title>Introduction to the Oyranos colour management system</title>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+			<wp:meta_value><![CDATAhttps://www.youtube.com/watch?v=VE9EjaWNoz8]]></wp:meta_value>
+		</wp:postmeta>
+		<category domain="category" nicename="lgm-2008"><![CDATA[LGM 2008]]></category>
+	</item>	
+
+	<item>
+		<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<wp:post_date><![CDATA[2008-05-11 10:25:00]]></wp:post_date>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<category domain="speaker" nicename="Dariusz Dawidowski"><![CDATA[Dariusz Dawidowski]]></category>
+		<title>Blender Workshop</title>
+		<category domain="category" nicename="lgm-2008"><![CDATA[LGM 2008]]></category>
+	</item>	
+	
+	<item>
+		<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<wp:post_date><![CDATA[2008-05-11 10:25:10]]></wp:post_date>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<category domain="speaker" nicename="	Joao-S-O-Bueno"><![CDATA[	Joao S. O. Bueno]]></category>
+		<title>Python: Binding the Libre Universe Together - scripting in GIMP and other Graphic programs</title>
+		<category domain="category" nicename="lgm-2008"><![CDATA[LGM 2008]]></category>
+	</item>	
+	
+	<item>
+		<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<wp:post_date><![CDATA[2008-05-11 11:15:00]]></wp:post_date>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<category domain="speaker" nicename="Dave Coffin"><![CDATA[Dave Coffin]]></category>
+		<title>Presentation about DCRaw</title>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+			<wp:meta_value><![CDATA[https://www.youtube.com/watch?v=_AcYEuyMUvw]]></wp:meta_value>
+		</wp:postmeta>
+		<category domain="category" nicename="lgm-2008"><![CDATA[LGM 2008]]></category>
+	</item>
+	
+	<item>
+		<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<wp:post_date><![CDATA[2008-05-11 11:15:10]]></wp:post_date>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<category domain="speaker" nicename="Michalem Krupa"><![CDATA[Michalem Krupa]]></category>
+		<title>Wykorzystanie blendera w postprodukcji filmowej i telewizyjnej</title>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+			<wp:meta_value><![CDATA[https://www.youtube.com/watch?v=d8FrEZ35U9U]]></wp:meta_value>
+		</wp:postmeta>
+		<category domain="category" nicename="lgm-2008"><![CDATA[LGM 2008]]></category>
+	</item>
+	
+	<item>
+		<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<wp:post_date><![CDATA[2008-05-11 14:15:00]]></wp:post_date>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<title>Closing talk, landing, sharing thoughts, what's to come next year.</title>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+			<wp:meta_value><![CDATA[https://www.youtube.com/watch?v=sktASvT-kSU]]></wp:meta_value>
+		</wp:postmeta>
+		<category domain="category" nicename="lgm-2008"><![CDATA[LGM 2008]]></category>
+	</item>
+	
+</channel>
+</rss>

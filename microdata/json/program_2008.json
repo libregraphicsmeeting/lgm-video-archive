@@ -1,0 +1,599 @@
+{
+  "items": [
+    {
+      "properties": {
+        "presenter": [
+          "Kamila Giedroj\u0107"
+        ], 
+        "title": [
+          "Opening Talk"
+        ], 
+        "city": [
+          "Wroc\u0142aw"
+        ], 
+        "year": [
+          2008
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Pablo d'Angelo"
+        ], 
+        "title": [
+          "Presentation about Hugin"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=qfWj2LKisKA"
+        ], 
+        "city": [
+          "Wroc\u0142aw"
+        ], 
+        "year": [
+          2008
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Stani"
+        ], 
+        "title": [
+          "Presentation about Phatch - GUI Photo Batch Processor"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=w91EDcU75Qw"
+        ], 
+        "city": [
+          "Wroc\u0142aw"
+        ], 
+        "year": [
+          2008
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Igor Novikov", 
+          "Vladimir Korenev"
+        ], 
+        "title": [
+          "About sK1 and UniConvertor"
+        ], 
+        "city": [
+          "Wroc\u0142aw"
+        ], 
+        "year": [
+          2008
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Chris Lilley"
+        ], 
+        "title": [
+          "What is happening with SVG"
+        ], 
+        "city": [
+          "Wroc\u0142aw"
+        ], 
+        "year": [
+          2008
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Harrisson", 
+          "Pierre Huyghebaert", 
+          "Femke Snelting", 
+          "Nicolas Malev\u00e9"
+        ], 
+        "title": [
+          "Designing with free software"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=NiW0qAk-SNo"
+        ], 
+        "city": [
+          "Wroc\u0142aw"
+        ], 
+        "year": [
+          2008
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Dave Crossland"
+        ], 
+        "title": [
+          "Font Software Freedom"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=soBLKkwJUWI"
+        ], 
+        "city": [
+          "Wroc\u0142aw"
+        ], 
+        "year": [
+          2008
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "\u00d8yvind Kol\u00e5s"
+        ], 
+        "title": [
+          "Extending GEGL with new operations and an introduction to GeglBuffers, the functionality offered by them and their underlying mechanisms."
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=H8eLAs2UgIU"
+        ], 
+        "city": [
+          "Wroc\u0142aw"
+        ], 
+        "year": [
+          2008
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Erik Gebers"
+        ], 
+        "title": [
+          "Scenari Presentation: a software suite for the conception and use of publishing chains."
+        ], 
+        "city": [
+          "Wroc\u0142aw"
+        ], 
+        "year": [
+          2008
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Boudewijn Rempt"
+        ], 
+        "title": [
+          "Natural media simulation: the field, free software and the future"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=e43tuaRAemg"
+        ], 
+        "city": [
+          "Wroc\u0142aw"
+        ], 
+        "year": [
+          2008
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Pablo d' Angelo"
+        ], 
+        "title": [
+          "Hugin workshop"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=qNypPHUHtvI"
+        ], 
+        "city": [
+          "Wroc\u0142aw"
+        ], 
+        "year": [
+          2008
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Peter Linnell"
+        ], 
+        "title": [
+          "Scribus Presentation"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=mNwYsUti_6w"
+        ], 
+        "city": [
+          "Wroc\u0142aw"
+        ], 
+        "year": [
+          2008
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Andy Fitzsimon"
+        ], 
+        "title": [
+          "Publican, the new Open Source publishing tool-chain"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=WY9qAoBbujk"
+        ], 
+        "city": [
+          "Wroc\u0142aw"
+        ], 
+        "year": [
+          2008
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Ricardo Lafuente"
+        ], 
+        "title": [
+          "Type design strategies with free software"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=ish4VPaZQUQ"
+        ], 
+        "city": [
+          "Wroc\u0142aw"
+        ], 
+        "year": [
+          2008
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Michael Dominic Kostrzewa"
+        ], 
+        "title": [
+          "Programmers hell: working with the UI designer"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=uo89MeOywfw"
+        ], 
+        "city": [
+          "Wroc\u0142aw"
+        ], 
+        "year": [
+          2008
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "C\u00e9dric G\u00e9my"
+        ], 
+        "title": [
+          "Live creation of a magazin using Inkscape+Gimp+Blender+Scribus"
+        ], 
+        "city": [
+          "Wroc\u0142aw"
+        ], 
+        "year": [
+          2008
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Louis Desjardins"
+        ], 
+        "title": [
+          "Scribus Demo - text and image manipulation, pdf output, interaction with printing world"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=73NmkuIozhA"
+        ], 
+        "city": [
+          "Wroc\u0142aw"
+        ], 
+        "year": [
+          2008
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Karl Stiefvater"
+        ], 
+        "title": [
+          "Open Source in Second Life"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=lctM-gYclA0"
+        ], 
+        "city": [
+          "Wroc\u0142aw"
+        ], 
+        "year": [
+          2008
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "H\u00e5kon Wium Lie"
+        ], 
+        "title": [
+          "WebFonts: changing the face of the web"
+        ], 
+        "city": [
+          "Wroc\u0142aw"
+        ], 
+        "year": [
+          2008
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Peter Sikking"
+        ], 
+        "title": [
+          "GIMP: a new simple interface for a complex application"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=CTsQw__Bszo"
+        ], 
+        "city": [
+          "Wroc\u0142aw"
+        ], 
+        "year": [
+          2008
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Andy Fitzsimon"
+        ], 
+        "title": [
+          "New Inkscape features and other cool things"
+        ], 
+        "city": [
+          "Wroc\u0142aw"
+        ], 
+        "year": [
+          2008
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Pierre Marchand"
+        ], 
+        "title": [
+          "Managing fonts, experimenting with text display"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=xVtWgbycRa0"
+        ], 
+        "city": [
+          "Wroc\u0142aw"
+        ], 
+        "year": [
+          2008
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Emanuele Tamponi"
+        ], 
+        "title": [
+          "A realistic color model for representing pigment"
+        ], 
+        "city": [
+          "Wroc\u0142aw"
+        ], 
+        "year": [
+          2008
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Gilles Caulier"
+        ], 
+        "title": [
+          "Photo-management under Linux with digiKam"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=A1Q3x4JaSbA"
+        ], 
+        "city": [
+          "Wroc\u0142aw"
+        ], 
+        "year": [
+          2008
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Carl Worth"
+        ], 
+        "title": [
+          "What cairo has to offer now (with 1.6.0) and where it's going,(colour management, extended PDF capability, hardware acceleration, etc.)"
+        ], 
+        "city": [
+          "Wroc\u0142aw"
+        ], 
+        "year": [
+          2008
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Liam Quin"
+        ], 
+        "title": [
+          "Proposal, shared type/text specification for the desktop"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=_qAGfkwj9wI"
+        ], 
+        "city": [
+          "Wroc\u0142aw"
+        ], 
+        "year": [
+          2008
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Dariusz Dawidowski"
+        ], 
+        "title": [
+          "Working on Apricot"
+        ], 
+        "city": [
+          "Wroc\u0142aw"
+        ], 
+        "year": [
+          2008
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "C\u00e9dric G\u00e9my"
+        ], 
+        "title": [
+          "Blender for retouching photo"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=i-kPnCfLn5U"
+        ], 
+        "city": [
+          "Wroc\u0142aw"
+        ], 
+        "year": [
+          2008
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Udi Fuchs"
+        ], 
+        "title": [
+          "UFRaw"
+        ], 
+        "city": [
+          "Wroc\u0142aw"
+        ], 
+        "year": [
+          2008
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Michael Terry"
+        ], 
+        "title": [
+          "ingimp 1 Year Later: Initial Data Analyses and Lessons Learned"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=HzpwSSWCq9Y"
+        ], 
+        "city": [
+          "Wroc\u0142aw"
+        ], 
+        "year": [
+          2008
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Dave Coffin"
+        ], 
+        "title": [
+          "Presenation about DCRaw"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=_AcYEuyMUvw"
+        ], 
+        "city": [
+          "Wroc\u0142aw"
+        ], 
+        "year": [
+          2008
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Michalem Krupa"
+        ], 
+        "title": [
+          "Wykorzystanie blendera w postprodukcji filmowej i telewizyjnej"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=d8FrEZ35U9U"
+        ], 
+        "city": [
+          "Wroc\u0142aw"
+        ], 
+        "year": [
+          2008
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "city": [
+          "Wroc\u0142aw"
+        ], 
+        "title": [
+          "Closing talk, landing, sharing thoughts, what's to come next year."
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=sktASvT-kSU"
+        ], 
+        "year": [
+          2008
+        ]
+      }
+    }
+  ]
+}

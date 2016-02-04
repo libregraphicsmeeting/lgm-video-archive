@@ -51,4 +51,6 @@ publish
 .idea
 script-ck.js
 codekit-config.json
-afterlight #
+afterlight
+microdata/scripts
+*test.xml

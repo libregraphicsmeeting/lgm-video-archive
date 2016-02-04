@@ -1,0 +1,7572 @@
+{
+  "terms": [
+    {
+      "forms": [
+        "\u00d8yvind Kol\u00e5s"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2008.json", 
+          "properties": {
+            "presenter": [
+              "\u00d8yvind Kol\u00e5s"
+            ], 
+            "year": [
+              2008
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=H8eLAs2UgIU"
+            ], 
+            "city": [
+              "Wroc\u0142aw"
+            ], 
+            "title": [
+              "Extending GEGL with new operations and an introduction to GeglBuffers, the functionality offered by them and their underlying mechanisms."
+            ]
+          }
+        }
+      ], 
+      "term": "%C3%98yvind_Kol%C3%A5s", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        2007
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2007.json", 
+          "properties": {
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "Opening Talk"
+            ], 
+            "presenter": [
+              "Louis Desjardins"
+            ], 
+            "video": [
+              "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-0-Louis_Desjardins.ogg"
+            ], 
+            "year": [
+              2007
+            ], 
+            "audio": [
+              "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-0-Louis_Desjardins.audio.ogg"
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/program_2007.json", 
+          "properties": {
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "Why open standards matter: The Open Document Format"
+            ], 
+            "presenter": [
+              "Louis Suarez-Potts"
+            ], 
+            "video": [
+              "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-2-Louis_Suarez-Potts.ogg"
+            ], 
+            "year": [
+              2007
+            ], 
+            "audio": [
+              "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-2-Louis_Suarez-Potts.audio.ogg"
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/program_2007.json", 
+          "properties": {
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "Introduction to the SVG format"
+            ], 
+            "slides": [
+              "http://gould.cx/ted/presentations/lgm/"
+            ], 
+            "presenter": [
+              "Ted Gould"
+            ], 
+            "video": [
+              "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-3-Ted_Gould.ogg"
+            ], 
+            "year": [
+              2007
+            ], 
+            "audio": [
+              "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-3-Ted_Gould.audio.ogg"
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/program_2007.json", 
+          "properties": {
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "Project overview and first results from the OpenUsability GIMP redesign project"
+            ], 
+            "slides": [
+              "http://www.mmiworks.net/eng/publications/2007/05/lgm-gimp-project-overview.html"
+            ], 
+            "presenter": [
+              "Peter Sikking", 
+              "Kamila Giedroj\u0107"
+            ], 
+            "video": [
+              "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-4-Sikking_Giedroj%C4%87.ogg"
+            ], 
+            "year": [
+              2007
+            ], 
+            "audio": [
+              "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-4-Sikking_Giedroj%C4%87.audio.ogg"
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/program_2007.json", 
+          "properties": {
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "Creating photo-realistic artwork based on photo reference (Inkscape)"
+            ], 
+            "video": [
+              "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-5-Jakub_Steiner.ogg"
+            ], 
+            "year": [
+              2007
+            ], 
+            "speaker": [
+              "Jakub Steiner"
+            ], 
+            "audio": [
+              "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-5-Jakub_Steiner.audio.ogg"
+            ]
+          }
+        }
+      ], 
+      "term": "2007", 
+      "roles": [
+        "year"
+      ]
+    }, 
+    {
+      "forms": [
+        2008
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2008.json", 
+          "properties": {
+            "presenter": [
+              "Pablo d'Angelo"
+            ], 
+            "year": [
+              2008
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=qfWj2LKisKA"
+            ], 
+            "city": [
+              "Wroc\u0142aw"
+            ], 
+            "title": [
+              "Presentation about Hugin"
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/program_2008.json", 
+          "properties": {
+            "presenter": [
+              "Stani"
+            ], 
+            "year": [
+              2008
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=w91EDcU75Qw"
+            ], 
+            "city": [
+              "Wroc\u0142aw"
+            ], 
+            "title": [
+              "Presentation about Phatch - GUI Photo Batch Processor"
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/program_2008.json", 
+          "properties": {
+            "presenter": [
+              "Igor Novikov", 
+              "Vladimir Korenev"
+            ], 
+            "year": [
+              2008
+            ], 
+            "city": [
+              "Wroc\u0142aw"
+            ], 
+            "title": [
+              "About sK1 and UniConvertor"
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/program_2008.json", 
+          "properties": {
+            "presenter": [
+              "Chris Lilley"
+            ], 
+            "year": [
+              2008
+            ], 
+            "city": [
+              "Wroc\u0142aw"
+            ], 
+            "title": [
+              "What is happening with SVG"
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/program_2008.json", 
+          "properties": {
+            "presenter": [
+              "Harrisson", 
+              "Pierre Huyghebaert", 
+              "Femke Snelting", 
+              "Nicolas Malev\u00e9"
+            ], 
+            "year": [
+              2008
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=NiW0qAk-SNo"
+            ], 
+            "city": [
+              "Wroc\u0142aw"
+            ], 
+            "title": [
+              "Designing with free software"
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/program_2008.json", 
+          "properties": {
+            "presenter": [
+              "Dave Crossland"
+            ], 
+            "year": [
+              2008
+            ], 
+            "city": [
+              "Wroc\u0142aw"
+            ], 
+            "title": [
+              "Font Software Freedom"
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/program_2008.json", 
+          "properties": {
+            "presenter": [
+              "\u00d8yvind Kol\u00e5s"
+            ], 
+            "year": [
+              2008
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=H8eLAs2UgIU"
+            ], 
+            "city": [
+              "Wroc\u0142aw"
+            ], 
+            "title": [
+              "Extending GEGL with new operations and an introduction to GeglBuffers, the functionality offered by them and their underlying mechanisms."
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/program_2008.json", 
+          "properties": {
+            "presenter": [
+              "Erik Gebers"
+            ], 
+            "year": [
+              2008
+            ], 
+            "city": [
+              "Wroc\u0142aw"
+            ], 
+            "title": [
+              "Scenari Presentation: a software suite for the conception and use of publishing chains."
+            ]
+          }
+        }
+      ], 
+      "term": "2008", 
+      "roles": [
+        "year"
+      ]
+    }, 
+    {
+      "forms": [
+        2009
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2009.json", 
+          "properties": {
+            "presenter": [
+              "Michael Terry"
+            ], 
+            "year": [
+              2009
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=dFJbNJy9NDs"
+            ], 
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "ingimp: A Smorgasbord of Usability, Adaptive UIs, and Visually Arresting Graphic Design for 2009"
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/program_2009.json", 
+          "properties": {
+            "presenter": [
+              "Benoit St-Andr\u00e9"
+            ], 
+            "year": [
+              2009
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=aPscMEgOI-4"
+            ], 
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "LTSP and graphics applications"
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/program_2009.json", 
+          "properties": {
+            "presenter": [
+              "S\u00e9bastien Roy"
+            ], 
+            "year": [
+              2009
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=MPE8HbjmE5A"
+            ], 
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "Multi-projector immersive displays: the LightTwist project"
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/program_2009.json", 
+          "properties": {
+            "presenter": [
+              "Stani Michiels"
+            ], 
+            "year": [
+              2009
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=fWqCyRdSVD4"
+            ], 
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "How to make money with free software..."
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/program_2009.json", 
+          "properties": {
+            "presenter": [
+              "Jon Cruz"
+            ], 
+            "year": [
+              2009
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=KYB4AqUOuMI"
+            ], 
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "Why Color Management matters to Open Source and to You"
+            ]
+          }
+        }
+      ], 
+      "term": "2009", 
+      "roles": [
+        "year"
+      ]
+    }, 
+    {
+      "forms": [
+        2010
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2010.json", 
+          "properties": {
+            "city": [
+              "Brussel"
+            ], 
+            "title": [
+              "Welcome to LGM 2010"
+            ], 
+            "detail": [
+              "index.php-p=en|talk|welcome.html"
+            ], 
+            "presenter": [
+              "Louis Desjardin", 
+              "Femke Snelting"
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=Ltd-drYVwJQ"
+            ], 
+            "year": [
+              2010
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/program_2010.json", 
+          "properties": {
+            "city": [
+              "Brussel"
+            ], 
+            "title": [
+              "Extending Python for Speed"
+            ], 
+            "detail": [
+              "index.php-p=en|talk|extending_python_for_speed.html"
+            ], 
+            "presenter": [
+              "Martin Renold"
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=ybI5HBlPTzI"
+            ], 
+            "year": [
+              2010
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/program_2010.json", 
+          "properties": {
+            "city": [
+              "Brussel"
+            ], 
+            "title": [
+              "A first outline for a UI for a fully GEGLed GIMP"
+            ], 
+            "detail": [
+              "index.php-p=en|talk|gegled_gui.html"
+            ], 
+            "presenter": [
+              "Peter Sikking"
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=D-kbH_ZVMmk"
+            ], 
+            "year": [
+              2010
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/program_2010.json", 
+          "properties": {
+            "presenter": [
+              "Marcos Diaz"
+            ], 
+            "year": [
+              2010
+            ], 
+            "city": [
+              "Brussel"
+            ], 
+            "detail": [
+              "index.php-p=en|talk|nathive.html"
+            ], 
+            "title": [
+              "The Nathive image editor, its plugin system and some Python-based implemented technologies"
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/program_2010.json", 
+          "properties": {
+            "city": [
+              "Brussel"
+            ], 
+            "title": [
+              "Writing GIMP scripts and plugins"
+            ], 
+            "detail": [
+              "index.php-p=en|talk|gimp_script_plugin.html"
+            ], 
+            "presenter": [
+              "Akkana Peck"
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=anVRFuxqrgo"
+            ], 
+            "year": [
+              2010
+            ]
+          }
+        }
+      ], 
+      "term": "2010", 
+      "roles": [
+        "year"
+      ]
+    }, 
+    {
+      "forms": [
+        2011
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2011.json", 
+          "properties": {
+            "website": [
+              "http://www.hughsie.com"
+            ], 
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "Making color management \u201cjust work\u201d using colord"
+            ], 
+            "presenter": [
+              "Richard Hughes"
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=iLpGOIK4c84"
+            ], 
+            "year": [
+              2011
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/program_2011.json", 
+          "properties": {
+            "website": [
+              "http://www.oyranos.org"
+            ], 
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "Connecting Device Calibration to ICC Profiles"
+            ], 
+            "presenter": [
+              "Kai-Uwe Behrmann"
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=7Cfvf9PiMts"
+            ], 
+            "year": [
+              2011
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/program_2011.json", 
+          "properties": {
+            "website": [
+              "http://ericschrijver.nl/"
+            ], 
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "Plain Text: Graphic Design and Programming Culture"
+            ], 
+            "presenter": [
+              "Eric Schrijver"
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=w3kF49gXX5w"
+            ], 
+            "year": [
+              2011
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/program_2011.json", 
+          "properties": {
+            "website": [
+              "http://lukast.mediablog.sk/log"
+            ], 
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "Krita: Professional Digital Painting"
+            ], 
+            "presenter": [
+              "Luk\u00e1\u0161 Tvrd\u00fd"
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=42lF-GTjx9E"
+            ], 
+            "year": [
+              2011
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/program_2011.json", 
+          "properties": {
+            "website": [
+              "http://dustycloud.org"
+            ], 
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "Using Blender for Patent Absurdity / advocacy animations"
+            ], 
+            "presenter": [
+              "Christopher Allan Webber"
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=a7vqqGY-RgU"
+            ], 
+            "year": [
+              2011
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/program_2011.json", 
+          "properties": {
+            "website": [
+              "http://libregraphicsmag.com"
+            ], 
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "Libre Graphics magazine: A year of fantastic"
+            ], 
+            "presenter": [
+              "Ana Carvalho", 
+              "ginger coons", 
+              "Ricardo Lafuente"
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=BjWCv1iXDJI"
+            ], 
+            "year": [
+              2011
+            ]
+          }
+        }
+      ], 
+      "term": "2011", 
+      "roles": [
+        "year"
+      ]
+    }, 
+    {
+      "forms": [
+        2012
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2012.json", 
+          "properties": {
+            "presenter": [
+              "Louis Desjardins"
+            ], 
+            "year": [
+              2012
+            ], 
+            "city": [
+              "Vienna"
+            ], 
+            "title": [
+              "Opening Talk"
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/program_2012.json", 
+          "properties": {
+            "presenter": [
+              "Richard Hughes"
+            ], 
+            "year": [
+              2012
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=GVH3ykJiNt0"
+            ], 
+            "city": [
+              "Vienna"
+            ], 
+            "title": [
+              "ColorHug - The Open Hardware Colorimeter"
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/program_2012.json", 
+          "properties": {
+            "presenter": [
+              "Kai-Uwe Behrmann"
+            ], 
+            "year": [
+              2012
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=9EL-mgiEBq0"
+            ], 
+            "city": [
+              "Vienna"
+            ], 
+            "title": [
+              "Evolving Concepts for Colour Management"
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/program_2012.json", 
+          "properties": {
+            "presenter": [
+              "Chris Lilley"
+            ], 
+            "year": [
+              2012
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=e2J3k_S1eb0"
+            ], 
+            "city": [
+              "Vienna"
+            ], 
+            "title": [
+              "Color Management in SVG2"
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/program_2012.json", 
+          "properties": {
+            "video": [
+              "https://www.youtube.com/watch?v=KBdpQ-daaJ8"
+            ], 
+            "year": [
+              2012
+            ], 
+            "speaker": [
+              "Kai-Uwe Behrmann"
+            ], 
+            "city": [
+              "Vienna"
+            ], 
+            "title": [
+              "Colour Management a la Greek"
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/program_2012.json", 
+          "properties": {
+            "presenter": [
+              "Richard Hughes"
+            ], 
+            "year": [
+              2012
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=gzTyVkHsdjo"
+            ], 
+            "city": [
+              "Vienna"
+            ], 
+            "title": [
+              "colord - Linux Color Management Framework, One Year On"
+            ]
+          }
+        }
+      ], 
+      "term": "2012", 
+      "roles": [
+        "year"
+      ]
+    }, 
+    {
+      "forms": [
+        2013
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2013.json", 
+          "properties": {
+            "presenter": [
+              "Femke Snelting", 
+              "Laura Fernandez", 
+              "Marcos Garcia"
+            ], 
+            "year": [
+              2013
+            ], 
+            "video": [
+              "http://medialab-prado.es/mmedia/10/10872/10872.flv"
+            ], 
+            "city": [
+              "Madrid"
+            ], 
+            "title": [
+              "Future Tools"
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/program_2013.json", 
+          "properties": {
+            "website": [
+              "http://programalaplaza.medialab-prado.es"
+            ], 
+            "city": [
+              "Madrid"
+            ], 
+            "title": [
+              "Programalaplaza: an online tool to write visual sketches for the Medialab-prado Media facade"
+            ], 
+            "presenter": [
+              "Sergio Gal\u00e1n", 
+              "Victor Diaz"
+            ], 
+            "video": [
+              "http://medialab-prado.es/mmedia/10/10861/10861.flv"
+            ], 
+            "year": [
+              2013
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/program_2013.json", 
+          "properties": {
+            "website": [
+              "http://karl-tux-stadt.de/ktuxs/"
+            ], 
+            "city": [
+              "Madrid"
+            ], 
+            "title": [
+              "The Fedora Design Suite - Distribute The Tools"
+            ], 
+            "presenter": [
+              "Sirko Kemter"
+            ], 
+            "video": [
+              "http://medialab-prado.es/mmedia/10/10856/10856.flv"
+            ], 
+            "year": [
+              2013
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/program_2013.json", 
+          "properties": {
+            "website": [
+              "http://code.sat.qc.ca/tempi"
+            ], 
+            "city": [
+              "Madrid"
+            ], 
+            "title": [
+              "Mikado, a \"Future tool\" for image manipulation with graphs and nodes based on Tempi and GEGL"
+            ], 
+            "presenter": [
+              "Camille Bissuel", 
+              "Cedric G\u00e9my", 
+              "Alexandre Quessy"
+            ], 
+            "video": [
+              "http://medialab-prado.es/mmedia/10/10851/10851.flv"
+            ], 
+            "year": [
+              2013
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/program_2013.json", 
+          "properties": {
+            "website": [
+              "http://pycessing.org"
+            ], 
+            "city": [
+              "Madrid"
+            ], 
+            "title": [
+              "PyCessing"
+            ], 
+            "presenter": [
+              "Brendan Howell"
+            ], 
+            "video": [
+              "http://medialab-prado.es/mmedia/10/10846/10846.flv"
+            ], 
+            "year": [
+              2013
+            ]
+          }
+        }
+      ], 
+      "term": "2013", 
+      "roles": [
+        "year"
+      ]
+    }, 
+    {
+      "forms": [
+        2014
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2014.json", 
+          "properties": {
+            "pdf": [
+              "http://download.gimp.org/pub/gimp/lgm/2014/day_1/001_State_of_Libre_Graphics/001_State_of_Libre_Graphics.pdf"
+            ], 
+            "year": [
+              2014
+            ], 
+            "video": [
+              "http://download.gimp.org/pub/gimp/lgm/2014/day_1/001_State_of_Libre_Graphics/001_State_of_Libre_Graphics.ogv"
+            ], 
+            "city": [
+              "Leipzig"
+            ], 
+            "title": [
+              "State of Libre Graphics"
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/program_2014.json", 
+          "properties": {
+            "presenter": [
+              "Nathan Willis"
+            ], 
+            "year": [
+              2014
+            ], 
+            "video": [
+              "http://download.gimp.org/pub/gimp/lgm/2014/day_1/002_Where_the_Users_Are/002_Where_the_Users_Are.ogv\n"
+            ], 
+            "city": [
+              "Leipzig"
+            ], 
+            "title": [
+              "Where The Users Are"
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/program_2014.json", 
+          "properties": {
+            "website": [
+              "http://www.valentina-project.org"
+            ], 
+            "city": [
+              "Leipzig"
+            ], 
+            "title": [
+              "Valentina Pattern Design Software"
+            ], 
+            "presenter": [
+              "Roman Telezhinsky"
+            ], 
+            "video": [
+              "http://download.gimp.org/pub/gimp/lgm/2014/day_1/003_Valentina_Pattern_Design_Software/003_Valentina_Pattern_Design_Software.ogv"
+            ], 
+            "year": [
+              2014
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/program_2014.json", 
+          "properties": {
+            "website": [
+              "http://wintermute.org/brendan"
+            ], 
+            "city": [
+              "Leipzig"
+            ], 
+            "title": [
+              "The Screenless Office"
+            ], 
+            "presenter": [
+              "Brendan Howell"
+            ], 
+            "video": [
+              "http://download.gimp.org/pub/gimp/lgm/2014/day_1/004_The_Screenless_Office/004_The_Screenless_Office.ogv"
+            ], 
+            "year": [
+              2014
+            ], 
+            "pdf": [
+              "http://download.gimp.org/pub/gimp/lgm/2014/day_1/004_The_Screenless_Office/004_The_Screenless_Office.pdf"
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/program_2014.json", 
+          "properties": {
+            "city": [
+              "Leipzig"
+            ], 
+            "title": [
+              "State of Color Management"
+            ], 
+            "presenter": [
+              "Chris Murphy"
+            ], 
+            "video": [
+              "http://download.gimp.org/pub/gimp/lgm/2014/day_1/005_State_of_Color_Management/005_State_of_Color_Management.ogv"
+            ], 
+            "year": [
+              2014
+            ], 
+            "pdf": [
+              "http://download.gimp.org/pub/gimp/lgm/2014/day_1/005_State_of_Color_Management/005_State_of_Color_Management.pdf"
+            ]
+          }
+        }
+      ], 
+      "term": "2014", 
+      "roles": [
+        "year"
+      ]
+    }, 
+    {
+      "forms": [
+        "A first outline for a UI for a fully GEGLed GIMP"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2010.json", 
+          "properties": {
+            "city": [
+              "Brussel"
+            ], 
+            "title": [
+              "A first outline for a UI for a fully GEGLed GIMP"
+            ], 
+            "detail": [
+              "index.php-p=en|talk|gegled_gui.html"
+            ], 
+            "presenter": [
+              "Peter Sikking"
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=D-kbH_ZVMmk"
+            ], 
+            "year": [
+              2010
+            ]
+          }
+        }
+      ], 
+      "term": "A_first_outline_for_a_UI_for_a_fully_GEGLed_GIMP", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "About sK1 and UniConvertor"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2008.json", 
+          "properties": {
+            "presenter": [
+              "Igor Novikov", 
+              "Vladimir Korenev"
+            ], 
+            "year": [
+              2008
+            ], 
+            "city": [
+              "Wroc\u0142aw"
+            ], 
+            "title": [
+              "About sK1 and UniConvertor"
+            ]
+          }
+        }
+      ], 
+      "term": "About_sK1_and_UniConvertor", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Akkana Peck"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2010.json", 
+          "properties": {
+            "city": [
+              "Brussel"
+            ], 
+            "title": [
+              "Writing GIMP scripts and plugins"
+            ], 
+            "detail": [
+              "index.php-p=en|talk|gimp_script_plugin.html"
+            ], 
+            "presenter": [
+              "Akkana Peck"
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=anVRFuxqrgo"
+            ], 
+            "year": [
+              2010
+            ]
+          }
+        }
+      ], 
+      "term": "Akkana_Peck", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Alexandre Quessy"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2013.json", 
+          "properties": {
+            "website": [
+              "http://code.sat.qc.ca/tempi"
+            ], 
+            "city": [
+              "Madrid"
+            ], 
+            "title": [
+              "Mikado, a \"Future tool\" for image manipulation with graphs and nodes based on Tempi and GEGL"
+            ], 
+            "presenter": [
+              "Camille Bissuel", 
+              "Cedric G\u00e9my", 
+              "Alexandre Quessy"
+            ], 
+            "video": [
+              "http://medialab-prado.es/mmedia/10/10851/10851.flv"
+            ], 
+            "year": [
+              2013
+            ]
+          }
+        }
+      ], 
+      "term": "Alexandre_Quessy", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Ana Carvalho"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2011.json", 
+          "properties": {
+            "website": [
+              "http://libregraphicsmag.com"
+            ], 
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "Libre Graphics magazine: A year of fantastic"
+            ], 
+            "presenter": [
+              "Ana Carvalho", 
+              "ginger coons", 
+              "Ricardo Lafuente"
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=BjWCv1iXDJI"
+            ], 
+            "year": [
+              2011
+            ]
+          }
+        }
+      ], 
+      "term": "Ana_Carvalho", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Benoit St-Andr\u00e9"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2009.json", 
+          "properties": {
+            "presenter": [
+              "Benoit St-Andr\u00e9"
+            ], 
+            "year": [
+              2009
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=aPscMEgOI-4"
+            ], 
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "LTSP and graphics applications"
+            ]
+          }
+        }
+      ], 
+      "term": "Benoit_St-Andr%C3%A9", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Brendan Howell"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2014.json", 
+          "properties": {
+            "website": [
+              "http://wintermute.org/brendan"
+            ], 
+            "city": [
+              "Leipzig"
+            ], 
+            "title": [
+              "The Screenless Office"
+            ], 
+            "presenter": [
+              "Brendan Howell"
+            ], 
+            "video": [
+              "http://download.gimp.org/pub/gimp/lgm/2014/day_1/004_The_Screenless_Office/004_The_Screenless_Office.ogv"
+            ], 
+            "year": [
+              2014
+            ], 
+            "pdf": [
+              "http://download.gimp.org/pub/gimp/lgm/2014/day_1/004_The_Screenless_Office/004_The_Screenless_Office.pdf"
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/program_2013.json", 
+          "properties": {
+            "website": [
+              "http://pycessing.org"
+            ], 
+            "city": [
+              "Madrid"
+            ], 
+            "title": [
+              "PyCessing"
+            ], 
+            "presenter": [
+              "Brendan Howell"
+            ], 
+            "video": [
+              "http://medialab-prado.es/mmedia/10/10846/10846.flv"
+            ], 
+            "year": [
+              2013
+            ]
+          }
+        }
+      ], 
+      "term": "Brendan_Howell", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Brussel"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2010.json", 
+          "properties": {
+            "city": [
+              "Brussel"
+            ], 
+            "title": [
+              "Welcome to LGM 2010"
+            ], 
+            "detail": [
+              "index.php-p=en|talk|welcome.html"
+            ], 
+            "presenter": [
+              "Louis Desjardin", 
+              "Femke Snelting"
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=Ltd-drYVwJQ"
+            ], 
+            "year": [
+              2010
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/program_2010.json", 
+          "properties": {
+            "city": [
+              "Brussel"
+            ], 
+            "title": [
+              "Extending Python for Speed"
+            ], 
+            "detail": [
+              "index.php-p=en|talk|extending_python_for_speed.html"
+            ], 
+            "presenter": [
+              "Martin Renold"
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=ybI5HBlPTzI"
+            ], 
+            "year": [
+              2010
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/program_2010.json", 
+          "properties": {
+            "city": [
+              "Brussel"
+            ], 
+            "title": [
+              "A first outline for a UI for a fully GEGLed GIMP"
+            ], 
+            "detail": [
+              "index.php-p=en|talk|gegled_gui.html"
+            ], 
+            "presenter": [
+              "Peter Sikking"
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=D-kbH_ZVMmk"
+            ], 
+            "year": [
+              2010
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/program_2010.json", 
+          "properties": {
+            "presenter": [
+              "Marcos Diaz"
+            ], 
+            "year": [
+              2010
+            ], 
+            "city": [
+              "Brussel"
+            ], 
+            "detail": [
+              "index.php-p=en|talk|nathive.html"
+            ], 
+            "title": [
+              "The Nathive image editor, its plugin system and some Python-based implemented technologies"
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/program_2010.json", 
+          "properties": {
+            "city": [
+              "Brussel"
+            ], 
+            "title": [
+              "Writing GIMP scripts and plugins"
+            ], 
+            "detail": [
+              "index.php-p=en|talk|gimp_script_plugin.html"
+            ], 
+            "presenter": [
+              "Akkana Peck"
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=anVRFuxqrgo"
+            ], 
+            "year": [
+              2010
+            ]
+          }
+        }
+      ], 
+      "term": "Brussel", 
+      "roles": [
+        "city"
+      ]
+    }, 
+    {
+      "forms": [
+        "Camille Bissuel"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2013.json", 
+          "properties": {
+            "website": [
+              "http://code.sat.qc.ca/tempi"
+            ], 
+            "city": [
+              "Madrid"
+            ], 
+            "title": [
+              "Mikado, a \"Future tool\" for image manipulation with graphs and nodes based on Tempi and GEGL"
+            ], 
+            "presenter": [
+              "Camille Bissuel", 
+              "Cedric G\u00e9my", 
+              "Alexandre Quessy"
+            ], 
+            "video": [
+              "http://medialab-prado.es/mmedia/10/10851/10851.flv"
+            ], 
+            "year": [
+              2013
+            ]
+          }
+        }
+      ], 
+      "term": "Camille_Bissuel", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Cedric G\u00e9my"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2013.json", 
+          "properties": {
+            "website": [
+              "http://code.sat.qc.ca/tempi"
+            ], 
+            "city": [
+              "Madrid"
+            ], 
+            "title": [
+              "Mikado, a \"Future tool\" for image manipulation with graphs and nodes based on Tempi and GEGL"
+            ], 
+            "presenter": [
+              "Camille Bissuel", 
+              "Cedric G\u00e9my", 
+              "Alexandre Quessy"
+            ], 
+            "video": [
+              "http://medialab-prado.es/mmedia/10/10851/10851.flv"
+            ], 
+            "year": [
+              2013
+            ]
+          }
+        }
+      ], 
+      "term": "Cedric_G%C3%A9my", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Chris Lilley"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2012.json", 
+          "properties": {
+            "presenter": [
+              "Chris Lilley"
+            ], 
+            "year": [
+              2012
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=e2J3k_S1eb0"
+            ], 
+            "city": [
+              "Vienna"
+            ], 
+            "title": [
+              "Color Management in SVG2"
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/program_2008.json", 
+          "properties": {
+            "presenter": [
+              "Chris Lilley"
+            ], 
+            "year": [
+              2008
+            ], 
+            "city": [
+              "Wroc\u0142aw"
+            ], 
+            "title": [
+              "What is happening with SVG"
+            ]
+          }
+        }
+      ], 
+      "term": "Chris_Lilley", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Chris Murphy"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2014.json", 
+          "properties": {
+            "city": [
+              "Leipzig"
+            ], 
+            "title": [
+              "State of Color Management"
+            ], 
+            "presenter": [
+              "Chris Murphy"
+            ], 
+            "video": [
+              "http://download.gimp.org/pub/gimp/lgm/2014/day_1/005_State_of_Color_Management/005_State_of_Color_Management.ogv"
+            ], 
+            "year": [
+              2014
+            ], 
+            "pdf": [
+              "http://download.gimp.org/pub/gimp/lgm/2014/day_1/005_State_of_Color_Management/005_State_of_Color_Management.pdf"
+            ]
+          }
+        }
+      ], 
+      "term": "Chris_Murphy", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Christopher Allan Webber"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2011.json", 
+          "properties": {
+            "website": [
+              "http://dustycloud.org"
+            ], 
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "Using Blender for Patent Absurdity / advocacy animations"
+            ], 
+            "presenter": [
+              "Christopher Allan Webber"
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=a7vqqGY-RgU"
+            ], 
+            "year": [
+              2011
+            ]
+          }
+        }
+      ], 
+      "term": "Christopher_Allan_Webber", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "ColorHug - The Open Hardware Colorimeter"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2012.json", 
+          "properties": {
+            "presenter": [
+              "Richard Hughes"
+            ], 
+            "year": [
+              2012
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=GVH3ykJiNt0"
+            ], 
+            "city": [
+              "Vienna"
+            ], 
+            "title": [
+              "ColorHug - The Open Hardware Colorimeter"
+            ]
+          }
+        }
+      ], 
+      "term": "ColorHug_-_The_Open_Hardware_Colorimeter", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Color Management in SVG2"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2012.json", 
+          "properties": {
+            "presenter": [
+              "Chris Lilley"
+            ], 
+            "year": [
+              2012
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=e2J3k_S1eb0"
+            ], 
+            "city": [
+              "Vienna"
+            ], 
+            "title": [
+              "Color Management in SVG2"
+            ]
+          }
+        }
+      ], 
+      "term": "Color_Management_in_SVG2", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "colord - Linux Color Management Framework, One Year On"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2012.json", 
+          "properties": {
+            "presenter": [
+              "Richard Hughes"
+            ], 
+            "year": [
+              2012
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=gzTyVkHsdjo"
+            ], 
+            "city": [
+              "Vienna"
+            ], 
+            "title": [
+              "colord - Linux Color Management Framework, One Year On"
+            ]
+          }
+        }
+      ], 
+      "term": "Colord_-_Linux_Color_Management_Framework%2C_One_Year_On", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Colour Management a la Greek"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2012.json", 
+          "properties": {
+            "video": [
+              "https://www.youtube.com/watch?v=KBdpQ-daaJ8"
+            ], 
+            "year": [
+              2012
+            ], 
+            "speaker": [
+              "Kai-Uwe Behrmann"
+            ], 
+            "city": [
+              "Vienna"
+            ], 
+            "title": [
+              "Colour Management a la Greek"
+            ]
+          }
+        }
+      ], 
+      "term": "Colour_Management_a_la_Greek", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Connecting Device Calibration to ICC Profiles"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2011.json", 
+          "properties": {
+            "website": [
+              "http://www.oyranos.org"
+            ], 
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "Connecting Device Calibration to ICC Profiles"
+            ], 
+            "presenter": [
+              "Kai-Uwe Behrmann"
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=7Cfvf9PiMts"
+            ], 
+            "year": [
+              2011
+            ]
+          }
+        }
+      ], 
+      "term": "Connecting_Device_Calibration_to_ICC_Profiles", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Creating photo-realistic artwork based on photo reference (Inkscape)"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2007.json", 
+          "properties": {
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "Creating photo-realistic artwork based on photo reference (Inkscape)"
+            ], 
+            "video": [
+              "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-5-Jakub_Steiner.ogg"
+            ], 
+            "year": [
+              2007
+            ], 
+            "speaker": [
+              "Jakub Steiner"
+            ], 
+            "audio": [
+              "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-5-Jakub_Steiner.audio.ogg"
+            ]
+          }
+        }
+      ], 
+      "term": "Creating_photo-realistic_artwork_based_on_photo_reference_%28Inkscape%29", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Dave Crossland"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2008.json", 
+          "properties": {
+            "presenter": [
+              "Dave Crossland"
+            ], 
+            "year": [
+              2008
+            ], 
+            "city": [
+              "Wroc\u0142aw"
+            ], 
+            "title": [
+              "Font Software Freedom"
+            ]
+          }
+        }
+      ], 
+      "term": "Dave_Crossland", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Designing with free software"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2008.json", 
+          "properties": {
+            "presenter": [
+              "Harrisson", 
+              "Pierre Huyghebaert", 
+              "Femke Snelting", 
+              "Nicolas Malev\u00e9"
+            ], 
+            "year": [
+              2008
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=NiW0qAk-SNo"
+            ], 
+            "city": [
+              "Wroc\u0142aw"
+            ], 
+            "title": [
+              "Designing with free software"
+            ]
+          }
+        }
+      ], 
+      "term": "Designing_with_free_software", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Eric Schrijver"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2011.json", 
+          "properties": {
+            "website": [
+              "http://ericschrijver.nl/"
+            ], 
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "Plain Text: Graphic Design and Programming Culture"
+            ], 
+            "presenter": [
+              "Eric Schrijver"
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=w3kF49gXX5w"
+            ], 
+            "year": [
+              2011
+            ]
+          }
+        }
+      ], 
+      "term": "Eric_Schrijver", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Erik Gebers"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2008.json", 
+          "properties": {
+            "presenter": [
+              "Erik Gebers"
+            ], 
+            "year": [
+              2008
+            ], 
+            "city": [
+              "Wroc\u0142aw"
+            ], 
+            "title": [
+              "Scenari Presentation: a software suite for the conception and use of publishing chains."
+            ]
+          }
+        }
+      ], 
+      "term": "Erik_Gebers", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Evolving Concepts for Colour Management"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2012.json", 
+          "properties": {
+            "presenter": [
+              "Kai-Uwe Behrmann"
+            ], 
+            "year": [
+              2012
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=9EL-mgiEBq0"
+            ], 
+            "city": [
+              "Vienna"
+            ], 
+            "title": [
+              "Evolving Concepts for Colour Management"
+            ]
+          }
+        }
+      ], 
+      "term": "Evolving_Concepts_for_Colour_Management", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Extending GEGL with new operations and an introduction to GeglBuffers, the functionality offered by them and their underlying mechanisms."
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2008.json", 
+          "properties": {
+            "presenter": [
+              "\u00d8yvind Kol\u00e5s"
+            ], 
+            "year": [
+              2008
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=H8eLAs2UgIU"
+            ], 
+            "city": [
+              "Wroc\u0142aw"
+            ], 
+            "title": [
+              "Extending GEGL with new operations and an introduction to GeglBuffers, the functionality offered by them and their underlying mechanisms."
+            ]
+          }
+        }
+      ], 
+      "term": "Extending_GEGL_with_new_operations_and_an_introduction_to_GeglBuffers%2C_the_functionality_offered_by_them_and_their_underlying_mechanisms.", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Extending Python for Speed"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2010.json", 
+          "properties": {
+            "city": [
+              "Brussel"
+            ], 
+            "title": [
+              "Extending Python for Speed"
+            ], 
+            "detail": [
+              "index.php-p=en|talk|extending_python_for_speed.html"
+            ], 
+            "presenter": [
+              "Martin Renold"
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=ybI5HBlPTzI"
+            ], 
+            "year": [
+              2010
+            ]
+          }
+        }
+      ], 
+      "term": "Extending_Python_for_Speed", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Femke Snelting"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2013.json", 
+          "properties": {
+            "presenter": [
+              "Femke Snelting", 
+              "Laura Fernandez", 
+              "Marcos Garcia"
+            ], 
+            "year": [
+              2013
+            ], 
+            "video": [
+              "http://medialab-prado.es/mmedia/10/10872/10872.flv"
+            ], 
+            "city": [
+              "Madrid"
+            ], 
+            "title": [
+              "Future Tools"
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/program_2010.json", 
+          "properties": {
+            "city": [
+              "Brussel"
+            ], 
+            "title": [
+              "Welcome to LGM 2010"
+            ], 
+            "detail": [
+              "index.php-p=en|talk|welcome.html"
+            ], 
+            "presenter": [
+              "Louis Desjardin", 
+              "Femke Snelting"
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=Ltd-drYVwJQ"
+            ], 
+            "year": [
+              2010
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/program_2008.json", 
+          "properties": {
+            "presenter": [
+              "Harrisson", 
+              "Pierre Huyghebaert", 
+              "Femke Snelting", 
+              "Nicolas Malev\u00e9"
+            ], 
+            "year": [
+              2008
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=NiW0qAk-SNo"
+            ], 
+            "city": [
+              "Wroc\u0142aw"
+            ], 
+            "title": [
+              "Designing with free software"
+            ]
+          }
+        }
+      ], 
+      "term": "Femke_Snelting", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Font Software Freedom"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2008.json", 
+          "properties": {
+            "presenter": [
+              "Dave Crossland"
+            ], 
+            "year": [
+              2008
+            ], 
+            "city": [
+              "Wroc\u0142aw"
+            ], 
+            "title": [
+              "Font Software Freedom"
+            ]
+          }
+        }
+      ], 
+      "term": "Font_Software_Freedom", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Future Tools"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2013.json", 
+          "properties": {
+            "presenter": [
+              "Femke Snelting", 
+              "Laura Fernandez", 
+              "Marcos Garcia"
+            ], 
+            "year": [
+              2013
+            ], 
+            "video": [
+              "http://medialab-prado.es/mmedia/10/10872/10872.flv"
+            ], 
+            "city": [
+              "Madrid"
+            ], 
+            "title": [
+              "Future Tools"
+            ]
+          }
+        }
+      ], 
+      "term": "Future_Tools", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "ginger coons"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2011.json", 
+          "properties": {
+            "website": [
+              "http://libregraphicsmag.com"
+            ], 
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "Libre Graphics magazine: A year of fantastic"
+            ], 
+            "presenter": [
+              "Ana Carvalho", 
+              "ginger coons", 
+              "Ricardo Lafuente"
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=BjWCv1iXDJI"
+            ], 
+            "year": [
+              2011
+            ]
+          }
+        }
+      ], 
+      "term": "Ginger_coons", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Harrisson"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2008.json", 
+          "properties": {
+            "presenter": [
+              "Harrisson", 
+              "Pierre Huyghebaert", 
+              "Femke Snelting", 
+              "Nicolas Malev\u00e9"
+            ], 
+            "year": [
+              2008
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=NiW0qAk-SNo"
+            ], 
+            "city": [
+              "Wroc\u0142aw"
+            ], 
+            "title": [
+              "Designing with free software"
+            ]
+          }
+        }
+      ], 
+      "term": "Harrisson", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "How to make money with free software..."
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2009.json", 
+          "properties": {
+            "presenter": [
+              "Stani Michiels"
+            ], 
+            "year": [
+              2009
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=fWqCyRdSVD4"
+            ], 
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "How to make money with free software..."
+            ]
+          }
+        }
+      ], 
+      "term": "How_to_make_money_with_free_software...", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "http://code.sat.qc.ca/tempi"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2013.json", 
+          "properties": {
+            "website": [
+              "http://code.sat.qc.ca/tempi"
+            ], 
+            "city": [
+              "Madrid"
+            ], 
+            "title": [
+              "Mikado, a \"Future tool\" for image manipulation with graphs and nodes based on Tempi and GEGL"
+            ], 
+            "presenter": [
+              "Camille Bissuel", 
+              "Cedric G\u00e9my", 
+              "Alexandre Quessy"
+            ], 
+            "video": [
+              "http://medialab-prado.es/mmedia/10/10851/10851.flv"
+            ], 
+            "year": [
+              2013
+            ]
+          }
+        }
+      ], 
+      "term": "Http%3A%2F%2Fcode.sat.qc.ca%2Ftempi", 
+      "roles": [
+        "website"
+      ]
+    }, 
+    {
+      "forms": [
+        "http://download.gimp.org/pub/gimp/lgm/2014/day_1/001_State_of_Libre_Graphics/001_State_of_Libre_Graphics.ogv"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2014.json", 
+          "properties": {
+            "pdf": [
+              "http://download.gimp.org/pub/gimp/lgm/2014/day_1/001_State_of_Libre_Graphics/001_State_of_Libre_Graphics.pdf"
+            ], 
+            "year": [
+              2014
+            ], 
+            "video": [
+              "http://download.gimp.org/pub/gimp/lgm/2014/day_1/001_State_of_Libre_Graphics/001_State_of_Libre_Graphics.ogv"
+            ], 
+            "city": [
+              "Leipzig"
+            ], 
+            "title": [
+              "State of Libre Graphics"
+            ]
+          }
+        }
+      ], 
+      "term": "Http%3A%2F%2Fdownload.gimp.org%2Fpub%2Fgimp%2Flgm%2F2014%2Fday_1%2F001_State_of_Libre_Graphics%2F001_State_of_Libre_Graphics.ogv", 
+      "roles": [
+        "video"
+      ]
+    }, 
+    {
+      "forms": [
+        "http://download.gimp.org/pub/gimp/lgm/2014/day_1/001_State_of_Libre_Graphics/001_State_of_Libre_Graphics.pdf"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2014.json", 
+          "properties": {
+            "pdf": [
+              "http://download.gimp.org/pub/gimp/lgm/2014/day_1/001_State_of_Libre_Graphics/001_State_of_Libre_Graphics.pdf"
+            ], 
+            "year": [
+              2014
+            ], 
+            "video": [
+              "http://download.gimp.org/pub/gimp/lgm/2014/day_1/001_State_of_Libre_Graphics/001_State_of_Libre_Graphics.ogv"
+            ], 
+            "city": [
+              "Leipzig"
+            ], 
+            "title": [
+              "State of Libre Graphics"
+            ]
+          }
+        }
+      ], 
+      "term": "Http%3A%2F%2Fdownload.gimp.org%2Fpub%2Fgimp%2Flgm%2F2014%2Fday_1%2F001_State_of_Libre_Graphics%2F001_State_of_Libre_Graphics.pdf", 
+      "roles": [
+        "pdf"
+      ]
+    }, 
+    {
+      "forms": [
+        "http://download.gimp.org/pub/gimp/lgm/2014/day_1/002_Where_the_Users_Are/002_Where_the_Users_Are.ogv\n"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2014.json", 
+          "properties": {
+            "presenter": [
+              "Nathan Willis"
+            ], 
+            "year": [
+              2014
+            ], 
+            "video": [
+              "http://download.gimp.org/pub/gimp/lgm/2014/day_1/002_Where_the_Users_Are/002_Where_the_Users_Are.ogv\n"
+            ], 
+            "city": [
+              "Leipzig"
+            ], 
+            "title": [
+              "Where The Users Are"
+            ]
+          }
+        }
+      ], 
+      "term": "Http%3A%2F%2Fdownload.gimp.org%2Fpub%2Fgimp%2Flgm%2F2014%2Fday_1%2F002_Where_the_Users_Are%2F002_Where_the_Users_Are.ogv", 
+      "roles": [
+        "video"
+      ]
+    }, 
+    {
+      "forms": [
+        "http://download.gimp.org/pub/gimp/lgm/2014/day_1/003_Valentina_Pattern_Design_Software/003_Valentina_Pattern_Design_Software.ogv"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2014.json", 
+          "properties": {
+            "website": [
+              "http://www.valentina-project.org"
+            ], 
+            "city": [
+              "Leipzig"
+            ], 
+            "title": [
+              "Valentina Pattern Design Software"
+            ], 
+            "presenter": [
+              "Roman Telezhinsky"
+            ], 
+            "video": [
+              "http://download.gimp.org/pub/gimp/lgm/2014/day_1/003_Valentina_Pattern_Design_Software/003_Valentina_Pattern_Design_Software.ogv"
+            ], 
+            "year": [
+              2014
+            ]
+          }
+        }
+      ], 
+      "term": "Http%3A%2F%2Fdownload.gimp.org%2Fpub%2Fgimp%2Flgm%2F2014%2Fday_1%2F003_Valentina_Pattern_Design_Software%2F003_Valentina_Pattern_Design_Software.ogv", 
+      "roles": [
+        "video"
+      ]
+    }, 
+    {
+      "forms": [
+        "http://download.gimp.org/pub/gimp/lgm/2014/day_1/004_The_Screenless_Office/004_The_Screenless_Office.ogv"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2014.json", 
+          "properties": {
+            "website": [
+              "http://wintermute.org/brendan"
+            ], 
+            "city": [
+              "Leipzig"
+            ], 
+            "title": [
+              "The Screenless Office"
+            ], 
+            "presenter": [
+              "Brendan Howell"
+            ], 
+            "video": [
+              "http://download.gimp.org/pub/gimp/lgm/2014/day_1/004_The_Screenless_Office/004_The_Screenless_Office.ogv"
+            ], 
+            "year": [
+              2014
+            ], 
+            "pdf": [
+              "http://download.gimp.org/pub/gimp/lgm/2014/day_1/004_The_Screenless_Office/004_The_Screenless_Office.pdf"
+            ]
+          }
+        }
+      ], 
+      "term": "Http%3A%2F%2Fdownload.gimp.org%2Fpub%2Fgimp%2Flgm%2F2014%2Fday_1%2F004_The_Screenless_Office%2F004_The_Screenless_Office.ogv", 
+      "roles": [
+        "video"
+      ]
+    }, 
+    {
+      "forms": [
+        "http://download.gimp.org/pub/gimp/lgm/2014/day_1/004_The_Screenless_Office/004_The_Screenless_Office.pdf"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2014.json", 
+          "properties": {
+            "website": [
+              "http://wintermute.org/brendan"
+            ], 
+            "city": [
+              "Leipzig"
+            ], 
+            "title": [
+              "The Screenless Office"
+            ], 
+            "presenter": [
+              "Brendan Howell"
+            ], 
+            "video": [
+              "http://download.gimp.org/pub/gimp/lgm/2014/day_1/004_The_Screenless_Office/004_The_Screenless_Office.ogv"
+            ], 
+            "year": [
+              2014
+            ], 
+            "pdf": [
+              "http://download.gimp.org/pub/gimp/lgm/2014/day_1/004_The_Screenless_Office/004_The_Screenless_Office.pdf"
+            ]
+          }
+        }
+      ], 
+      "term": "Http%3A%2F%2Fdownload.gimp.org%2Fpub%2Fgimp%2Flgm%2F2014%2Fday_1%2F004_The_Screenless_Office%2F004_The_Screenless_Office.pdf", 
+      "roles": [
+        "pdf"
+      ]
+    }, 
+    {
+      "forms": [
+        "http://download.gimp.org/pub/gimp/lgm/2014/day_1/005_State_of_Color_Management/005_State_of_Color_Management.ogv"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2014.json", 
+          "properties": {
+            "city": [
+              "Leipzig"
+            ], 
+            "title": [
+              "State of Color Management"
+            ], 
+            "presenter": [
+              "Chris Murphy"
+            ], 
+            "video": [
+              "http://download.gimp.org/pub/gimp/lgm/2014/day_1/005_State_of_Color_Management/005_State_of_Color_Management.ogv"
+            ], 
+            "year": [
+              2014
+            ], 
+            "pdf": [
+              "http://download.gimp.org/pub/gimp/lgm/2014/day_1/005_State_of_Color_Management/005_State_of_Color_Management.pdf"
+            ]
+          }
+        }
+      ], 
+      "term": "Http%3A%2F%2Fdownload.gimp.org%2Fpub%2Fgimp%2Flgm%2F2014%2Fday_1%2F005_State_of_Color_Management%2F005_State_of_Color_Management.ogv", 
+      "roles": [
+        "video"
+      ]
+    }, 
+    {
+      "forms": [
+        "http://download.gimp.org/pub/gimp/lgm/2014/day_1/005_State_of_Color_Management/005_State_of_Color_Management.pdf"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2014.json", 
+          "properties": {
+            "city": [
+              "Leipzig"
+            ], 
+            "title": [
+              "State of Color Management"
+            ], 
+            "presenter": [
+              "Chris Murphy"
+            ], 
+            "video": [
+              "http://download.gimp.org/pub/gimp/lgm/2014/day_1/005_State_of_Color_Management/005_State_of_Color_Management.ogv"
+            ], 
+            "year": [
+              2014
+            ], 
+            "pdf": [
+              "http://download.gimp.org/pub/gimp/lgm/2014/day_1/005_State_of_Color_Management/005_State_of_Color_Management.pdf"
+            ]
+          }
+        }
+      ], 
+      "term": "Http%3A%2F%2Fdownload.gimp.org%2Fpub%2Fgimp%2Flgm%2F2014%2Fday_1%2F005_State_of_Color_Management%2F005_State_of_Color_Management.pdf", 
+      "roles": [
+        "pdf"
+      ]
+    }, 
+    {
+      "forms": [
+        "http://dustycloud.org"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2011.json", 
+          "properties": {
+            "website": [
+              "http://dustycloud.org"
+            ], 
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "Using Blender for Patent Absurdity / advocacy animations"
+            ], 
+            "presenter": [
+              "Christopher Allan Webber"
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=a7vqqGY-RgU"
+            ], 
+            "year": [
+              2011
+            ]
+          }
+        }
+      ], 
+      "term": "Http%3A%2F%2Fdustycloud.org", 
+      "roles": [
+        "website"
+      ]
+    }, 
+    {
+      "forms": [
+        "http://ericschrijver.nl/"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2011.json", 
+          "properties": {
+            "website": [
+              "http://ericschrijver.nl/"
+            ], 
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "Plain Text: Graphic Design and Programming Culture"
+            ], 
+            "presenter": [
+              "Eric Schrijver"
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=w3kF49gXX5w"
+            ], 
+            "year": [
+              2011
+            ]
+          }
+        }
+      ], 
+      "term": "Http%3A%2F%2Fericschrijver.nl%2F", 
+      "roles": [
+        "website"
+      ]
+    }, 
+    {
+      "forms": [
+        "http://gould.cx/ted/presentations/lgm/"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2007.json", 
+          "properties": {
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "Introduction to the SVG format"
+            ], 
+            "slides": [
+              "http://gould.cx/ted/presentations/lgm/"
+            ], 
+            "presenter": [
+              "Ted Gould"
+            ], 
+            "video": [
+              "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-3-Ted_Gould.ogg"
+            ], 
+            "year": [
+              2007
+            ], 
+            "audio": [
+              "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-3-Ted_Gould.audio.ogg"
+            ]
+          }
+        }
+      ], 
+      "term": "Http%3A%2F%2Fgould.cx%2Fted%2Fpresentations%2Flgm%2F", 
+      "roles": [
+        "slides"
+      ]
+    }, 
+    {
+      "forms": [
+        "http://karl-tux-stadt.de/ktuxs/"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2013.json", 
+          "properties": {
+            "website": [
+              "http://karl-tux-stadt.de/ktuxs/"
+            ], 
+            "city": [
+              "Madrid"
+            ], 
+            "title": [
+              "The Fedora Design Suite - Distribute The Tools"
+            ], 
+            "presenter": [
+              "Sirko Kemter"
+            ], 
+            "video": [
+              "http://medialab-prado.es/mmedia/10/10856/10856.flv"
+            ], 
+            "year": [
+              2013
+            ]
+          }
+        }
+      ], 
+      "term": "Http%3A%2F%2Fkarl-tux-stadt.de%2Fktuxs%2F", 
+      "roles": [
+        "website"
+      ]
+    }, 
+    {
+      "forms": [
+        "http://libregraphicsmag.com"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2011.json", 
+          "properties": {
+            "website": [
+              "http://libregraphicsmag.com"
+            ], 
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "Libre Graphics magazine: A year of fantastic"
+            ], 
+            "presenter": [
+              "Ana Carvalho", 
+              "ginger coons", 
+              "Ricardo Lafuente"
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=BjWCv1iXDJI"
+            ], 
+            "year": [
+              2011
+            ]
+          }
+        }
+      ], 
+      "term": "Http%3A%2F%2Flibregraphicsmag.com", 
+      "roles": [
+        "website"
+      ]
+    }, 
+    {
+      "forms": [
+        "http://lukast.mediablog.sk/log"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2011.json", 
+          "properties": {
+            "website": [
+              "http://lukast.mediablog.sk/log"
+            ], 
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "Krita: Professional Digital Painting"
+            ], 
+            "presenter": [
+              "Luk\u00e1\u0161 Tvrd\u00fd"
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=42lF-GTjx9E"
+            ], 
+            "year": [
+              2011
+            ]
+          }
+        }
+      ], 
+      "term": "Http%3A%2F%2Flukast.mediablog.sk%2Flog", 
+      "roles": [
+        "website"
+      ]
+    }, 
+    {
+      "forms": [
+        "http://medialab-prado.es/mmedia/10/10846/10846.flv"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2013.json", 
+          "properties": {
+            "website": [
+              "http://pycessing.org"
+            ], 
+            "city": [
+              "Madrid"
+            ], 
+            "title": [
+              "PyCessing"
+            ], 
+            "presenter": [
+              "Brendan Howell"
+            ], 
+            "video": [
+              "http://medialab-prado.es/mmedia/10/10846/10846.flv"
+            ], 
+            "year": [
+              2013
+            ]
+          }
+        }
+      ], 
+      "term": "Http%3A%2F%2Fmedialab-prado.es%2Fmmedia%2F10%2F10846%2F10846.flv", 
+      "roles": [
+        "video"
+      ]
+    }, 
+    {
+      "forms": [
+        "http://medialab-prado.es/mmedia/10/10851/10851.flv"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2013.json", 
+          "properties": {
+            "website": [
+              "http://code.sat.qc.ca/tempi"
+            ], 
+            "city": [
+              "Madrid"
+            ], 
+            "title": [
+              "Mikado, a \"Future tool\" for image manipulation with graphs and nodes based on Tempi and GEGL"
+            ], 
+            "presenter": [
+              "Camille Bissuel", 
+              "Cedric G\u00e9my", 
+              "Alexandre Quessy"
+            ], 
+            "video": [
+              "http://medialab-prado.es/mmedia/10/10851/10851.flv"
+            ], 
+            "year": [
+              2013
+            ]
+          }
+        }
+      ], 
+      "term": "Http%3A%2F%2Fmedialab-prado.es%2Fmmedia%2F10%2F10851%2F10851.flv", 
+      "roles": [
+        "video"
+      ]
+    }, 
+    {
+      "forms": [
+        "http://medialab-prado.es/mmedia/10/10856/10856.flv"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2013.json", 
+          "properties": {
+            "website": [
+              "http://karl-tux-stadt.de/ktuxs/"
+            ], 
+            "city": [
+              "Madrid"
+            ], 
+            "title": [
+              "The Fedora Design Suite - Distribute The Tools"
+            ], 
+            "presenter": [
+              "Sirko Kemter"
+            ], 
+            "video": [
+              "http://medialab-prado.es/mmedia/10/10856/10856.flv"
+            ], 
+            "year": [
+              2013
+            ]
+          }
+        }
+      ], 
+      "term": "Http%3A%2F%2Fmedialab-prado.es%2Fmmedia%2F10%2F10856%2F10856.flv", 
+      "roles": [
+        "video"
+      ]
+    }, 
+    {
+      "forms": [
+        "http://medialab-prado.es/mmedia/10/10861/10861.flv"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2013.json", 
+          "properties": {
+            "website": [
+              "http://programalaplaza.medialab-prado.es"
+            ], 
+            "city": [
+              "Madrid"
+            ], 
+            "title": [
+              "Programalaplaza: an online tool to write visual sketches for the Medialab-prado Media facade"
+            ], 
+            "presenter": [
+              "Sergio Gal\u00e1n", 
+              "Victor Diaz"
+            ], 
+            "video": [
+              "http://medialab-prado.es/mmedia/10/10861/10861.flv"
+            ], 
+            "year": [
+              2013
+            ]
+          }
+        }
+      ], 
+      "term": "Http%3A%2F%2Fmedialab-prado.es%2Fmmedia%2F10%2F10861%2F10861.flv", 
+      "roles": [
+        "video"
+      ]
+    }, 
+    {
+      "forms": [
+        "http://medialab-prado.es/mmedia/10/10872/10872.flv"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2013.json", 
+          "properties": {
+            "presenter": [
+              "Femke Snelting", 
+              "Laura Fernandez", 
+              "Marcos Garcia"
+            ], 
+            "year": [
+              2013
+            ], 
+            "video": [
+              "http://medialab-prado.es/mmedia/10/10872/10872.flv"
+            ], 
+            "city": [
+              "Madrid"
+            ], 
+            "title": [
+              "Future Tools"
+            ]
+          }
+        }
+      ], 
+      "term": "Http%3A%2F%2Fmedialab-prado.es%2Fmmedia%2F10%2F10872%2F10872.flv", 
+      "roles": [
+        "video"
+      ]
+    }, 
+    {
+      "forms": [
+        "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-0-Louis_Desjardins.audio.ogg"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2007.json", 
+          "properties": {
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "Opening Talk"
+            ], 
+            "presenter": [
+              "Louis Desjardins"
+            ], 
+            "video": [
+              "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-0-Louis_Desjardins.ogg"
+            ], 
+            "year": [
+              2007
+            ], 
+            "audio": [
+              "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-0-Louis_Desjardins.audio.ogg"
+            ]
+          }
+        }
+      ], 
+      "term": "Http%3A%2F%2Fpeople.xiph.org%2F%7Egiles%2F2007%2Flgm%2FLGM_20070504-0-Louis_Desjardins.audio.ogg", 
+      "roles": [
+        "audio"
+      ]
+    }, 
+    {
+      "forms": [
+        "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-0-Louis_Desjardins.ogg"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2007.json", 
+          "properties": {
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "Opening Talk"
+            ], 
+            "presenter": [
+              "Louis Desjardins"
+            ], 
+            "video": [
+              "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-0-Louis_Desjardins.ogg"
+            ], 
+            "year": [
+              2007
+            ], 
+            "audio": [
+              "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-0-Louis_Desjardins.audio.ogg"
+            ]
+          }
+        }
+      ], 
+      "term": "Http%3A%2F%2Fpeople.xiph.org%2F%7Egiles%2F2007%2Flgm%2FLGM_20070504-0-Louis_Desjardins.ogg", 
+      "roles": [
+        "video"
+      ]
+    }, 
+    {
+      "forms": [
+        "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-2-Louis_Suarez-Potts.audio.ogg"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2007.json", 
+          "properties": {
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "Why open standards matter: The Open Document Format"
+            ], 
+            "presenter": [
+              "Louis Suarez-Potts"
+            ], 
+            "video": [
+              "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-2-Louis_Suarez-Potts.ogg"
+            ], 
+            "year": [
+              2007
+            ], 
+            "audio": [
+              "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-2-Louis_Suarez-Potts.audio.ogg"
+            ]
+          }
+        }
+      ], 
+      "term": "Http%3A%2F%2Fpeople.xiph.org%2F%7Egiles%2F2007%2Flgm%2FLGM_20070504-2-Louis_Suarez-Potts.audio.ogg", 
+      "roles": [
+        "audio"
+      ]
+    }, 
+    {
+      "forms": [
+        "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-2-Louis_Suarez-Potts.ogg"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2007.json", 
+          "properties": {
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "Why open standards matter: The Open Document Format"
+            ], 
+            "presenter": [
+              "Louis Suarez-Potts"
+            ], 
+            "video": [
+              "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-2-Louis_Suarez-Potts.ogg"
+            ], 
+            "year": [
+              2007
+            ], 
+            "audio": [
+              "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-2-Louis_Suarez-Potts.audio.ogg"
+            ]
+          }
+        }
+      ], 
+      "term": "Http%3A%2F%2Fpeople.xiph.org%2F%7Egiles%2F2007%2Flgm%2FLGM_20070504-2-Louis_Suarez-Potts.ogg", 
+      "roles": [
+        "video"
+      ]
+    }, 
+    {
+      "forms": [
+        "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-3-Ted_Gould.audio.ogg"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2007.json", 
+          "properties": {
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "Introduction to the SVG format"
+            ], 
+            "slides": [
+              "http://gould.cx/ted/presentations/lgm/"
+            ], 
+            "presenter": [
+              "Ted Gould"
+            ], 
+            "video": [
+              "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-3-Ted_Gould.ogg"
+            ], 
+            "year": [
+              2007
+            ], 
+            "audio": [
+              "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-3-Ted_Gould.audio.ogg"
+            ]
+          }
+        }
+      ], 
+      "term": "Http%3A%2F%2Fpeople.xiph.org%2F%7Egiles%2F2007%2Flgm%2FLGM_20070504-3-Ted_Gould.audio.ogg", 
+      "roles": [
+        "audio"
+      ]
+    }, 
+    {
+      "forms": [
+        "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-3-Ted_Gould.ogg"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2007.json", 
+          "properties": {
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "Introduction to the SVG format"
+            ], 
+            "slides": [
+              "http://gould.cx/ted/presentations/lgm/"
+            ], 
+            "presenter": [
+              "Ted Gould"
+            ], 
+            "video": [
+              "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-3-Ted_Gould.ogg"
+            ], 
+            "year": [
+              2007
+            ], 
+            "audio": [
+              "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-3-Ted_Gould.audio.ogg"
+            ]
+          }
+        }
+      ], 
+      "term": "Http%3A%2F%2Fpeople.xiph.org%2F%7Egiles%2F2007%2Flgm%2FLGM_20070504-3-Ted_Gould.ogg", 
+      "roles": [
+        "video"
+      ]
+    }, 
+    {
+      "forms": [
+        "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-4-Sikking_Giedroj%C4%87.audio.ogg"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2007.json", 
+          "properties": {
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "Project overview and first results from the OpenUsability GIMP redesign project"
+            ], 
+            "slides": [
+              "http://www.mmiworks.net/eng/publications/2007/05/lgm-gimp-project-overview.html"
+            ], 
+            "presenter": [
+              "Peter Sikking", 
+              "Kamila Giedroj\u0107"
+            ], 
+            "video": [
+              "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-4-Sikking_Giedroj%C4%87.ogg"
+            ], 
+            "year": [
+              2007
+            ], 
+            "audio": [
+              "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-4-Sikking_Giedroj%C4%87.audio.ogg"
+            ]
+          }
+        }
+      ], 
+      "term": "Http%3A%2F%2Fpeople.xiph.org%2F%7Egiles%2F2007%2Flgm%2FLGM_20070504-4-Sikking_Giedroj%25C4%2587.audio.ogg", 
+      "roles": [
+        "audio"
+      ]
+    }, 
+    {
+      "forms": [
+        "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-4-Sikking_Giedroj%C4%87.ogg"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2007.json", 
+          "properties": {
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "Project overview and first results from the OpenUsability GIMP redesign project"
+            ], 
+            "slides": [
+              "http://www.mmiworks.net/eng/publications/2007/05/lgm-gimp-project-overview.html"
+            ], 
+            "presenter": [
+              "Peter Sikking", 
+              "Kamila Giedroj\u0107"
+            ], 
+            "video": [
+              "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-4-Sikking_Giedroj%C4%87.ogg"
+            ], 
+            "year": [
+              2007
+            ], 
+            "audio": [
+              "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-4-Sikking_Giedroj%C4%87.audio.ogg"
+            ]
+          }
+        }
+      ], 
+      "term": "Http%3A%2F%2Fpeople.xiph.org%2F%7Egiles%2F2007%2Flgm%2FLGM_20070504-4-Sikking_Giedroj%25C4%2587.ogg", 
+      "roles": [
+        "video"
+      ]
+    }, 
+    {
+      "forms": [
+        "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-5-Jakub_Steiner.audio.ogg"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2007.json", 
+          "properties": {
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "Creating photo-realistic artwork based on photo reference (Inkscape)"
+            ], 
+            "video": [
+              "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-5-Jakub_Steiner.ogg"
+            ], 
+            "year": [
+              2007
+            ], 
+            "speaker": [
+              "Jakub Steiner"
+            ], 
+            "audio": [
+              "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-5-Jakub_Steiner.audio.ogg"
+            ]
+          }
+        }
+      ], 
+      "term": "Http%3A%2F%2Fpeople.xiph.org%2F%7Egiles%2F2007%2Flgm%2FLGM_20070504-5-Jakub_Steiner.audio.ogg", 
+      "roles": [
+        "audio"
+      ]
+    }, 
+    {
+      "forms": [
+        "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-5-Jakub_Steiner.ogg"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2007.json", 
+          "properties": {
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "Creating photo-realistic artwork based on photo reference (Inkscape)"
+            ], 
+            "video": [
+              "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-5-Jakub_Steiner.ogg"
+            ], 
+            "year": [
+              2007
+            ], 
+            "speaker": [
+              "Jakub Steiner"
+            ], 
+            "audio": [
+              "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-5-Jakub_Steiner.audio.ogg"
+            ]
+          }
+        }
+      ], 
+      "term": "Http%3A%2F%2Fpeople.xiph.org%2F%7Egiles%2F2007%2Flgm%2FLGM_20070504-5-Jakub_Steiner.ogg", 
+      "roles": [
+        "video"
+      ]
+    }, 
+    {
+      "forms": [
+        "http://programalaplaza.medialab-prado.es"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2013.json", 
+          "properties": {
+            "website": [
+              "http://programalaplaza.medialab-prado.es"
+            ], 
+            "city": [
+              "Madrid"
+            ], 
+            "title": [
+              "Programalaplaza: an online tool to write visual sketches for the Medialab-prado Media facade"
+            ], 
+            "presenter": [
+              "Sergio Gal\u00e1n", 
+              "Victor Diaz"
+            ], 
+            "video": [
+              "http://medialab-prado.es/mmedia/10/10861/10861.flv"
+            ], 
+            "year": [
+              2013
+            ]
+          }
+        }
+      ], 
+      "term": "Http%3A%2F%2Fprogramalaplaza.medialab-prado.es", 
+      "roles": [
+        "website"
+      ]
+    }, 
+    {
+      "forms": [
+        "http://pycessing.org"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2013.json", 
+          "properties": {
+            "website": [
+              "http://pycessing.org"
+            ], 
+            "city": [
+              "Madrid"
+            ], 
+            "title": [
+              "PyCessing"
+            ], 
+            "presenter": [
+              "Brendan Howell"
+            ], 
+            "video": [
+              "http://medialab-prado.es/mmedia/10/10846/10846.flv"
+            ], 
+            "year": [
+              2013
+            ]
+          }
+        }
+      ], 
+      "term": "Http%3A%2F%2Fpycessing.org", 
+      "roles": [
+        "website"
+      ]
+    }, 
+    {
+      "forms": [
+        "http://wintermute.org/brendan"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2014.json", 
+          "properties": {
+            "website": [
+              "http://wintermute.org/brendan"
+            ], 
+            "city": [
+              "Leipzig"
+            ], 
+            "title": [
+              "The Screenless Office"
+            ], 
+            "presenter": [
+              "Brendan Howell"
+            ], 
+            "video": [
+              "http://download.gimp.org/pub/gimp/lgm/2014/day_1/004_The_Screenless_Office/004_The_Screenless_Office.ogv"
+            ], 
+            "year": [
+              2014
+            ], 
+            "pdf": [
+              "http://download.gimp.org/pub/gimp/lgm/2014/day_1/004_The_Screenless_Office/004_The_Screenless_Office.pdf"
+            ]
+          }
+        }
+      ], 
+      "term": "Http%3A%2F%2Fwintermute.org%2Fbrendan", 
+      "roles": [
+        "website"
+      ]
+    }, 
+    {
+      "forms": [
+        "http://www.hughsie.com"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2011.json", 
+          "properties": {
+            "website": [
+              "http://www.hughsie.com"
+            ], 
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "Making color management \u201cjust work\u201d using colord"
+            ], 
+            "presenter": [
+              "Richard Hughes"
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=iLpGOIK4c84"
+            ], 
+            "year": [
+              2011
+            ]
+          }
+        }
+      ], 
+      "term": "Http%3A%2F%2Fwww.hughsie.com", 
+      "roles": [
+        "website"
+      ]
+    }, 
+    {
+      "forms": [
+        "http://www.mmiworks.net/eng/publications/2007/05/lgm-gimp-project-overview.html"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2007.json", 
+          "properties": {
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "Project overview and first results from the OpenUsability GIMP redesign project"
+            ], 
+            "slides": [
+              "http://www.mmiworks.net/eng/publications/2007/05/lgm-gimp-project-overview.html"
+            ], 
+            "presenter": [
+              "Peter Sikking", 
+              "Kamila Giedroj\u0107"
+            ], 
+            "video": [
+              "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-4-Sikking_Giedroj%C4%87.ogg"
+            ], 
+            "year": [
+              2007
+            ], 
+            "audio": [
+              "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-4-Sikking_Giedroj%C4%87.audio.ogg"
+            ]
+          }
+        }
+      ], 
+      "term": "Http%3A%2F%2Fwww.mmiworks.net%2Feng%2Fpublications%2F2007%2F05%2Flgm-gimp-project-overview.html", 
+      "roles": [
+        "slides"
+      ]
+    }, 
+    {
+      "forms": [
+        "http://www.oyranos.org"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2011.json", 
+          "properties": {
+            "website": [
+              "http://www.oyranos.org"
+            ], 
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "Connecting Device Calibration to ICC Profiles"
+            ], 
+            "presenter": [
+              "Kai-Uwe Behrmann"
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=7Cfvf9PiMts"
+            ], 
+            "year": [
+              2011
+            ]
+          }
+        }
+      ], 
+      "term": "Http%3A%2F%2Fwww.oyranos.org", 
+      "roles": [
+        "website"
+      ]
+    }, 
+    {
+      "forms": [
+        "http://www.valentina-project.org"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2014.json", 
+          "properties": {
+            "website": [
+              "http://www.valentina-project.org"
+            ], 
+            "city": [
+              "Leipzig"
+            ], 
+            "title": [
+              "Valentina Pattern Design Software"
+            ], 
+            "presenter": [
+              "Roman Telezhinsky"
+            ], 
+            "video": [
+              "http://download.gimp.org/pub/gimp/lgm/2014/day_1/003_Valentina_Pattern_Design_Software/003_Valentina_Pattern_Design_Software.ogv"
+            ], 
+            "year": [
+              2014
+            ]
+          }
+        }
+      ], 
+      "term": "Http%3A%2F%2Fwww.valentina-project.org", 
+      "roles": [
+        "website"
+      ]
+    }, 
+    {
+      "forms": [
+        "https://www.youtube.com/watch?v=42lF-GTjx9E"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2011.json", 
+          "properties": {
+            "website": [
+              "http://lukast.mediablog.sk/log"
+            ], 
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "Krita: Professional Digital Painting"
+            ], 
+            "presenter": [
+              "Luk\u00e1\u0161 Tvrd\u00fd"
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=42lF-GTjx9E"
+            ], 
+            "year": [
+              2011
+            ]
+          }
+        }
+      ], 
+      "term": "Https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D42lF-GTjx9E", 
+      "roles": [
+        "video"
+      ]
+    }, 
+    {
+      "forms": [
+        "https://www.youtube.com/watch?v=7Cfvf9PiMts"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2011.json", 
+          "properties": {
+            "website": [
+              "http://www.oyranos.org"
+            ], 
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "Connecting Device Calibration to ICC Profiles"
+            ], 
+            "presenter": [
+              "Kai-Uwe Behrmann"
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=7Cfvf9PiMts"
+            ], 
+            "year": [
+              2011
+            ]
+          }
+        }
+      ], 
+      "term": "Https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D7Cfvf9PiMts", 
+      "roles": [
+        "video"
+      ]
+    }, 
+    {
+      "forms": [
+        "https://www.youtube.com/watch?v=9EL-mgiEBq0"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2012.json", 
+          "properties": {
+            "presenter": [
+              "Kai-Uwe Behrmann"
+            ], 
+            "year": [
+              2012
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=9EL-mgiEBq0"
+            ], 
+            "city": [
+              "Vienna"
+            ], 
+            "title": [
+              "Evolving Concepts for Colour Management"
+            ]
+          }
+        }
+      ], 
+      "term": "Https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D9EL-mgiEBq0", 
+      "roles": [
+        "video"
+      ]
+    }, 
+    {
+      "forms": [
+        "https://www.youtube.com/watch?v=BjWCv1iXDJI"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2011.json", 
+          "properties": {
+            "website": [
+              "http://libregraphicsmag.com"
+            ], 
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "Libre Graphics magazine: A year of fantastic"
+            ], 
+            "presenter": [
+              "Ana Carvalho", 
+              "ginger coons", 
+              "Ricardo Lafuente"
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=BjWCv1iXDJI"
+            ], 
+            "year": [
+              2011
+            ]
+          }
+        }
+      ], 
+      "term": "Https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DBjWCv1iXDJI", 
+      "roles": [
+        "video"
+      ]
+    }, 
+    {
+      "forms": [
+        "https://www.youtube.com/watch?v=D-kbH_ZVMmk"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2010.json", 
+          "properties": {
+            "city": [
+              "Brussel"
+            ], 
+            "title": [
+              "A first outline for a UI for a fully GEGLed GIMP"
+            ], 
+            "detail": [
+              "index.php-p=en|talk|gegled_gui.html"
+            ], 
+            "presenter": [
+              "Peter Sikking"
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=D-kbH_ZVMmk"
+            ], 
+            "year": [
+              2010
+            ]
+          }
+        }
+      ], 
+      "term": "Https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DD-kbH_ZVMmk", 
+      "roles": [
+        "video"
+      ]
+    }, 
+    {
+      "forms": [
+        "https://www.youtube.com/watch?v=GVH3ykJiNt0"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2012.json", 
+          "properties": {
+            "presenter": [
+              "Richard Hughes"
+            ], 
+            "year": [
+              2012
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=GVH3ykJiNt0"
+            ], 
+            "city": [
+              "Vienna"
+            ], 
+            "title": [
+              "ColorHug - The Open Hardware Colorimeter"
+            ]
+          }
+        }
+      ], 
+      "term": "Https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DGVH3ykJiNt0", 
+      "roles": [
+        "video"
+      ]
+    }, 
+    {
+      "forms": [
+        "https://www.youtube.com/watch?v=H8eLAs2UgIU"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2008.json", 
+          "properties": {
+            "presenter": [
+              "\u00d8yvind Kol\u00e5s"
+            ], 
+            "year": [
+              2008
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=H8eLAs2UgIU"
+            ], 
+            "city": [
+              "Wroc\u0142aw"
+            ], 
+            "title": [
+              "Extending GEGL with new operations and an introduction to GeglBuffers, the functionality offered by them and their underlying mechanisms."
+            ]
+          }
+        }
+      ], 
+      "term": "Https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DH8eLAs2UgIU", 
+      "roles": [
+        "video"
+      ]
+    }, 
+    {
+      "forms": [
+        "https://www.youtube.com/watch?v=KBdpQ-daaJ8"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2012.json", 
+          "properties": {
+            "video": [
+              "https://www.youtube.com/watch?v=KBdpQ-daaJ8"
+            ], 
+            "year": [
+              2012
+            ], 
+            "speaker": [
+              "Kai-Uwe Behrmann"
+            ], 
+            "city": [
+              "Vienna"
+            ], 
+            "title": [
+              "Colour Management a la Greek"
+            ]
+          }
+        }
+      ], 
+      "term": "Https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DKBdpQ-daaJ8", 
+      "roles": [
+        "video"
+      ]
+    }, 
+    {
+      "forms": [
+        "https://www.youtube.com/watch?v=KYB4AqUOuMI"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2009.json", 
+          "properties": {
+            "presenter": [
+              "Jon Cruz"
+            ], 
+            "year": [
+              2009
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=KYB4AqUOuMI"
+            ], 
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "Why Color Management matters to Open Source and to You"
+            ]
+          }
+        }
+      ], 
+      "term": "Https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DKYB4AqUOuMI", 
+      "roles": [
+        "video"
+      ]
+    }, 
+    {
+      "forms": [
+        "https://www.youtube.com/watch?v=Ltd-drYVwJQ"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2010.json", 
+          "properties": {
+            "city": [
+              "Brussel"
+            ], 
+            "title": [
+              "Welcome to LGM 2010"
+            ], 
+            "detail": [
+              "index.php-p=en|talk|welcome.html"
+            ], 
+            "presenter": [
+              "Louis Desjardin", 
+              "Femke Snelting"
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=Ltd-drYVwJQ"
+            ], 
+            "year": [
+              2010
+            ]
+          }
+        }
+      ], 
+      "term": "Https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DLtd-drYVwJQ", 
+      "roles": [
+        "video"
+      ]
+    }, 
+    {
+      "forms": [
+        "https://www.youtube.com/watch?v=MPE8HbjmE5A"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2009.json", 
+          "properties": {
+            "presenter": [
+              "S\u00e9bastien Roy"
+            ], 
+            "year": [
+              2009
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=MPE8HbjmE5A"
+            ], 
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "Multi-projector immersive displays: the LightTwist project"
+            ]
+          }
+        }
+      ], 
+      "term": "Https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DMPE8HbjmE5A", 
+      "roles": [
+        "video"
+      ]
+    }, 
+    {
+      "forms": [
+        "https://www.youtube.com/watch?v=NiW0qAk-SNo"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2008.json", 
+          "properties": {
+            "presenter": [
+              "Harrisson", 
+              "Pierre Huyghebaert", 
+              "Femke Snelting", 
+              "Nicolas Malev\u00e9"
+            ], 
+            "year": [
+              2008
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=NiW0qAk-SNo"
+            ], 
+            "city": [
+              "Wroc\u0142aw"
+            ], 
+            "title": [
+              "Designing with free software"
+            ]
+          }
+        }
+      ], 
+      "term": "Https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DNiW0qAk-SNo", 
+      "roles": [
+        "video"
+      ]
+    }, 
+    {
+      "forms": [
+        "https://www.youtube.com/watch?v=a7vqqGY-RgU"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2011.json", 
+          "properties": {
+            "website": [
+              "http://dustycloud.org"
+            ], 
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "Using Blender for Patent Absurdity / advocacy animations"
+            ], 
+            "presenter": [
+              "Christopher Allan Webber"
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=a7vqqGY-RgU"
+            ], 
+            "year": [
+              2011
+            ]
+          }
+        }
+      ], 
+      "term": "Https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Da7vqqGY-RgU", 
+      "roles": [
+        "video"
+      ]
+    }, 
+    {
+      "forms": [
+        "https://www.youtube.com/watch?v=aPscMEgOI-4"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2009.json", 
+          "properties": {
+            "presenter": [
+              "Benoit St-Andr\u00e9"
+            ], 
+            "year": [
+              2009
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=aPscMEgOI-4"
+            ], 
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "LTSP and graphics applications"
+            ]
+          }
+        }
+      ], 
+      "term": "Https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DaPscMEgOI-4", 
+      "roles": [
+        "video"
+      ]
+    }, 
+    {
+      "forms": [
+        "https://www.youtube.com/watch?v=anVRFuxqrgo"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2010.json", 
+          "properties": {
+            "city": [
+              "Brussel"
+            ], 
+            "title": [
+              "Writing GIMP scripts and plugins"
+            ], 
+            "detail": [
+              "index.php-p=en|talk|gimp_script_plugin.html"
+            ], 
+            "presenter": [
+              "Akkana Peck"
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=anVRFuxqrgo"
+            ], 
+            "year": [
+              2010
+            ]
+          }
+        }
+      ], 
+      "term": "Https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DanVRFuxqrgo", 
+      "roles": [
+        "video"
+      ]
+    }, 
+    {
+      "forms": [
+        "https://www.youtube.com/watch?v=dFJbNJy9NDs"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2009.json", 
+          "properties": {
+            "presenter": [
+              "Michael Terry"
+            ], 
+            "year": [
+              2009
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=dFJbNJy9NDs"
+            ], 
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "ingimp: A Smorgasbord of Usability, Adaptive UIs, and Visually Arresting Graphic Design for 2009"
+            ]
+          }
+        }
+      ], 
+      "term": "Https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdFJbNJy9NDs", 
+      "roles": [
+        "video"
+      ]
+    }, 
+    {
+      "forms": [
+        "https://www.youtube.com/watch?v=e2J3k_S1eb0"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2012.json", 
+          "properties": {
+            "presenter": [
+              "Chris Lilley"
+            ], 
+            "year": [
+              2012
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=e2J3k_S1eb0"
+            ], 
+            "city": [
+              "Vienna"
+            ], 
+            "title": [
+              "Color Management in SVG2"
+            ]
+          }
+        }
+      ], 
+      "term": "Https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3De2J3k_S1eb0", 
+      "roles": [
+        "video"
+      ]
+    }, 
+    {
+      "forms": [
+        "https://www.youtube.com/watch?v=fWqCyRdSVD4"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2009.json", 
+          "properties": {
+            "presenter": [
+              "Stani Michiels"
+            ], 
+            "year": [
+              2009
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=fWqCyRdSVD4"
+            ], 
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "How to make money with free software..."
+            ]
+          }
+        }
+      ], 
+      "term": "Https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DfWqCyRdSVD4", 
+      "roles": [
+        "video"
+      ]
+    }, 
+    {
+      "forms": [
+        "https://www.youtube.com/watch?v=gzTyVkHsdjo"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2012.json", 
+          "properties": {
+            "presenter": [
+              "Richard Hughes"
+            ], 
+            "year": [
+              2012
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=gzTyVkHsdjo"
+            ], 
+            "city": [
+              "Vienna"
+            ], 
+            "title": [
+              "colord - Linux Color Management Framework, One Year On"
+            ]
+          }
+        }
+      ], 
+      "term": "Https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DgzTyVkHsdjo", 
+      "roles": [
+        "video"
+      ]
+    }, 
+    {
+      "forms": [
+        "https://www.youtube.com/watch?v=iLpGOIK4c84"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2011.json", 
+          "properties": {
+            "website": [
+              "http://www.hughsie.com"
+            ], 
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "Making color management \u201cjust work\u201d using colord"
+            ], 
+            "presenter": [
+              "Richard Hughes"
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=iLpGOIK4c84"
+            ], 
+            "year": [
+              2011
+            ]
+          }
+        }
+      ], 
+      "term": "Https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DiLpGOIK4c84", 
+      "roles": [
+        "video"
+      ]
+    }, 
+    {
+      "forms": [
+        "https://www.youtube.com/watch?v=qfWj2LKisKA"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2008.json", 
+          "properties": {
+            "presenter": [
+              "Pablo d'Angelo"
+            ], 
+            "year": [
+              2008
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=qfWj2LKisKA"
+            ], 
+            "city": [
+              "Wroc\u0142aw"
+            ], 
+            "title": [
+              "Presentation about Hugin"
+            ]
+          }
+        }
+      ], 
+      "term": "Https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DqfWj2LKisKA", 
+      "roles": [
+        "video"
+      ]
+    }, 
+    {
+      "forms": [
+        "https://www.youtube.com/watch?v=w3kF49gXX5w"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2011.json", 
+          "properties": {
+            "website": [
+              "http://ericschrijver.nl/"
+            ], 
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "Plain Text: Graphic Design and Programming Culture"
+            ], 
+            "presenter": [
+              "Eric Schrijver"
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=w3kF49gXX5w"
+            ], 
+            "year": [
+              2011
+            ]
+          }
+        }
+      ], 
+      "term": "Https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dw3kF49gXX5w", 
+      "roles": [
+        "video"
+      ]
+    }, 
+    {
+      "forms": [
+        "https://www.youtube.com/watch?v=w91EDcU75Qw"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2008.json", 
+          "properties": {
+            "presenter": [
+              "Stani"
+            ], 
+            "year": [
+              2008
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=w91EDcU75Qw"
+            ], 
+            "city": [
+              "Wroc\u0142aw"
+            ], 
+            "title": [
+              "Presentation about Phatch - GUI Photo Batch Processor"
+            ]
+          }
+        }
+      ], 
+      "term": "Https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dw91EDcU75Qw", 
+      "roles": [
+        "video"
+      ]
+    }, 
+    {
+      "forms": [
+        "https://www.youtube.com/watch?v=ybI5HBlPTzI"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2010.json", 
+          "properties": {
+            "city": [
+              "Brussel"
+            ], 
+            "title": [
+              "Extending Python for Speed"
+            ], 
+            "detail": [
+              "index.php-p=en|talk|extending_python_for_speed.html"
+            ], 
+            "presenter": [
+              "Martin Renold"
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=ybI5HBlPTzI"
+            ], 
+            "year": [
+              2010
+            ]
+          }
+        }
+      ], 
+      "term": "Https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DybI5HBlPTzI", 
+      "roles": [
+        "video"
+      ]
+    }, 
+    {
+      "forms": [
+        "Igor Novikov"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2008.json", 
+          "properties": {
+            "presenter": [
+              "Igor Novikov", 
+              "Vladimir Korenev"
+            ], 
+            "year": [
+              2008
+            ], 
+            "city": [
+              "Wroc\u0142aw"
+            ], 
+            "title": [
+              "About sK1 and UniConvertor"
+            ]
+          }
+        }
+      ], 
+      "term": "Igor_Novikov", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "index.php-p=en|talk|extending_python_for_speed.html"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2010.json", 
+          "properties": {
+            "city": [
+              "Brussel"
+            ], 
+            "title": [
+              "Extending Python for Speed"
+            ], 
+            "detail": [
+              "index.php-p=en|talk|extending_python_for_speed.html"
+            ], 
+            "presenter": [
+              "Martin Renold"
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=ybI5HBlPTzI"
+            ], 
+            "year": [
+              2010
+            ]
+          }
+        }
+      ], 
+      "term": "Index.php-p%3Den%7Ctalk%7Cextending_python_for_speed.html", 
+      "roles": [
+        "detail"
+      ]
+    }, 
+    {
+      "forms": [
+        "index.php-p=en|talk|gegled_gui.html"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2010.json", 
+          "properties": {
+            "city": [
+              "Brussel"
+            ], 
+            "title": [
+              "A first outline for a UI for a fully GEGLed GIMP"
+            ], 
+            "detail": [
+              "index.php-p=en|talk|gegled_gui.html"
+            ], 
+            "presenter": [
+              "Peter Sikking"
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=D-kbH_ZVMmk"
+            ], 
+            "year": [
+              2010
+            ]
+          }
+        }
+      ], 
+      "term": "Index.php-p%3Den%7Ctalk%7Cgegled_gui.html", 
+      "roles": [
+        "detail"
+      ]
+    }, 
+    {
+      "forms": [
+        "index.php-p=en|talk|gimp_script_plugin.html"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2010.json", 
+          "properties": {
+            "city": [
+              "Brussel"
+            ], 
+            "title": [
+              "Writing GIMP scripts and plugins"
+            ], 
+            "detail": [
+              "index.php-p=en|talk|gimp_script_plugin.html"
+            ], 
+            "presenter": [
+              "Akkana Peck"
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=anVRFuxqrgo"
+            ], 
+            "year": [
+              2010
+            ]
+          }
+        }
+      ], 
+      "term": "Index.php-p%3Den%7Ctalk%7Cgimp_script_plugin.html", 
+      "roles": [
+        "detail"
+      ]
+    }, 
+    {
+      "forms": [
+        "index.php-p=en|talk|nathive.html"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2010.json", 
+          "properties": {
+            "presenter": [
+              "Marcos Diaz"
+            ], 
+            "year": [
+              2010
+            ], 
+            "city": [
+              "Brussel"
+            ], 
+            "detail": [
+              "index.php-p=en|talk|nathive.html"
+            ], 
+            "title": [
+              "The Nathive image editor, its plugin system and some Python-based implemented technologies"
+            ]
+          }
+        }
+      ], 
+      "term": "Index.php-p%3Den%7Ctalk%7Cnathive.html", 
+      "roles": [
+        "detail"
+      ]
+    }, 
+    {
+      "forms": [
+        "index.php-p=en|talk|welcome.html"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2010.json", 
+          "properties": {
+            "city": [
+              "Brussel"
+            ], 
+            "title": [
+              "Welcome to LGM 2010"
+            ], 
+            "detail": [
+              "index.php-p=en|talk|welcome.html"
+            ], 
+            "presenter": [
+              "Louis Desjardin", 
+              "Femke Snelting"
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=Ltd-drYVwJQ"
+            ], 
+            "year": [
+              2010
+            ]
+          }
+        }
+      ], 
+      "term": "Index.php-p%3Den%7Ctalk%7Cwelcome.html", 
+      "roles": [
+        "detail"
+      ]
+    }, 
+    {
+      "forms": [
+        "ingimp: A Smorgasbord of Usability, Adaptive UIs, and Visually Arresting Graphic Design for 2009"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2009.json", 
+          "properties": {
+            "presenter": [
+              "Michael Terry"
+            ], 
+            "year": [
+              2009
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=dFJbNJy9NDs"
+            ], 
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "ingimp: A Smorgasbord of Usability, Adaptive UIs, and Visually Arresting Graphic Design for 2009"
+            ]
+          }
+        }
+      ], 
+      "term": "Ingimp%3A_A_Smorgasbord_of_Usability%2C_Adaptive_UIs%2C_and_Visually_Arresting_Graphic_Design_for_2009", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Introduction to the SVG format"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2007.json", 
+          "properties": {
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "Introduction to the SVG format"
+            ], 
+            "slides": [
+              "http://gould.cx/ted/presentations/lgm/"
+            ], 
+            "presenter": [
+              "Ted Gould"
+            ], 
+            "video": [
+              "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-3-Ted_Gould.ogg"
+            ], 
+            "year": [
+              2007
+            ], 
+            "audio": [
+              "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-3-Ted_Gould.audio.ogg"
+            ]
+          }
+        }
+      ], 
+      "term": "Introduction_to_the_SVG_format", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Jakub Steiner"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2007.json", 
+          "properties": {
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "Creating photo-realistic artwork based on photo reference (Inkscape)"
+            ], 
+            "video": [
+              "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-5-Jakub_Steiner.ogg"
+            ], 
+            "year": [
+              2007
+            ], 
+            "speaker": [
+              "Jakub Steiner"
+            ], 
+            "audio": [
+              "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-5-Jakub_Steiner.audio.ogg"
+            ]
+          }
+        }
+      ], 
+      "term": "Jakub_Steiner", 
+      "roles": [
+        "speaker"
+      ]
+    }, 
+    {
+      "forms": [
+        "Jon Cruz"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2009.json", 
+          "properties": {
+            "presenter": [
+              "Jon Cruz"
+            ], 
+            "year": [
+              2009
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=KYB4AqUOuMI"
+            ], 
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "Why Color Management matters to Open Source and to You"
+            ]
+          }
+        }
+      ], 
+      "term": "Jon_Cruz", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Kai-Uwe Behrmann"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2012.json", 
+          "properties": {
+            "presenter": [
+              "Kai-Uwe Behrmann"
+            ], 
+            "year": [
+              2012
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=9EL-mgiEBq0"
+            ], 
+            "city": [
+              "Vienna"
+            ], 
+            "title": [
+              "Evolving Concepts for Colour Management"
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/program_2012.json", 
+          "properties": {
+            "video": [
+              "https://www.youtube.com/watch?v=KBdpQ-daaJ8"
+            ], 
+            "year": [
+              2012
+            ], 
+            "speaker": [
+              "Kai-Uwe Behrmann"
+            ], 
+            "city": [
+              "Vienna"
+            ], 
+            "title": [
+              "Colour Management a la Greek"
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/program_2011.json", 
+          "properties": {
+            "website": [
+              "http://www.oyranos.org"
+            ], 
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "Connecting Device Calibration to ICC Profiles"
+            ], 
+            "presenter": [
+              "Kai-Uwe Behrmann"
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=7Cfvf9PiMts"
+            ], 
+            "year": [
+              2011
+            ]
+          }
+        }
+      ], 
+      "term": "Kai-Uwe_Behrmann", 
+      "roles": [
+        "presenter", 
+        "speaker"
+      ]
+    }, 
+    {
+      "forms": [
+        "Kamila Giedroj\u0107"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2007.json", 
+          "properties": {
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "Project overview and first results from the OpenUsability GIMP redesign project"
+            ], 
+            "slides": [
+              "http://www.mmiworks.net/eng/publications/2007/05/lgm-gimp-project-overview.html"
+            ], 
+            "presenter": [
+              "Peter Sikking", 
+              "Kamila Giedroj\u0107"
+            ], 
+            "video": [
+              "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-4-Sikking_Giedroj%C4%87.ogg"
+            ], 
+            "year": [
+              2007
+            ], 
+            "audio": [
+              "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-4-Sikking_Giedroj%C4%87.audio.ogg"
+            ]
+          }
+        }
+      ], 
+      "term": "Kamila_Giedroj%C4%87", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Krita: Professional Digital Painting"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2011.json", 
+          "properties": {
+            "website": [
+              "http://lukast.mediablog.sk/log"
+            ], 
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "Krita: Professional Digital Painting"
+            ], 
+            "presenter": [
+              "Luk\u00e1\u0161 Tvrd\u00fd"
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=42lF-GTjx9E"
+            ], 
+            "year": [
+              2011
+            ]
+          }
+        }
+      ], 
+      "term": "Krita%3A_Professional_Digital_Painting", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "LTSP and graphics applications"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2009.json", 
+          "properties": {
+            "presenter": [
+              "Benoit St-Andr\u00e9"
+            ], 
+            "year": [
+              2009
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=aPscMEgOI-4"
+            ], 
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "LTSP and graphics applications"
+            ]
+          }
+        }
+      ], 
+      "term": "LTSP_and_graphics_applications", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Laura Fernandez"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2013.json", 
+          "properties": {
+            "presenter": [
+              "Femke Snelting", 
+              "Laura Fernandez", 
+              "Marcos Garcia"
+            ], 
+            "year": [
+              2013
+            ], 
+            "video": [
+              "http://medialab-prado.es/mmedia/10/10872/10872.flv"
+            ], 
+            "city": [
+              "Madrid"
+            ], 
+            "title": [
+              "Future Tools"
+            ]
+          }
+        }
+      ], 
+      "term": "Laura_Fernandez", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Leipzig"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2014.json", 
+          "properties": {
+            "pdf": [
+              "http://download.gimp.org/pub/gimp/lgm/2014/day_1/001_State_of_Libre_Graphics/001_State_of_Libre_Graphics.pdf"
+            ], 
+            "year": [
+              2014
+            ], 
+            "video": [
+              "http://download.gimp.org/pub/gimp/lgm/2014/day_1/001_State_of_Libre_Graphics/001_State_of_Libre_Graphics.ogv"
+            ], 
+            "city": [
+              "Leipzig"
+            ], 
+            "title": [
+              "State of Libre Graphics"
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/program_2014.json", 
+          "properties": {
+            "presenter": [
+              "Nathan Willis"
+            ], 
+            "year": [
+              2014
+            ], 
+            "video": [
+              "http://download.gimp.org/pub/gimp/lgm/2014/day_1/002_Where_the_Users_Are/002_Where_the_Users_Are.ogv\n"
+            ], 
+            "city": [
+              "Leipzig"
+            ], 
+            "title": [
+              "Where The Users Are"
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/program_2014.json", 
+          "properties": {
+            "website": [
+              "http://www.valentina-project.org"
+            ], 
+            "city": [
+              "Leipzig"
+            ], 
+            "title": [
+              "Valentina Pattern Design Software"
+            ], 
+            "presenter": [
+              "Roman Telezhinsky"
+            ], 
+            "video": [
+              "http://download.gimp.org/pub/gimp/lgm/2014/day_1/003_Valentina_Pattern_Design_Software/003_Valentina_Pattern_Design_Software.ogv"
+            ], 
+            "year": [
+              2014
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/program_2014.json", 
+          "properties": {
+            "website": [
+              "http://wintermute.org/brendan"
+            ], 
+            "city": [
+              "Leipzig"
+            ], 
+            "title": [
+              "The Screenless Office"
+            ], 
+            "presenter": [
+              "Brendan Howell"
+            ], 
+            "video": [
+              "http://download.gimp.org/pub/gimp/lgm/2014/day_1/004_The_Screenless_Office/004_The_Screenless_Office.ogv"
+            ], 
+            "year": [
+              2014
+            ], 
+            "pdf": [
+              "http://download.gimp.org/pub/gimp/lgm/2014/day_1/004_The_Screenless_Office/004_The_Screenless_Office.pdf"
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/program_2014.json", 
+          "properties": {
+            "city": [
+              "Leipzig"
+            ], 
+            "title": [
+              "State of Color Management"
+            ], 
+            "presenter": [
+              "Chris Murphy"
+            ], 
+            "video": [
+              "http://download.gimp.org/pub/gimp/lgm/2014/day_1/005_State_of_Color_Management/005_State_of_Color_Management.ogv"
+            ], 
+            "year": [
+              2014
+            ], 
+            "pdf": [
+              "http://download.gimp.org/pub/gimp/lgm/2014/day_1/005_State_of_Color_Management/005_State_of_Color_Management.pdf"
+            ]
+          }
+        }
+      ], 
+      "term": "Leipzig", 
+      "roles": [
+        "city"
+      ]
+    }, 
+    {
+      "forms": [
+        "Libre Graphics magazine: A year of fantastic"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2011.json", 
+          "properties": {
+            "website": [
+              "http://libregraphicsmag.com"
+            ], 
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "Libre Graphics magazine: A year of fantastic"
+            ], 
+            "presenter": [
+              "Ana Carvalho", 
+              "ginger coons", 
+              "Ricardo Lafuente"
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=BjWCv1iXDJI"
+            ], 
+            "year": [
+              2011
+            ]
+          }
+        }
+      ], 
+      "term": "Libre_Graphics_magazine%3A_A_year_of_fantastic", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Louis Desjardin"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2010.json", 
+          "properties": {
+            "city": [
+              "Brussel"
+            ], 
+            "title": [
+              "Welcome to LGM 2010"
+            ], 
+            "detail": [
+              "index.php-p=en|talk|welcome.html"
+            ], 
+            "presenter": [
+              "Louis Desjardin", 
+              "Femke Snelting"
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=Ltd-drYVwJQ"
+            ], 
+            "year": [
+              2010
+            ]
+          }
+        }
+      ], 
+      "term": "Louis_Desjardin", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Louis Desjardins"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2012.json", 
+          "properties": {
+            "presenter": [
+              "Louis Desjardins"
+            ], 
+            "year": [
+              2012
+            ], 
+            "city": [
+              "Vienna"
+            ], 
+            "title": [
+              "Opening Talk"
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/program_2007.json", 
+          "properties": {
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "Opening Talk"
+            ], 
+            "presenter": [
+              "Louis Desjardins"
+            ], 
+            "video": [
+              "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-0-Louis_Desjardins.ogg"
+            ], 
+            "year": [
+              2007
+            ], 
+            "audio": [
+              "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-0-Louis_Desjardins.audio.ogg"
+            ]
+          }
+        }
+      ], 
+      "term": "Louis_Desjardins", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Louis Suarez-Potts"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2007.json", 
+          "properties": {
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "Why open standards matter: The Open Document Format"
+            ], 
+            "presenter": [
+              "Louis Suarez-Potts"
+            ], 
+            "video": [
+              "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-2-Louis_Suarez-Potts.ogg"
+            ], 
+            "year": [
+              2007
+            ], 
+            "audio": [
+              "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-2-Louis_Suarez-Potts.audio.ogg"
+            ]
+          }
+        }
+      ], 
+      "term": "Louis_Suarez-Potts", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Luk\u00e1\u0161 Tvrd\u00fd"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2011.json", 
+          "properties": {
+            "website": [
+              "http://lukast.mediablog.sk/log"
+            ], 
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "Krita: Professional Digital Painting"
+            ], 
+            "presenter": [
+              "Luk\u00e1\u0161 Tvrd\u00fd"
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=42lF-GTjx9E"
+            ], 
+            "year": [
+              2011
+            ]
+          }
+        }
+      ], 
+      "term": "Luk%C3%A1%C5%A1_Tvrd%C3%BD", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Madrid"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2013.json", 
+          "properties": {
+            "presenter": [
+              "Femke Snelting", 
+              "Laura Fernandez", 
+              "Marcos Garcia"
+            ], 
+            "year": [
+              2013
+            ], 
+            "video": [
+              "http://medialab-prado.es/mmedia/10/10872/10872.flv"
+            ], 
+            "city": [
+              "Madrid"
+            ], 
+            "title": [
+              "Future Tools"
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/program_2013.json", 
+          "properties": {
+            "website": [
+              "http://programalaplaza.medialab-prado.es"
+            ], 
+            "city": [
+              "Madrid"
+            ], 
+            "title": [
+              "Programalaplaza: an online tool to write visual sketches for the Medialab-prado Media facade"
+            ], 
+            "presenter": [
+              "Sergio Gal\u00e1n", 
+              "Victor Diaz"
+            ], 
+            "video": [
+              "http://medialab-prado.es/mmedia/10/10861/10861.flv"
+            ], 
+            "year": [
+              2013
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/program_2013.json", 
+          "properties": {
+            "website": [
+              "http://karl-tux-stadt.de/ktuxs/"
+            ], 
+            "city": [
+              "Madrid"
+            ], 
+            "title": [
+              "The Fedora Design Suite - Distribute The Tools"
+            ], 
+            "presenter": [
+              "Sirko Kemter"
+            ], 
+            "video": [
+              "http://medialab-prado.es/mmedia/10/10856/10856.flv"
+            ], 
+            "year": [
+              2013
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/program_2013.json", 
+          "properties": {
+            "website": [
+              "http://code.sat.qc.ca/tempi"
+            ], 
+            "city": [
+              "Madrid"
+            ], 
+            "title": [
+              "Mikado, a \"Future tool\" for image manipulation with graphs and nodes based on Tempi and GEGL"
+            ], 
+            "presenter": [
+              "Camille Bissuel", 
+              "Cedric G\u00e9my", 
+              "Alexandre Quessy"
+            ], 
+            "video": [
+              "http://medialab-prado.es/mmedia/10/10851/10851.flv"
+            ], 
+            "year": [
+              2013
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/program_2013.json", 
+          "properties": {
+            "website": [
+              "http://pycessing.org"
+            ], 
+            "city": [
+              "Madrid"
+            ], 
+            "title": [
+              "PyCessing"
+            ], 
+            "presenter": [
+              "Brendan Howell"
+            ], 
+            "video": [
+              "http://medialab-prado.es/mmedia/10/10846/10846.flv"
+            ], 
+            "year": [
+              2013
+            ]
+          }
+        }
+      ], 
+      "term": "Madrid", 
+      "roles": [
+        "city"
+      ]
+    }, 
+    {
+      "forms": [
+        "Making color management \u201cjust work\u201d using colord"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2011.json", 
+          "properties": {
+            "website": [
+              "http://www.hughsie.com"
+            ], 
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "Making color management \u201cjust work\u201d using colord"
+            ], 
+            "presenter": [
+              "Richard Hughes"
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=iLpGOIK4c84"
+            ], 
+            "year": [
+              2011
+            ]
+          }
+        }
+      ], 
+      "term": "Making_color_management_%E2%80%9Cjust_work%E2%80%9D_using_colord", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Marcos Diaz"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2010.json", 
+          "properties": {
+            "presenter": [
+              "Marcos Diaz"
+            ], 
+            "year": [
+              2010
+            ], 
+            "city": [
+              "Brussel"
+            ], 
+            "detail": [
+              "index.php-p=en|talk|nathive.html"
+            ], 
+            "title": [
+              "The Nathive image editor, its plugin system and some Python-based implemented technologies"
+            ]
+          }
+        }
+      ], 
+      "term": "Marcos_Diaz", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Marcos Garcia"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2013.json", 
+          "properties": {
+            "presenter": [
+              "Femke Snelting", 
+              "Laura Fernandez", 
+              "Marcos Garcia"
+            ], 
+            "year": [
+              2013
+            ], 
+            "video": [
+              "http://medialab-prado.es/mmedia/10/10872/10872.flv"
+            ], 
+            "city": [
+              "Madrid"
+            ], 
+            "title": [
+              "Future Tools"
+            ]
+          }
+        }
+      ], 
+      "term": "Marcos_Garcia", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Martin Renold"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2010.json", 
+          "properties": {
+            "city": [
+              "Brussel"
+            ], 
+            "title": [
+              "Extending Python for Speed"
+            ], 
+            "detail": [
+              "index.php-p=en|talk|extending_python_for_speed.html"
+            ], 
+            "presenter": [
+              "Martin Renold"
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=ybI5HBlPTzI"
+            ], 
+            "year": [
+              2010
+            ]
+          }
+        }
+      ], 
+      "term": "Martin_Renold", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Michael Terry"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2009.json", 
+          "properties": {
+            "presenter": [
+              "Michael Terry"
+            ], 
+            "year": [
+              2009
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=dFJbNJy9NDs"
+            ], 
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "ingimp: A Smorgasbord of Usability, Adaptive UIs, and Visually Arresting Graphic Design for 2009"
+            ]
+          }
+        }
+      ], 
+      "term": "Michael_Terry", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Mikado, a \"Future tool\" for image manipulation with graphs and nodes based on Tempi and GEGL"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2013.json", 
+          "properties": {
+            "website": [
+              "http://code.sat.qc.ca/tempi"
+            ], 
+            "city": [
+              "Madrid"
+            ], 
+            "title": [
+              "Mikado, a \"Future tool\" for image manipulation with graphs and nodes based on Tempi and GEGL"
+            ], 
+            "presenter": [
+              "Camille Bissuel", 
+              "Cedric G\u00e9my", 
+              "Alexandre Quessy"
+            ], 
+            "video": [
+              "http://medialab-prado.es/mmedia/10/10851/10851.flv"
+            ], 
+            "year": [
+              2013
+            ]
+          }
+        }
+      ], 
+      "term": "Mikado%2C_a_%22Future_tool%22_for_image_manipulation_with_graphs_and_nodes_based_on_Tempi_and_GEGL", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Montr\u00e9al"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2011.json", 
+          "properties": {
+            "website": [
+              "http://www.hughsie.com"
+            ], 
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "Making color management \u201cjust work\u201d using colord"
+            ], 
+            "presenter": [
+              "Richard Hughes"
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=iLpGOIK4c84"
+            ], 
+            "year": [
+              2011
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/program_2011.json", 
+          "properties": {
+            "website": [
+              "http://www.oyranos.org"
+            ], 
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "Connecting Device Calibration to ICC Profiles"
+            ], 
+            "presenter": [
+              "Kai-Uwe Behrmann"
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=7Cfvf9PiMts"
+            ], 
+            "year": [
+              2011
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/program_2011.json", 
+          "properties": {
+            "website": [
+              "http://ericschrijver.nl/"
+            ], 
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "Plain Text: Graphic Design and Programming Culture"
+            ], 
+            "presenter": [
+              "Eric Schrijver"
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=w3kF49gXX5w"
+            ], 
+            "year": [
+              2011
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/program_2011.json", 
+          "properties": {
+            "website": [
+              "http://lukast.mediablog.sk/log"
+            ], 
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "Krita: Professional Digital Painting"
+            ], 
+            "presenter": [
+              "Luk\u00e1\u0161 Tvrd\u00fd"
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=42lF-GTjx9E"
+            ], 
+            "year": [
+              2011
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/program_2011.json", 
+          "properties": {
+            "website": [
+              "http://dustycloud.org"
+            ], 
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "Using Blender for Patent Absurdity / advocacy animations"
+            ], 
+            "presenter": [
+              "Christopher Allan Webber"
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=a7vqqGY-RgU"
+            ], 
+            "year": [
+              2011
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/program_2011.json", 
+          "properties": {
+            "website": [
+              "http://libregraphicsmag.com"
+            ], 
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "Libre Graphics magazine: A year of fantastic"
+            ], 
+            "presenter": [
+              "Ana Carvalho", 
+              "ginger coons", 
+              "Ricardo Lafuente"
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=BjWCv1iXDJI"
+            ], 
+            "year": [
+              2011
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/program_2009.json", 
+          "properties": {
+            "presenter": [
+              "Michael Terry"
+            ], 
+            "year": [
+              2009
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=dFJbNJy9NDs"
+            ], 
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "ingimp: A Smorgasbord of Usability, Adaptive UIs, and Visually Arresting Graphic Design for 2009"
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/program_2009.json", 
+          "properties": {
+            "presenter": [
+              "Benoit St-Andr\u00e9"
+            ], 
+            "year": [
+              2009
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=aPscMEgOI-4"
+            ], 
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "LTSP and graphics applications"
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/program_2009.json", 
+          "properties": {
+            "presenter": [
+              "S\u00e9bastien Roy"
+            ], 
+            "year": [
+              2009
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=MPE8HbjmE5A"
+            ], 
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "Multi-projector immersive displays: the LightTwist project"
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/program_2009.json", 
+          "properties": {
+            "presenter": [
+              "Stani Michiels"
+            ], 
+            "year": [
+              2009
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=fWqCyRdSVD4"
+            ], 
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "How to make money with free software..."
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/program_2009.json", 
+          "properties": {
+            "presenter": [
+              "Jon Cruz"
+            ], 
+            "year": [
+              2009
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=KYB4AqUOuMI"
+            ], 
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "Why Color Management matters to Open Source and to You"
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/program_2007.json", 
+          "properties": {
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "Opening Talk"
+            ], 
+            "presenter": [
+              "Louis Desjardins"
+            ], 
+            "video": [
+              "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-0-Louis_Desjardins.ogg"
+            ], 
+            "year": [
+              2007
+            ], 
+            "audio": [
+              "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-0-Louis_Desjardins.audio.ogg"
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/program_2007.json", 
+          "properties": {
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "Why open standards matter: The Open Document Format"
+            ], 
+            "presenter": [
+              "Louis Suarez-Potts"
+            ], 
+            "video": [
+              "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-2-Louis_Suarez-Potts.ogg"
+            ], 
+            "year": [
+              2007
+            ], 
+            "audio": [
+              "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-2-Louis_Suarez-Potts.audio.ogg"
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/program_2007.json", 
+          "properties": {
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "Introduction to the SVG format"
+            ], 
+            "slides": [
+              "http://gould.cx/ted/presentations/lgm/"
+            ], 
+            "presenter": [
+              "Ted Gould"
+            ], 
+            "video": [
+              "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-3-Ted_Gould.ogg"
+            ], 
+            "year": [
+              2007
+            ], 
+            "audio": [
+              "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-3-Ted_Gould.audio.ogg"
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/program_2007.json", 
+          "properties": {
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "Project overview and first results from the OpenUsability GIMP redesign project"
+            ], 
+            "slides": [
+              "http://www.mmiworks.net/eng/publications/2007/05/lgm-gimp-project-overview.html"
+            ], 
+            "presenter": [
+              "Peter Sikking", 
+              "Kamila Giedroj\u0107"
+            ], 
+            "video": [
+              "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-4-Sikking_Giedroj%C4%87.ogg"
+            ], 
+            "year": [
+              2007
+            ], 
+            "audio": [
+              "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-4-Sikking_Giedroj%C4%87.audio.ogg"
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/program_2007.json", 
+          "properties": {
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "Creating photo-realistic artwork based on photo reference (Inkscape)"
+            ], 
+            "video": [
+              "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-5-Jakub_Steiner.ogg"
+            ], 
+            "year": [
+              2007
+            ], 
+            "speaker": [
+              "Jakub Steiner"
+            ], 
+            "audio": [
+              "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-5-Jakub_Steiner.audio.ogg"
+            ]
+          }
+        }
+      ], 
+      "term": "Montr%C3%A9al", 
+      "roles": [
+        "city"
+      ]
+    }, 
+    {
+      "forms": [
+        "Multi-projector immersive displays: the LightTwist project"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2009.json", 
+          "properties": {
+            "presenter": [
+              "S\u00e9bastien Roy"
+            ], 
+            "year": [
+              2009
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=MPE8HbjmE5A"
+            ], 
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "Multi-projector immersive displays: the LightTwist project"
+            ]
+          }
+        }
+      ], 
+      "term": "Multi-projector_immersive_displays%3A_the_LightTwist_project", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Nathan Willis"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2014.json", 
+          "properties": {
+            "presenter": [
+              "Nathan Willis"
+            ], 
+            "year": [
+              2014
+            ], 
+            "video": [
+              "http://download.gimp.org/pub/gimp/lgm/2014/day_1/002_Where_the_Users_Are/002_Where_the_Users_Are.ogv\n"
+            ], 
+            "city": [
+              "Leipzig"
+            ], 
+            "title": [
+              "Where The Users Are"
+            ]
+          }
+        }
+      ], 
+      "term": "Nathan_Willis", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Nicolas Malev\u00e9"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2008.json", 
+          "properties": {
+            "presenter": [
+              "Harrisson", 
+              "Pierre Huyghebaert", 
+              "Femke Snelting", 
+              "Nicolas Malev\u00e9"
+            ], 
+            "year": [
+              2008
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=NiW0qAk-SNo"
+            ], 
+            "city": [
+              "Wroc\u0142aw"
+            ], 
+            "title": [
+              "Designing with free software"
+            ]
+          }
+        }
+      ], 
+      "term": "Nicolas_Malev%C3%A9", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Opening Talk"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2012.json", 
+          "properties": {
+            "presenter": [
+              "Louis Desjardins"
+            ], 
+            "year": [
+              2012
+            ], 
+            "city": [
+              "Vienna"
+            ], 
+            "title": [
+              "Opening Talk"
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/program_2007.json", 
+          "properties": {
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "Opening Talk"
+            ], 
+            "presenter": [
+              "Louis Desjardins"
+            ], 
+            "video": [
+              "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-0-Louis_Desjardins.ogg"
+            ], 
+            "year": [
+              2007
+            ], 
+            "audio": [
+              "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-0-Louis_Desjardins.audio.ogg"
+            ]
+          }
+        }
+      ], 
+      "term": "Opening_Talk", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Pablo d'Angelo"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2008.json", 
+          "properties": {
+            "presenter": [
+              "Pablo d'Angelo"
+            ], 
+            "year": [
+              2008
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=qfWj2LKisKA"
+            ], 
+            "city": [
+              "Wroc\u0142aw"
+            ], 
+            "title": [
+              "Presentation about Hugin"
+            ]
+          }
+        }
+      ], 
+      "term": "Pablo_d%27Angelo", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Peter Sikking"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2010.json", 
+          "properties": {
+            "city": [
+              "Brussel"
+            ], 
+            "title": [
+              "A first outline for a UI for a fully GEGLed GIMP"
+            ], 
+            "detail": [
+              "index.php-p=en|talk|gegled_gui.html"
+            ], 
+            "presenter": [
+              "Peter Sikking"
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=D-kbH_ZVMmk"
+            ], 
+            "year": [
+              2010
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/program_2007.json", 
+          "properties": {
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "Project overview and first results from the OpenUsability GIMP redesign project"
+            ], 
+            "slides": [
+              "http://www.mmiworks.net/eng/publications/2007/05/lgm-gimp-project-overview.html"
+            ], 
+            "presenter": [
+              "Peter Sikking", 
+              "Kamila Giedroj\u0107"
+            ], 
+            "video": [
+              "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-4-Sikking_Giedroj%C4%87.ogg"
+            ], 
+            "year": [
+              2007
+            ], 
+            "audio": [
+              "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-4-Sikking_Giedroj%C4%87.audio.ogg"
+            ]
+          }
+        }
+      ], 
+      "term": "Peter_Sikking", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Pierre Huyghebaert"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2008.json", 
+          "properties": {
+            "presenter": [
+              "Harrisson", 
+              "Pierre Huyghebaert", 
+              "Femke Snelting", 
+              "Nicolas Malev\u00e9"
+            ], 
+            "year": [
+              2008
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=NiW0qAk-SNo"
+            ], 
+            "city": [
+              "Wroc\u0142aw"
+            ], 
+            "title": [
+              "Designing with free software"
+            ]
+          }
+        }
+      ], 
+      "term": "Pierre_Huyghebaert", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Plain Text: Graphic Design and Programming Culture"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2011.json", 
+          "properties": {
+            "website": [
+              "http://ericschrijver.nl/"
+            ], 
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "Plain Text: Graphic Design and Programming Culture"
+            ], 
+            "presenter": [
+              "Eric Schrijver"
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=w3kF49gXX5w"
+            ], 
+            "year": [
+              2011
+            ]
+          }
+        }
+      ], 
+      "term": "Plain_Text%3A_Graphic_Design_and_Programming_Culture", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Presentation about Hugin"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2008.json", 
+          "properties": {
+            "presenter": [
+              "Pablo d'Angelo"
+            ], 
+            "year": [
+              2008
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=qfWj2LKisKA"
+            ], 
+            "city": [
+              "Wroc\u0142aw"
+            ], 
+            "title": [
+              "Presentation about Hugin"
+            ]
+          }
+        }
+      ], 
+      "term": "Presentation_about_Hugin", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Presentation about Phatch - GUI Photo Batch Processor"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2008.json", 
+          "properties": {
+            "presenter": [
+              "Stani"
+            ], 
+            "year": [
+              2008
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=w91EDcU75Qw"
+            ], 
+            "city": [
+              "Wroc\u0142aw"
+            ], 
+            "title": [
+              "Presentation about Phatch - GUI Photo Batch Processor"
+            ]
+          }
+        }
+      ], 
+      "term": "Presentation_about_Phatch_-_GUI_Photo_Batch_Processor", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Programalaplaza: an online tool to write visual sketches for the Medialab-prado Media facade"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2013.json", 
+          "properties": {
+            "website": [
+              "http://programalaplaza.medialab-prado.es"
+            ], 
+            "city": [
+              "Madrid"
+            ], 
+            "title": [
+              "Programalaplaza: an online tool to write visual sketches for the Medialab-prado Media facade"
+            ], 
+            "presenter": [
+              "Sergio Gal\u00e1n", 
+              "Victor Diaz"
+            ], 
+            "video": [
+              "http://medialab-prado.es/mmedia/10/10861/10861.flv"
+            ], 
+            "year": [
+              2013
+            ]
+          }
+        }
+      ], 
+      "term": "Programalaplaza%3A_an_online_tool_to_write_visual_sketches_for_the_Medialab-prado_Media_facade", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Project overview and first results from the OpenUsability GIMP redesign project"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2007.json", 
+          "properties": {
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "Project overview and first results from the OpenUsability GIMP redesign project"
+            ], 
+            "slides": [
+              "http://www.mmiworks.net/eng/publications/2007/05/lgm-gimp-project-overview.html"
+            ], 
+            "presenter": [
+              "Peter Sikking", 
+              "Kamila Giedroj\u0107"
+            ], 
+            "video": [
+              "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-4-Sikking_Giedroj%C4%87.ogg"
+            ], 
+            "year": [
+              2007
+            ], 
+            "audio": [
+              "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-4-Sikking_Giedroj%C4%87.audio.ogg"
+            ]
+          }
+        }
+      ], 
+      "term": "Project_overview_and_first_results_from_the_OpenUsability_GIMP_redesign_project", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "PyCessing"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2013.json", 
+          "properties": {
+            "website": [
+              "http://pycessing.org"
+            ], 
+            "city": [
+              "Madrid"
+            ], 
+            "title": [
+              "PyCessing"
+            ], 
+            "presenter": [
+              "Brendan Howell"
+            ], 
+            "video": [
+              "http://medialab-prado.es/mmedia/10/10846/10846.flv"
+            ], 
+            "year": [
+              2013
+            ]
+          }
+        }
+      ], 
+      "term": "PyCessing", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Ricardo Lafuente"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2011.json", 
+          "properties": {
+            "website": [
+              "http://libregraphicsmag.com"
+            ], 
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "Libre Graphics magazine: A year of fantastic"
+            ], 
+            "presenter": [
+              "Ana Carvalho", 
+              "ginger coons", 
+              "Ricardo Lafuente"
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=BjWCv1iXDJI"
+            ], 
+            "year": [
+              2011
+            ]
+          }
+        }
+      ], 
+      "term": "Ricardo_Lafuente", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Richard Hughes"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2012.json", 
+          "properties": {
+            "presenter": [
+              "Richard Hughes"
+            ], 
+            "year": [
+              2012
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=GVH3ykJiNt0"
+            ], 
+            "city": [
+              "Vienna"
+            ], 
+            "title": [
+              "ColorHug - The Open Hardware Colorimeter"
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/program_2012.json", 
+          "properties": {
+            "presenter": [
+              "Richard Hughes"
+            ], 
+            "year": [
+              2012
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=gzTyVkHsdjo"
+            ], 
+            "city": [
+              "Vienna"
+            ], 
+            "title": [
+              "colord - Linux Color Management Framework, One Year On"
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/program_2011.json", 
+          "properties": {
+            "website": [
+              "http://www.hughsie.com"
+            ], 
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "Making color management \u201cjust work\u201d using colord"
+            ], 
+            "presenter": [
+              "Richard Hughes"
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=iLpGOIK4c84"
+            ], 
+            "year": [
+              2011
+            ]
+          }
+        }
+      ], 
+      "term": "Richard_Hughes", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Roman Telezhinsky"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2014.json", 
+          "properties": {
+            "website": [
+              "http://www.valentina-project.org"
+            ], 
+            "city": [
+              "Leipzig"
+            ], 
+            "title": [
+              "Valentina Pattern Design Software"
+            ], 
+            "presenter": [
+              "Roman Telezhinsky"
+            ], 
+            "video": [
+              "http://download.gimp.org/pub/gimp/lgm/2014/day_1/003_Valentina_Pattern_Design_Software/003_Valentina_Pattern_Design_Software.ogv"
+            ], 
+            "year": [
+              2014
+            ]
+          }
+        }
+      ], 
+      "term": "Roman_Telezhinsky", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "S\u00e9bastien Roy"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2009.json", 
+          "properties": {
+            "presenter": [
+              "S\u00e9bastien Roy"
+            ], 
+            "year": [
+              2009
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=MPE8HbjmE5A"
+            ], 
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "Multi-projector immersive displays: the LightTwist project"
+            ]
+          }
+        }
+      ], 
+      "term": "S%C3%A9bastien_Roy", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Scenari Presentation: a software suite for the conception and use of publishing chains."
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2008.json", 
+          "properties": {
+            "presenter": [
+              "Erik Gebers"
+            ], 
+            "year": [
+              2008
+            ], 
+            "city": [
+              "Wroc\u0142aw"
+            ], 
+            "title": [
+              "Scenari Presentation: a software suite for the conception and use of publishing chains."
+            ]
+          }
+        }
+      ], 
+      "term": "Scenari_Presentation%3A_a_software_suite_for_the_conception_and_use_of_publishing_chains.", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Sergio Gal\u00e1n"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2013.json", 
+          "properties": {
+            "website": [
+              "http://programalaplaza.medialab-prado.es"
+            ], 
+            "city": [
+              "Madrid"
+            ], 
+            "title": [
+              "Programalaplaza: an online tool to write visual sketches for the Medialab-prado Media facade"
+            ], 
+            "presenter": [
+              "Sergio Gal\u00e1n", 
+              "Victor Diaz"
+            ], 
+            "video": [
+              "http://medialab-prado.es/mmedia/10/10861/10861.flv"
+            ], 
+            "year": [
+              2013
+            ]
+          }
+        }
+      ], 
+      "term": "Sergio_Gal%C3%A1n", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Sirko Kemter"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2013.json", 
+          "properties": {
+            "website": [
+              "http://karl-tux-stadt.de/ktuxs/"
+            ], 
+            "city": [
+              "Madrid"
+            ], 
+            "title": [
+              "The Fedora Design Suite - Distribute The Tools"
+            ], 
+            "presenter": [
+              "Sirko Kemter"
+            ], 
+            "video": [
+              "http://medialab-prado.es/mmedia/10/10856/10856.flv"
+            ], 
+            "year": [
+              2013
+            ]
+          }
+        }
+      ], 
+      "term": "Sirko_Kemter", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Stani"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2008.json", 
+          "properties": {
+            "presenter": [
+              "Stani"
+            ], 
+            "year": [
+              2008
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=w91EDcU75Qw"
+            ], 
+            "city": [
+              "Wroc\u0142aw"
+            ], 
+            "title": [
+              "Presentation about Phatch - GUI Photo Batch Processor"
+            ]
+          }
+        }
+      ], 
+      "term": "Stani", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Stani Michiels"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2009.json", 
+          "properties": {
+            "presenter": [
+              "Stani Michiels"
+            ], 
+            "year": [
+              2009
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=fWqCyRdSVD4"
+            ], 
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "How to make money with free software..."
+            ]
+          }
+        }
+      ], 
+      "term": "Stani_Michiels", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "State of Color Management"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2014.json", 
+          "properties": {
+            "city": [
+              "Leipzig"
+            ], 
+            "title": [
+              "State of Color Management"
+            ], 
+            "presenter": [
+              "Chris Murphy"
+            ], 
+            "video": [
+              "http://download.gimp.org/pub/gimp/lgm/2014/day_1/005_State_of_Color_Management/005_State_of_Color_Management.ogv"
+            ], 
+            "year": [
+              2014
+            ], 
+            "pdf": [
+              "http://download.gimp.org/pub/gimp/lgm/2014/day_1/005_State_of_Color_Management/005_State_of_Color_Management.pdf"
+            ]
+          }
+        }
+      ], 
+      "term": "State_of_Color_Management", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "State of Libre Graphics"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2014.json", 
+          "properties": {
+            "pdf": [
+              "http://download.gimp.org/pub/gimp/lgm/2014/day_1/001_State_of_Libre_Graphics/001_State_of_Libre_Graphics.pdf"
+            ], 
+            "year": [
+              2014
+            ], 
+            "video": [
+              "http://download.gimp.org/pub/gimp/lgm/2014/day_1/001_State_of_Libre_Graphics/001_State_of_Libre_Graphics.ogv"
+            ], 
+            "city": [
+              "Leipzig"
+            ], 
+            "title": [
+              "State of Libre Graphics"
+            ]
+          }
+        }
+      ], 
+      "term": "State_of_Libre_Graphics", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Ted Gould"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2007.json", 
+          "properties": {
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "Introduction to the SVG format"
+            ], 
+            "slides": [
+              "http://gould.cx/ted/presentations/lgm/"
+            ], 
+            "presenter": [
+              "Ted Gould"
+            ], 
+            "video": [
+              "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-3-Ted_Gould.ogg"
+            ], 
+            "year": [
+              2007
+            ], 
+            "audio": [
+              "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-3-Ted_Gould.audio.ogg"
+            ]
+          }
+        }
+      ], 
+      "term": "Ted_Gould", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "The Fedora Design Suite - Distribute The Tools"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2013.json", 
+          "properties": {
+            "website": [
+              "http://karl-tux-stadt.de/ktuxs/"
+            ], 
+            "city": [
+              "Madrid"
+            ], 
+            "title": [
+              "The Fedora Design Suite - Distribute The Tools"
+            ], 
+            "presenter": [
+              "Sirko Kemter"
+            ], 
+            "video": [
+              "http://medialab-prado.es/mmedia/10/10856/10856.flv"
+            ], 
+            "year": [
+              2013
+            ]
+          }
+        }
+      ], 
+      "term": "The_Fedora_Design_Suite_-_Distribute_The_Tools", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "The Nathive image editor, its plugin system and some Python-based implemented technologies"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2010.json", 
+          "properties": {
+            "presenter": [
+              "Marcos Diaz"
+            ], 
+            "year": [
+              2010
+            ], 
+            "city": [
+              "Brussel"
+            ], 
+            "detail": [
+              "index.php-p=en|talk|nathive.html"
+            ], 
+            "title": [
+              "The Nathive image editor, its plugin system and some Python-based implemented technologies"
+            ]
+          }
+        }
+      ], 
+      "term": "The_Nathive_image_editor%2C_its_plugin_system_and_some_Python-based_implemented_technologies", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "The Screenless Office"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2014.json", 
+          "properties": {
+            "website": [
+              "http://wintermute.org/brendan"
+            ], 
+            "city": [
+              "Leipzig"
+            ], 
+            "title": [
+              "The Screenless Office"
+            ], 
+            "presenter": [
+              "Brendan Howell"
+            ], 
+            "video": [
+              "http://download.gimp.org/pub/gimp/lgm/2014/day_1/004_The_Screenless_Office/004_The_Screenless_Office.ogv"
+            ], 
+            "year": [
+              2014
+            ], 
+            "pdf": [
+              "http://download.gimp.org/pub/gimp/lgm/2014/day_1/004_The_Screenless_Office/004_The_Screenless_Office.pdf"
+            ]
+          }
+        }
+      ], 
+      "term": "The_Screenless_Office", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Using Blender for Patent Absurdity / advocacy animations"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2011.json", 
+          "properties": {
+            "website": [
+              "http://dustycloud.org"
+            ], 
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "Using Blender for Patent Absurdity / advocacy animations"
+            ], 
+            "presenter": [
+              "Christopher Allan Webber"
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=a7vqqGY-RgU"
+            ], 
+            "year": [
+              2011
+            ]
+          }
+        }
+      ], 
+      "term": "Using_Blender_for_Patent_Absurdity_%2F_advocacy_animations", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Valentina Pattern Design Software"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2014.json", 
+          "properties": {
+            "website": [
+              "http://www.valentina-project.org"
+            ], 
+            "city": [
+              "Leipzig"
+            ], 
+            "title": [
+              "Valentina Pattern Design Software"
+            ], 
+            "presenter": [
+              "Roman Telezhinsky"
+            ], 
+            "video": [
+              "http://download.gimp.org/pub/gimp/lgm/2014/day_1/003_Valentina_Pattern_Design_Software/003_Valentina_Pattern_Design_Software.ogv"
+            ], 
+            "year": [
+              2014
+            ]
+          }
+        }
+      ], 
+      "term": "Valentina_Pattern_Design_Software", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Victor Diaz"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2013.json", 
+          "properties": {
+            "website": [
+              "http://programalaplaza.medialab-prado.es"
+            ], 
+            "city": [
+              "Madrid"
+            ], 
+            "title": [
+              "Programalaplaza: an online tool to write visual sketches for the Medialab-prado Media facade"
+            ], 
+            "presenter": [
+              "Sergio Gal\u00e1n", 
+              "Victor Diaz"
+            ], 
+            "video": [
+              "http://medialab-prado.es/mmedia/10/10861/10861.flv"
+            ], 
+            "year": [
+              2013
+            ]
+          }
+        }
+      ], 
+      "term": "Victor_Diaz", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Vienna"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2012.json", 
+          "properties": {
+            "presenter": [
+              "Louis Desjardins"
+            ], 
+            "year": [
+              2012
+            ], 
+            "city": [
+              "Vienna"
+            ], 
+            "title": [
+              "Opening Talk"
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/program_2012.json", 
+          "properties": {
+            "presenter": [
+              "Richard Hughes"
+            ], 
+            "year": [
+              2012
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=GVH3ykJiNt0"
+            ], 
+            "city": [
+              "Vienna"
+            ], 
+            "title": [
+              "ColorHug - The Open Hardware Colorimeter"
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/program_2012.json", 
+          "properties": {
+            "presenter": [
+              "Kai-Uwe Behrmann"
+            ], 
+            "year": [
+              2012
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=9EL-mgiEBq0"
+            ], 
+            "city": [
+              "Vienna"
+            ], 
+            "title": [
+              "Evolving Concepts for Colour Management"
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/program_2012.json", 
+          "properties": {
+            "presenter": [
+              "Chris Lilley"
+            ], 
+            "year": [
+              2012
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=e2J3k_S1eb0"
+            ], 
+            "city": [
+              "Vienna"
+            ], 
+            "title": [
+              "Color Management in SVG2"
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/program_2012.json", 
+          "properties": {
+            "video": [
+              "https://www.youtube.com/watch?v=KBdpQ-daaJ8"
+            ], 
+            "year": [
+              2012
+            ], 
+            "speaker": [
+              "Kai-Uwe Behrmann"
+            ], 
+            "city": [
+              "Vienna"
+            ], 
+            "title": [
+              "Colour Management a la Greek"
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/program_2012.json", 
+          "properties": {
+            "presenter": [
+              "Richard Hughes"
+            ], 
+            "year": [
+              2012
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=gzTyVkHsdjo"
+            ], 
+            "city": [
+              "Vienna"
+            ], 
+            "title": [
+              "colord - Linux Color Management Framework, One Year On"
+            ]
+          }
+        }
+      ], 
+      "term": "Vienna", 
+      "roles": [
+        "city"
+      ]
+    }, 
+    {
+      "forms": [
+        "Vladimir Korenev"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2008.json", 
+          "properties": {
+            "presenter": [
+              "Igor Novikov", 
+              "Vladimir Korenev"
+            ], 
+            "year": [
+              2008
+            ], 
+            "city": [
+              "Wroc\u0142aw"
+            ], 
+            "title": [
+              "About sK1 and UniConvertor"
+            ]
+          }
+        }
+      ], 
+      "term": "Vladimir_Korenev", 
+      "roles": [
+        "presenter"
+      ]
+    }, 
+    {
+      "forms": [
+        "Welcome to LGM 2010"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2010.json", 
+          "properties": {
+            "city": [
+              "Brussel"
+            ], 
+            "title": [
+              "Welcome to LGM 2010"
+            ], 
+            "detail": [
+              "index.php-p=en|talk|welcome.html"
+            ], 
+            "presenter": [
+              "Louis Desjardin", 
+              "Femke Snelting"
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=Ltd-drYVwJQ"
+            ], 
+            "year": [
+              2010
+            ]
+          }
+        }
+      ], 
+      "term": "Welcome_to_LGM_2010", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "What is happening with SVG"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2008.json", 
+          "properties": {
+            "presenter": [
+              "Chris Lilley"
+            ], 
+            "year": [
+              2008
+            ], 
+            "city": [
+              "Wroc\u0142aw"
+            ], 
+            "title": [
+              "What is happening with SVG"
+            ]
+          }
+        }
+      ], 
+      "term": "What_is_happening_with_SVG", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Where The Users Are"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2014.json", 
+          "properties": {
+            "presenter": [
+              "Nathan Willis"
+            ], 
+            "year": [
+              2014
+            ], 
+            "video": [
+              "http://download.gimp.org/pub/gimp/lgm/2014/day_1/002_Where_the_Users_Are/002_Where_the_Users_Are.ogv\n"
+            ], 
+            "city": [
+              "Leipzig"
+            ], 
+            "title": [
+              "Where The Users Are"
+            ]
+          }
+        }
+      ], 
+      "term": "Where_The_Users_Are", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Why Color Management matters to Open Source and to You"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2009.json", 
+          "properties": {
+            "presenter": [
+              "Jon Cruz"
+            ], 
+            "year": [
+              2009
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=KYB4AqUOuMI"
+            ], 
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "Why Color Management matters to Open Source and to You"
+            ]
+          }
+        }
+      ], 
+      "term": "Why_Color_Management_matters_to_Open_Source_and_to_You", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Why open standards matter: The Open Document Format"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2007.json", 
+          "properties": {
+            "city": [
+              "Montr\u00e9al"
+            ], 
+            "title": [
+              "Why open standards matter: The Open Document Format"
+            ], 
+            "presenter": [
+              "Louis Suarez-Potts"
+            ], 
+            "video": [
+              "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-2-Louis_Suarez-Potts.ogg"
+            ], 
+            "year": [
+              2007
+            ], 
+            "audio": [
+              "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-2-Louis_Suarez-Potts.audio.ogg"
+            ]
+          }
+        }
+      ], 
+      "term": "Why_open_standards_matter%3A_The_Open_Document_Format", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Writing GIMP scripts and plugins"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2010.json", 
+          "properties": {
+            "city": [
+              "Brussel"
+            ], 
+            "title": [
+              "Writing GIMP scripts and plugins"
+            ], 
+            "detail": [
+              "index.php-p=en|talk|gimp_script_plugin.html"
+            ], 
+            "presenter": [
+              "Akkana Peck"
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=anVRFuxqrgo"
+            ], 
+            "year": [
+              2010
+            ]
+          }
+        }
+      ], 
+      "term": "Writing_GIMP_scripts_and_plugins", 
+      "roles": [
+        "title"
+      ]
+    }, 
+    {
+      "forms": [
+        "Wroc\u0142aw"
+      ], 
+      "docs": [
+        {
+          "doc": "microdata/program_2008.json", 
+          "properties": {
+            "presenter": [
+              "Pablo d'Angelo"
+            ], 
+            "year": [
+              2008
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=qfWj2LKisKA"
+            ], 
+            "city": [
+              "Wroc\u0142aw"
+            ], 
+            "title": [
+              "Presentation about Hugin"
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/program_2008.json", 
+          "properties": {
+            "presenter": [
+              "Stani"
+            ], 
+            "year": [
+              2008
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=w91EDcU75Qw"
+            ], 
+            "city": [
+              "Wroc\u0142aw"
+            ], 
+            "title": [
+              "Presentation about Phatch - GUI Photo Batch Processor"
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/program_2008.json", 
+          "properties": {
+            "presenter": [
+              "Igor Novikov", 
+              "Vladimir Korenev"
+            ], 
+            "year": [
+              2008
+            ], 
+            "city": [
+              "Wroc\u0142aw"
+            ], 
+            "title": [
+              "About sK1 and UniConvertor"
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/program_2008.json", 
+          "properties": {
+            "presenter": [
+              "Chris Lilley"
+            ], 
+            "year": [
+              2008
+            ], 
+            "city": [
+              "Wroc\u0142aw"
+            ], 
+            "title": [
+              "What is happening with SVG"
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/program_2008.json", 
+          "properties": {
+            "presenter": [
+              "Harrisson", 
+              "Pierre Huyghebaert", 
+              "Femke Snelting", 
+              "Nicolas Malev\u00e9"
+            ], 
+            "year": [
+              2008
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=NiW0qAk-SNo"
+            ], 
+            "city": [
+              "Wroc\u0142aw"
+            ], 
+            "title": [
+              "Designing with free software"
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/program_2008.json", 
+          "properties": {
+            "presenter": [
+              "Dave Crossland"
+            ], 
+            "year": [
+              2008
+            ], 
+            "city": [
+              "Wroc\u0142aw"
+            ], 
+            "title": [
+              "Font Software Freedom"
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/program_2008.json", 
+          "properties": {
+            "presenter": [
+              "\u00d8yvind Kol\u00e5s"
+            ], 
+            "year": [
+              2008
+            ], 
+            "video": [
+              "https://www.youtube.com/watch?v=H8eLAs2UgIU"
+            ], 
+            "city": [
+              "Wroc\u0142aw"
+            ], 
+            "title": [
+              "Extending GEGL with new operations and an introduction to GeglBuffers, the functionality offered by them and their underlying mechanisms."
+            ]
+          }
+        }, 
+        {
+          "doc": "microdata/program_2008.json", 
+          "properties": {
+            "presenter": [
+              "Erik Gebers"
+            ], 
+            "year": [
+              2008
+            ], 
+            "city": [
+              "Wroc\u0142aw"
+            ], 
+            "title": [
+              "Scenari Presentation: a software suite for the conception and use of publishing chains."
+            ]
+          }
+        }
+      ], 
+      "term": "Wroc%C5%82aw", 
+      "roles": [
+        "city"
+      ]
+    }
+  ]
+}

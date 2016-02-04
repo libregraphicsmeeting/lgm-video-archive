@@ -1,0 +1,1064 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!-- generator="WordPress/4.4" created="2015-12-30 22:34" -->
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>LGM Video Archive 2008</title>
+	<link>http://libregraphicsmeeting.org/video</link>
+	<description>Libre Graphics Meeting Video Archive</description>
+	<pubDate>Wed, 30 Dec 2015 22:34:47 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>http://libregraphicsmeeting.org/video</wp:base_site_url>
+	<wp:base_blog_url>http://libregraphicsmeeting.org/video</wp:base_blog_url>
+
+	<generator>https://wordpress.org/?v=4.4</generator>
+	
+<item>
+  <dc:creator><![CDATA[lgm-infra]]></dc:creator>
+  <title>Welcome + State of the Libre Graphics</title>
+  <content:encoded><![CDATA[
+<p>We will kick off LGM2015 with a joint session that sums up all things that have happened in our wide landscape over the last year.</p>
+]]></content:encoded>
+  <wp:post_date><![CDATA[2015-04-29 15:00]]></wp:post_date>
+  <wp:status><![CDATA[publish]]></wp:status>
+  <wp:post_type><![CDATA[post]]></wp:post_type>
+  <category domain="speaker" nicename="ginger-coons"><![CDATA[ginger coons]]></category>
+  <wp:postmeta>
+    <wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+    <wp:meta_value><![CDATA[http://video.constantvzw.org/LGM15/day-01/01-state_of_libre_graphics.ogv]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key><![CDATA[talk_slides]]></wp:meta_key>
+    <wp:meta_value><![CDATA[http://video.constantvzw.org/LGM15/day-01/01-state_of_libre_graphics.pdf]]></wp:meta_value>
+  </wp:postmeta>
+  <category domain="category" nicename="lgm-2015"><![CDATA[LGM 2015]]></category>
+</item>
+
+<item>
+  <dc:creator><![CDATA[lgm-infra]]></dc:creator>
+  <title>Creating textbook-grade SVG illustrations for Wikipedia</title>
+  <content:encoded><![CDATA[
+<p>Hi! I am an SVG artist who produces CC vector illustrations to illustrate Wikipedia articles. Other wikimedians who have gone to LGM in the past have suggested that I give a talk at LGM about my work, since this is a rather new thing for Wikipedia and other Wikimedia projects, as these projects have typically been stronger in text and photography. My illustrations have received dozens of awards from Wikimedia Commons, and I would like to give a talk about producing and contributing them. My Commons SVG portfolio can be found at https://commons.wikimedia.org/wiki/User:Kelvinsong/Portfolio.</p>
+<p>I believe that this would be a valuable talk, because SVG is typically associated with HTML drawing and low-level technical diagrams, and there are few examples of the format being used for anything more sophisticated than graphs, schematics, and simple drawings, or more meaningful than proof-of-concept artistic renditions of cars or anime figures. I would like to tell people how SVG can be used to provide high quality textbook-level illustrations, and get more SVG artists involved in illustrating Wikipedia.</p>
+]]></content:encoded>
+  <wp:post_date><![CDATA[2015-04-29 16:00]]></wp:post_date>
+  <wp:status><![CDATA[publish]]></wp:status>
+  <wp:post_type><![CDATA[post]]></wp:post_type>
+  <category domain="speaker" nicename="Kelvin-Ma"><![CDATA[Kelvin Ma]]></category>
+  <wp:postmeta>
+    <wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+    <wp:meta_value><![CDATA[http://video.constantvzw.org/LGM15/day-01/02-Kelvin_Ma_illustrations_for_Wikipedia.ogv]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key><![CDATA[talk_slides]]></wp:meta_key>
+    <wp:meta_value><![CDATA[http://video.constantvzw.org/LGM15/day-01/02-Kelvin_Ma_illustrations_for_Wikipedia.pdf]]></wp:meta_value>
+  </wp:postmeta>
+  <category domain="category" nicename="lgm-2015"><![CDATA[LGM 2015]]></category>
+</item>
+
+<item>
+  <dc:creator><![CDATA[lgm-infra]]></dc:creator>
+  <title>The List powered by Creative Commons</title>
+  <content:encoded><![CDATA[
+<p>No one can be everywhere at once. But everyone can.</p>
+<p>NGOs, journalists, government agencies, and cultural institutions all need photographs to tell their story and educate others. But there’s no way for those organizations to be in the right place at the right time, every time. That’s where we come in.</p>
+<p>Through The List, organizations will provide lists of locations, people, and events that they need photographs of. And when users are in the right place at the right time, they can claim an item from the list and publish a photograph of it. </p>
+<p>All photos on The List (CC-BY) are freely licensed, meaning that everyone can use them.</p>
+]]></content:encoded>
+  <wp:post_date><![CDATA[2015-04-29 16:20]]></wp:post_date>
+  <wp:status><![CDATA[publish]]></wp:status>
+  <wp:post_type><![CDATA[post]]></wp:post_type>
+  <category domain="speaker" nicename="Matt-Lee"><![CDATA[Matt Lee]]></category>
+  <wp:postmeta>
+    <wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+    <wp:meta_value><![CDATA[http://video.constantvzw.org/LGM15/day-01/03-Matt_Lee-List_CC.ogv]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key><![CDATA[talk_slides]]></wp:meta_key>
+    <wp:meta_value><![CDATA[http://video.constantvzw.org/LGM15/day-01/03-Matt_Lee-List_CC.pdf]]></wp:meta_value>
+  </wp:postmeta>
+  <category domain="category" nicename="lgm-2015"><![CDATA[LGM 2015]]></category>
+</item>
+
+<item>
+  <dc:creator><![CDATA[lgm-infra]]></dc:creator>
+  <title>imgflo: On-demand serverside image processing</title>
+  <content:encoded><![CDATA[
+<p>imgflo is a image processing server with a HTTP API,
+using GEGL and node.js. Images are processed on-demand
+by accessing an URL which specifies the input image,
+operations to perform and associated parameters.</p>
+<p>imgflo uses the Flowhub visual programming IDE to allow
+image processing pipelines to be developed using
+a visual, interactive, node-based editor.
+The pipelines can then be deployed to the server,
+or one can use them in other GEGL-based applications
+&#8211; including GIMP.</p>
+<p>The talk will cover motivation for an image processing server,
+possible uses, and demo current capabilities.</p>
+<p>The imgflo project was started after discussions at LGM2014,
+and is used in production since October at thegrid.io</p>
+]]></content:encoded>
+  <wp:post_date><![CDATA[2015-04-29 16:40]]></wp:post_date>
+  <wp:status><![CDATA[publish]]></wp:status>
+  <wp:post_type><![CDATA[post]]></wp:post_type>
+  <category domain="speaker" nicename="Jon-Nordby"><![CDATA[Jon Nordby]]></category>
+  <wp:postmeta>
+    <wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+    <wp:meta_value><![CDATA[http://video.constantvzw.org/LGM15/day-01/04-Jon_Nordby-imgflo.ogv]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key><![CDATA[talk_slides]]></wp:meta_key>
+    <wp:meta_value><![CDATA[http://video.constantvzw.org/LGM15/day-01/04-Jon-Nordby-Imgflo.pdf]]></wp:meta_value>
+  </wp:postmeta>  
+  <category domain="category" nicename="lgm-2015"><![CDATA[LGM 2015]]></category>
+</item>
+
+<item>
+  <dc:creator><![CDATA[lgm-infra]]></dc:creator>
+  <title>Jumping</title>
+  <content:encoded><![CDATA[
+<p>This presentation will review Sri Lankan graphic design as a Case Study for the role of Libre Graphics tools and practices in the developing world. I work with a group of friends as a design studio / collective (mooniak.com) and we started using libre tools, mainly Inkscape / FontForge  for our design work around a year back. I will use some of the projects we do at mooniak.com to demonstrate my points. Over the last year we managed to work with clients to do their design projects and then publish the content under CC licenses. Each distinctive culture needs stock images, icons and fonts relevant to that culture. A proprietary model has not provided those design assets to the small market in Sri Lanka. Convincing clients to make projects libre is not easy. We have a simple model, clients get a discount if they wish to go libre. We can give a better price, because we don’t have the overheads (We work from home) software costs, and because we use open content.The other aspect I will focus is challenges that we faced in migrating as a group, coming from different backgrounds. And wrap up with few thoughts on why developing world is a better playground for Libre Graphics Tools.</p>
+]]></content:encoded>
+  <wp:post_date><![CDATA[2015-04-29 17:20]]></wp:post_date>
+  <wp:status><![CDATA[publish]]></wp:status>
+  <wp:post_type><![CDATA[post]]></wp:post_type>
+  <category domain="speaker" nicename="Pathum Egodawatta"><![CDATA[Pathum Egodawatta]]></category>
+  <wp:postmeta>
+    <wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+    <wp:meta_value><![CDATA[http://video.constantvzw.org/LGM15/day-01/06-Pathum_Egodawatta-Jumping.ogv]]></wp:meta_value>
+  </wp:postmeta>
+  <category domain="category" nicename="lgm-2015"><![CDATA[LGM 2015]]></category>
+</item>
+
+<item>
+  <dc:creator><![CDATA[lgm-infra]]></dc:creator>
+  <title>Metapolator: designing interaction for creative pros</title>
+  <content:encoded><![CDATA[
+<p>As a result of the 2014 LGM the Metapolator project got really going and I got involved, designing all its interaction. This talk shows how the interaction design was structured, the collaboration, research involving font designers, and what goes into designing for creatives.</p>
+]]></content:encoded>
+  <wp:post_date><![CDATA[2015-04-29 17:40]]></wp:post_date>
+  <wp:status><![CDATA[publish]]></wp:status>
+  <wp:post_type><![CDATA[post]]></wp:post_type>
+  <category domain="speaker" nicename="peter-sikking"><![CDATA[peter sikking]]></category>
+  <wp:postmeta>
+    <wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+    <wp:meta_value><![CDATA[http://video.constantvzw.org/LGM15/day-01/05-Peter_Sikking-Metapolator.ogv]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key><![CDATA[talk_slides]]></wp:meta_key>
+    <wp:meta_value><![CDATA[http://video.constantvzw.org/LGM15/day-01/05-Peter_Sikking-Metapolator.pdf]]></wp:meta_value>
+  </wp:postmeta>  
+  <category domain="category" nicename="lgm-2015"><![CDATA[LGM 2015]]></category>
+</item>
+
+<item>
+  <dc:creator><![CDATA[lgm-infra]]></dc:creator>
+  <title>Why are black plums red when they are green?</title>
+  <content:encoded><![CDATA[
+<p>Ten years later, the Libre Graphics ecosystem has become a galaxy made of a large number of projects that nourish it. This Galaxy develops because we help each other to grow. Going beyond with Libre Graphics involves sharing our practices with people who are not designers, programmers, artists or developers &#8211; with those who have not yet taken off.</p>
+<p>In February 2015, Gráfica Liebre is launching an open women’s group called The Plums which will meet on a weekly basis. A space for thinking, learning and producing with Libre Tools and open practices in a feminist atmosphere. The aim is to share our knowledge regarding visual language with women who are interested, in order to broaden their capacity to read and produce, while promoting the Libre Graphics outlook amongst the
+female population. Working as a group and learning through practice, participants will become lucid and active visual readers and producers.</p>
+<p>Given the time frame, this talk doesn’t present achievements, but rather aims to share the project in its initial stages and seeks to obtain valuable feedback from the Toronto meeting that can contribute to the successful development of this experience.</p>
+]]></content:encoded>
+  <wp:post_date><![CDATA[2015-04-29 18:00]]></wp:post_date>
+  <wp:status><![CDATA[publish]]></wp:status>
+  <wp:post_type><![CDATA[post]]></wp:post_type>
+  <category domain="speaker" nicename="Myriam-Cea"><![CDATA[Myriam Cea]]></category>
+  <wp:postmeta>
+    <wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+    <wp:meta_value><![CDATA[http://video.constantvzw.org/LGM15/day-01/07-Myriam_Cea-Black_plums.ogv]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key><![CDATA[talk_slides]]></wp:meta_key>
+    <wp:meta_value><![CDATA[http://video.constantvzw.org/LGM15/day-01/07-Myriam_Cea-Black_plums.pdf]]></wp:meta_value>
+  </wp:postmeta>
+  <category domain="category" nicename="lgm-2015"><![CDATA[LGM 2015]]></category>
+</item>
+
+<item>
+  <dc:creator><![CDATA[lgm-infra]]></dc:creator>
+  <title>Allowing Mistakes to Happen</title>
+  <content:encoded><![CDATA[
+<p>Glitch art is the aestheticisation of digital or analogue errors, such as artefacts and other &#8221;bugs&#8221;, by either corrupting digital code/data, misusing software, or by physically manipulating electronic devices. In cases where software is misused to create glitch art artists will work with software that allow mistakes and misuse to happen, for example, by importing image data into the Audacity audio editor.</p>
+<p>GIMP, Inkscape Scribus and their proprietary counterparts are promoted as facilitating creativity. However, these programs and many others often return errors when dealing with the corrupted data made through the glitching process. Should the software be doing this? Does refusing to attempt to interpret this data limit the creative output of these artists?</p>
+<p>In this presentation I will present my own work and experiences of creating art through errors. I will share commonly used techniques and discuss the relevance of glitch art in the wider design and art world. My intention is to present the case to developers to allow mistakes to happen and to artists to incorporate errors into their work.</p>
+]]></content:encoded>
+  <wp:post_date><![CDATA[2015-04-29 18:20]]></wp:post_date>
+  <wp:status><![CDATA[publish]]></wp:status>
+  <wp:post_type><![CDATA[post]]></wp:post_type>
+  <category domain="speaker" nicename="Antonio-Roberts"><![CDATA[Antonio Roberts]]></category>
+  <wp:postmeta>
+    <wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+    <wp:meta_value><![CDATA[http://video.constantvzw.org/LGM15/day-01/08-Antonio_Roberts-Mistakes.ogv]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key><![CDATA[talk_slides]]></wp:meta_key>
+    <wp:meta_value><![CDATA[http://video.constantvzw.org/LGM15/day-01/08-Antonio_Roberts-Mistakes.pdf]]></wp:meta_value>
+  </wp:postmeta>
+  <category domain="category" nicename="lgm-2015"><![CDATA[LGM 2015]]></category>
+</item>
+
+<item>
+  <dc:creator><![CDATA[lgm-infra]]></dc:creator>
+  <title>Accessible Graphics on the Web</title>
+  <content:encoded><![CDATA[
+<p>Are your graphics accessible to all audiences? This presentation introduces key concepts and methods behind accessibility.  It focuses on SVG on the web, but many ideas have broader applications, to the graphics you create and the tools you create them with.  </p>
+<p>The talk will address the following questions:
+&#8211; What does it mean for content to be accessible? Using the Web Content Accessibility Guidelines (WCAG) standards, we ask: is it perceivable, operable, understandable, and robust?
+&#8211; How can graphics be accessible?  It depends on their purpose: What information should they communicate?  How should they be interactive?
+&#8211; How does SVG support accessibility? It features structured content, readable text, interactive links, and alternative text.
+&#8211; How can accessible graphics be improved?  Web accessibility tools now support advanced interaction and document navigation using ARIA (Accessible Rich Internet Applications) attributes, but ARIA 1 did not emphasize graphics.
+&#8211; What is being done now?  The W3C&#8217;s SVG Accessibility Task Force is helping integrate ARIA and SVG, and providing guidance on best practices.
+&#8211; How will this impact non-SVG graphics?  Annotated markup can be used in hidden fallback content for HTML Canvas graphics, and could be integrated in other XML-based vector graphics and charts.</p>
+]]></content:encoded>
+  <wp:post_date><![CDATA[2015-04-30 10:00]]></wp:post_date>
+  <wp:status><![CDATA[publish]]></wp:status>
+  <wp:post_type><![CDATA[post]]></wp:post_type>
+  <category domain="speaker" nicename="Amelia-Bellamy-Royds"><![CDATA[Amelia Bellamy-Royds]]></category>
+  <wp:postmeta>
+    <wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+    <wp:meta_value><![CDATA[http://video.constantvzw.org/LGM15/day-02/09-Amelia_Bellamy_Royds-AccessibleGraphics.ogv]]></wp:meta_value>
+  </wp:postmeta>
+  <category domain="category" nicename="lgm-2015"><![CDATA[LGM 2015]]></category>
+</item>
+
+<item>
+  <dc:creator><![CDATA[lgm-infra]]></dc:creator>
+  <title>Designing websites using constraints with GSS</title>
+  <content:encoded><![CDATA[
+<p>GSS reimagines CSS layout &amp; replaces the browser’s layout engine with one that harnesses the Cassowary Constraint Solver — the same algorithm Apple uses to compute native layout.</p>
+<p>This presentation will demonstrate what can be done using GSS and how thinking layouts in terms of constraints is a very natural way of creating layouts. With constraints you can focus on the what rather than the how.</p>
+]]></content:encoded>
+  <wp:post_date><![CDATA[2015-04-30 10:20]]></wp:post_date>
+  <wp:status><![CDATA[publish]]></wp:status>
+  <wp:post_type><![CDATA[post]]></wp:post_type>
+  <category domain="speaker" nicename="Carl-Chouinard"><![CDATA[Carl Chouinard]]></category>
+  <wp:postmeta>
+    <wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+    <wp:meta_value><![CDATA[http://video.constantvzw.org/LGM15/day-02/10-Carl_Chouinard-GSS.ogv]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key><![CDATA[talk_slides]]></wp:meta_key>
+    <wp:meta_value><![CDATA[http://video.constantvzw.org/LGM15/day-02/10-Carl_Chouinard-GSS.pdf]]></wp:meta_value>
+  </wp:postmeta>
+  <category domain="category" nicename="lgm-2015"><![CDATA[LGM 2015]]></category>
+</item>
+
+<item>
+  <dc:creator><![CDATA[lgm-infra]]></dc:creator>
+  <title>Creating realtime collaborative web applications with Derby.js and Meteor.js</title>
+  <content:encoded><![CDATA[
+<p>The technologies needed to create realtime collaborative web applications have recently become much more accessible to web developers. Realtime web applications allow users to modify values without having to submit forms and/or reload the page, and any changes made by one user are propagated to other users—without them needing to reload the page either. While the software industry’s uptake of such techniques has been largely driven by the popularity of social network type applications, the mechanims work very well to create collaborative creative applications.</p>
+<p>Two popular frameworks, Meteor.js and Derby.js, provide solutions for the synchronisation and data binding required to make such applications function. Eric will introduce these two frameworks and their respective strength and show how they are used within OSP. Eric details the creation of Ethertoff.js (with Derby.js) and demos the creation of a collaborative font drawing tool (with Meteor.js).</p>
+]]></content:encoded>
+  <wp:post_date><![CDATA[2015-04-30 10:40]]></wp:post_date>
+  <wp:status><![CDATA[publish]]></wp:status>
+  <wp:post_type><![CDATA[post]]></wp:post_type>
+  <category domain="speaker" nicename="Eric-Schrijver"><![CDATA[Eric Schrijver]]></category>
+  <wp:postmeta>
+    <wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+    <wp:meta_value><![CDATA[http://video.constantvzw.org/LGM15/day-02/11-Eric%20Schrijver-Derby.js_Meteor.js.ogv]]></wp:meta_value>
+  </wp:postmeta>
+  <category domain="category" nicename="lgm-2015"><![CDATA[LGM 2015]]></category>
+</item>
+
+
+<item>
+  <dc:creator><![CDATA[lgm-infra]]></dc:creator>
+  <title>The State of Color Management</title>
+  <content:encoded><![CDATA[
+<p>State of affairs in managing color: What&#8217;s new, what&#8217;s working, and what could be better, and things to look forward to.</p>
+]]></content:encoded>
+  <wp:post_date><![CDATA[2015-04-30 11:00]]></wp:post_date>
+  <wp:status><![CDATA[publish]]></wp:status>
+  <wp:post_type><![CDATA[post]]></wp:post_type>
+  <category domain="speaker" nicename="Chris-Murphy"><![CDATA[Chris Murphy]]></category>
+  <wp:postmeta>
+    <wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+    <wp:meta_value><![CDATA[http://video.constantvzw.org/LGM15/day-02/12-Chris_Murphy-Color_Management.ogv]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key><![CDATA[talk_slides]]></wp:meta_key>
+    <wp:meta_value><![CDATA[http://video.constantvzw.org/LGM15/day-02/12-ChrisMurphy-Color_Management.pdf]]></wp:meta_value>
+  </wp:postmeta>
+  <category domain="category" nicename="lgm-2015"><![CDATA[LGM 2015]]></category>
+</item>
+
+
+<item>
+  <dc:creator><![CDATA[lgm-infra]]></dc:creator>
+  <title>Pushing open source UX design – how we do it in ownCloud</title>
+  <content:encoded><![CDATA[
+<p>In this talk I will present the methods to improve open source design that we use at ownCloud as well as what I learned from other projects.</p>
+<p>Some topics I will cover:
+* how to establish a design culture in your project
+* how to work together with developers
+* making designers develop and developers design
+* getting university students involved
+* the importance of cross-project collaboration</p>
+]]></content:encoded>
+  <wp:post_date><![CDATA[2015-04-30 11:40]]></wp:post_date>
+  <wp:status><![CDATA[publish]]></wp:status>
+  <wp:post_type><![CDATA[post]]></wp:post_type>
+  <category domain="speaker" nicename="Jan-Christoph-Borchardt"><![CDATA[Jan-Christoph Borchardt]]></category>
+  <wp:postmeta>
+    <wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+    <wp:meta_value><![CDATA[http://video.constantvzw.org/LGM15/day-02/13-Jan-Christoph_Borchardt-ownCloud.ogv]]></wp:meta_value>
+  </wp:postmeta>
+  <category domain="category" nicename="lgm-2015"><![CDATA[LGM 2015]]></category>
+</item>
+
+<item>
+  <dc:creator><![CDATA[lgm-infra]]></dc:creator>
+  <title>Natron: compositing with Blender integration</title>
+  <content:encoded><![CDATA[
+<p>This year at LGM we want to present where the Natron open-source software is headed and what it can do. The presentation will consist mainly of a demonstration of the new advanced features of Natron. We will show how to use Blender render layers in Natron to produce powerful and efficient effects. We will also emphasise groups in Natron and how they can be created to improve your workflow.</p>
+<p>The presentation will be prepared by the core-team of Natron.</p>
+]]></content:encoded>
+  <wp:post_date><![CDATA[2015-04-30 12:00]]></wp:post_date>
+  <wp:status><![CDATA[publish]]></wp:status>
+  <wp:post_type><![CDATA[post]]></wp:post_type>
+  <category domain="speaker" nicename="Alexandre-Gauthier-Foichat"><![CDATA[Alexandre Gauthier-Foichat]]></category>
+  <wp:postmeta>
+    <wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+    <wp:meta_value><![CDATA[http://video.constantvzw.org/LGM15/day-02/14-Alexandre_Gauthier_Foichat-Natron.ogv]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key><![CDATA[talk_slides]]></wp:meta_key>
+    <wp:meta_value><![CDATA[http://video.constantvzw.org/LGM15/day-02/14-Alexandre_Gauthier_Foichat-Natron.pdf]]></wp:meta_value>
+  </wp:postmeta>
+  <category domain="category" nicename="lgm-2015"><![CDATA[LGM 2015]]></category>
+</item>
+
+<item>
+  <dc:creator><![CDATA[lgm-infra]]></dc:creator>
+  <title>html2print</title>
+  <content:encoded><![CDATA[
+<p>In the last year, Brussels-based design collective Open Source Publishing has used HTML to create printed publications. Some of them were only published in print, while others were hybrid publications appearing both in print and on-line or as slideshows. Some of these publications were built from scratch and others used the experimental CMS Ethertoff. In all cases a number of tools were needed to facilitate the transition from the screen to the printed page.</p>
+<p>In this talk OSP will showcase a number of projects: the visual identity for the Brussels Balsamine theatre, the hybrid publication ‘Are you being Served’ that serves to document both online and in print the epynomous conference, and the art and theory periodical f-u-t-u-r-e.org. The presentation highlights the challenges which are posed when adapting screen technologies to the printed medium. OSP also profits from the occasion to introduce a series of tools called HTML2print which facilitate this process!</p>
+]]></content:encoded>
+  <wp:post_date><![CDATA[2015-04-30 12:20]]></wp:post_date>
+  <wp:status><![CDATA[publish]]></wp:status>
+  <wp:post_type><![CDATA[post]]></wp:post_type>
+  <category domain="speaker" nicename="Stephanie Vilayphiou"><![CDATA[Stéphanie Vilayphiou]]></category>
+  <category domain="speaker" nicename="Eric Schrijver"><![CDATA[Eric Schrijver]]></category>
+  <wp:postmeta>
+    <wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+    <wp:meta_value><![CDATA[http://video.constantvzw.org/LGM15/day-02/15-St%c3%a9phanie_Vilayphiou,%20Colm_ONeill-Html2print.ogv]]></wp:meta_value>
+  </wp:postmeta>
+  <category domain="category" nicename="lgm-2015"><![CDATA[LGM 2015]]></category>
+</item>
+
+<item>
+  <dc:creator><![CDATA[lgm-infra]]></dc:creator>
+  <title>Libre fonts for Tamil</title>
+  <content:encoded><![CDATA[
+<p>Globalization has led to the need for multi-script and multi-lingual typography with demands for wide script coverage, comprehensive type-families that allow typographic differentiation in scripts that have not developed a tradition for this. The type and typography of some cultures and scripts have been more invested in than others, causing a gap in typographic standards. One such interesting gap are the features of a typeface family or system of typefaces that allow typographic differentiation. Complicating the issue further is the fact that some scripts have not developed a tradition to support this kind of differentiation. In display contexts there is also a demand for highly expressive vernacular type with a range of qualities and feelings found in the vast number of type styles available for the Latin script. These are  the serious challenges for a script like Tamil. At a micro design level the contrasting angular and circular forms with a lot of counter spaces are a challenge to harmonize. At the macro level, there is regional user preference for slanted type in body text or text for extended reading in India, and a diaspora community which may prefer an upright or un-slanted style. This talk will delve into these issues and speculate what steps are required for the moment.</p>
+]]></content:encoded>
+  <wp:post_date><![CDATA[2015-04-30 12:40]]></wp:post_date>
+  <wp:status><![CDATA[publish]]></wp:status>
+  <wp:post_type><![CDATA[post]]></wp:post_type>
+  <category domain="speaker" nicename="Shankari Priyadarshini Ravichandran"><![CDATA[Shankari Priyadarshini Ravichandran]]></category>
+  <wp:postmeta>
+    <wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+    <wp:meta_value><![CDATA[http://video.constantvzw.org/LGM15/day-02/16-Shankari_Priyadarshini_Ravichandran-Tamil_fonts.ogv]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key><![CDATA[talk_slides]]></wp:meta_key>
+    <wp:meta_value><![CDATA[http://video.constantvzw.org/LGM15/day-02/16-Shankari_Priyadarshini_Ravichandran-Tamil_fonts.pdf]]></wp:meta_value>
+  </wp:postmeta>
+  <category domain="category" nicename="lgm-2015"><![CDATA[LGM 2015]]></category>
+</item>
+
+<item>
+  <dc:creator><![CDATA[lgm-infra]]></dc:creator>
+  <title>UX review of each other’s projects</title>
+  <content:encoded><![CDATA[
+<p>Let’s get together and do some usability testing and review of each other’s projects! Be it websites, apps or mockups, we should look at what everyone’s doing and how to improve it.</p>
+]]></content:encoded>
+  <wp:post_date><![CDATA[2015-04-30 13:20]]></wp:post_date>
+  <wp:status><![CDATA[publish]]></wp:status>
+  <wp:post_type><![CDATA[post]]></wp:post_type>
+  <category domain="speaker" nicename="Jan-Christoph Borchardt"><![CDATA[Jan-Christoph Borchardt]]></category>
+  <category domain="category" nicename="lgm-2015"><![CDATA[LGM 2015]]></category>
+  <category domain="type" nicename="meeting"><![CDATA[Meeting]]></category>
+</item>
+
+<item>
+  <dc:creator><![CDATA[lgm-infra]]></dc:creator>
+  <title>Marshall McLuhan Archive &#8211; Archive Sprint</title>
+  <content:encoded><![CDATA[
+<p>The Hybrid Publishing Consortium (HPC) is an Open Source publishing infrastructure research group and proposes a session on ‘Publishing from Archives’ based on the Marshall McLuhan fonds in Library &amp; Archives Canada, in Ottawa. The archive contains video, audio, manuscripts and  experimental transmedia work of Marshall McLuhan himself.</p>
+<p>We use an Open Source tool chain of; Pando.ra (video archives), Tamboti &#8211; Heidelberg Research Architecture (collection management. Cluster Asia Europe, Heidelberg University) and famo.us (3D, GUI interface), Amara (video sub-titling. Participatory Culture Foundation) and Transpect (multi-format publishing. le-tex, Leipzig).
+With this tool set we allow users to author a data enrichment layer on-top of the existing collection data, allowing the public to become archivists and share their knowledge and insights. We use the model of the Book Sprints, but instead use transmedia content (video, audio, text, annotation etc) to create a trace on the archive or a new publication.</p>
+<p>This ‘Archive Sprint’ user layer on the archive creating a rich visual and auditory interface, secondly it leaves a new data source on the archive which is VRA, MODS meta description US Library of Congress compliant.
+<p>The objective is to allow users to move from a light experience of creating ‘playlists’, to authoring on the involved level of Wikipedia. At the same time ensuring the data structure created is machine readable and so re-usable for—visual styling, citation, annotation, distribution and metrics etc.</p>
+This project remixes a lecture given by Graham Larkin in 2011 in Berlin.</p>
+]]></content:encoded>
+  <wp:post_date><![CDATA[2015-04-30 13:20]]></wp:post_date>
+  <wp:status><![CDATA[publish]]></wp:status>
+  <wp:post_type><![CDATA[post]]></wp:post_type>
+  <category domain="speaker" nicename="Christina Kral"><![CDATA[Christina Kral]]></category>
+  <category domain="speaker" nicename="Simon Worthington"><![CDATA[Simon Worthington]]></category>
+  <category domain="category" nicename="lgm-2015"><![CDATA[LGM 2015]]></category>
+  <category domain="type" nicename="meeting"><![CDATA[Meeting]]></category>
+</item>
+
+<item>
+  <dc:creator><![CDATA[lgm-infra]]></dc:creator>
+  <title>Lightning talks: Day 2</title>
+  <content:encoded><![CDATA[
+<p>Four 10 minute slots for lightning talks. Sign-up on location!</p>
+]]></content:encoded>
+  <wp:post_date><![CDATA[2015-04-30 15:40]]></wp:post_date>
+  <wp:status><![CDATA[publish]]></wp:status>
+  <wp:post_type><![CDATA[post]]></wp:post_type>
+  <category domain="speaker" nicename="Andre-Castro"><![CDATA[Andre Castro]]></category>
+  <category domain="speaker" nicename="Chris-Murphy"><![CDATA[Chris Murphy]]></category>
+  <category domain="speaker" nicename="Tom-Lechner"><![CDATA[Tom Lechner]]></category>
+  <wp:postmeta>
+    <wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+    <wp:meta_value><![CDATA[http://video.constantvzw.org/LGM15/day-02/17-Andre_Castro-Biblioteca.ogv]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+    <wp:meta_value><![CDATA[http://video.constantvzw.org/LGM15/day-02/19-Chris_Murphy-Color_Management2.ogv]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+    <wp:meta_value><![CDATA[http://video.constantvzw.org/LGM15/day-02/20-Tom_Lechner-Blender_game.ogv]]></wp:meta_value>
+  </wp:postmeta>
+  <category domain="category" nicename="lgm-2015"><![CDATA[LGM 2015]]></category>
+  <category domain="type" nicename="lightning-talk"><![CDATA[Lightning talk]]></category>
+</item>
+
+<item>
+  <dc:creator><![CDATA[lgm-infra]]></dc:creator>
+  <title>Towards Open Textile and Garment Production</title>
+  <content:encoded><![CDATA[
+<p>What is the progress of developing FLOSS tools, software and hardware for a fair and environment friendly garment and textile production? The talk will introduce our work and projects that help us to break down the locks that exists on every level in the industry from design, to software, machines and distribution.</p>
+]]></content:encoded>
+  <wp:post_date><![CDATA[2015-04-30 16:00]]></wp:post_date>
+  <wp:status><![CDATA[publish]]></wp:status>
+  <wp:post_type><![CDATA[post]]></wp:post_type>
+  <category domain="speaker" nicename="Hong Phuc Dang"><![CDATA[Hong Phuc Dang]]></category>
+  <wp:postmeta>
+    <wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+    <wp:meta_value><![CDATA[http://video.constantvzw.org/LGM15/day-02/18-Hong_Phuc_Dang-Open_Textile.ogv]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key><![CDATA[talk_slides]]></wp:meta_key>
+    <wp:meta_value><![CDATA[http://video.constantvzw.org/LGM15/day-02/18-Hong_Phuc_Dang-Open_Textile.pdf]]></wp:meta_value>
+  </wp:postmeta>
+  <category domain="category" nicename="lgm-2015"><![CDATA[LGM 2015]]></category>
+  <category domain="post_tag" nicename="textile"><![CDATA[Textile]]></category>
+</item>
+
+<item>
+  <dc:creator><![CDATA[lgm-infra]]></dc:creator>
+  <title>Text interaction &#8211; how far and how better can it get?</title>
+  <content:encoded><![CDATA[
+<p>Text interaction is a challenge to any graphic production. Editorial team and graphic design teams must interact all the way from the first step of handing out the text from one to the other, until the final product is achieved. This is not a one-way ride. In fact, the workflow doesn’t flow downstream all the way. There are many stops along the way, and going back and forth is part of the job. How this is done? How can this be improved? What’s the missing link?</p>
+]]></content:encoded>
+  <wp:post_date><![CDATA[2015-04-30 16:20]]></wp:post_date>
+  <wp:status><![CDATA[publish]]></wp:status>
+  <wp:post_type><![CDATA[post]]></wp:post_type>
+  <category domain="speaker" nicename="Louis-Desjardins"><![CDATA[Louis Desjardins]]></category>
+  <category domain="category" nicename="lgm-2015"><![CDATA[LGM 2015]]></category>
+</item>
+
+<item>
+  <dc:creator><![CDATA[lgm-infra]]></dc:creator>
+  <title>SPECIMEN – designing fonts (hi)story(ies)</title>
+  <content:encoded><![CDATA[
+<p>At last LGM I did a lightning talk to present SPECIMEN, a blog and growing collection of graphic essays on F/LOS typefaces. This project was developed to rethink the traditional “neutral” form of font specimens, instead choosing a specific layout and content in line with the history and cultural implications of each typeface. An approach that takes in consideration the sources and the documentation of the fonts.</p>
+<p>This year I would like to propose both a lecture with examples of this approach to F/LOS typefaces and a “specimen workshop” (see workshop proposal).</p>
+<p>This year, I would like to go further into the ideas developed in this project and show examples of F/LOS specimens (made by others and made by me) taking in consideration the fonts’ (hi)story. The lecture has three aims: to provide reflection on what constitutes an appropriate specimen for a libre typeface, to invite font designers to share more information on the font’s history(ies), and to prepare the ground for the connected workshop, or “specimen sprint” held during LGM.</p>
+]]></content:encoded>
+  <wp:post_date><![CDATA[2015-04-30 16:40]]></wp:post_date>
+  <wp:status><![CDATA[publish]]></wp:status>
+  <wp:post_type><![CDATA[post]]></wp:post_type>
+  <category domain="speaker" nicename="Loraine-Furter"><![CDATA[Loraine Furter]]></category>
+  <wp:postmeta>
+    <wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+    <wp:meta_value><![CDATA[http://video.constantvzw.org/LGM15/day-02/21-Loraine_Furter-SPECIMEN.ogv]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key><![CDATA[talk_slides]]></wp:meta_key>
+    <wp:meta_value><![CDATA[http://video.constantvzw.org/LGM15/day-02/21-Loraine_Furter-SPECIMEN.pdf]]></wp:meta_value>
+  </wp:postmeta>
+  <category domain="category" nicename="lgm-2015"><![CDATA[LGM 2015]]></category>
+</item>
+
+<item>
+  <dc:creator><![CDATA[lgm-infra]]></dc:creator>
+  <title>Stroke fonts</title>
+  <content:encoded><![CDATA[
+<p>With the invention of movable-type in 1450, writing became type-setting. Where a letters&#8217; shape used to be the result of the movement of hand and pen it became a meticoulously designed outline ready to be copied millions of times in mass-production. Writing turned into typograhy. Instead of transferring the skeleton: the gesture. We transfer it&#8217;s facade.  And so, for more than five centuries, typography has been kept away from the potential of writing.</p>
+<p>In the progression of typography from punch cutting through to font design software we&#8217;ve ported over old physical constraints to digital canvases, canvasses that are really much more flexible than what we are currently using them as. Partly because of the typographer himself, feeling the custodian of a very long tradition, the constraints and economics of production but also for the convenience of the major software publishers already struggling in trying to manage and cover all of the world&#8217;s  writing systems. OSP continues to emphasize this issue and would like to present the work, experiments and paths we&#8217;ve explored around this issue by showing (stroke-)fonts we&#8217;ve drawn but more importantly the tools we have and are developing to reclaim the potential in typography.</p>
+]]></content:encoded>
+  <wp:post_date><![CDATA[2015-04-30 17:00]]></wp:post_date>
+  <wp:status><![CDATA[publish]]></wp:status>
+  <wp:post_type><![CDATA[post]]></wp:post_type>
+  <category domain="speaker" nicename="Colm-O-Neill"><![CDATA[Colm O'Neill]]></category>
+  <category domain="speaker" nicename="Ludivine-Loiseau"><![CDATA[Ludivine Loiseau]]></category>
+  <category domain="speaker" nicename="Gijs-de-Heij"><![CDATA[Gijs de Heij]]></category>
+  <category domain="speaker" nicename="Pierre-Huyghebaert"><![CDATA[Pierre Huyghebaert]]></category>
+  <wp:postmeta>
+    <wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+    <wp:meta_value><![CDATA[http://video.constantvzw.org/LGM15/day-02/22-OSP_Stroke-Fonts.ogv]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key><![CDATA[talk_slides]]></wp:meta_key>
+    <wp:meta_value><![CDATA[http://video.constantvzw.org/LGM15/day-02/22-OSP_Stroke-Fonts.pdf]]></wp:meta_value>
+  </wp:postmeta>
+  <category domain="category" nicename="lgm-2015"><![CDATA[LGM 2015]]></category>
+</item>
+
+<item>
+  <dc:creator><![CDATA[lgm-infra]]></dc:creator>
+  <title>Thrilling Developments From the Field of Boring Font Utilities</title>
+  <content:encoded><![CDATA[
+<p>This session has two halves. First, I will present my work on two personal font-development tools: one is a command-line utility for automatically building installable release packages (in RPM, Deb, CTAN, and Zip format) of font families, and the other is a set of Emacs Major Modes for editing font files with syntax highlighting, auto-indent, and tokenization.  The packaging tool adresses an area often overlooked in open font development: rolling a release. The Emacs modes make it easier to edit and debug font source files. Hopefully both tools will help make some well-tested methods from software development more useful in type design.</p>
+<p>Second, I&#8217;ll discuss the recent effort announced on CREATE to develop and implement GUI UX patterns for accessing OpenType features, and why it&#8217;s important to free software.  OpenType substitution and positioning features are one of the format&#8217;s major selling points to type designers, but they have poor support in creative applications. The proprietary software industry has let this slide as a business decision; free software can deliver what users want to see.</p>
+]]></content:encoded>
+  <wp:post_date><![CDATA[2015-04-30 17:20]]></wp:post_date>
+  <wp:status><![CDATA[publish]]></wp:status>
+  <wp:post_type><![CDATA[post]]></wp:post_type>
+  <category domain="speaker" nicename="Nathan-Willis"><![CDATA[Nathan Willis]]></category>
+  <wp:postmeta>
+    <wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+    <wp:meta_value><![CDATA[http://video.constantvzw.org/LGM15/day-02/23-Nate_Willis-Thrilling_Developments.ogv]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key><![CDATA[talk_slides]]></wp:meta_key>
+    <wp:meta_value><![CDATA[http://video.constantvzw.org/LGM15/day-02/23-Nate_Willis-Thrilling_Developments.pdf]]></wp:meta_value>
+  </wp:postmeta>
+  <category domain="category" nicename="lgm-2015"><![CDATA[LGM 2015]]></category>
+</item>
+
+<item>
+  <dc:creator><![CDATA[lgm-infra]]></dc:creator>
+  <title>Goodbye FontForge</title>
+  <content:encoded><![CDATA[
+<p>FontForge has been the leading libre font editor for more than 10 years now. Three years ago I began Crafting Type, a collective and co-operative project to offer short type design introduction workshops around the world, using only libre graphics tools. Around that time the FontForge founder, George Williams, stepped away from the project to pursue other hobbies, so I stepped up to organise the development that I found Crafting Type participants asking for. Despite fixing many crashes and bugs and attempts to add brave new features, last year I became disheartened at the rate of progress. I began considering what an ideal libre font editor ought to be, and how to make it happen. This presentation shows where FontForge is today, various efforts to develop new libre font editors, and where I hope to go in the next 10 years.</p>
+]]></content:encoded>
+  <wp:post_date><![CDATA[2015-04-30 17:40]]></wp:post_date>
+  <wp:status><![CDATA[publish]]></wp:status>
+  <wp:post_type><![CDATA[post]]></wp:post_type>
+  <category domain="speaker" nicename="Dave-Crossland"><![CDATA[Dave Crossland]]></category>
+  <wp:postmeta>
+    <wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+    <wp:meta_value><![CDATA[http://video.constantvzw.org/LGM15/day-02/24-Dave_Crossland-Goodbye_Fontforge.ogv]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key><![CDATA[talk_slides]]></wp:meta_key>
+    <wp:meta_value><![CDATA[http://video.constantvzw.org/LGM15/day-02/24-Dave_Crossland-Goodbye_Fontforge.txt]]></wp:meta_value>
+  </wp:postmeta>
+  <category domain="category" nicename="lgm-2015"><![CDATA[LGM 2015]]></category>
+</item>
+
+<item>
+  <dc:creator><![CDATA[lgm-infra]]></dc:creator>
+  <title>LGM2015 Party</title>
+  <content:encoded><![CDATA[
+<p>This year, the standard LGM party takes a different angle. For one evening, we’re playing the archive from ten years of active collaboration in the Libre Graphics world. Comprised of software, its communities, and the practices and products that have arisen from those communities, the Libre Graphics community has been doing Free/Libre and Open Source work together for a decade. Join us to celebrate ten years of Libre Graphics, and to launch a new book, titled “I think that conversations are the best, biggest thing that free software has to offer its user” (or Conversations, for short), which looks back at the people behind ten years of Libre Graphics.</p>
+<p>The event will take place Thursday, April 30th from 7pm to 10pm at interAccess which is located at 9 Ossington Avenue, roughly a 20 minute walk from the University or a convenient streetcar trip down Spadina and across Queen.g</p>
+]]></content:encoded>
+  <wp:post_date><![CDATA[2015-04-30 19:00]]></wp:post_date>
+  <wp:status><![CDATA[publish]]></wp:status>
+  <wp:post_type><![CDATA[post]]></wp:post_type>
+  <category domain="category" nicename="lgm-2015"><![CDATA[LGM 2015]]></category>
+  <category domain="type" nicename="party"><![CDATA[Party]]></category>
+</item>
+
+<item>
+  <dc:creator><![CDATA[lgm-infra]]></dc:creator>
+  <title>Specimen Sprint</title>
+  <content:encoded><![CDATA[
+<p>At last LGM I did a lightning talk to present SPECIMEN, a blog and growing collection of graphic essays on F/LOS typefaces. This project was developed to rethink the traditional “neutral” form of font specimens, instead choosing a specific layout and content in line with the history and cultural implications of each typeface. An approach that takes in consideration the sources and the documentation of the fonts.</p>
+<p>This year I would like to propose both a lecture (see lecture proposal) with examples of this approach to F/LOS typefaces and a “specimen workshop”.</p>
+<p>The “specimen workshop”, or “specimen-sprint” is a two-hours workshop where the participants are invited to design specimens for F/LOS fonts, taking in consideration their (hi)story, and designed with F/LOS tools of their choice. By participating, they can help creating more visibility for F/LOS fonts with an approach playing on the strengths of the F/LOSS philosophy.
+The participants will have access to references, source materials and information on the fonts, gathered by Loraine from the designers’ documentation and through e-mail interviews.
+At the end of the workshop, the specimens will be printed and displayed at LGM’s venue and published online.</p>
+]]></content:encoded>
+  <wp:post_date><![CDATA[2015-05-01 10:00]]></wp:post_date>
+  <wp:status><![CDATA[publish]]></wp:status>
+  <wp:post_type><![CDATA[post]]></wp:post_type>
+  <category domain="speaker" nicename="Loraine-Furter"><![CDATA[Loraine Furter]]></category>
+  <category domain="category" nicename="lgm-2015"><![CDATA[LGM 2015]]></category>
+  <category domain="type" nicename="workshop"><![CDATA[Workshop]]></category>
+</item>
+
+<item>
+  <dc:creator><![CDATA[lgm-infra]]></dc:creator>
+  <title>Using Tangibles for pre-production</title>
+  <content:encoded><![CDATA[
+<p>Traditionally, the pre-production pipeline starts with a script, and then the director develops concept art for each scene described in the script either on paper or in digital form.  Following this stage, the director then works closely with an animator on a pre-visualization utilizing animation software (e.g. Autodesk Maya).  The developed scene is visualized in a crude form using placeholder assets, but this crude visualization provides the director with information about the placement of actors/cameras/lights/objects enabling them to quickly try out new ideas, different lighting characteristics, and different cinematographic techniques.  Once completed, a cinematographer is employed to determine the proper camera motions, placements, and provide critique on this initial design.  The design process ensues with the director and cinematographer discussing necessary changes and through a series of compromises the scene is finalized and can be produced.  This pipeline works for both animated and live-action pre-production, however due to the sheer number of people involved throughout the pre-production stage in defining the scene parameters, the director’s overall creative vision can easily be lost in the process.  </p>
+<p>Introduction to FilmTIME: a simple open source interface/tool for film directors to express creative vision.</p>
+]]></content:encoded>
+  <wp:post_date><![CDATA[2015-05-01 10:00]]></wp:post_date>
+  <wp:status><![CDATA[publish]]></wp:status>
+  <wp:post_type><![CDATA[post]]></wp:post_type>
+  <category domain="category" nicename="lgm-2015"><![CDATA[LGM 2015]]></category>
+  <category domain="speaker" nicename="ben-sainsbury"><![CDATA[ben sainsbury]]></category>
+  <category domain="speaker" nicename="Andrew-Hogue"><![CDATA[Dr Andrew Hogue]]></category>
+  <category domain="speaker" nicename="Michael-Gharbharan"><![CDATA[Michael Gharbharan]]></category>
+  <category domain="type" nicename="meeting"><![CDATA[Meeting]]></category>
+</item>
+
+<item>
+  <dc:creator><![CDATA[lgm-infra]]></dc:creator>
+  <title>Color: Putting it together</title>
+  <content:encoded><![CDATA[
+<p>In this workshop attendees will learn how to implement a color managed workflow from capture to display to print. Emphasis will be on taking the basic concepts, to a basic workflow that should apply for anyone. It&#8217;s expected GIMP, Scribus, and Krita features will be touched on as examples. Time permitting topics: CMYK workflow, Internet color, and mobile devices.</p>
+]]></content:encoded>
+  <wp:post_date><![CDATA[2015-05-01 10:00]]></wp:post_date>
+  <wp:status><![CDATA[publish]]></wp:status>
+  <wp:post_type><![CDATA[post]]></wp:post_type>
+  <category domain="speaker" nicename="Chris-Murphy"><![CDATA[Chris Murphy]]></category>
+  <category domain="type" nicename="workshop"><![CDATA[Workshop]]></category>
+  <category domain="category" nicename="lgm-2015"><![CDATA[LGM 2015]]></category>
+</item>
+
+<item>
+  <dc:creator><![CDATA[lgm-infra]]></dc:creator>
+  <title>Stroke-Fonts — open call for a standard?</title>
+  <content:encoded><![CDATA[
+<p>Although we are convinced about the portential of stroke-fonts, actually using them, while keeping their flexibility, is challenging. At the moment the best we can do to streamline the usage process is to freeze a version of the stroke at a set thickness, then outline it, building it back for use in current font formats. Especially on the web with it’s dynamic potential this feels like a big loss. We look at the engineering that built DIN, Dr Hershey, Donald Knuth, Adobe Type 3 and SVG3 both with awe and equal frustration. </p>
+<p>Could there be a way to integrate a stroke font format into publishing software? A new definition of how lettershapes are described for them to be able to be used easily? Can we imagine a type-setting system that doesn’t precompile glyphs shape, but renders them inline, so themselve glyphs can become responsive? We will take a look at the existing standards, but also the more experimental tools, some of which OSP is working on, both for print and web-publication (and SVG3?).</p>
+]]></content:encoded>
+  <wp:post_date><![CDATA[2015-05-01 12:20]]></wp:post_date>
+  <wp:status><![CDATA[publish]]></wp:status>
+  <wp:post_type><![CDATA[post]]></wp:post_type>
+  <category domain="speaker" nicename="Gijs-de-Heij"><![CDATA[Gijs de Heij]]></category>
+  <category domain="speaker" nicename="Ludivine Loiseau"><![CDATA[Ludivine Loiseau]]></category>
+  <category domain="speaker" nicename="Pierre Huyghebaert"><![CDATA[Pierre Huyghebaert]]></category>
+  <category domain="speaker" nicename="Colm-O-Neill"><![CDATA[Colm O’Neill]]></category>
+  <category domain="category" nicename="lgm-2015"><![CDATA[LGM 2015]]></category>
+  <category domain="type" nicename="meeting"><![CDATA[Meeting]]></category>
+</item>
+
+<item>
+  <dc:creator><![CDATA[lgm-infra]]></dc:creator>
+  <title>A network of free culture aware educators in art, music and design education</title>
+  <content:encoded><![CDATA[
+<p>Over the last few years we have seen a growing attention for Free Culture and Free, Libre and Open Source software within art education but these efforts remain often linked to the energy of individual teachers or even students. This network is an attempt to connect people, institutions, experiences and course-content.</p>
+<p>A first meeting took place in Madrid in 2013. A second meeting took place on 5th April 2014 in Leipzig at the occasion of the Libre Graphics Meeting: http://libregraphicsmeeting.org</p>
+<p>Educators, teachers and learners interested in the link between free culture and art, music and design education are welcome to join this network. We are part of Eightycolumn and use the http://lurk.org/groups/80c/ as a platform for discussion and communication.</p>
+]]></content:encoded>
+  <wp:post_date><![CDATA[2015-05-01 12:20]]></wp:post_date>
+  <wp:status><![CDATA[publish]]></wp:status>
+  <wp:post_type><![CDATA[post]]></wp:post_type>
+  <category domain="speaker" nicename="Larisa-Blazic"><![CDATA[Larisa Blazic]]></category>
+  <category domain="speaker" nicename="Femke-Snelting"><![CDATA[Femke Snelting]]></category>
+  <category domain="category" nicename="lgm-2015"><![CDATA[LGM 2015]]></category>
+  <category domain="type" nicename="meeting"><![CDATA[Meeting]]></category>
+</item>
+
+<item>
+  <dc:creator><![CDATA[lgm-infra]]></dc:creator>
+  <title>Color: Now What?</title>
+  <content:encoded><![CDATA[
+<p>Informal discussion on color management. Can run the gamut (pun intended) on color science, implementation case studies, success stories, best practices, work arounds for problems, present and future challenges. Share and learn with others.</p>
+]]></content:encoded>
+  <wp:post_date><![CDATA[2015-05-01 12:20]]></wp:post_date>
+  <wp:status><![CDATA[publish]]></wp:status>
+  <wp:post_type><![CDATA[post]]></wp:post_type>
+  <category domain="speaker" nicename="Chris-Murphy"><![CDATA[Chris Murphy]]></category>
+  <category domain="category" nicename="lgm-2015"><![CDATA[LGM 2015]]></category>
+  <category domain="type" nicename="meeting"><![CDATA[Meeting]]></category>
+</item>
+
+<item>
+  <dc:creator><![CDATA[lgm-infra]]></dc:creator>
+  <title>Lightning talks: Day 3</title>
+  <content:encoded><![CDATA[
+<p>Four 10 minute slots for lightning talks. Sign-up on location!</p>
+]]></content:encoded>
+  <wp:post_date><![CDATA[2015-05-01 14:40]]></wp:post_date>
+  <wp:status><![CDATA[publish]]></wp:status>
+  <wp:post_type><![CDATA[post]]></wp:post_type>
+  <category domain="speaker" nicename="Simon-Budig"><![CDATA[Simon Budig]]></category>
+  <category domain="speaker" nicename="Stephanie-Vilayphiou"><![CDATA[Stéphanie Vilayphiou]]></category>
+  <wp:postmeta>
+    <wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+    <wp:meta_value><![CDATA[http://video.constantvzw.org/LGM15/day-03/25-Lightning_talk_Simon_Budig.ogv]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+    <wp:meta_value><![CDATA[http://http://video.constantvzw.org/LGM15/day-03/26-Lightning_talk-St%c3%a9phanie_Vilayphiou.ogv]]></wp:meta_value>
+  </wp:postmeta>
+  <category domain="category" nicename="lgm-2015"><![CDATA[LGM 2015]]></category>
+</item>
+
+<item>
+  <dc:creator><![CDATA[lgm-infra]]></dc:creator>
+  <title>Digital Steganography: A New File Type for 3D Models</title>
+  <content:encoded><![CDATA[
+<p>Digital Steganography is the practice of concealing one file type within another, such as text within in image (it is also a long-standing method of encryption used by security agencies&#8230;). In this presentation I will describe a novel method for encoding 3D geometric data within an image file that create a new, cross platform file type for 3D models. The X,Y, Z values of a triangulated mesh, such as would typically be described by an STL file, can be mapped, more or less, directly to the R,G,B values of a pixel within a simple PNG file. Once mapped, the data can be organised within the image in may novel ways that create a 2D representation whose data is, at the same time, both human and machine readable. Using a number of prototype tools, developed using the processing programming language, I will demonstrate the following;
+&#8211; Limitless opportunities for file encryption, using custom codes as well as image editing software.
+&#8211; New ways of tracking &#8216;the diff&#8217; between various 3D models files that are enabled by this new file format.
+&#8211; Improvements in file compression when compared to other 3D file formats.</p>
+]]></content:encoded>
+  <wp:post_date><![CDATA[2015-05-01 15:20]]></wp:post_date>
+  <wp:status><![CDATA[publish]]></wp:status>
+  <wp:post_type><![CDATA[post]]></wp:post_type>
+  <category domain="speaker" nicename="Phil-Langley"><![CDATA[Phil Langley]]></category>
+  <wp:postmeta>
+    <wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+    <wp:meta_value><![CDATA[http://video.constantvzw.org/LGM15/day-03/27-Phil_Langley-Digital_Stenography.ogv]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key><![CDATA[talk_slides]]></wp:meta_key>
+    <wp:meta_value><![CDATA[http://video.constantvzw.org/LGM15/day-03/27-Phil_Langley-Digital_Stenography.pdf]]></wp:meta_value>
+  </wp:postmeta>
+  <category domain="category" nicename="lgm-2015"><![CDATA[LGM 2015]]></category>
+</item>
+
+<item>
+  <dc:creator><![CDATA[lgm-infra]]></dc:creator>
+  <title>Using Open Source to Teach Critical and Creative Thinking</title>
+  <content:encoded><![CDATA[
+<p>Over the past ten years I have been steadily increasing the amount of open source software I utilize in my design courses. I now believe I can teach digital media courses exclusively with free and open source software and not impair my students&#8217; chances of gainful employment. In fact, my students are better artists and designers directly because of their experience with open source tools. They are more versatile, easily adapt to change, and have a greater capacity to tinker with their tools. This presentation will be about the open source paradigm and its effect in the classroom. I will show how teaching with free and open source is a way to teach students the ability to learn software more efficiently and quickly, and inspire greater curiosity. Open source software not only makes students&#8217; portfolios more diverse and professional, it makes them better thinkers. </p>
+<p>Presently, I am leading an initiative at my college, SUNY Buffalo State, to adopt more open source tools. I will discuss my experience in adopting this software in the classroom. I will also discuss the opposition and controversy from colleagues that I have encountered by using software that &ldquo;is not industry standard&rdquo;.</p>
+]]></content:encoded>
+  <wp:post_date><![CDATA[2015-05-01 15:40]]></wp:post_date>
+  <wp:status><![CDATA[publish]]></wp:status>
+  <wp:post_type><![CDATA[post]]></wp:post_type>
+  <category domain="speaker" nicename="Brent-Patterson"><![CDATA[Brent Patterson]]></category>
+  <wp:postmeta>
+    <wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+    <wp:meta_value><![CDATA[http://video.constantvzw.org/LGM15/day-03/28-Brent_Patterson-OS_teaching.ogv]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key><![CDATA[talk_slides]]></wp:meta_key>
+    <wp:meta_value><![CDATA[http://video.constantvzw.org/LGM15/day-03/28-Brent_Patterson-OS_teaching.pdf]]></wp:meta_value>
+  </wp:postmeta>
+  <category domain="category" nicename="lgm-2015"><![CDATA[LGM 2015]]></category>
+</item>
+
+<item>
+  <dc:creator><![CDATA[lgm-infra]]></dc:creator>
+  <title>Making - Become a Maker with open source software</title>
+  <content:encoded><![CDATA[
+<p>The aim of my presentation is to talk about my inspiration of the maker scene and to showcase my project I developed in an open source environment. I created a dress with LEDs soldered onto the fabric building a special compound and a flexible circuit. The layout has been done with graphical open software like inkscape and gimp and is then printed with conductive ink to the fabric. I used Arduino software and microcontroller for making smart clothes to include LEDs and Accelerometer.</p>
+<p>The created pattern work can be used either for fabric printing, laser cutting or even for sending to a hacked knitting machine to get an individual, customized style, fulfilling the aim that we can download and print clothes to start our own production. The creative culture and the use of free formats make it usable for further development.  Tinkering in an open digital fabrication studio e.g. Fablab.</p>
+<p>I plan to prepare a library of design content such as pattern printing, swatches pattern work, accessible under cc licensing.</p>
+<p>To participate, exchange, explore, cooperate and show contribution, free access of knowledge is important. Therefore we share skills and knowledge in the community e.g. by launching The Fashion Tec Group where people come to present their projects.</p>
+<p>Also different ideas have been presented at Meshcon and Wear it Conference and openXlab in Berlin.</p>
+]]></content:encoded>
+  <wp:post_date><![CDATA[2015-05-01 16:00]]></wp:post_date>
+  <wp:status><![CDATA[publish]]></wp:status>
+  <wp:post_type><![CDATA[post]]></wp:post_type>
+  <category domain="speaker" nicename="Yvonne-Micklich"><![CDATA[Yvonne Micklich]]></category>
+  <category domain="category" nicename="lgm-2015"><![CDATA[LGM 2015]]></category>
+</item>
+
+<item>
+  <dc:creator><![CDATA[lgm-infra]]></dc:creator>
+  <title>Wilber for us!</title>
+  <content:encoded><![CDATA[
+<p>I am a former public servant and my good friend is a public elementary educator, most of her students belong to the under privilege children in our community. Most of the time she asked me to do teaching materials for her daily lessons in Filipino Language, Elementary English, Music, Arts and Physical Education subjects. Helping her is just like helping the young students to achieved better education, aside from that we also created and published a free-coloring book for the under privilege pupil in the 16 Daycare centers in our town Pagsanjan. Then after, with the permission of her superior, we convinced him to train students to compete for the TECHNOLYMPICS were students will participate and compete for manipulating images using free image manipulation software from different public elementary school in our Province (District, Cluster and Division levels), for the first time that Unson Elementary School participated in the competition they rank 2nd among the 324 competing public elementary schools. With joy in our endeavor and permission from his superior we continue to teach all the 31 public educators in the elementary school to help them with their daily teaching duties and spread the knowledge of using libre graphics software.</p>
+]]></content:encoded>
+  <wp:post_date><![CDATA[2015-05-01 16:20]]></wp:post_date>
+  <wp:status><![CDATA[publish]]></wp:status>
+  <wp:post_type><![CDATA[post]]></wp:post_type>
+  <category domain="speaker" nicename="Erwin Sacluti"><![CDATA[Erwin Sacluti]]></category>
+  <category domain="category" nicename="lgm-2015"><![CDATA[LGM 2015]]></category>
+</item>
+
+<item>
+  <dc:creator><![CDATA[lgm-infra]]></dc:creator>
+  <title> Web Sites on a Stick: EPUB and the Web Converge</title>
+  <content:encoded><![CDATA[
+<p>The organizations responsible for publishing EPUB and HTML as standards are working together on ways to make a mini-Web site that you can browse offline, on making an e-book be part of the Web, all using open standards and part of the Open Web Platform.</p>
+<p>For the Libre world this means Web browsers and ebook readers move towards each other, so that the skills and tools you need become more closely aligned. It means documentation, tutorials, guides can be both on the Web and on a tablet or other reader.</p>
+<p>But in the longer term it means another nail in the coffin of propritary hardware, proprietary apps, proprietary readers, because the ubiquity of the Web commoditizes everything.</p>
+<p>It also means asking why there is a difference between an application and a document at all and what that question means for the Libre Graphics ecosystem.</p>
+]]></content:encoded>
+  <wp:post_date><![CDATA[2015-05-01 16:40]]></wp:post_date>
+  <wp:status><![CDATA[publish]]></wp:status>
+  <wp:post_type><![CDATA[post]]></wp:post_type>
+  <category domain="speaker" nicename="Liam-Quin"><![CDATA[Liam Quin]]></category>
+  <wp:postmeta>
+    <wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+    <wp:meta_value><![CDATA[http://video.constantvzw.org/LGM15/day-03/29-Liam_Quin-Stick_websites.ogv]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key><![CDATA[talk_slides]]></wp:meta_key>
+    <wp:meta_value><![CDATA[http://video.constantvzw.org/LGM15/day-03/29-Liam_Quin-Stick_websites.pdf]]></wp:meta_value>
+  </wp:postmeta>
+  <category domain="category" nicename="lgm-2015"><![CDATA[LGM 2015]]></category>
+</item>
+
+<item>
+  <dc:creator><![CDATA[lgm-infra]]></dc:creator>
+  <title>A Brief History of Lines</title>
+  <content:encoded><![CDATA[
+<p>A look at the history of graphical linework, how different programs handle line creation and manipulation, and how these lines of thought extend into the future.</p>
+]]></content:encoded>
+  <wp:post_date><![CDATA[2015-05-01 17:20]]></wp:post_date>
+  <wp:status><![CDATA[publish]]></wp:status>
+  <wp:post_type><![CDATA[post]]></wp:post_type>
+  <category domain="speaker" nicename="Tom Lechner"><![CDATA[Tom-Lechner]]></category>
+  <wp:postmeta>
+    <wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+    <wp:meta_value><![CDATA[http://video.constantvzw.org/LGM15/day-03/30-Tom_Lechner-History_of_Lines.ogv]]></wp:meta_value>
+  </wp:postmeta>
+  <category domain="category" nicename="lgm-2015"><![CDATA[LGM 2015]]></category>
+</item>
+
+<item>
+  <dc:creator><![CDATA[lgm-infra]]></dc:creator>
+  <title>Microraptor gui, an immediate compromise</title>
+  <content:encoded><![CDATA[
+<p>Introducting Microraptor gui, a framework/approach for creating graphical user interfaces, that interleaves registering event callbacks with procedural drawing code backed by CSS. This gives some efficiency and flexibility not found in traditional scene-graph/widget hierarchy approaches; flexibility useful for custom canvases/controls in graphical applications. Demo and code heavy presentation, live coding of UIs with C, cairo and CSS.</p>
+]]></content:encoded>
+  <wp:post_date><![CDATA[2015-05-01 17:40]]></wp:post_date>
+  <wp:status><![CDATA[publish]]></wp:status>
+  <wp:post_type><![CDATA[post]]></wp:post_type>
+  <category domain="speaker" nicename="Oyvind-Kolas"><![CDATA[Øyvind Kolås]]></category>
+  <wp:postmeta>
+    <wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+    <wp:meta_value><![CDATA[http://video.constantvzw.org/LGM15/day-03/31-0yvind_Kolas-Microraptor.ogv]]></wp:meta_value>
+  </wp:postmeta>
+  <category domain="category" nicename="lgm-2015"><![CDATA[LGM 2015]]></category>
+</item>
+
+<item>
+  <dc:creator><![CDATA[lgm-infra]]></dc:creator>
+  <title>OpenGL in LibreOffice</title>
+  <content:encoded><![CDATA[
+<p>LibreOffice uses its own GUI and rendering toolkit called VCL that works across every major PC platform and even a few mobile platforms. On Linux it provides backends for Gtk and Qt. To make use of modern graphics hardware the LibreOffice project decided to add a cross-platform backend that still provides support for different GUI toolkits. </p>
+<p>Using OpenGL allows us to improve the performance of our rendering by moving the work from the CPU to the mostly unused GPU. It also provides us with fast image scaling allowing us to use better scaling algorithms while still supporting fast scrolling. Together with the fact that OpenGL allows us to innovate without being limited by the ancient rendering APIs provided by different systems, makes porting our rendering toolkit to OpenGL an attractive option.</p>
+<p>Come and see how the LibreOffice embraced this challenge and implemented the new VCL OpenGL backend that is being shipped in LibreOffice 4.4.</p>
+]]></content:encoded>
+  <wp:post_date><![CDATA[2015-05-01 18:00]]></wp:post_date>
+  <wp:status><![CDATA[publish]]></wp:status>
+  <wp:post_type><![CDATA[post]]></wp:post_type>
+  <category domain="speaker" nicename="Markus-Mohrhard"><![CDATA[Markus Mohrhard]]></category>
+  <wp:postmeta>
+    <wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+    <wp:meta_value><![CDATA[http://video.constantvzw.org/LGM15/day-03/32-Markus_Mohrhard-OpenGL.ogv]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key><![CDATA[talk_slides]]></wp:meta_key>
+    <wp:meta_value><![CDATA[http://video.constantvzw.org/LGM15/day-03/32-Markus_Mohrhard-OpenGL.pdf]]></wp:meta_value>
+  </wp:postmeta>
+  <category domain="category" nicename="lgm-2015"><![CDATA[LGM 2015]]></category>
+</item>
+
+<item>
+  <dc:creator><![CDATA[lgm-infra]]></dc:creator>
+  <title>Document Liberation Project: One year after</title>
+  <content:encoded><![CDATA[
+<p>The Document Liberation Project – launched during the LGM2014 – has already developed a dozen of import libraries which have been integrated by software such as: Abiword, Calligra, CorelDRAW File Viewer, Inkscape, LibreOffice and Scribus. The presentation gives overview of the achievement of the first year of this project.</p>
+]]></content:encoded>
+  <wp:post_date><![CDATA[2015-05-01 18:20]]></wp:post_date>
+  <wp:status><![CDATA[publish]]></wp:status>
+  <wp:post_type><![CDATA[post]]></wp:post_type>
+  <category domain="speaker" nicename="Fridrich-Strba"><![CDATA[Fridrich Strba]]></category>
+  <category domain="speaker" nicename="Valek-Filippov"><![CDATA[Valek Filippov]]></category>
+  <wp:postmeta>
+    <wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+    <wp:meta_value><![CDATA[http://video.constantvzw.org/LGM15/day-03/33-Strba+Filippov-DLP.ogv]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key><![CDATA[talk_slides]]></wp:meta_key>
+    <wp:meta_value><![CDATA[http://video.constantvzw.org/LGM15/day-03/33-Strba+Filippov-DLP.pdf]]></wp:meta_value>
+  </wp:postmeta>
+  <category domain="category" nicename="lgm-2015"><![CDATA[LGM 2015]]></category>
+</item>
+
+
+<item>
+  <dc:creator><![CDATA[lgm-infra]]></dc:creator>
+  <title>The first Code of Conduct year</title>
+  <content:encoded><![CDATA[
+<p>Before the 2014 meeting in Leipzig, the LGM community realized the need for a code of conduct. Before, during, and after LGM 2014, a spirited and sometimes difficult discussion took place around the purpose of the CoC and how it should be drafted and implemented. This BoF aims to look at the code of conduct, as it&#8217;s been implemented, and to discuss how we might improve it or strengthen its promises in the future.</p>
+]]></content:encoded>
+  <wp:post_date><![CDATA[2015-05-02 10:00]]></wp:post_date>
+  <wp:status><![CDATA[publish]]></wp:status>
+  <wp:post_type><![CDATA[post]]></wp:post_type>
+  <category domain="speaker" nicename="ginger-coons"><![CDATA[ginger coons]]></category>
+  <category domain="category" nicename="lgm-2015"><![CDATA[LGM 2015]]></category>
+  <category domain="type" nicename="meeting"><![CDATA[Meeting]]></category>
+</item>
+
+
+<item>
+  <dc:creator><![CDATA[lgm-infra]]></dc:creator>
+  <title>Allowing Mistakes to Happen Workshop</title>
+  <content:encoded><![CDATA[
+<p>Following on from the Allowing Mistakes to Happen presentation, I will facilitate a workshop that focuses on the practical side of creating glitch art. The workshop will delve into the techniques utilised by glitch artists, such as hacking codecs, modifying hardware and repurposing software.</p>
+<p>The workshop participants will need a laptop/computer (Mac/Windows/Linux) with the following software installed: GIMP, Audacity &amp; a good text editor such as Notepad++, TextEdit or Gedit.</p>
+<p>Depending on time and interest from participants, additional software can be covered. If possible, please have installed: Processing, Pure Data, ffmpeg/libav, Imagemagick, Inkscape &amp; Blender.</p>
+]]></content:encoded>
+  <wp:post_date><![CDATA[2015-05-02 11:20]]></wp:post_date>
+  <wp:status><![CDATA[publish]]></wp:status>
+  <wp:post_type><![CDATA[post]]></wp:post_type>
+  <category domain="speaker" nicename="Antonio-Roberts"><![CDATA[Antonio Roberts]]></category>
+  <category domain="category" nicename="lgm-2015"><![CDATA[LGM 2015]]></category>
+  <category domain="type" nicename="workshop"><![CDATA[Workshop]]></category>
+</item>
+
+<item>
+  <dc:creator><![CDATA[lgm-infra]]></dc:creator>
+  <title>Bringing OpenType features to Open Source</title>
+  <content:encoded><![CDATA[
+<p>OpenType features allow font files to build in a variety of optional functionality designed to make typography responsive and eye-pleasing: small-capitals, variant forms of glyphs (individually, like swash caps, or in stylistic sets), lining or tabular numeral options, extra ligatures, and even randomization.  But software support for these features in creative and design applications is poor-to-nonexistent, in both the proprietary and free-software world.</p>
+<p>The proprietary world has shown no interest in changing, but that should not stop free software.  This meeting will examine OpenType feature support in libre graphics projects, looking at both the technical and user-experience problems that need to be solved, and what steps we must take to get there.</p>
+]]></content:encoded>
+  <wp:post_date><![CDATA[2015-05-02 11:20]]></wp:post_date>
+  <wp:status><![CDATA[publish]]></wp:status>
+  <wp:post_type><![CDATA[post]]></wp:post_type>
+  <category domain="speaker" nicename="Nathan-Willis"><![CDATA[Nathan Willis]]></category>
+  <category domain="category" nicename="lgm-2015"><![CDATA[LGM 2015]]></category>
+  <category domain="type" nicename="workshop"><![CDATA[Workshop]]></category>
+</item>
+
+<item>
+  <dc:creator><![CDATA[lgm-infra]]></dc:creator>
+  <title>FLOSS Manuals &#8211; Libre Graphics update&amp;expand</title>
+  <content:encoded><![CDATA[
+<p>FLOSS Manuals project was launched by Adam Hyde in 2007 to remedy the deficit of good free documentation about Free Software. Our strategy since the beginning has been to develop communities to produce high quality free manuals about Free Software in their own language. Today, through the use of Booksprints and federated publishing techniques we have more than 120 books in more than 30 languages and more than 4,000 contributors. </p>
+<p>FLOSS Manuals is more than a collection of manuals about doing things with free and open source software, it is also the community. The contributors include designers, readers, writers, illustrators, free software fans, editors, artists, software developers, activists, and many others. Anyone can contribute to a manual – to fix a spelling mistake, add a more detailed explanation, write a new chapter, or start a whole new manual on a topic.</p>
+<p>FLOSS Manuals now consists of 3 independent language communities (French, English, Finnish) supported by a Foundation based in Holland. Our current focus is to develop strong partnerships with grassroots educators to develop educational materials about free software.</p>
+<p>This is a proposal for gathering all interested participants to discuss strategies for updating and expanding current Libre Graphics sesction of FLOSS Manuals in English language.</p>
+]]></content:encoded>
+  <wp:post_date><![CDATA[2015-05-02 11:20]]></wp:post_date>
+  <wp:status><![CDATA[publish]]></wp:status>
+  <wp:post_type><![CDATA[post]]></wp:post_type>
+  <category domain="speaker" nicename="Larisa-Blazic"><![CDATA[Larisa Blazic]]></category>
+  <category domain="category" nicename="lgm-2015"><![CDATA[LGM 2015]]></category>
+  <category domain="type" nicename="workshop"><![CDATA[Workshop]]></category>
+</item>
+
+<item>
+  <dc:creator><![CDATA[lgm-infra]]></dc:creator>
+  <title>How Hobbyists Impact Culture by Opening and Archiving</title>
+  <content:encoded><![CDATA[
+<p>I would like to share my experience working at Creative Commons Korea. I witnessed some of the most enthusiastic volunteers in the world at their community, and many of their interesting creative works inspired me in many ways. Anyone want to hear about how this group of hobbyists gathered and impacted culture by opening their digitally archived works?</p>
+]]></content:encoded>
+  <wp:post_date><![CDATA[2015-05-02 14:00]]></wp:post_date>
+  <wp:status><![CDATA[publish]]></wp:status>
+  <wp:post_type><![CDATA[post]]></wp:post_type>
+  <category domain="speaker" nicename="Diane-Jung"><![CDATA[Diane Jung]]></category>
+  <wp:postmeta>
+    <wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+    <wp:meta_value><![CDATA[http://video.constantvzw.org/LGM15/day-04/34-Diane_Jung-Hobbyist_culture.ogv]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key><![CDATA[talk_slides]]></wp:meta_key>
+    <wp:meta_value><![CDATA[http://video.constantvzw.org/LGM15/day-04/34-Diane_Jung-Hobbyist_culture.pdf]]></wp:meta_value>
+  </wp:postmeta>
+  <category domain="category" nicename="lgm-2015"><![CDATA[LGM 2015]]></category>
+</item>
+
+<item>
+  <dc:creator><![CDATA[lgm-infra]]></dc:creator>
+  <title>Ten years of Pitivi (and of libre video editing in general)</title>
+  <content:encoded><![CDATA[
+<p>&ldquo;LGM 2015: Beyond The First Decade&rdquo; has a special meaning for the Pitivi community, as this leading GStreamer-based video editor recently celebrated its own 10th anniversary.</p>
+<p>In this talk, we will look at changes in the motion graphics landscape in recent years (shifts in filmmaking hardware and production pace,
+computing power, means of distribution, etc.), take a moment to marvel at the progress we have made thus far (esp. from the Pitivi side), and another moment to ponder the herculean task that remains before us in order to remain relevant for the next decade.</p>
+<p>This talk is intended to be less technical, touching on subjects such as heavy trends in the industry, FLOSS project management, economics, etc. All are welcome!</p>
+<p>In addition to this presentation, interested parties may join us afterwards for an ad-hoc yet intensive testing session to weed out remaining bugs for the upcoming Pitivi 1.0 release.</p>
+]]></content:encoded>
+  <wp:post_date><![CDATA[2015-05-02 14:20]]></wp:post_date>
+  <wp:status><![CDATA[publish]]></wp:status>
+  <wp:post_type><![CDATA[post]]></wp:post_type>
+  <category domain="speaker" nicename="Jean-Francois Fortin Tam"><![CDATA[Jean-François Fortin Tam]]></category>
+  <wp:postmeta>
+    <wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+    <wp:meta_value><![CDATA[http://video.constantvzw.org/LGM15/day-04/35-JF_Fortin_Tam-Pitivi.ogv]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key><![CDATA[talk_slides]]></wp:meta_key>
+    <wp:meta_value><![CDATA[http://video.constantvzw.org/LGM15/day-04/35-JF_Fortin_Tam-Pitivi.pdf]]></wp:meta_value>
+  </wp:postmeta>
+  <category domain="category" nicename="lgm-2015"><![CDATA[LGM 2015]]></category>
+</item>
+
+<item>
+  <dc:creator><![CDATA[lgm-infra]]></dc:creator>
+  <title>Project of a 2D Libre Movie: ZeMarmot</title>
+  <content:encoded><![CDATA[
+<p>Studio Girin will present a 2D short animation project in progress (working title &ldquo;ZeMarmot&rdquo;), which is going to raise funds through crowdfunding.
+The animation film will be produced entirely with Free Software, and will be ultimately released under a Libre license.
+Synopsis summary:
+« A Marmot lives a quiet life in Alps mountains. His main activities? Sleep, eat and sleep again. When a migrating bird tells him of the world’s wonders, beyond the mountains, the rodent goes for an impromptu world tour. What will happen? Will the Marmot ever come back? »</p>
+]]></content:encoded>
+  <wp:post_date><![CDATA[2015-05-02 14:40]]></wp:post_date>
+  <wp:status><![CDATA[publish]]></wp:status>
+  <wp:post_type><![CDATA[post]]></wp:post_type>
+  <category domain="speaker" nicename="Jehan Pages"><![CDATA[Jehan Pagès]]></category>
+  <category domain="speaker" nicename="Han Aryeom"><![CDATA[Han Aryeom]]></category>
+  <wp:postmeta>
+    <wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+    <wp:meta_value><![CDATA[http://video.constantvzw.org/LGM15/day-04/36-Jehan_Pages+Han_Aryeom-ZeMarMot.ogv]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key><![CDATA[talk_slides]]></wp:meta_key>
+    <wp:meta_value><![CDATA[http://video.constantvzw.org/LGM15/day-04/36-Jehan_Pages+Han_Aryeom-ZeMarMot.pdf]]></wp:meta_value>
+  </wp:postmeta>
+  <category domain="category" nicename="lgm-2015"><![CDATA[LGM 2015]]></category>
+</item>
+
+<item>
+  <dc:creator><![CDATA[lgm-infra]]></dc:creator>
+  <title>How to Build an Online Animation Studio</title>
+  <content:encoded><![CDATA[
+<p>Theory Animation is an online animation studio born amongst the turmoil in the animation industry. From the closure to Rhythm &amp; Hues and Dreamworks Animation; Theory looks at ways a studio can thrive in this changing world: Free Software (Blender, Joomla), Free Version-Control (Subversion), and a group of dedicated artists from around the world who want to make a difference. We’ll talk history, present, and ultimately future: a place where artists can sell directly to consumers and do what they love.</p>
+]]></content:encoded>
+  <wp:post_date><![CDATA[2015-05-02 15:00]]></wp:post_date>
+  <wp:status><![CDATA[publish]]></wp:status>
+  <wp:post_type><![CDATA[post]]></wp:post_type>
+  <category domain="speaker" nicename="David-Andrade"><![CDATA[David Andrade]]></category>
+  <category domain="speaker" nicename="Szymon-Buhajczuk"><![CDATA[Szymon Buhajczuk]]></category>
+  <wp:postmeta>
+    <wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+    <wp:meta_value><![CDATA[http://video.constantvzw.org/LGM15/day-04/37-Andrade+Buhajczuk-animation_studio.ogv]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key><![CDATA[talk_slides]]></wp:meta_key>
+    <wp:meta_value><![CDATA[http://video.constantvzw.org/LGM15/day-04/37-Andrade+Buhajczuk-animation_studio.pdf]]></wp:meta_value>
+  </wp:postmeta>
+  <category domain="category" nicename="lgm-2015"><![CDATA[LGM 2015]]></category>
+</item>
+
+<item>
+  <dc:creator><![CDATA[lgm-infra]]></dc:creator>
+  <title>&#8216;I think that conversations are the best, biggest thing that free software has to offer its user&#8217;</title>
+  <content:encoded><![CDATA[
+<p>Launch of of publication + presentation of publishing workflow. &#8216;Conversations&#8217; is an extensive collection of conversations between developers and designers involved in the wider ecosystem of Libre Graphics. Its lengthy title, _I think that conversations are the best, biggest thing that Free Software has to offer its user_, is taken from an interview with Debian developer Asheesh Laroia. His remark points at the difference that Free Software can make when users are invited to consider, interrogate and discuss not only the technical details of software, but its concepts and histories as well. &#8216;Conversations&#8217; is edited by Femke Snelting and Christoph Haag. The publication is published by Constant and produced collaboratively, using a custom Libre Graphics workflow developed by Christoph Haag.</p>
+]]></content:encoded>
+  <wp:post_date><![CDATA[2015-05-02 15:20]]></wp:post_date>
+  <wp:status><![CDATA[publish]]></wp:status>
+  <wp:post_type><![CDATA[post]]></wp:post_type>
+  <category domain="speaker" nicename="Femke-Snelting"><![CDATA[Femke Snelting]]></category>
+  <category domain="speaker" nicename="Christoph-Haag"><![CDATA[Christoph Haag]]></category>
+  <wp:postmeta>
+    <wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+    <wp:meta_value><![CDATA[http://video.constantvzw.org/LGM15/day-04/38-Snelting-Conversations.ogv]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key><![CDATA[talk_slides]]></wp:meta_key>
+    <wp:meta_value><![CDATA[http://video.constantvzw.org/LGM15/day-04/38-Snelting-Conversations.pdf]]></wp:meta_value>
+  </wp:postmeta>
+  <category domain="category" nicename="lgm-2015"><![CDATA[LGM 2015]]></category>
+</item>
+
+	
+</channel>
+</rss>

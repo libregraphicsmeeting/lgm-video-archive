@@ -1,0 +1,170 @@
+
+TODOs
+
+* Add year to program microdata (retrieve by some kind of intelligent cascaded retrieve... ie get("year") ... )
+* Index doc sorting (by title?)
+* Link to video page <!>
+* Terms wiki
+* Separate terms metadata document (to add redirects and sort instructions)
+* makefile-friendly index to wikified page links
+
+2 July 2014
+============
+Following a principle of document-centricity -- rather than creating a "terms wiki" with separate pages for each term, prefer to (1) modify existing documents (adding links to videos / pdfs), and (2) create auxiliary documents such as See also (name redirection). Order names in the documents themselves.
+
+OR link to "media nodes" where eventually multiple links could be recorded <!>
+(So in essence talk titles might still be nodes / new pages.)
+
+NEED a format for recording sets of links for resources capturing inter-relationships (which files are duplicates, derivatives, etc). Does RSS provide this? Why yes!
+http://podcast411.com/howto_1.html
+But authoring RSS remains kind of a problem -- you'd rather generate RSS from something else.
+
+
+SOME (current) PRINCIPLES
+* Do it by hand (first)... discover where automation makes sense (if it does)
+* Allow the document to be idiosyncratic; rather than figuring out a "right way" for all the documents; follow the logic of each individual year.
+
+This is going well, microdata coding 5 "proof of concept" items per year starting with 2014 & going backward. Adding video (+ pdf) links as possible following the style of each year. A next pass will be needed to "fix" video links to problematic formats (FLV files + youtube).
+
+<!> Create a document to be used by an indexer to add years into collected microdata per source. (Implicit microdata)
+
+Issues
+* 2010 goes back to a more "databasey" page per item detail views: Need for a detail link to create (possibly) linked data that expands the current item.
+* Actually "slides" is better than pdf -- if not actually a pdf (and keeps more with the "role" of the link -- not it's format)
+
+Decisions (to use when continuing markup work)
+* Use "slides" ipv "pdf" for itemprop
+
+NEXT STEP:
+* Revisit extracting microdata, adding year info, produce speaker + title indexes again.
+
+Interesting figuring out where stuff should go with a makefile, and the (re)discovery to not overabstract (writing explicit rules for each year is a good thing, the makefile is itself a document). Avoiding wildcards. SPECIFICALLY: So I wrote "microdata_sources" file -- first as a simple text file listing of the HTML pages I want to extract metadata from. But then I wanted to add some custom data for each one (the year and the city). Already, some idiosyncracies emerged such as the fact that 2011 is recorded per day, so there are 4 different HTML pages to index. In any case, I then added the defaults to the text file -- starting to create a sort of CSV. In fact I then made a JSON of it, thinking I might as well generalize:
+
+	{
+		"sources": [
+			{
+				"source": "htdocs-2007-static/program.html",
+				"data":	{"year": 2007, "city": "Montréal"}
+			},
+			{
+				"source": "htdocs-2008-static/program.html", 
+				"data": {"year": 2008, "city": "Wrocław"}
+			},
+			{
+				"source": "htdocs-2009-static/program.php.html",
+				"data": {"year": 2009, "city": "Montréal"}
+			},
+			{
+				"source": "htdocs-2010-static/program.php.html",
+				"data": {"year": 2010, "city": "Brussel"}
+			},			
+			{
+				"source": "htdocs-2011-static/day-1.html",
+				"data": {"year": 2011, "city": "Montréal"} 
+			},
+			{
+				"source": "htdocs-2011-static/day-2.html",
+				"data": {"year": 2011, "city": "Montréal"} 
+			},
+			{
+				"source": "htdocs-2011-static/day-3.html",
+				"data": {"year": 2011, "city": "Montréal"} 
+			},
+			{
+				"source": "htdocs-2011-static/day-4.html",
+				"data": {"year": 2011, "city": "Montréal"} 
+			},		
+			{
+				"source": "htdocs-2012-static/program/index.html",
+				"data": {"year": 2012, "city": "Vienna"}
+			},
+			{
+				"source": "htdocs-2013-static/program/index.html",
+				"data": {"year": 2013, "city": "Madrid"}
+			},
+			{
+				"source": "htdocs-2014-static/program/index.html",
+				"data": {"year": 2014, "city": "Leipzig"}
+			}
+		]
+	}
+
+The trouble with this approach is that for this "clean" data structure, I need to write a custom interpreter in code form that actually takes the file and "processes" things. The trouble was then when I returned to wanting a more granular file structure suitable to a make file -- implicit relationship start to creep in (ie the name of the file to store each year's dump). In the end, the whole structure can be better captured as make rules:
+
+
+	microdata/2011.json: htdocs-2011-static/day-1.html htdocs-2011-static/day-2.html htdocs-2011-static/day-3.html htdocs-2011-static/day-4.html
+		python scripts/microdata_extract --add year=2011 --add city=Montréal --output $@ $^
+
+	microdata/2014.json: htdocs-2014-static/program/index.html
+		python scripts/microdata_extract --add year=2014 --add city=Leipzig --output $@ $^
+
+
+Subtle bonus: the multiple input file relationship is better captured for 2011.
+
+July 16, 2015
+===============
+
+Returning to this after a little break.
+
+Indeed opening the makefile and seeing the explicit add statements to microdata_extract really makes sense (immediately reminds how it works).
+
+Would like to refine the index pages to see how/if they work. In general, like the idea of the overview document as a basis.
+
+* Discovery: using jinja2's for loop filtering is better than post processing the data to filter out property values.
+
+Intuitively, you want the items (titles probably) to link back to the program document that originated the item. Need to think about the best way to ensure id's on itemscopes.
+
+TO DO:
+	* Sorting
+	** Values: option for last word for names, lowercase / squash-accents
+	** Items within value (secondary sort by year, title)
+	* Titles & Presenters: further grouping by letter
+* Manual columns (not done)
+
+* Links to program
+* Splitscreen viewing links
+
+Worked on templates as well.
+Would like to have names in title listing (eg) link to in page anchors on the by name page. Need a "idify" filter.
+
+July 20, 2015
+==============
+
+Interesting to see difficulties with microdata but also to keep going with it -- in keeping with a "more than one way to do it" motto!
+
+* Continuing to add microdata to past years, back now to 2011 (Montreal) and added in 2015 program with partial microdata.
+
+Ultimately, imagining an ideal interface that would somehow manage to bridge a youtube style, meaning:
+* "play" pages for each presentation where resources can be gathered ( video / transcodings / eventual derivatives / comments / maybe even view stats or embedding info ).
+* "editable" in the sense of giving simple means of adding files (other pdf's, other webpages, other audio/video resources), and explaining how the resources relate to each other (derivatives / versions / sequences) HERE THE FULL EXPRESSIVITY of something like a DUBLIC CORE language of editions would be useful.
+* also "editable" in that meta data could be corrected (titles tweaked, people names corrected).
+
+At the same time, it would be nice to unlike youtube, generously offer connections back to:
+* original documents / context
+* new embedding documents / contexts
+
+How the the transcoding of the FLV files, for instance (as well as the youtube material) be made a part of the system.
+
+More things to do:
+* Make names clickable
+* Manually create columns (for proper wrapping)
+
+
+22 July
+========
+Interesting case of multiple titles -- for two talks in a single video
+(Crossland / Spalinger 2007)
+A reason to go back to handling multiple titles (as in fact it's a nice example of why that's useful)
+
+Right. Looking good. Added inter links (names + years). Titles index remains a bit of an outlier (the most "pure index" as it doesn't consider any other grouping.)
+
+Next steps: implementing "List under..." for names...
+* Simple: Create a separate document.
+* Advanced: How to make editing "in-document" possible (requiring a document join)
+
+REVISIT group by: Make work with jinja groupby if possible
+
+THOUGHTS
+It's good to separate the question of document joins (and truly editable documents) from (simply) publishing with a document based workflow (ie makefile based web publishing). It's much easier to "simply" build tools that encourage a workflow and allow simple wiki like "upstream" editing (ie without bring a reversible flow into the picture).
+
+IN LGM: it does make sense to "repeat" microdata, as imagining a network visualisation, would make sense based on the grouped by people document.

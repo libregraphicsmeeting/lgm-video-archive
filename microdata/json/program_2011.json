@@ -1,0 +1,841 @@
+{
+  "items": [
+    {
+      "properties": {
+        "website": [
+          "http://www.hughsie.com"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Making color management \u201cjust work\u201d using colord"
+        ], 
+        "presenter": [
+          "Richard Hughes"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=iLpGOIK4c84"
+        ], 
+        "year": [
+          2011
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://www.oyranos.org"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Connecting Device Calibration to ICC Profiles"
+        ], 
+        "presenter": [
+          "Kai-Uwe Behrmann"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=7Cfvf9PiMts"
+        ], 
+        "year": [
+          2011
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://ericschrijver.nl/"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Plain Text: Graphic Design and Programming Culture"
+        ], 
+        "presenter": [
+          "Eric Schrijver"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=w3kF49gXX5w"
+        ], 
+        "year": [
+          2011
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://lukast.mediablog.sk/log"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Krita: Professional Digital Painting"
+        ], 
+        "presenter": [
+          "Luk\u00e1\u0161 Tvrd\u00fd"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=42lF-GTjx9E"
+        ], 
+        "year": [
+          2011
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://dustycloud.org"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Using Blender for Patent Absurdity / advocacy animations"
+        ], 
+        "presenter": [
+          "Christopher Allan Webber"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=a7vqqGY-RgU"
+        ], 
+        "year": [
+          2011
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://libregraphicsmag.com"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Libre Graphics magazine: A year of fantastic"
+        ], 
+        "presenter": [
+          "Ana Carvalho", 
+          "ginger coons", 
+          "Ricardo Lafuente"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=BjWCv1iXDJI"
+        ], 
+        "year": [
+          2011
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://animtim.wehost.be/blog"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Comic book drawing with Krita"
+        ], 
+        "presenter": [
+          "Timoth\u00e9e Giet"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=NOHgG4-5ypY"
+        ], 
+        "year": [
+          2011
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://ospublish.constantvzw.org/lab"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Future Tools: The Libre Graphics Research Unit"
+        ], 
+        "presenter": [
+          "Femke Snelting"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=i_LiWhKW6UQ"
+        ], 
+        "year": [
+          2011
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://www.glyphography.com/fonts"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Revivalism: open font conversion and other great awakenings"
+        ], 
+        "presenter": [
+          "Nathan Willis"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=orok-PZy7vw"
+        ], 
+        "year": [
+          2011
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://www.lavalchabon.com"
+        ], 
+        "presenter": [
+          "Leaurend Lavie Hyp-P\u00e8re (Laval) Chabon"
+        ], 
+        "title": [
+          "VEGESIGNES"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "year": [
+          2011
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://understandingfonts.com"
+        ], 
+        "presenter": [
+          "Dave Crossland"
+        ], 
+        "title": [
+          "Freeing Fonts For Fun and Profit"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "year": [
+          2011
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://fabricatorz.com"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Unleashing the Power of Inkscape to Create and Share"
+        ], 
+        "presenter": [
+          "Brad Phillips"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=1GBH98gIZkg"
+        ], 
+        "year": [
+          2011
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://opendesign.asia"
+        ], 
+        "presenter": [
+          "Hong Phuc Dang"
+        ], 
+        "title": [
+          "Libre Graphics Global Documentation Project"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "year": [
+          2011
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://en.flossmanuals.net"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Free Documentation on Floss World"
+        ], 
+        "presenter": [
+          "Elisa de Castro Guerra", 
+          "C\u00e9dric G\u00e9my"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=MW6ISmpSLEQ"
+        ], 
+        "year": [
+          2011
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://chris.raysend.com"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Crafting an Open Font Stack"
+        ], 
+        "presenter": [
+          "Christopher Adams"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=fAypaQdAsps"
+        ], 
+        "year": [
+          2011
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://demo.cratica.org"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Laying out democracy"
+        ], 
+        "presenter": [
+          "Ana Carvalho", 
+          "Ricardo Lafuente"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=4e8yPKdaJeY"
+        ], 
+        "year": [
+          2011
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://autonomo.us"
+        ], 
+        "presenter": [
+          "Jon Phillips"
+        ], 
+        "title": [
+          "Autonomo.us Free Network Services and Global Conflicts"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "year": [
+          2011
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://www.tomlechner.com"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Laidout and Strange Interfaces"
+        ], 
+        "presenter": [
+          "Tom Lechner"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=SY6mtZS2LY0"
+        ], 
+        "year": [
+          2011
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://www.ianscheller.com"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Instant VIPSMagick"
+        ], 
+        "presenter": [
+          "Nicolas Robidoux"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=Dx54x7eFWQk"
+        ], 
+        "year": [
+          2011
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "S\u00e9bastien Roy"
+        ], 
+        "title": [
+          "Easy multi-projector desktop using Lighttwist compiz plugin"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=Jrpp1bB70GY"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "year": [
+          2011
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://jeff.ecchi.ca"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "PiTiVi and the state of GStreamer video editing"
+        ], 
+        "presenter": [
+          "Jean-Fran\u00e7ois Fortin Tam"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=i3hfcTd5W4c"
+        ], 
+        "year": [
+          2011
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Andreas Vox"
+        ], 
+        "title": [
+          "Know-How to Share: Beyond Software and Arts"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=gZghrdVKlqA"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "year": [
+          2011
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://thephysicalword.hypermodern.net"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Open Mind, Literally: Teaching Free Culture As A Life Goal, Brain Surgery, and A Networked Path to Recovery"
+        ], 
+        "presenter": [
+          "Pete Ippel"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=hQMgCyUXjLM"
+        ], 
+        "year": [
+          2011
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://twitter.com/minniefractale"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Data Viz: Open Source and Sources"
+        ], 
+        "presenter": [
+          "St\u00e9phanie Vidal"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=tWSeDXQujvA"
+        ], 
+        "year": [
+          2011
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://www.tmtp-project.org"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Tau Meta Tau Physica \u2013 Open Source Digital Pattern Making software"
+        ], 
+        "presenter": [
+          "Susan Spencer Conklin"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=Cd35-2xcfbk"
+        ], 
+        "year": [
+          2011
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://deviantart.com"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "DeviantArt: Creating Community Around Creativity"
+        ], 
+        "presenter": [
+          "Michael Halpert"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=INEM5CfNAws"
+        ], 
+        "year": [
+          2011
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "John Haltiwanger"
+        ], 
+        "title": [
+          "Generative typesetting with Context"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=aWmCi_ZzYC4"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "year": [
+          2011
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://adaptstudio.ca/ocs"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Open Colour Standard: Dissipating the vapour"
+        ], 
+        "presenter": [
+          "ginger \u201call-lower-case\u201d coons"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=Uh0WYNtAGpE"
+        ], 
+        "year": [
+          2011
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://www.mardigrafe.com"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "How to make SVG speak spot color language"
+        ], 
+        "presenter": [
+          "Louis Desjardins"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=NV81Kr4sDk8"
+        ], 
+        "year": [
+          2011
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://codewideopen.blogspot.com/"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Print: The Final Frontier"
+        ], 
+        "presenter": [
+          "Jon A. Cruz"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=m45dqfVievw"
+        ], 
+        "year": [
+          2011
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Nicolas Robidoux"
+        ], 
+        "title": [
+          "Better and faster image resizing and resampling"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=H7PM22bA96Q"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "year": [
+          2011
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://www.jonnor.com"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "MyPaint \u2013 the past, the present, and the future"
+        ], 
+        "presenter": [
+          "Jon Nordby"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=KMEGcTW_ing"
+        ], 
+        "year": [
+          2011
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://hci.uwaterloo.ca/research/query_log_analysis"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Quick and Dirty Usability: Leveraging Google Suggest to Instantly Know Your Users"
+        ], 
+        "presenter": [
+          "Michael Terry"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=yP2QVlLYHRc", 
+          "https://www.youtube.com/watch?v=SQbrmRSUNck"
+        ], 
+        "year": [
+          2011
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://www.scribus.net"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Towards an Document Object Model (DOM) for Scribus"
+        ], 
+        "presenter": [
+          "Andreas Vox"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=Kcg2RC8M_DQ"
+        ], 
+        "year": [
+          2011
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://toonloop.com"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Toonloop: animation for live performances"
+        ], 
+        "presenter": [
+          "Alexandre Quessy"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=Z4xuBqsLXWc"
+        ], 
+        "year": [
+          2011
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://pressbooks.com"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Open Publishing with PressBooks"
+        ], 
+        "presenter": [
+          "Hugh McGuire", 
+          "Christine Prefontaine"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=oy5w8-T38o8"
+        ], 
+        "year": [
+          2011
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Michael Terry"
+        ], 
+        "title": [
+          "Introducing AdaptableGIMP"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=ejwyk5OAikI"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "year": [
+          2011
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://oep-h.com"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Free Graphics Programming, experiences & thoughts"
+        ], 
+        "presenter": [
+          "Pierre Marchand"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=ZJmR0B4oCBM"
+        ], 
+        "year": [
+          2011
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "website": [
+          "http://toonloop.com/"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "In situ animation with Toonloop"
+        ], 
+        "presenter": [
+          "Alexandre Quessy"
+        ], 
+        "video": [
+          "https://www.youtube.com/watch?v=-a1E6Dqgbz0"
+        ], 
+        "year": [
+          2011
+        ]
+      }
+    }
+  ]
+}

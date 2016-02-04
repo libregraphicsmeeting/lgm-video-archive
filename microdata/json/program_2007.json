@@ -1,0 +1,781 @@
+{
+  "items": [
+    {
+      "properties": {
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Opening Talk"
+        ], 
+        "presenter": [
+          "Louis Desjardins"
+        ], 
+        "video": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-0-Louis_Desjardins.ogg"
+        ], 
+        "year": [
+          2007
+        ], 
+        "audio": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-0-Louis_Desjardins.audio.ogg"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Alain Boucher"
+        ], 
+        "title": [
+          "Les archives num\u00e9riques\u00a0: d\u00e9fis et perspectives - A presentation on digital archives issues"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "year": [
+          2007
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Why open standards matter: The Open Document Format"
+        ], 
+        "presenter": [
+          "Louis Suarez-Potts"
+        ], 
+        "video": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-2-Louis_Suarez-Potts.ogg"
+        ], 
+        "year": [
+          2007
+        ], 
+        "audio": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-2-Louis_Suarez-Potts.audio.ogg"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Introduction to the SVG format"
+        ], 
+        "slides": [
+          "http://gould.cx/ted/presentations/lgm/"
+        ], 
+        "presenter": [
+          "Ted Gould"
+        ], 
+        "video": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-3-Ted_Gould.ogg"
+        ], 
+        "year": [
+          2007
+        ], 
+        "audio": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-3-Ted_Gould.audio.ogg"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Judith Beaudoin"
+        ], 
+        "title": [
+          "A GIMP overview"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "year": [
+          2007
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Project overview and first results from the OpenUsability GIMP redesign project"
+        ], 
+        "slides": [
+          "http://www.mmiworks.net/eng/publications/2007/05/lgm-gimp-project-overview.html"
+        ], 
+        "presenter": [
+          "Peter Sikking", 
+          "Kamila Giedroj\u0107"
+        ], 
+        "video": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-4-Sikking_Giedroj%C4%87.ogg"
+        ], 
+        "year": [
+          2007
+        ], 
+        "audio": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-4-Sikking_Giedroj%C4%87.audio.ogg"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Liam Quin"
+        ], 
+        "title": [
+          "Why W3C XSL-FO 2.0 is Important"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "year": [
+          2007
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Alexandre Robin"
+        ], 
+        "title": [
+          "An Inkscape overview"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "year": [
+          2007
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Bryce Harrington"
+        ], 
+        "title": [
+          "Inkscape\u2019s history, current state, and goals"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "year": [
+          2007
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Benoit St-Andr\u00e9"
+        ], 
+        "title": [
+          "Contributing without coding"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "year": [
+          2007
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Creating photo-realistic artwork based on photo reference (Inkscape)"
+        ], 
+        "presenter": [
+          "Jakub Steiner"
+        ], 
+        "video": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-5-Jakub_Steiner.ogg"
+        ], 
+        "year": [
+          2007
+        ], 
+        "audio": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-5-Jakub_Steiner.audio.ogg"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Igor Novikov"
+        ], 
+        "title": [
+          "CDR format reverse engineering"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "year": [
+          2007
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Alexandre Robin"
+        ], 
+        "title": [
+          "A Scribus overview"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "year": [
+          2007
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Scribus: Open Source Desktop Publishing/"
+        ], 
+        "presenter": [
+          "Peter Linnell"
+        ], 
+        "video": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-6-Peter_Linnell.ogg"
+        ], 
+        "year": [
+          2007
+        ], 
+        "audio": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-6-Peter_Linnell.audio.ogg"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Past, present and future of Scribus\u2019 text-layout features"
+        ], 
+        "presenter": [
+          "Andreas Vox"
+        ], 
+        "video": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-7-Andreas_Vox.ogg"
+        ], 
+        "year": [
+          2007
+        ], 
+        "audio": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070504-7-Andreas_Vox.audio.ogg"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Benoit St-Andr\u00e9"
+        ], 
+        "title": [
+          "An OpenClipart overview"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "year": [
+          2007
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Harrisson", 
+          "Femke Snelting"
+        ], 
+        "title": [
+          "Relaying Systems \u2013 Why designers should be interested in FLOSS"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "year": [
+          2007
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Digital Photography with libre Software: RAW, metadata, workflow and asset management"
+        ], 
+        "presenter": [
+          "Hubert Figui\u00e8re"
+        ], 
+        "video": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070505-1-Hubert_Figui%C3%A8re.ogg"
+        ], 
+        "year": [
+          2007
+        ], 
+        "audio": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070505-1-Hubert_Figui%C3%A8re.ogg"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Karine Delvare"
+        ], 
+        "title": [
+          "Contributing to an Open Source project, taking GIMP as an example. Part I"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "year": [
+          2007
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "General Blender presentation"
+        ], 
+        "presenter": [
+          "Martin Poirier"
+        ], 
+        "video": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070505-2-Martin_Poirier.ogg"
+        ], 
+        "year": [
+          2007
+        ], 
+        "audio": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070505-2-Martin_Poirier.audio.ogg"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Karine Delvare"
+        ], 
+        "title": [
+          "Contributing to an Open Source project, taking GIMP as an example. Part II"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "year": [
+          2007
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Ingimp: An instrumented version of GIMP to automatically collect usability data"
+        ], 
+        "presenter": [
+          "Michael Terry"
+        ], 
+        "video": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070505-3-Michael_Terry.ogg"
+        ], 
+        "year": [
+          2007
+        ], 
+        "audio": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070505-3-Michael_Terry.audio.ogg"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "C\u00e9dric Gemy"
+        ], 
+        "title": [
+          "Working with Open Standards and FLOSS (Inkscape, Gimp, Blender, Scribus)"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "year": [
+          2007
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Krita, its history, current state and goals"
+        ], 
+        "presenter": [
+          "Boudewijn Rempt", 
+          "Cyrille Berger"
+        ], 
+        "video": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070505-4-Rempt_Berger.ogg"
+        ], 
+        "year": [
+          2007
+        ], 
+        "audio": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070505-4-Rempt_Berger.audio.ogg"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Our first year of graphic design ... 100 % open source"
+        ], 
+        "slides": [
+          "http://blogue.jaunorange.com/index.php?post/2007/05/08/Notre-premiere-annee-de-graphisme-100-libre"
+        ], 
+        "presenter": [
+          "Alexandre Robin"
+        ], 
+        "video": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070505-5-Alexandre_Robin.ogg"
+        ], 
+        "year": [
+          2007
+        ], 
+        "audio": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070505-5-Alexandre_Robin.ogg"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "OpenRaster: a new file format to fully share complex raster graphics between applications"
+        ], 
+        "presenter": [
+          "Cyrille Berger"
+        ], 
+        "video": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070505-a-Cyrille_Berger.ogg"
+        ], 
+        "year": [
+          2007
+        ], 
+        "audio": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070505-a-Cyrille_Berger.audio.ogg"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Free Software Fonts", 
+          "The Open Font License, purpose, achievements, future"
+        ], 
+        "presenter": [
+          "Dave Crossland", 
+          "Nicolas Spalinger"
+        ], 
+        "video": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070505-6-Crossland_Spalinger.ogg"
+        ], 
+        "year": [
+          2007
+        ], 
+        "audio": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070505-6-Crossland_Spalinger.audio.ogg"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Creating Comics in Inkscape"
+        ], 
+        "slides": [
+          "http://www.coswellproductions.org/computers/lgm_2007/libre_graphics_meeting_2007_presentation.html"
+        ], 
+        "presenter": [
+          "MenTaLguY", 
+          "John Bintz"
+        ], 
+        "video": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070505-9-Mental_Bintz.ogg"
+        ], 
+        "year": [
+          2007
+        ], 
+        "audio": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070505-9-Mental_Bintz.audio.ogg"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Photo management and editing with F-Spot and GIMP"
+        ], 
+        "presenter": [
+          "Jakub Steiner"
+        ], 
+        "video": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070505-7-Jakub_Steiner.ogg"
+        ], 
+        "year": [
+          2007
+        ], 
+        "audio": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070505-7-Jakub_Steiner.audio.ogg"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Peter Linnell"
+        ], 
+        "title": [
+          "Scribus for print professionals"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "year": [
+          2007
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Newspaper publishing with Open Source software"
+        ], 
+        "presenter": [
+          "Rapha\u00ebl Meltz"
+        ], 
+        "video": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070505-8-Rapha%C3%ABl_Meltz.ogg"
+        ], 
+        "year": [
+          2007
+        ], 
+        "audio": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070505-8-Rapha%C3%ABl_Meltz.audio.ogg"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "GEGL \u2013 a graph based image processing and compositing engine. A presentation of capabilities, data model, public API and an overview of opportunities for internal optimisations and enhancements"
+        ], 
+        "presenter": [
+          "\u00d8yvind Kol\u00e5s"
+        ], 
+        "video": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070506-1-%C3%98yvind_Kol%C3%A5s.ogg"
+        ], 
+        "year": [
+          2007
+        ], 
+        "audio": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070506-1-%C3%98yvind_Kol%C3%A5s.audio.ogg"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "C\u00e9dric Gemy"
+        ], 
+        "title": [
+          "Why use FLOSS for professional works?"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "year": [
+          2007
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Creating an Open Movie and production pipeline with free software"
+        ], 
+        "presenter": [
+          "Bassam Kurdali"
+        ], 
+        "video": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070506-2-Bassam_Kurdali.ogg"
+        ], 
+        "year": [
+          2007
+        ], 
+        "audio": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070506-2-Bassam_Kurdali.audio.ogg"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "Yuval Levy"
+        ], 
+        "title": [
+          "Production workflows for 360\u00b0 panoramas and how to increase the share of open source code in the workflow"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "year": [
+          2007
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "An Open Source illustration program for prepress"
+        ], 
+        "presenter": [
+          "Igor Novikov"
+        ], 
+        "video": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070506-3-Igor_Novikov.ogg"
+        ], 
+        "year": [
+          2007
+        ], 
+        "audio": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070506-3-Igor_Novikov.audio.ogg"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "Communication design in every language \u2013 designing product materials purely in open source"
+        ], 
+        "presenter": [
+          "Andy Fitzsimon"
+        ], 
+        "video": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070506-4-Andy_Fitzsimon.ogg"
+        ], 
+        "year": [
+          2007
+        ], 
+        "audio": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070506-4-Andy_Fitzsimon.audio.ogg"
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "presenter": [
+          "David Maxwell"
+        ], 
+        "title": [
+          "Static Analysis results on graphics software"
+        ], 
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "year": [
+          2007
+        ]
+      }
+    }, 
+    {
+      "properties": {
+        "city": [
+          "Montr\u00e9al"
+        ], 
+        "title": [
+          "The Open Content Library: Overview of Open Clip Art Library and ccHost"
+        ], 
+        "slides": [
+          "http://rejon.org/2007/05/06/lgm-2007/"
+        ], 
+        "presenter": [
+          "Jon Phillips"
+        ], 
+        "video": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070506-5-Jon_Phillips.ogg"
+        ], 
+        "year": [
+          2007
+        ], 
+        "audio": [
+          "http://people.xiph.org/~giles/2007/lgm/LGM_20070506-5-Jon_Phillips.audio.ogg"
+        ]
+      }
+    }
+  ]
+}
