@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+	<items>
+		<properties>
+			<website>http://www.hughsie.com</website>
+			<city>Montréal</city>
+			<title>Making color management “just work” using colord</title>
+			<presenter>Richard Hughes</presenter>
+			<video>https://www.youtube.com/watch?v=iLpGOIK4c84</video>
+			<year>2011</year>
+		</properties>
+	</items>
+	<items>
+		<properties>
+			<website>http://www.oyranos.org</website>
+			<city>Montréal</city>
+			<title>Connecting Device Calibration to ICC Profiles</title>
+			<presenter>Kai-Uwe Behrmann</presenter>
+			<video>https://www.youtube.com/watch?v=7Cfvf9PiMts</video>
+			<year>2011</year>
+		</properties>
+	</items>
+	<items>
+		<properties>
+			<website>http://ericschrijver.nl/</website>
+			<city>Montréal</city>
+			<title>Plain Text: Graphic Design and Programming Culture</title>
+			<presenter>Eric Schrijver</presenter>
+			<video>https://www.youtube.com/watch?v=w3kF49gXX5w</video>
+			<year>2011</year>
+		</properties>
+	</items>
+	<items>
+		<properties>
+			<website>http://lukast.mediablog.sk/log</website>
+			<city>Montréal</city>
+			<title>Krita: Professional Digital Painting</title>
+			<presenter>Lukáš Tvrdý</presenter>
+			<video>https://www.youtube.com/watch?v=42lF-GTjx9E</video>
+			<year>2011</year>
+		</properties>
+	</items>
+	<items>
+		<properties>
+			<website>http://dustycloud.org</website>
+			<city>Montréal</city>
+			<title>Using Blender for Patent Absurdity / advocacy animations</title>
+			<presenter>Christopher Allan Webber</presenter>
+			<video>https://www.youtube.com/watch?v=a7vqqGY-RgU</video>
+			<year>2011</year>
+		</properties>
+	</items>
+	<items>
+		<properties>
+			<website>http://libregraphicsmag.com</website>
+			<city>Montréal</city>
+			<title>Libre Graphics magazine: A year of fantastic</title>
+			<presenter>Ana Carvalho</presenter>
+			<presenter>ginger coons</presenter>
+			<presenter>Ricardo Lafuente</presenter>
+			<video>https://www.youtube.com/watch?v=BjWCv1iXDJI</video>
+			<year>2011</year>
+		</properties>
+	</items>
+	<items>
+		<properties>
+			<website>http://animtim.wehost.be/blog</website>
+			<city>Montréal</city>
+			<title>Comic book drawing with Krita</title>
+			<presenter>Timothée Giet</presenter>
+			<video>https://www.youtube.com/watch?v=NOHgG4-5ypY</video>
+			<year>2011</year>
+		</properties>
+	</items>
+	<items>
+		<properties>
+			<website>http://ospublish.constantvzw.org/lab</website>
+			<city>Montréal</city>
+			<title>Future Tools: The Libre Graphics Research Unit</title>
+			<presenter>Femke Snelting</presenter>
+			<video>https://www.youtube.com/watch?v=i_LiWhKW6UQ</video>
+			<year>2011</year>
+		</properties>
+	</items>
+	<items>
+		<properties>
+			<website>http://www.glyphography.com/fonts</website>
+			<city>Montréal</city>
+			<title>Revivalism: open font conversion and other great awakenings</title>
+			<presenter>Nathan Willis</presenter>
+			<video>https://www.youtube.com/watch?v=orok-PZy7vw</video>
+			<year>2011</year>
+		</properties>
+	</items>
+	<items>
+		<properties>
+			<website>http://www.lavalchabon.com</website>
+			<presenter>Leaurend Lavie Hyp-Père (Laval) Chabon</presenter>
+			<title>VEGESIGNES</title>
+			<city>Montréal</city>
+			<year>2011</year>
+		</properties>
+	</items>
+	<items>
+		<properties>
+			<website>http://understandingfonts.com</website>
+			<presenter>Dave Crossland</presenter>
+			<title>Freeing Fonts For Fun and Profit</title>
+			<city>Montréal</city>
+			<year>2011</year>
+		</properties>
+	</items>
+	<items>
+		<properties>
+			<website>http://fabricatorz.com</website>
+			<city>Montréal</city>
+			<title>Unleashing the Power of Inkscape to Create and Share</title>
+			<presenter>Brad Phillips</presenter>
+			<video>https://www.youtube.com/watch?v=1GBH98gIZkg</video>
+			<year>2011</year>
+		</properties>
+	</items>
+	<items>
+		<properties>
+			<website>http://opendesign.asia</website>
+			<presenter>Hong Phuc Dang</presenter>
+			<title>Libre Graphics Global Documentation Project</title>
+			<city>Montréal</city>
+			<year>2011</year>
+		</properties>
+	</items>
+	<items>
+		<properties>
+			<website>http://en.flossmanuals.net</website>
+			<city>Montréal</city>
+			<title>Free Documentation on Floss World</title>
+			<presenter>Elisa de Castro Guerra</presenter>
+			<presenter>Cédric Gémy</presenter>
+			<video>https://www.youtube.com/watch?v=MW6ISmpSLEQ</video>
+			<year>2011</year>
+		</properties>
+	</items>
+	<items>
+		<properties>
+			<website>http://chris.raysend.com</website>
+			<city>Montréal</city>
+			<title>Crafting an Open Font Stack</title>
+			<presenter>Christopher Adams</presenter>
+			<video>https://www.youtube.com/watch?v=fAypaQdAsps</video>
+			<year>2011</year>
+		</properties>
+	</items>
+	<items>
+		<properties>
+			<website>http://demo.cratica.org</website>
+			<city>Montréal</city>
+			<title>Laying out democracy</title>
+			<presenter>Ana Carvalho</presenter>
+			<presenter>Ricardo Lafuente</presenter>
+			<video>https://www.youtube.com/watch?v=4e8yPKdaJeY</video>
+			<year>2011</year>
+		</properties>
+	</items>
+	<items>
+		<properties>
+			<website>http://autonomo.us</website>
+			<presenter>Jon Phillips</presenter>
+			<title>Autonomo.us Free Network Services and Global Conflicts</title>
+			<city>Montréal</city>
+			<year>2011</year>
+		</properties>
+	</items>
+	<items>
+		<properties>
+			<website>http://www.tomlechner.com</website>
+			<city>Montréal</city>
+			<title>Laidout and Strange Interfaces</title>
+			<presenter>Tom Lechner</presenter>
+			<video>https://www.youtube.com/watch?v=SY6mtZS2LY0</video>
+			<year>2011</year>
+		</properties>
+	</items>
+	<items>
+		<properties>
+			<website>http://www.ianscheller.com</website>
+			<city>Montréal</city>
+			<title>Instant VIPSMagick</title>
+			<presenter>Nicolas Robidoux</presenter>
+			<video>https://www.youtube.com/watch?v=Dx54x7eFWQk</video>
+			<year>2011</year>
+		</properties>
+	</items>
+	<items>
+		<properties>
+			<presenter>Sébastien Roy</presenter>
+			<title>Easy multi-projector desktop using Lighttwist compiz plugin</title>
+			<video>https://www.youtube.com/watch?v=Jrpp1bB70GY</video>
+			<city>Montréal</city>
+			<year>2011</year>
+		</properties>
+	</items>
+	<items>
+		<properties>
+			<website>http://jeff.ecchi.ca</website>
+			<city>Montréal</city>
+			<title>PiTiVi and the state of GStreamer video editing</title>
+			<presenter>Jean-François Fortin Tam</presenter>
+			<video>https://www.youtube.com/watch?v=i3hfcTd5W4c</video>
+			<year>2011</year>
+		</properties>
+	</items>
+	<items>
+		<properties>
+			<presenter>Andreas Vox</presenter>
+			<title>Know-How to Share: Beyond Software and Arts</title>
+			<video>https://www.youtube.com/watch?v=gZghrdVKlqA</video>
+			<city>Montréal</city>
+			<year>2011</year>
+		</properties>
+	</items>
+	<items>
+		<properties>
+			<website>http://thephysicalword.hypermodern.net</website>
+			<city>Montréal</city>
+			<title>Open Mind, Literally: Teaching Free Culture As A Life Goal, Brain Surgery, and A Networked Path to Recovery</title>
+			<presenter>Pete Ippel</presenter>
+			<video>https://www.youtube.com/watch?v=hQMgCyUXjLM</video>
+			<year>2011</year>
+		</properties>
+	</items>
+	<items>
+		<properties>
+			<website>http://twitter.com/minniefractale</website>
+			<city>Montréal</city>
+			<title>Data Viz: Open Source and Sources</title>
+			<presenter>Stéphanie Vidal</presenter>
+			<video>https://www.youtube.com/watch?v=tWSeDXQujvA</video>
+			<year>2011</year>
+		</properties>
+	</items>
+	<items>
+		<properties>
+			<website>http://www.tmtp-project.org</website>
+			<city>Montréal</city>
+			<title>Tau Meta Tau Physica – Open Source Digital Pattern Making software</title>
+			<presenter>Susan Spencer Conklin</presenter>
+			<video>https://www.youtube.com/watch?v=Cd35-2xcfbk</video>
+			<year>2011</year>
+		</properties>
+	</items>
+	<items>
+		<properties>
+			<website>http://deviantart.com</website>
+			<city>Montréal</city>
+			<title>DeviantArt: Creating Community Around Creativity</title>
+			<presenter>Michael Halpert</presenter>
+			<video>https://www.youtube.com/watch?v=INEM5CfNAws</video>
+			<year>2011</year>
+		</properties>
+	</items>
+	<items>
+		<properties>
+			<presenter>John Haltiwanger</presenter>
+			<title>Generative typesetting with Context</title>
+			<video>https://www.youtube.com/watch?v=aWmCi_ZzYC4</video>
+			<city>Montréal</city>
+			<year>2011</year>
+		</properties>
+	</items>
+	<items>
+		<properties>
+			<website>http://adaptstudio.ca/ocs</website>
+			<city>Montréal</city>
+			<title>Open Colour Standard: Dissipating the vapour</title>
+			<presenter>ginger “all-lower-case” coons</presenter>
+			<video>https://www.youtube.com/watch?v=Uh0WYNtAGpE</video>
+			<year>2011</year>
+		</properties>
+	</items>
+	<items>
+		<properties>
+			<website>http://www.mardigrafe.com</website>
+			<city>Montréal</city>
+			<title>How to make SVG speak spot color language</title>
+			<presenter>Louis Desjardins</presenter>
+			<video>https://www.youtube.com/watch?v=NV81Kr4sDk8</video>
+			<year>2011</year>
+		</properties>
+	</items>
+	<items>
+		<properties>
+			<website>http://codewideopen.blogspot.com/</website>
+			<city>Montréal</city>
+			<title>Print: The Final Frontier</title>
+			<presenter>Jon A. Cruz</presenter>
+			<video>https://www.youtube.com/watch?v=m45dqfVievw</video>
+			<year>2011</year>
+		</properties>
+	</items>
+	<items>
+		<properties>
+			<presenter>Nicolas Robidoux</presenter>
+			<title>Better and faster image resizing and resampling</title>
+			<video>https://www.youtube.com/watch?v=H7PM22bA96Q</video>
+			<city>Montréal</city>
+			<year>2011</year>
+		</properties>
+	</items>
+	<items>
+		<properties>
+			<website>http://www.jonnor.com</website>
+			<city>Montréal</city>
+			<title>MyPaint – the past, the present, and the future</title>
+			<presenter>Jon Nordby</presenter>
+			<video>https://www.youtube.com/watch?v=KMEGcTW_ing</video>
+			<year>2011</year>
+		</properties>
+	</items>
+	<items>
+		<properties>
+			<website>http://hci.uwaterloo.ca/research/query_log_analysis</website>
+			<city>Montréal</city>
+			<title>Quick and Dirty Usability: Leveraging Google Suggest to Instantly Know Your Users</title>
+			<presenter>Michael Terry</presenter>
+			<video>https://www.youtube.com/watch?v=yP2QVlLYHRc</video>
+			<video>https://www.youtube.com/watch?v=SQbrmRSUNck</video>
+			<year>2011</year>
+		</properties>
+	</items>
+	<items>
+		<properties>
+			<website>http://www.scribus.net</website>
+			<city>Montréal</city>
+			<title>Towards an Document Object Model (DOM) for Scribus</title>
+			<presenter>Andreas Vox</presenter>
+			<video>https://www.youtube.com/watch?v=Kcg2RC8M_DQ</video>
+			<year>2011</year>
+		</properties>
+	</items>
+	<items>
+		<properties>
+			<website>http://toonloop.com</website>
+			<city>Montréal</city>
+			<title>Toonloop: animation for live performances</title>
+			<presenter>Alexandre Quessy</presenter>
+			<video>https://www.youtube.com/watch?v=Z4xuBqsLXWc</video>
+			<year>2011</year>
+		</properties>
+	</items>
+	<items>
+		<properties>
+			<website>http://pressbooks.com</website>
+			<city>Montréal</city>
+			<title>Open Publishing with PressBooks</title>
+			<presenter>Hugh McGuire</presenter>
+			<presenter>Christine Prefontaine</presenter>
+			<video>https://www.youtube.com/watch?v=oy5w8-T38o8</video>
+			<year>2011</year>
+		</properties>
+	</items>
+	<items>
+		<properties>
+			<presenter>Michael Terry</presenter>
+			<title>Introducing AdaptableGIMP</title>
+			<video>https://www.youtube.com/watch?v=ejwyk5OAikI</video>
+			<city>Montréal</city>
+			<year>2011</year>
+		</properties>
+	</items>
+	<items>
+		<properties>
+			<website>http://oep-h.com</website>
+			<city>Montréal</city>
+			<title>Free Graphics Programming, experiences &amp; thoughts</title>
+			<presenter>Pierre Marchand</presenter>
+			<video>https://www.youtube.com/watch?v=ZJmR0B4oCBM</video>
+			<year>2011</year>
+		</properties>
+	</items>
+	<items>
+		<properties>
+			<website>http://toonloop.com/</website>
+			<city>Montréal</city>
+			<title>In situ animation with Toonloop</title>
+			<presenter>Alexandre Quessy</presenter>
+			<video>https://www.youtube.com/watch?v=-a1E6Dqgbz0</video>
+			<year>2011</year>
+		</properties>
+	</items>
+	

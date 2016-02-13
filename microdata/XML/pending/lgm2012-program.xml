@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+	<items>
+		<properties>
+			<presenter>Louis Desjardins</presenter>
+			<title>Opening Talk</title>
+			<city>Vienna</city>
+			<year>2012</year>
+		</properties>
+	</items>
+	<items>
+		<properties>
+			<presenter>Richard Hughes</presenter>
+			<title>ColorHug - The Open Hardware Colorimeter</title>
+			<video>https://www.youtube.com/watch?v=GVH3ykJiNt0</video>
+			<city>Vienna</city>
+			<year>2012</year>
+		</properties>
+	</items>
+	<items>
+		<properties>
+			<presenter>Kai-Uwe Behrmann</presenter>
+			<title>Evolving Concepts for Colour Management</title>
+			<video>https://www.youtube.com/watch?v=9EL-mgiEBq0</video>
+			<city>Vienna</city>
+			<year>2012</year>
+		</properties>
+	</items>
+	<items>
+		<properties>
+			<presenter>Chris Lilley</presenter>
+			<title>Color Management in SVG2</title>
+			<video>https://www.youtube.com/watch?v=e2J3k_S1eb0</video>
+			<city>Vienna</city>
+			<year>2012</year>
+		</properties>
+	</items>
+	<items>
+		<properties>
+			<speaker>Kai-Uwe Behrmann</speaker>
+			<title>Colour Management a la Greek</title>
+			<video>https://www.youtube.com/watch?v=KBdpQ-daaJ8</video>
+			<city>Vienna</city>
+			<year>2012</year>
+		</properties>
+	</items>
+	<items>
+		<properties>
+			<presenter>Richard Hughes</presenter>
+			<title>colord - Linux Color Management Framework, One Year On</title>
+			<video>https://www.youtube.com/watch?v=gzTyVkHsdjo</video>
+			<city>Vienna</city>
+			<year>2012</year>
+		</properties>
+	</items>
+	<items>
+		<properties>
+			<presenter>Sirko Kemter</presenter>
+			<title>Taxi DB - Call A Cab To Bring The Colors</title>
+			<city>Vienna</city>
+			<year>2012</year>
+		</properties>
+	</items>
+	<items>
+		<properties>
+			<presenter>Valek Filippov</presenter>
+			<title>Re-lab project. Formats reverse engineering: tools and results.</title>
+			<city>Vienna</city>
+			<year>2012</year>
+		</properties>
+	</items>
+	<items>
+		<properties>
+			<presenter>Fridrich Strba</presenter>
+			<title>Import filters for vector graphic formats in LibreOffice: the reverse- and straight engineering fun</title>
+			<video>https://www.youtube.com/watch?v=TfB4rO2x1TY</video>
+			<city>Vienna</city>
+			<year>2012</year>
+		</properties>
+	</items>
+	<items>
+		<properties>
+			<presenter>Igor Novikov</presenter>
+			<title>sK1 Project Reloaded</title>
+			<video>https://www.youtube.com/watch?v=KaHSmr0cWO8</video>
+			<city>Vienna</city>
+			<year>2012</year>
+		</properties>
+	</items>
+	<items>
+		<properties>
+			<presenter>Behdad Esfahbod</presenter>
+			<title>GLyphy, a GPU-accelerated text rendering engine</title>
+			<video>https://www.youtube.com/watch?v=hheWzVA6llc</video>
+			<city>Vienna</city>
+			<year>2012</year>
+		</properties>
+	</items>
+	<items>
+		<properties>
+			<presenter>Daniel Phillips</presenter>
+			<title>World Welder: Solid Modeling from a New Perspective</title>
+			<video>https://www.youtube.com/watch?v=N6HivabHHnA</video>
+			<city>Vienna</city>
+			<year>2012</year>
+		</properties>
+	</items>
+	<items>
+		<properties>
+			<presenter>Ricardo Lafuente</presenter>
+			<presenter>Ana Carvalho</presenter>
+			<title>The awesome things that libre web type enables you to do</title>
+			<city>Vienna</city>
+			<year>2012</year>
+		</properties>
+	</items>
+	<items>
+		<properties>
+			<presenter>jeroen dijkmeijer</presenter>
+			<title>I script design and so can you</title>
+			<city>Vienna</city>
+			<year>2012</year>
+		</properties>
+	</items>
+	<items>
+		<properties>
+			<presenter>Ramon Miranda</presenter>
+			<title>Digital Painting with open source.</title>
+			<video>https://www.youtube.com/watch?v=nQDDxzAS_oE</video>
+			<city>Vienna</city>
+			<year>2012</year>
+		</properties>
+	</items>
+	<items>
+		<properties>
+			<presenter>Martin Renold</presenter>
+			<title>Predictable Painting</title>
+			<city>Vienna</city>
+			<year>2012</year>
+		</properties>
+	</items>
+	<items>
+		<properties>
+			<presenter>Tom Lechner</presenter>
+			<title>Laidout</title>
+			<city>Vienna</city>
+			<year>2012</year>
+		</properties>
+	</items>
+	<items>
+		<properties>
+			<website>http://www.markus-raab.org/ftp/elektra/thesis.pdf</website>
+			<presenter>Markus Raab</presenter>
+			<title>Elektra - A Modular Approach to Configuration Storage</title>
+			<city>Vienna</city>
+			<year>2012</year>
+		</properties>
+	</items>
+	<items>
+		<properties>
+			<presenter>Behdad Esfahbod</presenter>
+			<title>HarfBuzz, the Free text shaping engine</title>
+			<city>Vienna</city>
+			<year>2012</year>
+		</properties>
+	</items>
+	<items>
+		<properties>
+			<presenter>Máirín Duffy</presenter>
+			<presenter>Emily Dirsh</presenter>
+			<title>An awesome FLOSS design collaboration workflow</title>
+			<video>https://www.youtube.com/watch?v=3sgbJVqBLpQ</video>
+			<city>Vienna</city>
+			<year>2012</year>
+		</properties>
+	</items>
+	<items>
+		<properties>
+			<presenter>Silvia Schiaulini</presenter>
+			<title>The importance of new tools to enable collective design process</title>
+			<video>https://www.youtube.com/watch?v=B-N_ZUbSgro</video>
+			<city>Vienna</city>
+			<year>2012</year>
+		</properties>
+	</items>
+	<items>
+		<properties>
+			<presenter>Helen Jamieson</presenter>
+			<presenter>Martin Eisenbarth</presenter>
+			<presenter>Jenny Pickett</presenter>
+			<title>Re-Imagining UpStage</title>
+			<video>https://www.youtube.com/watch?v=YDoEyXyzylk</video>
+			<city>Vienna</city>
+			<year>2012</year>
+		</properties>
+	</items>
+	<items>
+		<properties>
+			<slides>../wp/wp-content/uploads/gravity_forms/3/2012/05/LGM2012_-_Powerstroke.pdf</slides>
+			<presenter>Johan Engelen</presenter>
+			<title>Powerstroke: variable stroke width in Inkscape</title>
+			<city>Vienna</city>
+			<year>2012</year>
+		</properties>
+	</items>
+	<items>
+		<properties>
+			<presenter>peter sikking</presenter>
+			<presenter>Kate Price</presenter>
+			<title>rethinking text handling in GIMP</title>
+			<video>https://www.youtube.com/watch?v=eWCmb3eIr6k</video>
+			<city>Vienna</city>
+			<year>2012</year>
+		</properties>
+	</items>
+	<items>
+		<properties>
+			<presenter>Victor Oliveira</presenter>
+			<title>Implementing OpenCL support in GEGL and GIMP</title>
+			<video>https://www.youtube.com/watch?v=UzBPUalkqg8</video>
+			<city>Vienna</city>
+			<year>2012</year>
+		</properties>
+	</items>
+	<items>
+		<properties>
+			<presenter>Øyvind Kolås</presenter>
+			<title>GeglBuffer tight and flexible raster abstraction.</title>
+			<video>https://www.youtube.com/watch?v=HFDbSQk9Ba0</video>
+			<city>Vienna</city>
+			<year>2012</year>
+		</properties>
+	</items>
+	<items>
+		<properties>
+			<presenter>Michael Natterer</presenter>
+			<title>Goat Invasion in GIMP</title>
+			<video>https://www.youtube.com/watch?v=HFDbSQk9Ba0</video>
+			<city>Vienna</city>
+			<year>2012</year>
+		</properties>
+	</items>
+	<items>
+		<properties>
+			<presenter>Øyvind Kolås</presenter>
+			<title>Petting Zoo with Goats</title>
+			<video>https://www.youtube.com/watch?v=HFDbSQk9Ba0</video>
+			<city>Vienna</city>
+			<year>2012</year>
+		</properties>
+	</items>
+	<items>
+		<properties>
+			<presenter>Sirko Kemter</presenter>
+			<presenter>Máirín Duffy</presenter>
+			<presenter>Allan Day</presenter>
+			<title>Doing Design In The World Of FLOSS</title>
+			<city>Vienna</city>
+			<year>2012</year>
+		</properties>
+	</items>
+	<items>
+		<properties>
+			<presenter>Femke Snelting</presenter>
+			<presenter>Marcos Garcia</presenter>
+			<title>Tools shape practice, practice shapes tools: The Libre Graphics Research Unit</title>
+			<city>Vienna</city>
+			<year>2012</year>
+		</properties>
+	</items>
+	<items>
+		<properties>
+			<presenter>Nicu Buculei</presenter>
+			<title>Free Culture meets Free Software: Wiki Loves Monuments</title>
+			<city>Vienna</city>
+			<year>2012</year>
+		</properties>
+	</items>
+	<items>
+		<properties>
+			<presenter>Bassam  Kurdali</presenter>
+			<presenter>Fateh Slavitskaya</presenter>
+			<title>Tube Open Movie: Blender 3D Animation in a Distributed Pipeline </title>
+			<video>https://www.youtube.com/watch?v=9r4JSYWAKvE</video>
+			<city>Vienna</city>
+			<year>2012</year>
+		</properties>
+	</items>
+	<items>
+		<properties>
+			<presenter>Lukáš Tvrdý</presenter>
+			<presenter>Timothée Giet</presenter>
+			<title>Krita:</title>
+			<video>https://www.youtube.com/watch?v=OXGSW_oAAy8</video>
+			<city>Vienna</city>
+			<year>2012</year>
+		</properties>
+	</items>
+	<items>
+		<properties>
+			<presenter>Timothée Giet</presenter>
+			<title>Introducing Synfig Studio</title>
+			<video>https://www.youtube.com/watch?v=TY4R5PQeVMc</video>
+			<city>Vienna</city>
+			<year>2012</year>
+		</properties>
+	</items>
+	<items>
+		<properties>
+			<website>http://morevnaproject.org/tag/remake/</website>
+			<city>Vienna</city>
+			<title>Remake - build system for animation projects</title>
+			<presenter>Konstantin Dmitriev</presenter>
+			<video>https://www.youtube.com/watch?v=Jbd7GjRrrBc</video>
+			<year>2012</year>
+		</properties>
+	</items>
+	<items>
+		<properties>
+			<presenter>Diego Barrios Romero</presenter>
+			<title>Coding for Synfig: Our road ahead</title>
+			<video>https://www.youtube.com/watch?v=Hhs1Xn9wXjM</video>
+			<city>Vienna</city>
+			<year>2012</year>
+		</properties>
+	</items>
+	<items>
+		<properties>
+			<presenter>Amir Hassan</presenter>
+			<title>SoundFumble: live sound generation with Gimp</title>
+			<video>https://www.youtube.com/watch?v=teNkaSs_OmY</video>
+			<city>Vienna</city>
+			<year>2012</year>
+		</properties>
+	</items>
+	<items>
+		<properties>
+			<presenter>Pete Ippel</presenter>
+			<title>Transitional Work Flow For Artists Making The Libre Graphics Leap</title>
+			<city>Vienna</city>
+			<year>2012</year>
+		</properties>
+	</items>
+	<items>
+		<properties>
+			<presenter>Nathan Willis</presenter>
+			<title>It Builds Character</title>
+			<city>Vienna</city>
+			<year>2012</year>
+		</properties>
+	</items>
+	<items>
+		<properties>
+			<presenter>Louis Desjardins</presenter>
+			<title>Closing Talk</title>
+			<city>Vienna</city>
+			<year>2012</year>
+		</properties>
+	</items>
+	

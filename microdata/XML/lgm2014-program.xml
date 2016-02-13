@@ -1,0 +1,1230 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!-- generator="WordPress/4.4" created="2015-12-30 22:34" -->
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+
+	<title>LGM Video Archive 2014</title>
+	<link>http://libregraphicsmeeting.org/video</link>
+	<description>Libre Graphics Meeting Video Archive</description>
+	<pubDate>Wed, 30 Dec 2015 22:34:47 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>http://libregraphicsmeeting.org/video</wp:base_site_url>
+	<wp:base_blog_url>http://libregraphicsmeeting.org/video</wp:base_blog_url>
+
+	<generator>https://wordpress.org/?v=4.4</generator>
+	<item>
+			<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+			<content:encoded><![CDATA[We will kick off this year's event with a joint session that sums up all things that have happened in our wide landscape over the last year.]]></content:encoded>
+			<wp:post_date><![CDATA[2014-04-02 10:00:00]]></wp:post_date>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<wp:post_type><![CDATA[post]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_slides]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://download.gimp.org/pub/gimp/lgm/2014/day_1/001_State_of_Libre_Graphics/001_State_of_Libre_Graphics.pdf]]></wp:meta_value>
+			</wp:postmeta>
+			<title>State of Libre Graphics</title>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://download.gimp.org/pub/gimp/lgm/2014/day_1/001_State_of_Libre_Graphics/001_State_of_Libre_Graphics.ogv]]></wp:meta_value>
+			</wp:postmeta>
+			<category domain="category" nicename="lgm-2014"><![CDATA[LGM 2014]]></category>
+	</item>
+
+	<item>
+			<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+			<content:encoded><![CDATA[This is a statistical (but brief!) examination of the traffic patterns of the discussion forums, both web- and email-based, frequented by users of libre graphics software.]]></content:encoded>
+			<wp:post_date><![CDATA[2014-04-02 10:50:00]]></wp:post_date>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<wp:post_type><![CDATA[post]]></wp:post_type>
+			<category domain="speaker" nicename="Nathan Willis"><![CDATA[Nathan Willis]]></category>
+			<title>Where The Users Are</title>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+				<wp:meta_value><![CDATA[
+				http://download.gimp.org/pub/gimp/lgm/2014/day_1/002_Where_the_Users_Are/002_Where_the_Users_Are.ogv
+			]]></wp:meta_value>
+			</wp:postmeta>
+			<category domain="category" nicename="lgm-2014"><![CDATA[LGM 2014]]></category>
+	</item>
+
+	<item>
+			<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+			<content:encoded><![CDATA[Valentina is a new open source project of creating a pattern making program, which allows designers to create and model patterns of clothing. This project began as a collaboration between a designer and a programmer who are in the same family. All project development is directed by constraints from designers and users of the software. This presentation will describe the Valentina project, how it came to be, how it's code is structured, and what it's future direction will be.]]></content:encoded>
+			<wp:post_date><![CDATA[2014-04-02 11:00:00]]></wp:post_date>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<wp:post_type><![CDATA[post]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://www.valentina-project.org]]></wp:meta_value>
+			</wp:postmeta>
+			<title>Valentina Pattern Design Software</title>
+			<category domain="speaker" nicename="Roman Telezhinsky"><![CDATA[Roman Telezhinsky]]></category>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://download.gimp.org/pub/gimp/lgm/2014/day_1/003_Valentina_Pattern_Design_Software/003_Valentina_Pattern_Design_Software.ogv]]></wp:meta_value>
+			</wp:postmeta>
+			<category domain="category" nicename="lgm-2014"><![CDATA[LGM 2014]]></category>
+	</item>
+
+	<item>
+			<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+			<content:encoded><![CDATA[The Screenless Office is an artistic operating system for working with media, that eschews the use of a raster-based display. The goal of the project is not to produce techniques that can be justified in terms of speed and efficiency. Instead, the office seeks to describe an alternative phenomenology of everyday human interaction with media. The system is constructed using free/libre/open hard- and software components, especially for print, databases, web-scraping and tangible interaction. The talk will explain the artistic rationale and implementation choices, as well as show media-archeaological research and experimental results.]]></content:encoded>
+			<wp:post_date><![CDATA[2014-04-02 11:10:00]]></wp:post_date>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<wp:post_type><![CDATA[post]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://wintermute.org/brendan]]></wp:meta_value>
+			</wp:postmeta>
+			<title>The Screenless Office</title>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_slides]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://download.gimp.org/pub/gimp/lgm/2014/day_1/004_The_Screenless_Office/004_The_Screenless_Office.pdf]]></wp:meta_value>
+			</wp:postmeta>
+			<category domain="speaker" nicename="Brendan Howell"><![CDATA[Brendan Howell]]></category>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://download.gimp.org/pub/gimp/lgm/2014/day_1/004_The_Screenless_Office/004_The_Screenless_Office.ogv]]></wp:meta_value>
+			</wp:postmeta>
+			<category domain="category" nicename="lgm-2014"><![CDATA[LGM 2014]]></category>
+	</item>
+
+	<item>
+			<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+			<content:encoded><![CDATA[State of affairs in managing color: What's new, what's working, and what could be better, and things to look forward to.]]></content:encoded>
+			<wp:post_date><![CDATA[2014-04-02 11:20:00]]></wp:post_date>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<wp:post_type><![CDATA[post]]></wp:post_type>
+			<title>State of Color Management</title>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_slides]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://download.gimp.org/pub/gimp/lgm/2014/day_1/005_State_of_Color_Management/005_State_of_Color_Management.pdf]]></wp:meta_value>
+			</wp:postmeta>
+			<category domain="speaker" nicename="Chris Murphy"><![CDATA[Chris Murphy]]></category>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://download.gimp.org/pub/gimp/lgm/2014/day_1/005_State_of_Color_Management/005_State_of_Color_Management.ogv]]></wp:meta_value>
+			</wp:postmeta>
+			<category domain="category" nicename="lgm-2014"><![CDATA[LGM 2014]]></category>
+	</item>
+
+	<item>
+			<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+			<content:encoded><![CDATA[Building on preliminary design work, this presentation further explores and outlines user interaction for non-destructive workflows in GIMP (based on GEGL). The starting point of this exploration is both simple and very demanding: how do we ensure that a majority of screen real-estate is reserved for what actually matter (the image), while dealing with, and managing, dozens—if not hundreds—of edits/manipulations to that image?]]></content:encoded>
+			<wp:post_date><![CDATA[2014-04-02 14:30:00]]></wp:post_date>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<wp:post_type><![CDATA[post]]></wp:post_type>
+			<title>UI design for full GEGL integration in GIMP</title>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_slides]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://download.gimp.org/pub/gimp/lgm/2014/day_1/006_UI_design_for_Full_GEGL_integration_in_GIMP/006_UI_design_for_Full_GEGL_integration_in_GIMP.pdf]]></wp:meta_value>
+			</wp:postmeta>
+			<category domain="speaker" nicename="peter sikking"><![CDATA[peter sikking]]></category>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://download.gimp.org/pub/gimp/lgm/2014/day_1/006_UI_design_for_Full_GEGL_integration_in_GIMP/006_UI_design_for_Full_GEGL_integration_in_GIMP.ogv]]></wp:meta_value>
+			</wp:postmeta>
+			<category domain="category" nicename="lgm-2014"><![CDATA[LGM 2014]]></category>
+	</item>
+
+	<item>
+			<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+			<content:encoded><![CDATA[A 2012-2013 retrospective of the G'MIC project : How highly collaborative work between developers and artists has led to many new open-source image filters for artistic manipulations, such as inpainting, sharpening/deconvolution, comics colorization, photographic film emulation, images to sketches, sprite packing, image denoising, and so on...]]></content:encoded>
+			<wp:post_date><![CDATA[2014-04-02 14:50:00]]></wp:post_date>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<wp:post_type><![CDATA[post]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://gmic.sourceforge.net]]></wp:meta_value>
+			</wp:postmeta>
+			<title>A 2012-2013 retrospective of the G'MIC project : New features from artists/developers collaborations</title>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_slides]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://download.gimp.org/pub/gimp/lgm/2014/day_1/007_A_2012-2013_retrospective_of_the_G'MIC_project/007_A_2012-2013_retrospective_of_the_G'MIC_project.pdf]]></wp:meta_value>
+			</wp:postmeta>
+			<category domain="speaker" nicename="David Tschumperlé"><![CDATA[David Tschumperlé]]></category>
+			<category domain="speaker" nicename="Patrick David"><![CDATA[Patrick David]]></category>
+			<category domain="speaker" nicename="Jérome Boulanger"><![CDATA[Jérome Boulanger]]></category>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://download.gimp.org/pub/gimp/lgm/2014/day_1/007_A_2012-2013_retrospective_of_the_G'MIC_project/007_A_2012-2013_retrospective_of_the_G'MIC_project.ogv]]></wp:meta_value>
+			</wp:postmeta>
+			<category domain="category" nicename="lgm-2014"><![CDATA[LGM 2014]]></category>
+	</item>
+
+	<item>
+			<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+			<content:encoded><![CDATA[The context of an image - where it's from, who created it and when - is important to be able to relate to an image. Sadly, most such information, even if it's included when publishing a work, is routinely lost when works change hands online. This talk introduces Commons Macinery, founded in March 2013 to build the infrastructure needed to retain contextual information about creative works.
+]]></content:encoded>
+			<wp:post_date><![CDATA[2014-04-02 15:10:00]]></wp:post_date>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<wp:post_type><![CDATA[post]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://jonasoberg.net/]]></wp:meta_value>
+			</wp:postmeta>
+			<title>Contextualizing Creative Works</title>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_slides]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://download.gimp.org/pub/gimp/lgm/2014/day_1/008_Contextualizing_Creative_Works/008_Contextualizing_Creative_Works.pdf]]></wp:meta_value>
+			</wp:postmeta>
+			<category domain="speaker" nicename="Jonas Öberg"><![CDATA[Jonas Öberg]]></category>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://download.gimp.org/pub/gimp/lgm/2014/day_1/008_Contextualizing_Creative_Works/008_Contextualizing_Creative_Works.ogv]]></wp:meta_value>
+			</wp:postmeta>
+			<category domain="category" nicename="lgm-2014"><![CDATA[LGM 2014]]></category>
+	</item>
+
+	<item>
+			<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+			<content:encoded><![CDATA[Today, most multimedia creation tools have little or no support for tracking metadata of individual project parts, such as layers, objects or clips. This talk will demonstrate a proof-of-concept implementation of keeping layer metadata in Gimp, discuss the challenges involved and how the process can be generalised to a wider range of tools.]]></content:encoded>
+			<wp:post_date><![CDATA[2014-04-02 15:30:00]]></wp:post_date>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<wp:post_type><![CDATA[post]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://commonsmachinery.se]]></wp:meta_value>
+			</wp:postmeta>
+			<title>Keeping metadata in remixed works</title>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_slides]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://download.gimp.org/pub/gimp/lgm/2014/day_1/009_Keeping_metadata_in_remixed_works/009_Keeping_metadata_in_remixed_works.pdf]]></wp:meta_value>
+			</wp:postmeta>
+			<category domain="speaker" nicename="Artem Popov"><![CDATA[Artem Popov]]></category>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://download.gimp.org/pub/gimp/lgm/2014/day_1/009_Keeping_metadata_in_remixed_works/009_Keeping_metadata_in_remixed_works.ogv]]></wp:meta_value>
+			</wp:postmeta>
+			<category domain="category" nicename="lgm-2014"><![CDATA[LGM 2014]]></category>
+	</item>
+
+	<item>
+			<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+			<content:encoded><![CDATA[At the University of Hamburg we initiate a new Open Source project called DialogueMaps. DialogueMaps is a web-based tool to edit, archive and present Interactive Visualizations in a collaborative setting (e. g. in seminars with group working or for presentations). On the LibreGraphics2014 we will articulate our idea: First, we want to describe our project goals (5 min). Further, we will present the software architecture of DialogueMaps (5 min), the using of 3rd party technologies in DialogueMaps, and the project infrastructure (5 min). In addition, we will take about our next step too reach a version 1.0 (5 min). After that we will show the application in a live demonstration. During the demonstration we will invite the podium to interact with us by using DialogueMaps too (10 min).]]></content:encoded>
+			<wp:post_date><![CDATA[2014-04-02 15:50:00]]></wp:post_date>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<wp:post_type><![CDATA[post]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://dialoguemaps.sourceforge.net/]]></wp:meta_value>
+			</wp:postmeta>
+			<title>DialogueMaps: Creating Interactive Visualizations in learning or meeting contexts</title>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_slides]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://download.gimp.org/pub/gimp/lgm/2014/day_1/010_DialogueMaps_Creating_Interactive_Visualizations_in_learning_or_meeting_contexts/010_DialogueMaps_Creating_Interactive_Visualizations_in_learning_or_meeting_contexts.pdf]]></wp:meta_value>
+			</wp:postmeta>
+			<category domain="speaker" nicename="Arno Sagawe"><![CDATA[Arno Sagawe]]></category>
+			<category domain="speaker" nicename="Rüdiger Heins"><![CDATA[Rüdiger Heins]]></category>
+			<category domain="speaker" nicename="Janis Bullert"><![CDATA[Janis Bullert]]></category>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://download.gimp.org/pub/gimp/lgm/2014/day_1/010_DialogueMaps_Creating_Interactive_Visualizations_in_learning_or_meeting_contexts/010_DialogueMaps_Creating_Interactive_Visualizations_in_learning_or_meeting_contexts.ogv]]></wp:meta_value>
+			</wp:postmeta>
+			<category domain="category" nicename="lgm-2014"><![CDATA[LGM 2014]]></category>
+	</item>
+
+	<item>
+			<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+			<content:encoded><![CDATA[Since 2010, Libre Graphics magazine has been showcasing high quality art and design made with F/LOSS. We've also been publishing articles which offer critical perspectives on art and design practice in F/LOSS and Free Culture contexts. In winter 2014, we published an issue called "Gendering F/LOSS." Building on years of discussion in diverse F/LOSS communities, we used the issue to look at the state of gender in F/LOSS art and design. In this presentation, we explain why we made gender an issue, literally. ]]></content:encoded>
+			<wp:post_date><![CDATA[2014-04-02 16:10:00]]></wp:post_date>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<wp:post_type><![CDATA[post]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://libregraphicsmag.com]]></wp:meta_value>
+			</wp:postmeta>
+			<title>Beating the drums: Why we made gender an issue</title>
+			<category domain="speaker" nicename="ginger coons"><![CDATA[ginger coons]]></category>
+			<category domain="speaker" nicename="Ana Isabel Carvalho"><![CDATA[Ana Isabel Carvalho]]></category>
+			<category domain="speaker" nicename="Ricardo Lafuente"><![CDATA[Ricardo Lafuente]]></category>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://download.gimp.org/pub/gimp/lgm/2014/day_1/011_Beating_the_drums__Why_we_made_gender_an_issue/011_Beating_the_drums__Why_we_made_gender_an_issue.ogv]]></wp:meta_value>
+			</wp:postmeta>
+			<category domain="category" nicename="lgm-2014"><![CDATA[LGM 2014]]></category>
+	</item>
+
+	<item>
+			<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+			<content:encoded><![CDATA[SURFER is an open source program to visualize algebraic surfaces in real-time. It was developed for an interactive installation at the IMAGINARY exhibition for the German Year of Mathematics 2008 and was then extended and used in more than 110 exhibitions in 23 countries: for museum installations, schools and home use. The program is a bridge between art and mathematics and can be used to create beautiful pictures while at the same time exploring and learning the underlying mathematics. To create an image you enter a polynomial equation, for example x^2 − x^3 + y^2 − z = 0. SURFER then immediately calculates the points in space that satisfy this equation and displays them using ray tracing and an optimized root finder. In this presentation the program is introduced with many examples and by means of the following video: http://vimeo.com/59006448 ]]></content:encoded>
+			<wp:post_date><![CDATA[2014-04-02 17:00:00]]></wp:post_date>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<wp:post_type><![CDATA[post]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://www.imaginary.org]]></wp:meta_value>
+			</wp:postmeta>
+			<title>SURFER - a real-time raytracer for algebraic surfaces</title>
+			<category domain="speaker" nicename="Christian Stussak"><![CDATA[Christian Stussak]]></category>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://download.gimp.org/pub/gimp/lgm/2014/day_1/012_SURFER_a_real-time_raytracer_for_algebraic_surfaces/012_SURFER_a_real-time_raytracer_for_algebraic_surfaces.ogv]]></wp:meta_value>
+			</wp:postmeta>
+			<category domain="category" nicename="lgm-2014"><![CDATA[LGM 2014]]></category>
+	</item>
+
+	<item>
+			<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+			<content:encoded><![CDATA[Over the years, our reverse and straight engineering endeavors that we presented in Vienna and Madrid grew into a full-blown community of engineers trying to preserve the digital legacy by reverse-engineering and implementing parsers for different proprietary undocumented file-formats. This talk will present successes in file-format coverage and give ways to contribute.]]></content:encoded>
+			<wp:post_date><![CDATA[2014-04-02 17:10:00]]></wp:post_date>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<wp:post_type><![CDATA[post]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://fridrich.blogspot.com]]></wp:meta_value>
+			</wp:postmeta>
+			<title>Document Liberation Project -- news from the reverse and straight engineering world</title>
+			<category domain="speaker" nicename="Fridrich Strba"><![CDATA[Fridrich Strba]]></category>
+			<category domain="speaker" nicename="Valek Filippov"><![CDATA[Valek Filippov]]></category>
+			<category domain="speaker" nicename="David Tardon"><![CDATA[David Tardon]]></category>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://download.gimp.org/pub/gimp/lgm/2014/day_1/013_Document_Liberation_Project__news_from_the_reverse_and_straight_engineering_world/013_Document_Liberation_Project__news_from_the_reverse_and_straight_engineering_world.ogv]]></wp:meta_value>
+			</wp:postmeta>
+			<category domain="category" nicename="lgm-2014"><![CDATA[LGM 2014]]></category>
+	</item>
+
+	<item>
+			<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+			<content:encoded><![CDATA[Duo-/Tritone etc. are techniques used for high quality reproduction of grayscale images in i.E. offset printing, essentially it widens the gamut of the output device. A tool to create such 'multitone' images did not exist as FLOSS, so I wrote the Multitoner. I will describe how our need for the multioner emerged, explain some technical highlights of the implementation and show a demo of the tool. ]]></content:encoded>
+			<wp:post_date><![CDATA[2014-04-02 17:30:00]]></wp:post_date>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<wp:post_type><![CDATA[post]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://graphicore.de]]></wp:meta_value>
+			</wp:postmeta>
+			<title>The Multitoner: High quality grayscale image reproduction</title>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_slides]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://download.gimp.org/pub/gimp/lgm/2014/day_1/016_The_Multitoner__High_quality_grayscale_image_reproduction/016_The_Multitoner__High_quality_grayscale_image_reproduction.pdf]]></wp:meta_value>
+			</wp:postmeta>
+			<category domain="speaker" nicename="Lasse Fister"><![CDATA[Lasse Fister]]></category>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://download.gimp.org/pub/gimp/lgm/2014/day_1/016_The_Multitoner__High_quality_grayscale_image_reproduction/016_The_Multitoner__High_quality_grayscale_image_reproduction.ogv]]></wp:meta_value>
+			</wp:postmeta>
+			<category domain="category" nicename="lgm-2014"><![CDATA[LGM 2014]]></category>
+	</item>
+
+	<item>
+			<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+			<content:encoded><![CDATA[the talk gives a basic, as math free as possible, introduction to various kinds of wavelets, such as decimated haar wavelets, shift-invariant a-trous wavelets, and the connection to gaussian pyramids. additionally data-dependent wavelet bases such as edge-avoiding wavelets are shown (both shift-invariant and the a-trous case). some aspects of these bases when using them for image processing (soften/denoise/enhance local contrast) are discussed and the inner workings of darktable's equalizer (based on edge-avoiding a-trous wavelets) are explained using practical examples. ]]></content:encoded>
+			<wp:post_date><![CDATA[2014-04-02 17:50:00]]></wp:post_date>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<wp:post_type><![CDATA[post]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://https/cg.ibds.kit.edu/hanika/index.php]]></wp:meta_value>
+			</wp:postmeta>
+			<title>wavelets for image processing </title>
+			<category domain="speaker" nicename="Johannes Hanika"><![CDATA[Johannes Hanika]]></category>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://download.gimp.org/pub/gimp/lgm/2014/day_1/014_wavelets_for_image_processing/014_wavelets_for_image_processing.ogv]]></wp:meta_value>
+			</wp:postmeta>
+			<category domain="category" nicename="lgm-2014"><![CDATA[LGM 2014]]></category>
+	</item>
+
+	<item>
+			<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+			<content:encoded><![CDATA[The OpenHardware ColorHug device provided an inexpensive way to calibrate and is now used by over 2200 Linux users. I will talk about a new project "ColorHug Spectro" which is a new device designed as an upgrade to the ColorHug. This new device features a mini-spectrograph with UV switched illuminants. This means it can profile all kinds of displays and printers to ensure we have a complete story for colour management. In the talk I will discuss the technology change, the higher price, and will explain what would be required to build a device with sufficient accuracy and precision. The slides will show a brief history of the project and also photos of early prototypes of ColorHug Spectro. Participants would be expected to know virtually nothing of colour theory. ]]></content:encoded>
+			<wp:post_date><![CDATA[2014-04-02 18:10:00]]></wp:post_date>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<wp:post_type><![CDATA[post]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://www.hughsie.com]]></wp:meta_value>
+			</wp:postmeta>
+			<title>Building an OpenHardware Spectrograph for Color Profiling in Linux</title>
+			<category domain="speaker" nicename="Richard Hughes"><![CDATA[Richard Hughes]]></category>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://download.gimp.org/pub/gimp/lgm/2014/day_1/015_Building_an_OpenHardware_Spectograph_for_Color_Profiling_in_Linux/015_Building_an_OpenHardware_Spectograph_for_Color_Profiling_in_Linux.ogv]]></wp:meta_value>
+			</wp:postmeta>
+			<category domain="category" nicename="lgm-2014"><![CDATA[LGM 2014]]></category>
+	</item>
+
+	<item>
+			<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+			<content:encoded><![CDATA[We present Magic Lantern, a free open software add-on for Canon DSLR cameras, that offers increased functionality aimed mainly at DSLR pro and power users. It runs alongside Canon's own firmware and adds a very diverse set of previously impossible functionality. With downloads in excess of half a million and tens of thousands of registered users, Magic Lantern has become one of the largest examples of collaborative efforts of users hoping to get the most out of their devices... by hacking them. Being a free, open source non-commercial project developed by enthusiasts, Magic Lantern is not endorsed by Canon in any way. Apart from giving an introduction of the project and it's collaborative structure, the talk will give an overview of features, focusing chiefly on photography work. ]]></content:encoded>
+			<wp:post_date><![CDATA[2014-04-02 18:30:00]]></wp:post_date>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<wp:post_type><![CDATA[post]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://magiclantern.fm]]></wp:meta_value>
+			</wp:postmeta>
+			<title>Magic Lantern - Free Software on Your Camera</title>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_slides]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://download.gimp.org/pub/gimp/lgm/2014/day_1/017_Magic_Lantern__Free_Software_on_Your_Camera/017_Magic_Lantern__Free_Software_on_Your_Camera.pdf]]></wp:meta_value>
+			</wp:postmeta>
+			<category domain="speaker" nicename="Michael Zöller"><![CDATA[Michael Zöller]]></category>
+			<category domain="speaker" nicename="Alex Dumitrache"><![CDATA[Alex Dumitrache]]></category>
+			<category domain="speaker" nicename="Georg Hofstetter"><![CDATA[Georg Hofstetter]]></category>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://download.gimp.org/pub/gimp/lgm/2014/day_1/017_Magic_Lantern__Free_Software_on_Your_Camera/017_Magic_Lantern__Free_Software_on_Your_Camera.ogv]]></wp:meta_value>
+			</wp:postmeta>
+			<category domain="category" nicename="lgm-2014"><![CDATA[LGM 2014]]></category>
+	</item>
+
+	<item>
+			<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+			<content:encoded><![CDATA[The presentation will start by demonstrating the core functionality in Entangle. It will then outline some of the ideas for future work to help users working on stop motion animation and/or astrophotography with DSLRs. It will finish by describing some of the challenges faced in maintaining the application. The aim is to attract potential new users and contributors to help the project grow. ]]></content:encoded>
+			<wp:post_date><![CDATA[2014-04-02 18:50:00]]></wp:post_date>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<wp:post_type><![CDATA[post]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://berrange.com]]></wp:meta_value>
+			</wp:postmeta>
+			<title>Tethered camera control and capture with Entangle</title>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_slides]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://download.gimp.org/pub/gimp/lgm/2014/day_1/018_Tethered_camera_control_and_capture_with_Entangle/018_Tethered_camera_control_and_capture_with_Entangle.pdf]]></wp:meta_value>
+			</wp:postmeta>
+			<category domain="speaker" nicename="Daniel Berrange"><![CDATA[Daniel Berrange]]></category>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://download.gimp.org/pub/gimp/lgm/2014/day_1/018_Tethered_camera_control_and_capture_with_Entangle/018_Tethered_camera_control_and_capture_with_Entangle.ogv]]></wp:meta_value>
+			</wp:postmeta>
+			<category domain="category" nicename="lgm-2014"><![CDATA[LGM 2014]]></category>
+	</item>
+
+	<item>
+			<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+			<content:encoded><![CDATA[Exciting new capabilities for multicoloured glyphs are being added to OpenType. Possibilities include a stack of TrueType glyphs, each with a solid colour and opacity; raster-based (PNG) glyphs, in a variety of sizes; and a third outline format (besides TrueType and CFF) - SVG glyphs in Opentype which can include gradients, masking, filter effects and animation. All three proposals were approved at the San Jose MPEG meeting on 14 January (MPEG standarises Open Font Format, the standards version of OpenType). This talk will present the strengths, drawbacks and areas of applicability of each of the three new methods, primarily by way of examples. The state of early implementation efforts will ge discussed, and a call to action given for Free/Libre Open Source Software implementations. ]]></content:encoded>
+			<wp:post_date><![CDATA[2014-04-03 09:30:00]]></wp:post_date>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<wp:post_type><![CDATA[post]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://www.w3.org/People/#clilley]]></wp:meta_value>
+			</wp:postmeta>
+			<title>Coloured glyphs in OpenType</title>
+			<category domain="speaker" nicename="Chris Lilley"><![CDATA[Chris Lilley]]></category>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://download.gimp.org/pub/gimp/lgm/2014/day_2/019_Coloured_glyphs_in_OpenType/019_Coloured_glyphs_in_OpenType.ogv]]></wp:meta_value>
+			</wp:postmeta>
+			<category domain="category" nicename="lgm-2014"><![CDATA[LGM 2014]]></category>
+	</item>
+
+	<item>
+			<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+			<content:encoded><![CDATA[Since 2007 I'm doing PhD research into the harmonics, patterns and dynamics in type (see also http://www.lettermodel.org). The theoretical models and measurements can be combined with descriptions of the underlying patterns and structures I distilled from the renaissance archetypes. This can be used for designing type using adjustable patterns based on the ones from the archetypes, and the usage of these patterns for the parametrization of type design. Consequently the relation between the craftsmanship-like application of patterns and what is considered a creative process can be analyzed. ]]></content:encoded>
+			<wp:post_date><![CDATA[2014-04-03 09:50:00]]></wp:post_date>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<wp:post_type><![CDATA[post]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://lettermodel.org]]></wp:meta_value>
+			</wp:postmeta>
+			<title>(Development of tools for) present-day type design based historic patterns</title>
+			<category domain="speaker" nicename="Frank E. Blokland"><![CDATA[Frank E. Blokland]]></category>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://download.gimp.org/pub/gimp/lgm/2014/day_2/020_Development_of_tools_for_present-day_type_design_based_historic_patterns/020_Development_of_tools_for_present-day_type_design_based_historic_patterns.ogv]]></wp:meta_value>
+			</wp:postmeta>
+			<category domain="category" nicename="lgm-2014"><![CDATA[LGM 2014]]></category>
+	</item>
+
+	<item>
+			<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+			<content:encoded><![CDATA[The story of a raster/pixel inspired font-family, from a prototype generated in one night; through a year of tool creation and improvement, constraint re-evaluation and design iteration - ending up with a generative design framework for constructing modular fonts. The 0xA000 font-family experiments with alternative workflows for generating fonts, sitting somewhere between ascii-art and metafont. The pipeline that will be detailed includes text editors, fontile, the UFO file format, kernagic, fontforge and ttfautohint. ]]></content:encoded>
+			<wp:post_date><![CDATA[2014-04-03 10:10:00]]></wp:post_date>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<wp:post_type><![CDATA[post]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://pippin.gimp.org/]]></wp:meta_value>
+			</wp:postmeta>
+			<title>0xA000 a font family</title>
+			<category domain="speaker" nicename="Oyvind Kolas"><![CDATA[Øyvind Kolås]]></category>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://download.gimp.org/pub/gimp/lgm/2014/day_2/021_0xA000_a_font_family/021_0xA000_a_font_family.ogv]]></wp:meta_value>
+			</wp:postmeta>
+			<category domain="category" nicename="lgm-2014"><![CDATA[LGM 2014]]></category>
+	</item>
+
+	<item>
+			<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+			<content:encoded><![CDATA[Metapolator is a web-based parametric font editor. It provides a GUI for designing with UFO fonts and Metafont – a language for semi-algorithmic specification of typefaces. Metapolator was created out of the need to create large font families efficiently. Presentation of development process of the editor and showcase of typefaces produced with Metapolator]]></content:encoded>
+			<wp:post_date><![CDATA[2014-04-03 10:30:00]]></wp:post_date>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<wp:post_type><![CDATA[post]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://metapolator.com/]]></wp:meta_value>
+			</wp:postmeta>
+			<title>Chicken &amp; Eggs - Designing font families with Metapolator</title>
+			<category domain="speaker" nicename="Simon Egli"><![CDATA[Simon Egli]]></category>
+			<category domain="speaker" nicename="Nicolas Franck Pauly"><![CDATA[Nicolas Franck Pauly]]></category>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://download.gimp.org/pub/gimp/lgm/2014/day_2/022_Chicken_and_Eggs__Designing_font_families_with_Metapolator/022_Chicken_and_Eggs__Designing_font_families_with_Metapolator.ogv]]></wp:meta_value>
+			</wp:postmeta>
+			<category domain="category" nicename="lgm-2014"><![CDATA[LGM 2014]]></category>
+	</item>
+
+	<item>
+			<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+			<content:encoded><![CDATA[In Buddhist monastaries throughout the Northern regions of Southeast Asia, the Tai Tham script has been used to preserve important religious and cultural texts in Sanskrit, Pali, and local Tai languages. In recent decades, there has been much interest both locally and internationally in preserving this important cultural heritage of the Tai peoples. Organizations such as l'École française d'Extrême-Orient (http://www.efeo.fr/lanna_manuscripts/) and the Digital Library of Lao Manuscripts (http://laomanuscripts.net/) have created online resources; and yet a high-quality Unicode-based Tai Tham is still lacking. Hariphunchai (https://sourceforge.net/projects/hariphunchai/) is my attempt to create a quality OFL-licensed Unicode Tai Tham font using an Open Source tool chain.]]></content:encoded>
+			<wp:post_date><![CDATA[2014-04-03 10:50:00]]></wp:post_date>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<wp:post_type><![CDATA[post]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://tragerstudio.com]]></wp:meta_value>
+			</wp:postmeta>
+			<title>Hariphunchai: Designing a Tai Tham Unicode Font </title>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_slides]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://unifont.org/lgm2014/]]></wp:meta_value>
+			</wp:postmeta>
+			<category domain="speaker" nicename="Edward Trager"><![CDATA[Edward Trager]]></category>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://download.gimp.org/pub/gimp/lgm/2014/day_2/023_Hariphunchai__Designing_a_Tai_Tham_Unicode_Font/023_Hariphunchai__Designing_a_Tai_Tham_Unicode_Font.ogv]]></wp:meta_value>
+			</wp:postmeta>
+			<category domain="category" nicename="lgm-2014"><![CDATA[LGM 2014]]></category>
+	</item>
+
+	<item>
+			<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+			<content:encoded><![CDATA[This presentation launches the web platform SPECIMEN: a growing collection of graphic essays on contemporary open source typefaces. This project rethinks the traditional “neutral” form of specimens, choosing a specific layout and content in line with the history and cultural implications of each typeface, and the way in which it has been developed. ]]></content:encoded>
+			<wp:post_date><![CDATA[2014-04-03 11:10:00]]></wp:post_date>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<wp:post_type><![CDATA[post]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://specimen.meteor.com/]]></wp:meta_value>
+			</wp:postmeta>
+			<title>Specimen – a web project on open source fonts </title>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_slides]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://download.gimp.org/pub/gimp/lgm/2014/day_2/024_Specimen__a_web_project_on_open_source_fonts/024_Specimen__a_web_project_on_open_source_fonts.pdf]]></wp:meta_value>
+			</wp:postmeta>
+			<category domain="speaker" nicename="Loraine Furter"><![CDATA[Loraine Furter]]></category>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://download.gimp.org/pub/gimp/lgm/2014/day_2/024_Specimen__a_web_project_on_open_source_fonts/024_Specimen__a_web_project_on_open_source_fonts.ogv]]></wp:meta_value>
+			</wp:postmeta>
+			<category domain="category" nicename="lgm-2014"><![CDATA[LGM 2014]]></category>
+	</item>
+
+	<item>
+			<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+			<content:encoded><![CDATA[Font Bakery is a continuous integration server for fonts developed collaboratively using Git. In addition to a standard UFO compilation process, written in Python and driven by Fontforge, it offers a battery of tests that prove quality of sources and binaries, and point to future work to be done. This presentation will conclude with future possibilities and invite discussion about the future of collaborative type design. 100% Python, the build and tests are easy to modify and extend. ]]></content:encoded>
+			<wp:post_date><![CDATA[2014-04-03 11:20:00]]></wp:post_date>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<wp:post_type><![CDATA[post]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://github.com/xen/fontbakery]]></wp:meta_value>
+			</wp:postmeta>
+			<title>Font Bakery: Testing Quality</title>
+			<category domain="speaker" nicename="Dave Crossland"><![CDATA[Dave Crossland]]></category>
+			<category domain="speaker" nicename="Mikhail Kashkin"><![CDATA[Mikhail Kashkin]]></category>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://download.gimp.org/pub/gimp/lgm/2014/day_3/043_Font_Bakery_website/043_Font_Bakery_website.ogv]]></wp:meta_value>
+			</wp:postmeta>
+			<category domain="category" nicename="lgm-2014"><![CDATA[LGM 2014]]></category>
+	</item>
+
+	<item>
+			<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+			<content:encoded><![CDATA[Use & Modify is a personal collection of libre fonts that will be hosted on usemodify.com. The aim of this project is to make a link a between contemporary typographic use by graphic designers, independent type designers, students and the libre font community. Use & Modify will be the missing link between Google fonts and Open Font Library. This will be the link I will send to all those people who ask me for a “cool and fresh libre font list”. Finally, this project focuses on font’s source files and on classification and a rich set of filters, licenses, completeness, people, style… At the moment the project is 80% completed, it will be achieved and online in time for the presentation. ]]></content:encoded>
+			<wp:post_date><![CDATA[2014-04-03 11:30:00]]></wp:post_date>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<wp:post_type><![CDATA[post]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://raphaelbastide.com/]]></wp:meta_value>
+			</wp:postmeta>
+			<title>Use &amp; Modify: My font collection is yours </title>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_slides]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://download.gimp.org/pub/gimp/lgm/2014/day_2/025_Use_and_Modify__My_font_collection_is_yours/025_Use_and_Modify__My_font_collection_is_yours.pdf]]></wp:meta_value>
+			</wp:postmeta>
+			<category domain="speaker" nicename="Raphaël Bastide"><![CDATA[Raphaël Bastide]]></category>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://download.gimp.org/pub/gimp/lgm/2014/day_2/025_Use_and_Modify__My_font_collection_is_yours/025_Use_and_Modify__My_font_collection_is_yours.ogv]]></wp:meta_value>
+			</wp:postmeta>
+			<category domain="category" nicename="lgm-2014"><![CDATA[LGM 2014]]></category>
+	</item>
+
+	<item>
+			<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+			<content:encoded><![CDATA[In this talk we'll have a look at commonly used Printed Circuit Board design tools (open- as well as closed source tools), especially with regard to font technologies and the effect on the aesthetics of PCBs. There are some peculiar restrictions to deal with, typical imposed by the "typical" data exchange formats, which in turn affect the way the traditional fonts have been designed. So the tools directly affect the aesthetics of the result. I want to look at ways to push the boundaries, improve the look of PCBs and solicit for feedback on these topics. ]]></content:encoded>
+			<wp:post_date><![CDATA[2014-04-03 14:30:00]]></wp:post_date>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<wp:post_type><![CDATA[post]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://www.home.unix-ag.org/simon/]]></wp:meta_value>
+			</wp:postmeta>
+			<title>Fonts in Printed Circuit Board design tools </title>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_slides]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://download.gimp.org/pub/gimp/lgm/2014/day_2/026_Fonts_in_Printed_Circuit_Board_design_tools/026_Fonts_in_Printed_Circuit_Board_design_tools.pdf]]></wp:meta_value>
+			</wp:postmeta>
+			<category domain="speaker" nicename="Simon Budig"><![CDATA[Simon Budig]]></category>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://download.gimp.org/pub/gimp/lgm/2014/day_2/026_Fonts_in_Printed_Circuit_Board_design_tools/026_Fonts_in_Printed_Circuit_Board_design_tools.ogv]]></wp:meta_value>
+			</wp:postmeta>
+			<category domain="category" nicename="lgm-2014"><![CDATA[LGM 2014]]></category>
+	</item>
+
+	<item>
+			<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+			<content:encoded><![CDATA[The presentation introduces the recently released project called Flat. It is a library for creating and manipulating digital forms of fine arts. Its aim is to enable experimentation with and testing of unpredictable or automated processes, to inspect the beginning of the "new". It grew out of the needs for generative design, architecture and art. The concept of "design" is more of a subject of study yet to be delved into, hence the fitter term for subtitle is "infrastructure". ]]></content:encoded>
+			<wp:post_date><![CDATA[2014-04-03 14:50:00]]></wp:post_date>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<wp:post_type><![CDATA[post]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://xxyxyz.org/flat]]></wp:meta_value>
+			</wp:postmeta>
+			<title>Flat – Generative infrastructure for Python </title>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_slides]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://download.gimp.org/pub/gimp/lgm/2014/day_2/027_Flat__Generative_infrastructure_for_Python/027_Flat__Generative_infrastructure_for_Python.pdf]]></wp:meta_value>
+			</wp:postmeta>
+			<category domain="speaker" nicename="Juraj Sukop"><![CDATA[Juraj Sukop]]></category>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://download.gimp.org/pub/gimp/lgm/2014/day_2/027_Flat__Generative_infrastructure_for_Python/027_Flat__Generative_infrastructure_for_Python.ogv]]></wp:meta_value>
+			</wp:postmeta>
+			<category domain="category" nicename="lgm-2014"><![CDATA[LGM 2014]]></category>
+	</item>
+
+	<item>
+			<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+			<content:encoded><![CDATA[This talk will demonstrate two tools in the context of tool interface sharing between different applications. One tool is a mesh tool, which has been gaining popularity in various open source projects lately. It can be used for many things, such as gradients, predictable image and path warping, and various special effects. The other tool is a clone tiler, as almost seen in Inkscape, plus a variation on that tool that allows custom recursive layout patterns. ]]></content:encoded>
+			<wp:post_date><![CDATA[2014-04-03 15:10:00]]></wp:post_date>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<wp:post_type><![CDATA[post]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://tomlechner.com]]></wp:meta_value>
+			</wp:postmeta>
+			<title>Mesh Conceptions</title>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_slides]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://download.gimp.org/pub/gimp/lgm/2014/day_2/028_Mesh_Conceptions/028_Mesh_Conceptions.pdf]]></wp:meta_value>
+			</wp:postmeta>
+			<category domain="speaker" nicename="Tom Lechner"><![CDATA[Tom Lechner]]></category>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://download.gimp.org/pub/gimp/lgm/2014/day_2/028_Mesh_Conceptions/028_Mesh_Conceptions.ogv]]></wp:meta_value>
+			</wp:postmeta>
+			<category domain="category" nicename="lgm-2014"><![CDATA[LGM 2014]]></category>
+	</item>
+
+	<item>
+			<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+			<content:encoded><![CDATA[Diagrams (http://projects.haskell.org/diagrams) is a powerful domain-specific language, embedded in the Haskell programming language, for creating vector graphics and animations. I will show some examples of what is possible using the framework, particularly illustrating the benefits and power of Haskell as a substrate for a graphics language. I will talk briefly about the community surrounding its development, and explain some of the current features in development as well as our longer-term goals for the project. ]]></content:encoded>
+			<wp:post_date><![CDATA[2014-04-03 15:30:00]]></wp:post_date>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<wp:post_type><![CDATA[post]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://projects.haskell.org/diagrams]]></wp:meta_value>
+			</wp:postmeta>
+			<title>Declarative, programmatic vector graphics in Haskell</title>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_slides]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://download.gimp.org/pub/gimp/lgm/2014/day_2/029_Declarative_programmatic_vector_graphics_in_Haskell/029_Declarative_programmatic_vector_graphics_in_Haskell.pdf]]></wp:meta_value>
+			</wp:postmeta>
+			<category domain="speaker" nicename="Brent Yorgey"><![CDATA[Brent Yorgey]]></category>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://download.gimp.org/pub/gimp/lgm/2014/day_2/029_Declarative_programmatic_vector_graphics_in_Haskell/029_Declarative_programmatic_vector_graphics_in_Haskell.ogv]]></wp:meta_value>
+			</wp:postmeta>
+			<category domain="category" nicename="lgm-2014"><![CDATA[LGM 2014]]></category>
+	</item>
+
+	<item>
+			<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+			<content:encoded><![CDATA[Between 2007 and 2013 I had the opportunity to realise graphic work for Linux Audio Conference 2008/2009, make art 2009/2010, chmod +x art 2010, Linuxwochen Linz 2010/2012 and the Libre Graphics Meeting 2013 using F/L/OS Software only. Instead of using F/L/OS replacements within a workflow common for proprietary design work, I took the chance to explore a world of software and approaches which were new for me, but actually have been around for quite some time. In which way does this 'step back' in computing history provide any insights for my current and future use of tools? The talk collects failures, learnings and attempts that contribute to my current conception of a F/L/OS approach to design, graphic design in particular. ]]></content:encoded>
+			<wp:post_date><![CDATA[2014-04-03 15:50:00]]></wp:post_date>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<wp:post_type><![CDATA[post]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://www.lafkon.net]]></wp:meta_value>
+			</wp:postmeta>
+			<title>Back to the Future?</title>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_slides]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://download.gimp.org/pub/gimp/lgm/2014/day_2/030_Back_to_the_Future/030_Back_to_the_Future.pdf]]></wp:meta_value>
+			</wp:postmeta>
+			<category domain="speaker" nicename="Christoph Haag"><![CDATA[Christoph Haag]]></category>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://download.gimp.org/pub/gimp/lgm/2014/day_2/030_Back_to_the_Future/030_Back_to_the_Future.ogv]]></wp:meta_value>
+			</wp:postmeta>
+			<category domain="category" nicename="lgm-2014"><![CDATA[LGM 2014]]></category>
+	</item>
+
+	<item>
+			<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+			<content:encoded><![CDATA[Blender has been the forerunner of Open Shading Language support. OSL was included in the Cycles render engine months before it was available in proprietary counterparts. OSL enables shader creators to expand the capabilities of Cycles without fiddling with low-level code. This decoupling and the fact that OSL is simple enough to be used by artists with only minimal programming background has lead to a myriad of new Cycles shaders.This talks shows the benefits of a high-level plugin architecture like OSL for Open Source graphics programs by the example of procedural textures. ]]></content:encoded>
+			<wp:post_date><![CDATA[2014-04-03 17:00:00]]></wp:post_date>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<wp:post_type><![CDATA[post]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://www.blenderdiplom.com]]></wp:meta_value>
+			</wp:postmeta>
+			<title>OSL in Blender - The power of the plugin </title>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_slides]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://download.gimp.org/pub/gimp/lgm/2014/day_2/031_OSL_in_Blender__The_power_of_the_plugin/031_OSL_in_Blender__The_power_of_the_plugin.pdf]]></wp:meta_value>
+			</wp:postmeta>
+			<category domain="speaker" nicename="Gottfried Hofmann"><![CDATA[Gottfried Hofmann]]></category>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://download.gimp.org/pub/gimp/lgm/2014/day_2/031_OSL_in_Blender__The_power_of_the_plugin/031_OSL_in_Blender__The_power_of_the_plugin.ogv]]></wp:meta_value>
+			</wp:postmeta>
+			<category domain="category" nicename="lgm-2014"><![CDATA[LGM 2014]]></category>
+	</item>
+
+	<item>
+			<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+			<content:encoded><![CDATA[SVG is the vector graphic format for the Web. The SVG working group is in the process of updating the specification to SVG 2. This update brings many new features of interest to artists and designers: mesh gradients, auto-wrapped text, new blending modes, hashed fills, 3d transforms, etc. Experimental implementations of some features are already available in web browers and Inkscape. I will give an overview of the new features with demonstrations where possible. ]]></content:encoded>
+			<wp:post_date><![CDATA[2014-04-03 17:10:00]]></wp:post_date>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<wp:post_type><![CDATA[post]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://tavmjong.free.fr]]></wp:meta_value>
+			</wp:postmeta>
+			<title>SVG 2 and the Artist </title>
+			<category domain="speaker" nicename="Tavmjong Bah"><![CDATA[Tavmjong Bah]]></category>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://download.gimp.org/pub/gimp/lgm/2014/day_2/032_SVG_2_and_the_Artist/032_SVG_2_and_the_Artist.ogv]]></wp:meta_value>
+			</wp:postmeta>
+			<category domain="category" nicename="lgm-2014"><![CDATA[LGM 2014]]></category>
+	</item>
+
+	<item>
+			<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+			<content:encoded><![CDATA[I'll present the system we use in our game company, Ekseriya Games, for automation of sprite rendering for 2.5D mobile games using fully Libre/FOSS solutions underneath including Blender, OpenCollada, ImageMagick, Linux, Bash & rsync etc. It makes the job of the designers much easier by automating everything possible and by making visual revisions on all graphics a one minute job. The system uses 3D models generated in the design department as Collada exchange files. Afterwards the system automatically: - imports the model - adds shading, texturing, lighting, cameras, environment & effects - adjust settings and renders sprite - generates atlas - compiles/runs the game demo My presentation explains: why?, what? (including live demo), how? (briefly), why libre graphics solutions? and Q&A. ]]></content:encoded>
+			<wp:post_date><![CDATA[2014-04-03 17:30:00]]></wp:post_date>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<wp:post_type><![CDATA[post]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://www.kenanb.com]]></wp:meta_value>
+			</wp:postmeta>
+			<title>An Automated Sprite Rendering System using Blender</title>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_slides]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://download.gimp.org/pub/gimp/lgm/2014/day_2/033_An_Automated_Sprite_Rendering_System_using_Blender/033_An_Automated_Sprite_Rendering_System_using_Blender.pdf]]></wp:meta_value>
+			</wp:postmeta>
+			<category domain="speaker" nicename="Kenan Bölükbaşı"><![CDATA[Kenan Bölükbaşı]]></category>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://download.gimp.org/pub/gimp/lgm/2014/day_2/033_An_Automated_Sprite_Rendering_System_using_Blender/033_An_Automated_Sprite_Rendering_System_using_Blender.ogv]]></wp:meta_value>
+			</wp:postmeta>
+			<category domain="category" nicename="lgm-2014"><![CDATA[LGM 2014]]></category>
+	</item>
+
+	<item>
+			<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+			<content:encoded><![CDATA[The use of 3D software in architectural field is too often limited to the vizualisation of already designed projects. While Blender is very good at it, I will mainly present my use of Blender as an architect during the design phase of a project : How to explore form and spaces directly in 3D with the modeling tools of Blender. How to design details of a building directly in 3D with the precision tools. How the interactive photorealistic rendering of Cycles can really help the way one choose lightning and materials of a project. Those fields, (but the « simple » vizualisation too), will be illustrated by exemples of my professionnal projects, and personnal researches. ]]></content:encoded>
+			<wp:post_date><![CDATA[2014-04-03 18:10:00]]></wp:post_date>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<wp:post_type><![CDATA[post]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://viralata.fr/en]]></wp:meta_value>
+			</wp:postmeta>
+			<title>Blender as a design tool for architecture.</title>
+			<category domain="speaker" nicename="Matthieu Dupont de Dinechin"><![CDATA[Matthieu Dupont de Dinechin]]></category>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://download.gimp.org/pub/gimp/lgm/2014/day_2/034_Blender_as_a_design_tool_for_architecture/034_Blender_as_a_design_tool_for_architecture.ogv]]></wp:meta_value>
+			</wp:postmeta>
+			<category domain="category" nicename="lgm-2014"><![CDATA[LGM 2014]]></category>
+	</item>
+
+	<item>
+			<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+			<content:encoded><![CDATA[In the presentation I will give a brief introduction to concept of 3D Printing following showcase of various open source printers and free/open source software that provide a complete pipeline for personal 3D printing. I will talk about the process of 3D printing, including designing and modelling an object in Blender, slicing in Slic3r and finally printing it on an open source printer, this will also include various tips and techniques used to achieve best results. I am planning to bring my Printrbot Jr (V2) to the meeting. ]]></content:encoded>
+			<wp:post_date><![CDATA[2014-04-03 18:30:00]]></wp:post_date>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<wp:post_type><![CDATA[post]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://wojtek.gr]]></wp:meta_value>
+			</wp:postmeta>
+			<title>Introduction to Open Source 3D Printing</title>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_slides]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://download.gimp.org/pub/gimp/lgm/2014/day_2/035_Introduction_to_Open_Source_3D_Printing/035_Introduction_to_Open_Source_3D_Printing.pdf]]></wp:meta_value>
+			</wp:postmeta>
+			<category domain="speaker" nicename="Wojtek Grabczak"><![CDATA[Wojtek Grabczak]]></category>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://download.gimp.org/pub/gimp/lgm/2014/day_2/035_Introduction_to_Open_Source_3D_Printing/035_Introduction_to_Open_Source_3D_Printing.ogv]]></wp:meta_value>
+			</wp:postmeta>
+			<category domain="category" nicename="lgm-2014"><![CDATA[LGM 2014]]></category>
+	</item>
+
+	<item>
+			<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+			<content:encoded><![CDATA[The story of how I started hacking Brother knitting machines, wrote a disk emulator for them, and reverse-engineered most of the data format for them. How this enabled other knitting machine hackers and artists to continue the work, and a review of the progress and projects that have been made by various people and groups. ]]></content:encoded>
+			<wp:post_date><![CDATA[2014-04-03 18:50:00]]></wp:post_date>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<wp:post_type><![CDATA[post]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://ai4qr.com]]></wp:meta_value>
+			</wp:postmeta>
+			<title>Knitting machine hacking - how I helped bootstrap the 'movement'</title>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_slides]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://download.gimp.org/pub/gimp/lgm/2014/day_2/036_Knitting_machine_hacking__how_I_helped_bootstrap_the_movement/036_Knitting_machine_hacking__how_I_helped_bootstrap_the_movement.pdf]]></wp:meta_value>
+			</wp:postmeta>
+			<category domain="speaker" nicename="Steve Conklin"><![CDATA[Steve Conklin]]></category>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://download.gimp.org/pub/gimp/lgm/2014/day_2/036_Knitting_machine_hacking__how_I_helped_bootstrap_the_movement/036_Knitting_machine_hacking__how_I_helped_bootstrap_the_movement.ogv]]></wp:meta_value>
+			</wp:postmeta>
+			<category domain="category" nicename="lgm-2014"><![CDATA[LGM 2014]]></category>
+	</item>
+
+	<item>
+			<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+			<content:encoded><![CDATA[Interface customization is one of the key elements used by Linux distributions to distinguish themselves from other distributions. This customization may involve changing the icon theme used, the color of the window frames, and of course the easiest: the default wallpaper. . Wallpaper is the easiest element to change for a Linux distribution, but it is also the first main visual element seen by users and community members when starting their computer. It is therefore important to involve the community in the process of choosing this wallpaper. How Fedora solves the problem to include the community into that process that explains the talk.]]></content:encoded>
+			<wp:post_date><![CDATA[2014-04-04 15:10:00]]></wp:post_date>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<wp:post_type><![CDATA[post]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://blog.pingoured.fr/]]></wp:meta_value>
+			</wp:postmeta>
+			<title>Nuancier- Community generated and selected artwork</title>
+			<category domain="speaker" nicename="Pierre-Yves Chibon"><![CDATA[Pierre-Yves Chibon]]></category>
+			<category domain="speaker" nicename="Sirko Kemter"><![CDATA[Sirko Kemter]]></category>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://download.gimp.org/pub/gimp/lgm/2014/day_3/044_Nuancier__Community_generated_and_selected_artwork/044_Nuancier__Community_generated_and_selected_artwork.ogv]]></wp:meta_value>
+			</wp:postmeta>
+			<category domain="category" nicename="lgm-2014"><![CDATA[LGM 2014]]></category>
+	</item>
+
+	<item>
+			<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+			<content:encoded><![CDATA[The aim of my presentation is to show Libre Graphics workstation's evolution and development at Medialab-Prado Madrid. The Libre Graphics workstation at Medialab is conceived like an open studio where anyone, whether professional or amateur, artist, designer, developer or general public, is welcome to read, learn, talk, discuss, research, experiment or produce with Libre Graphics. The Workstation is intended to work as a node of LGRU project. In the last LGM2013, the Station started to work in a new emplacement at Medialab-Prado’s brand new building 'Serrería Belga' and has begun to work in different directions and projects, such as: Libre Graphics Open Thursdays Libre Tools workshops Print Party Build Your Own Tool Mantera Jam Session WikiArS Project Poetic Resistance group Grafica Liebre ]]></content:encoded>
+			<wp:post_date><![CDATA[2014-04-04 15:20:00]]></wp:post_date>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<wp:post_type><![CDATA[post]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://medialab-prado.es/graficalibre]]></wp:meta_value>
+			</wp:postmeta>
+			<title>Libre Graphic Workstation at Medialab-Prado Madrid</title>
+			<category domain="speaker" nicename="Myriam Cea"><![CDATA[Myriam Cea]]></category>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://download.gimp.org/pub/gimp/lgm/2014/day_3/045_Libre_Graphics_Workstation_at_Medialab-Prado_Madrid/045_Libre_Graphics_Workstation_at_Medialab-Prado_Madrid.ogv]]></wp:meta_value>
+			</wp:postmeta>
+			<category domain="category" nicename="lgm-2014"><![CDATA[LGM 2014]]></category>
+	</item>
+
+	<item>
+			<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+			<content:encoded><![CDATA[Relearn is a temporary artschool without teachers or rather it has as many teachers as it has participants. It is about sharing and trying new cultural practices, and is entirely running on Free, Libre and Open Source software. The first edition took place in August 2013 in Variable F/LOSS Arts Lab in Brussels. During five days, 40 people from all over the world gathered to learn from each other about experimental design. From 7-11 July 2014 a second edition will take place. This time Relearn expands to include Libre video, sound and hardware. In our presentation at LGM we'd like to show methods and outcomes from the first edition of Relearn. ]]></content:encoded>
+			<wp:post_date><![CDATA[2014-04-04 15:30:00]]></wp:post_date>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<wp:post_type><![CDATA[post]]></wp:post_type>
+			<category domain="speaker" nicename="Femke Snelting"><![CDATA[Femke Snelting]]></category>
+			<category domain="speaker" nicename="Alex Leray"><![CDATA[Alex Leray]]></category>
+			<title>Relearn (Variable Summerschool)</title>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://download.gimp.org/pub/gimp/lgm/2014/day_3/046_Relearn__Variable_Summerschool/046_Relearn__Variable_Summerschool.ogv]]></wp:meta_value>
+			</wp:postmeta>
+			<category domain="category" nicename="lgm-2014"><![CDATA[LGM 2014]]></category>
+	</item>
+
+	<item>
+			<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+			<content:encoded><![CDATA[wikiArS is an initiative to involve art and design schools in the Wikimedia movement's free knowdledge goals; mainly througth the creation of graphics for Wikipedia as: educational and scientific images to better understand explanations; historical recreation of buildings, personalities and events; scientific illustrations about animals or plants; and portraits of XX century people whom doesn't exist free photos. To help the students to produce good-quality images we apply a three-supervision model of school teacher for graphic techniques + Wikimedian tutor for publish, licenses and community rules + expert advisor for scientific issues. With the ongoing deployment of the initiative in Madrid and the collaboration of MediaLab-Prado, we want to incorporate the use of libre software as well. ]]></content:encoded>
+			<wp:post_date><![CDATA[2014-04-04 15:50:00]]></wp:post_date>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<wp:post_type><![CDATA[post]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+				<wp:meta_value><![CDATA[https://outreach.wikimedia.org/wiki/WikiArS]]></wp:meta_value>
+			</wp:postmeta>
+			<title>wikiArS, involving art &amp; design schools in free knowledge wiki projects</title>
+			<category domain="speaker" nicename="David Gómez Fontanills"><![CDATA[David Gómez Fontanills]]></category>
+			<category domain="speaker" nicename="Rubén Ojeda"><![CDATA[Rubén Ojeda]]></category>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://download.gimp.org/pub/gimp/lgm/2014/day_3/047_wikiArS__involving_art_and_design_schools_in_free_software_wiki_projects/047_wikiArS__involving_art_and_design_schools_in_free_software_wiki_projects.ogv]]></wp:meta_value>
+			</wp:postmeta>
+			<category domain="category" nicename="lgm-2014"><![CDATA[LGM 2014]]></category>
+	</item>
+
+	<item>
+			<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+			<content:encoded><![CDATA[Jason Harder, a DTP professional, and I want to present some real-world use cases of Scribus. Jason has published a lengthy blog-entry (in German) comparing Scribus, XPress, CorelDraw, and InDesign. He intends to describe his experiences in detail and to answer related questions. I'm planning to cover some corner cases, including some for which only Scribus turned out to be a viable solution. ]]></content:encoded>
+			<wp:post_date><![CDATA[2014-04-04 08:00:00]]></wp:post_date>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<wp:post_type><![CDATA[post]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://www.scribus.net]]></wp:meta_value>
+			</wp:postmeta>
+			<title>Scribus in Real-World Scenarios: Pros and Cons</title>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_slides]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://download.gimp.org/pub/gimp/lgm/2014/day_3/048_Scribus_in_Real-World_Scenarios__Pros_and_cons/048_Scribus_in_Real-World_Scenarios__Pros_and_cons.pdf]]></wp:meta_value>
+			</wp:postmeta>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_slides]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://download.gimp.org/pub/gimp/lgm/2014/day_3/048_Scribus_in_Real-World_Scenarios__Pros_and_cons/048_Scribus_in_Real-World_Scenarios__Pros_and_cons_Opera.pdf]]></wp:meta_value>
+			</wp:postmeta>
+			<category domain="speaker" nicename="Christoph Schäfer"><![CDATA[Christoph Schäfer]]></category>
+			<category domain="speaker" nicename="Jason Harder"><![CDATA[Jason Harder]]></category>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://download.gimp.org/pub/gimp/lgm/2014/day_3/048_Scribus_in_Real-World_Scenarios__Pros_and_cons/048_Scribus_in_Real-World_Scenarios__Pros_and_cons.ogv]]></wp:meta_value>
+			</wp:postmeta>
+			<category domain="category" nicename="lgm-2014"><![CDATA[LGM 2014]]></category>
+	</item>
+
+	<item>
+			<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+			<content:encoded><![CDATA[OSP releases a wiki built around the popular Etherpad Software. Easy to install as an Etherpad-plugin, Ethertoff allows groups of collaborators to write text, but to also edit the corresponding stylesheets and to generate a PDF version. Designed for fluid transitions between writing, editing and designing, Ethertoff seeks to redefine the space of collaborative writing and of book sprints. ]]></content:encoded>
+			<wp:post_date><![CDATA[2014-04-04 16:20:00]]></wp:post_date>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<wp:post_type><![CDATA[post]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://osp.constantvzw.org/]]></wp:meta_value>
+			</wp:postmeta>
+			<title>Ethertoff release announcement</title>
+			<category domain="speaker" nicename="Eric Schrijver"><![CDATA[Eric Schrijver]]></category>
+			<category domain="speaker" nicename="Stéphanie Vilayphiou"><![CDATA[Stéphanie Vilayphiou]]></category>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://download.gimp.org/pub/gimp/lgm/2014/day_3/049_Ethertoff_release_announcement/049_Ethertoff_release_announcement.ogv]]></wp:meta_value>
+			</wp:postmeta>
+			<category domain="category" nicename="lgm-2014"><![CDATA[LGM 2014]]></category>
+	</item>
+
+	<item>
+			<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+			<content:encoded><![CDATA[The main goal of this short talk is to summarize some challenges and personal experiences from dubbing the English version of the first official video course about creating animation in Synfig. The talk could be useful for those who are interested in ways of making localized animation training courses quickly and with non-professionals through online collaboration. The points I plan to cover are: - How to organise the work with people who live 6 timezones away and are busy most of the time? - How to get professional results with non-professionals? - When can the course be considered ready? (or when does the good become good enough?) ]]></content:encoded>
+			<wp:post_date><![CDATA[2014-04-04 17:00:00]]></wp:post_date>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<wp:post_type><![CDATA[post]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://webappl.web.sh.se/p3/ext/content.nsf/aget?openagent&amp;key=sh_personal_profil_sv_832804]]></wp:meta_value>
+			</wp:postmeta>
+			<title>Creating Synfig's first official video training course in English: a personal experience </title>
+			<category domain="speaker" nicename="Julia Velkova Öberg"><![CDATA[Julia Velkova Öberg]]></category>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://download.gimp.org/pub/gimp/lgm/2014/day_3/050_Creating_Synfigs_first_official_video_training_course_in_English/050_Creating_Synfigs_first_official_video_training_course_in_English.ogv]]></wp:meta_value>
+			</wp:postmeta>
+			<category domain="category" nicename="lgm-2014"><![CDATA[LGM 2014]]></category>
+	</item>
+
+	<item>
+			<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+			<content:encoded><![CDATA[The GRASSI Museum für Angewandte Kunst in Leipzig is exhibiting one of worldwide 8 medieval manikins by the so called "Meister IP". Those wooden puppets used to have movable limbs and bodies, but nowadays these precious figurines may not be moved anymore. To find out about the inner workings of the manikin in the Grassi Museum they commissioned a computer tomographic scan, a 3d animation and a 3d print. Blender was used to clean up the mesh, do the rigging and the animation and to prepare the mesh for 3d printing. You can find out more about that here: http://www.blendernation.com/2013/12/16/digital-recreation-of-500-year-old-manikin-figurine/ This presentation explains a bit more about that process. ]]></content:encoded>
+			<wp:post_date><![CDATA[2014-04-04 17:10:00]]></wp:post_date>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<wp:post_type><![CDATA[post]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://3dzentrale.com]]></wp:meta_value>
+			</wp:postmeta>
+			<title>Reconstruction of a medieval manikin with Blender </title>
+			<category domain="speaker" nicename="Sebastian König"><![CDATA[Sebastian König]]></category>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://download.gimp.org/pub/gimp/lgm/2014/day_3/051_Reconstruction_of_a_medieval_manikin_with_Blender/051_Reconstruction_of_a_medieval_manikin_with_Blender.ogv]]></wp:meta_value>
+			</wp:postmeta>
+			<category domain="category" nicename="lgm-2014"><![CDATA[LGM 2014]]></category>
+	</item>
+
+	<item>
+			<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+			<content:encoded><![CDATA[After seeing what many coders from around the world were contributing to Blender, I wanted to do something as well. When I stumbled over a couple very repetitive steps I thought: "I'm using a computer, I should just teach it to do it for me". So I Started writing ARewO The Animation Replicator with Offset. ]]></content:encoded>
+			<wp:post_date><![CDATA[2014-04-04 17:30:00]]></wp:post_date>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<wp:post_type><![CDATA[post]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://blenderdiplom.com]]></wp:meta_value>
+			</wp:postmeta>
+			<title>Contributing to the community: Writing add-ons</title>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_slides]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://download.gimp.org/pub/gimp/lgm/2014/day_3/052_Contributing_to_the_community__Writing_add-ons/052_Contributing_to_the_community__Writing_add-ons.pdf]]></wp:meta_value>
+			</wp:postmeta>
+			<category domain="speaker" nicename="Frederik Steinmetz"><![CDATA[Frederik Steinmetz]]></category>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://download.gimp.org/pub/gimp/lgm/2014/day_3/052_Contributing_to_the_community__Writing_add-ons/052_Contributing_to_the_community__Writing_add-ons.ogv]]></wp:meta_value>
+			</wp:postmeta>
+			<category domain="category" nicename="lgm-2014"><![CDATA[LGM 2014]]></category>
+	</item>
+
+	<item>
+			<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+			<content:encoded><![CDATA[Pitivi is a video editor built upon GStreamer and that integrates well in GNOME (and other desktop environments). It aims to be an intuitive and flexible application that can appeal to newbies and professionals alike. This talk will present the Pitivi video editor and the GStreamer Editing Services library, including topics such as: - An introduction to Pitivi and GES - Recent features and improvements - The roadmap ahead - Possibly a live demo? ]]></content:encoded>
+			<wp:post_date><![CDATA[2014-04-04 17:50:00]]></wp:post_date>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<wp:post_type><![CDATA[post]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://pitivi.org]]></wp:meta_value>
+			</wp:postmeta>
+			<title>Next-Generation F/LOSS Video Editing with Pitivi and GES: Status and Roadmap</title>
+			<category domain="speaker" nicename="Thibault Saunier"><![CDATA[Thibault Saunier]]></category>
+			<category domain="speaker" nicename="Mathieu Duponchelle"><![CDATA[Mathieu Duponchelle]]></category>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://download.gimp.org/pub/gimp/lgm/2014/day_3/053_Next-Generation_F_LOSS_Video_Editing_with_Pitivi_and_GES/053_Next-Generation_F_LOSS_Video_Editing_with_Pitivi_and_GES.ogv]]></wp:meta_value>
+			</wp:postmeta>
+			<category domain="category" nicename="lgm-2014"><![CDATA[LGM 2014]]></category>
+	</item>
+
+	<item>
+			<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+			<content:encoded><![CDATA[As of today there's a breach between proprietary compositing software and the open-source community. In the result of this, compositing is an activity poorly present in education and research. We propose a new open-source cross-platform compositing software compatible with OpenFX.This standard is widely used by the industry softwares and is surely a must-have for a compositing software. ]]></content:encoded>
+			<wp:post_date><![CDATA[2014-04-04 18:10:00]]></wp:post_date>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<wp:post_type><![CDATA[post]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://https/natron.inria.fr]]></wp:meta_value>
+			</wp:postmeta>
+			<title>Natron: video compositing software</title>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_slides]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://www.slideshare.net/AlexandreGauthier1/natron-lgm2014]]></wp:meta_value>
+			</wp:postmeta>
+			<category domain="speaker" nicename="Alexandre Gauthier"><![CDATA[Alexandre Gauthier]]></category>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://download.gimp.org/pub/gimp/lgm/2014/day_3/054_Natron__video_compositing_software/054_lgm_FINAL.ogv]]></wp:meta_value>
+			</wp:postmeta>
+			<category domain="category" nicename="lgm-2014"><![CDATA[LGM 2014]]></category>
+	</item>
+
+	<item>
+			<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+			<content:encoded><![CDATA[We are going to bring together the best of the open source CG talents to work on a 3D animation feature film. With so many small studios and teams around the world now using Blender and other open source tools, it’s a logical and challenging next step to bundle them in a massive online project to work on their own film, nicked "Project Gooseberry". Project Gooseberry is a real “no-budget” indie film. Blender Institute thinks it is feasible to produce in the range of a 2-3M euro budget. This can be raised online and via subsidies and sponsoring. We then can go all the way as a real “open movie”, with a lot of freedom and realize it as “our own film” for real - also because the low budget requires everyone to invest in it a lot. http://gooseberry.blender.org ]]></content:encoded>
+			<wp:post_date><![CDATA[2014-04-04 18:50:00]]></wp:post_date>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<wp:post_type><![CDATA[post]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://www.blender.org]]></wp:meta_value>
+			</wp:postmeta>
+			<title>Project Gooseberry - Open Animated Feature from the Blender Institute</title>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_slides]]></wp:meta_key>
+				<wp:meta_value><![CDATA[https://www.dropbox.com/s/c8ne35z7j391jrb/gooseberry_blender_institute.pdf]]></wp:meta_value>
+			</wp:postmeta>
+			<category domain="speaker" nicename="Francesco Siddi"><![CDATA[Francesco Siddi]]></category>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://download.gimp.org/pub/gimp/lgm/2014/day_3/055_Project_Gooseberry__Open_Animated_Feature_from_the_Blender_Institute/055_Project_Gooseberry__Open_Animated_Feature_from_the_Blender_Institute.ogv]]></wp:meta_value>
+			</wp:postmeta>
+			<category domain="category" nicename="lgm-2014"><![CDATA[LGM 2014]]></category>
+	</item>
+
+	<item>
+			<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+			<content:encoded><![CDATA[This presentation covers two Open hardware projects which were designed in order to support testing of the Ubuntu Linux operating system. The first is a simple unit which allows a monitor to be remotely connected and disconnected from a VGA port, in order to test hotplug functionality. The second is a test set which allows connecting multiple mobile devices for power consumption testing. ]]></content:encoded>
+			<wp:post_date><![CDATA[2014-04-05 15:40:00]]></wp:post_date>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<wp:post_type><![CDATA[post]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://ai4qr.com]]></wp:meta_value>
+			</wp:postmeta>
+			<title>Open Hardware devices to aid software testing </title>
+			<category domain="speaker" nicename="Steve Conklin"><![CDATA[Steve Conklin]]></category>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://download.gimp.org/pub/gimp/lgm/2014/day_4/060_Open_Hardware_devices_to_aid_software_testing/060_Open_Hardware_devices_to_aid_software_testing060_lgm_FINAL.ogv]]></wp:meta_value>
+			</wp:postmeta>
+			<category domain="category" nicename="lgm-2014"><![CDATA[LGM 2014]]></category>
+	</item>
+
+	<item>
+			<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+			<content:encoded><![CDATA[This talk is a summary of my personal project developing a Python file converter for the Wacom "Inkling" digital pen. The pen stores digital traces of sketches made on paper, which can be offloaded later, although the official format is closed and the provided software proprietary. Primarily this is a tale about getting more usage out of a proprietary product, but there is also value to be found in studying one-off file formats and what one can discover through reverse-engineering. ]]></content:encoded>
+			<wp:post_date><![CDATA[2014-04-05 15:50:00]]></wp:post_date>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<wp:post_type><![CDATA[post]]></wp:post_type>
+			<category domain="speaker" nicename="Nathan Willis"><![CDATA[Nathan Willis]]></category>
+			<title>Inklinging Inklings</title>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://download.gimp.org/pub/gimp/lgm/2014/day_4/061_Inkling_Inklings/061_Inkling_Inklings.ogv]]></wp:meta_value>
+			</wp:postmeta>
+			<category domain="category" nicename="lgm-2014"><![CDATA[LGM 2014]]></category>
+	</item>
+
+	<item>
+			<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+			<content:encoded><![CDATA[A field report from the Urchin animation studio and libre media group, proposing a development path that unites federated publishing with decentralized production. It responds to the problem of F/LOSS tools and free culture as marginal zones, and asks how we can implement advantages of the libre modality without merely imitating the topography of the restrictive commercial world. More broadly, it considers how we can galvanize a distinct ecology to re-seed the internet (and global policy) according to the conventions of freedom, if we can create a compellingly attractive use case for them. This talk touches on Blender, Mediagoblin, Krita, Inkscape, Gimp, Pitivi, Ardour, and issues of funding in both software and the arts.  ]]></content:encoded>
+			<wp:post_date><![CDATA[2014-04-05 16:00:00]]></wp:post_date>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<wp:post_type><![CDATA[post]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://urchn.org]]></wp:meta_value>
+			</wp:postmeta>
+			<category domain="speaker" nicename="Fateh Slavitskaya"><![CDATA[Fateh Slavitskaya]]></category>
+			<category domain="speaker" nicename="Bassam Kurdali"><![CDATA[Bassam Kurdali]]></category>
+			<title>Distributed Free-Cultural Production and the Future of Creative Economy</title>
+			<category domain="category" nicename="lgm-2014"><![CDATA[LGM 2014]]></category>
+	</item>
+
+	<item>
+			<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+			<content:encoded><![CDATA[SuperGlue provides an alternative for centralized Web - it divides the process of dynamic content manipulation into two separate tasks, each executed on a platform the best suitable for it. Power-hungry processing of user interactions is done in a Web-browser running on user's laptop and storage of resulting data happens on a tiny Web-server installed on user's desk. ]]></content:encoded>
+			<wp:post_date><![CDATA[2014-04-05 16:20:00]]></wp:post_date>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<wp:post_type><![CDATA[post]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://superglue.it]]></wp:meta_value>
+			</wp:postmeta>
+			<title>Superglue, phase 2</title>
+			<category domain="speaker" nicename="Danja Vasiliev"><![CDATA[Danja Vasiliev]]></category>
+			<category domain="speaker" nicename="Michael Zeder"><![CDATA[Michael Zeder]]></category>
+			<category domain="speaker" nicename="Joscha Jaeger"><![CDATA[Joscha Jaeger]]></category>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://download.gimp.org/pub/gimp/lgm/2014/day_4/062_Superglue_Phase_2/062_Superglue_Phase_2.ogv]]></wp:meta_value>
+			</wp:postmeta>
+			<category domain="category" nicename="lgm-2014"><![CDATA[LGM 2014]]></category>
+	</item>
+
+	<item>
+			<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+			<title>Dear designer, have these cool tools</title>
+			<content:encoded><![CDATA[Getting designers to switch their tools is always a hard task. Convincing them to abandon their proprietary tools for F/LOSS ones is an even harder challenge. We know that the "You can't do professional design without going the Adobe way" meme is untrue, and it is our personal itch to disprove it. For that, we're cooking up a kit of tools and assets that can help anyone wanting to try Free Software tools for their design practice. The Libre Graphics magazine is one of the ways we have to prove that one can design and *print* with an F/LOSS based toolchain. What tactics can we resort to in order to get other designers out of their proprietary habits? ]]></content:encoded>
+			<wp:post_date><![CDATA[2014-04-05 16:40:00]]></wp:post_date>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<wp:post_type><![CDATA[post]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://libregraphicsmag.com/]]></wp:meta_value>
+			</wp:postmeta>
+			<category domain="speaker" nicename="Ana Isabel Carvalho"><![CDATA[Ana Isabel Carvalho]]></category>
+			<category domain="speaker" nicename="Ricardo Lafuente"><![CDATA[Ricardo Lafuente]]></category>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://download.gimp.org/pub/gimp/lgm/2014/day_4/063_Dear_designer__have_these_cool_tools/063_Dear_designer__have_these_cool_tools.ogv]]></wp:meta_value>
+			</wp:postmeta>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_slides]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://libregraphicsmag.com/2014/04/slides-from-dear-designer-have-these-cool-tools/]]></wp:meta_value>
+			</wp:postmeta>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_slides]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://download.gimp.org/pub/gimp/lgm/2014/day_4/063_Dear_designer__have_these_cool_tools/063_Dear_designer__have_these_cool_tools.pdf]]></wp:meta_value>
+			</wp:postmeta>
+			<category domain="category" nicename="lgm-2014"><![CDATA[LGM 2014]]></category>
+	</item>
+	
+	<item>
+			<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+			<content:encoded><![CDATA[GNOME design is an active open design effort, and open design has become increasingly central to how the GNOME project operates. We will talk about the design activities taking place within GNOME, and the role that design plays within the project. We will also talk about why open design is important to us, and how you can get involved. ]]></content:encoded>
+			<wp:post_date><![CDATA[2014-04-05 17:20:00]]></wp:post_date>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<wp:post_type><![CDATA[post]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://wiki.gnome.org/Design/]]></wp:meta_value>
+			</wp:postmeta>
+			<title>GNOME Design: Open to all</title>
+			<category domain="speaker" nicename="Allan Day"><![CDATA[Allan Day]]></category>
+			<category domain="speaker" nicename="Jakub Steiner"><![CDATA[Jakub Steiner]]></category>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://download.gimp.org/pub/gimp/lgm/2014/day_4/064_GNOME_Design__Open_to_all/064_GNOME_Design__Open_to_all.ogv]]></wp:meta_value>
+			</wp:postmeta>
+			<category domain="category" nicename="lgm-2014"><![CDATA[LGM 2014]]></category>
+	</item>
+
+	<item>
+			<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+			<content:encoded><![CDATA[Two years ago at LGM 2012, Emily and Mo from the Fedora design team introduced GlitterGallery, their pitch for an open source GitHub for design folks. As part of a GSoC project under Fedora the summer of 2013, I worked on GlitterGallery and it has been receiving lot of love ever since. In this presentation, I will introduce the new GlitterGallery 0.1 (to be made publicly available on a URL by the end of Jan). I'll be discussing about my observations as I spoke about GlitterGallery with designers from world over. Apart from introducing features and a really quick how-to on setting GlitterGallery up for any organization with just one click, I will spark an interactive session about GlitterGallery's future as a complete office for open source designers online. ]]></content:encoded>
+			<wp:post_date><![CDATA[2014-04-05 17:40:00]]></wp:post_date>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<wp:post_type><![CDATA[post]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://in.linkedin.com/in/sarupbanskota]]></wp:meta_value>
+			</wp:postmeta>
+			<title>GlitterGallery: Taking the designer's office online</title>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_slides]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://www.slideshare.net/sarupbanskota/helloworld-33181550]]></wp:meta_value>
+			</wp:postmeta>
+			<category domain="speaker" nicename="Sarup Banskota"><![CDATA[Sarup Banskota]]></category>
+			<category domain="speaker" nicename="Emily Dirsh"><![CDATA[Emily Dirsh]]></category>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://download.gimp.org/pub/gimp/lgm/2014/day_4/065_GlitterGallery__Taking_the_designers_office_online/065_GlitterGallery__Taking_the_designers_office_online.ogv]]></wp:meta_value>
+			</wp:postmeta>
+			<category domain="category" nicename="lgm-2014"><![CDATA[LGM 2014]]></category>
+	</item>
+
+	<item>
+			<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+			<content:encoded><![CDATA[Trending approach to building design is known as Building Information Modeling/Management (BIM). As the term implies, 3-Dimensional Modelling is involved. Blender targets the CGI industry. Therefore, it is not suitable for this kind of modelling. Industry Standard BIM software are parametric providing GUI for adjusting building (AEC) object properties Architectural (Arch) Workbench aims to bridge via its host application (FreeCAD). FreeCAD is built on OpenCASCADE and is parametric. It also provides opportunity for extending its core via Python and C/C++ API. The Workbench is mostly experimental. This talk/paper explores some of the issues that are currently under consideration for the next release (0.14), evaluation of existing features, and development plans for the near future ]]></content:encoded>
+			<wp:post_date><![CDATA[2014-04-05 17:50:00]]></wp:post_date>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<wp:post_type><![CDATA[post]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://twohot.wordpress.com]]></wp:meta_value>
+			</wp:postmeta>
+			<title>FreeCAD's &quot;Arch&quot; Workbench: Bridging the Gap in the Linux (AEC) Design Tool-set</title>
+			<category domain="speaker" nicename="Onyeibo Oku"><![CDATA[Onyeibo Oku]]></category>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+				<wp:meta_value><![CDATA[http://download.gimp.org/pub/gimp/lgm/2014/day_4/066_FreeCADs_Arch_Workbench__Bridging_the_Gap_in_the_Linux_AEC_Design_Tool-set/066_FreeCADs_Arch_Workbench__Bridging_the_Gap_in_the_Linux_AEC_Design_Tool-set.ogv]]></wp:meta_value>
+			</wp:postmeta>
+			<category domain="category" nicename="lgm-2014"><![CDATA[LGM 2014]]></category>
+	</item>
+
+</channel>
+</rss>

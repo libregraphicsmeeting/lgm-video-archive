@@ -1,0 +1,1184 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+	
+<item>
+	<title>Character animation in Synfig</title>
+	<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+	<content:encoded><![CDATA[In this workshop I'm going to demonstrate an approach for character animation in Synfig. This approach allows to produce simple but good-looking animation very quickly using the special template. For more info please look at this demonstration - http://www.youtube.com/watch?v=d9d9a0zX5tg ]]></content:encoded>
+	<wp:post_date><![CDATA[2013-04-10 14:30:00]]></wp:post_date>
+	<wp:status><![CDATA[publish]]></wp:status>
+	<wp:post_type><![CDATA[post]]></wp:post_type>
+	<category domain="speaker" nicename="Konstantin Dmitriev"><![CDATA[Konstantin Dmitriev]]></category>
+	<category domain="category" nicename="lgm-2013"><![CDATA[LGM 2013]]></category>
+	<category domain="type" nicename="workshop"><![CDATA[Workshop]]></category>
+</item>
+	
+<item>
+	<title>Future Tools</title>
+	<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+	<content:encoded><![CDATA[]]></content:encoded>
+	<wp:post_date><![CDATA[2013-04-10 17:00:00]]></wp:post_date>
+	<wp:status><![CDATA[publish]]></wp:status>
+	<wp:post_type><![CDATA[post]]></wp:post_type>
+	<category domain="speaker" nicename="Femke Snelting"><![CDATA[Femke Snelting]]></category>
+	<category domain="speaker" nicename="Laura Fernandez"><![CDATA[Laura Fernandez]]></category>
+	<category domain="speaker" nicename="Marcos Garcia"><![CDATA[Marcos Garcia]]></category>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://medialab-prado.es/mmedia/10/10872/10872.flv]]></wp:meta_value>
+	</wp:postmeta>
+	<category domain="category" nicename="lgm-2013"><![CDATA[LGM 2013]]></category>
+</item>
+
+<item>
+	<title>Programalaplaza: an online tool to write visual sketches for the Medialab-prado Media facade</title>
+	<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+	<content:encoded><![CDATA[The Medialab-Prado media facade is a 15m x 10m low resolution screen. It is an expensive infrastructure unique in the world. Until now, creating content for the facade has been a slow process, where apps has been done almost from scratch and with not so many people creating content for it. How to open this huge infrastructure for a massive and easy participation?
+	
+Using the power of web technologies we designed and coded "Programalaplaza" (code the square) an online IDE which has all the elements to successfully develop and show visual pieces on the facade only using a web browser. It is based on Processing.js, a javascript version of the Processing language.]]></content:encoded>
+	<wp:post_date><![CDATA[2013-04-10 08:00:00]]></wp:post_date>
+	<wp:status><![CDATA[publish]]></wp:status>
+	<wp:post_type><![CDATA[post]]></wp:post_type>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://programalaplaza.medialab-prado.es]]></wp:meta_value>
+	</wp:postmeta>
+	<category domain="speaker" nicename="Sergio Galán"><![CDATA[Sergio Galán]]></category>
+	<category domain="speaker" nicename="Victor Diaz"><![CDATA[Victor Diaz]]></category>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://medialab-prado.es/mmedia/10/10861/10861.flv]]></wp:meta_value>
+	</wp:postmeta>
+	<category domain="category" nicename="lgm-2013"><![CDATA[LGM 2013]]></category>
+</item>
+
+<item>
+	<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+	<content:encoded><![CDATA[EXAMPLE]]></content:encoded>
+	<wp:post_date><![CDATA[2013-04-10 08:00:00]]></wp:post_date>
+	<wp:status><![CDATA[publish]]></wp:status>
+	<wp:post_type><![CDATA[post]]></wp:post_type>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://karl-tux-stadt.de/ktuxs/]]></wp:meta_value>
+	</wp:postmeta>
+	<title>The Fedora Design Suite - Distribute The Tools</title>
+	<category domain="speaker" nicename="Sirko Kemter"><![CDATA[Sirko Kemter]]></category>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://medialab-prado.es/mmedia/10/10856/10856.flv]]></wp:meta_value>
+	</wp:postmeta>
+	<category domain="category" nicename="lgm-2013"><![CDATA[LGM 2013]]></category>
+</item>
+
+<item>
+	<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+	<content:encoded><![CDATA[EXAMPLE]]></content:encoded>
+	<wp:post_date><![CDATA[2013-04-10 08:00:00]]></wp:post_date>
+	<wp:status><![CDATA[publish]]></wp:status>
+	<wp:post_type><![CDATA[post]]></wp:post_type>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://code.sat.qc.ca/tempi]]></wp:meta_value>
+	</wp:postmeta>
+	<title>Mikado, a &quot;Future tool&quot; for image manipulation with graphs and nodes based on Tempi and GEGL</title>
+	<category domain="speaker" nicename="Camille Bissuel"><![CDATA[Camille Bissuel]]></category>
+	<category domain="speaker" nicename="Cedric Gémy"><![CDATA[Cedric Gémy]]></category>
+	<category domain="speaker" nicename="Alexandre Quessy"><![CDATA[Alexandre Quessy]]></category>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://medialab-prado.es/mmedia/10/10851/10851.flv]]></wp:meta_value>
+	</wp:postmeta>
+	<category domain="category" nicename="lgm-2013"><![CDATA[LGM 2013]]></category>
+</item>
+
+<item>
+	<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+	<content:encoded><![CDATA[EXAMPLE]]></content:encoded>
+	<wp:post_date><![CDATA[2013-04-10 08:00:00]]></wp:post_date>
+	<wp:status><![CDATA[publish]]></wp:status>
+	<wp:post_type><![CDATA[post]]></wp:post_type>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://pycessing.org]]></wp:meta_value>
+	</wp:postmeta>
+	<title>PyCessing</title>
+	<category domain="speaker" nicename="Brendan Howell"><![CDATA[Brendan Howell]]></category>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://medialab-prado.es/mmedia/10/10846/10846.flv]]></wp:meta_value>
+	</wp:postmeta>
+	<category domain="category" nicename="lgm-2013"><![CDATA[LGM 2013]]></category>
+</item>
+
+<item>
+	<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+	<content:encoded><![CDATA[EXAMPLE]]></content:encoded>
+	<wp:post_date><![CDATA[2013-04-10 08:00:00]]></wp:post_date>
+	<wp:status><![CDATA[publish]]></wp:status>
+	<wp:post_type><![CDATA[post]]></wp:post_type>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://kune.ourproject.org]]></wp:meta_value>
+	</wp:postmeta>
+	<title>Kune Collaborative Software</title>
+	<category domain="speaker" nicename="Samer Hassan"><![CDATA[Samer Hassan]]></category>
+	<category domain="speaker" nicename="Vicente Ruiz Jurado"><![CDATA[Vicente Ruiz Jurado]]></category>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://medialab-prado.es/mmedia/10/10821/10821.flv]]></wp:meta_value>
+	</wp:postmeta>
+	<category domain="category" nicename="lgm-2013"><![CDATA[LGM 2013]]></category>
+</item>
+
+<item>
+	<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+	<content:encoded><![CDATA[EXAMPLE]]></content:encoded>
+	<wp:post_date><![CDATA[2013-04-10 08:00:00]]></wp:post_date>
+	<wp:status><![CDATA[publish]]></wp:status>
+	<wp:post_type><![CDATA[post]]></wp:post_type>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://tomlechner.com]]></wp:meta_value>
+	</wp:postmeta>
+	<title>Shareable Tools</title>
+	<category domain="speaker" nicename="Tom Lechner"><![CDATA[Tom Lechner]]></category>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://medialab-prado.es/mmedia/10/10826/10826.flv]]></wp:meta_value>
+	</wp:postmeta>
+	<category domain="category" nicename="lgm-2013"><![CDATA[LGM 2013]]></category>
+</item>
+
+<item>
+	<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+	<content:encoded><![CDATA[EXAMPLE]]></content:encoded>
+	<wp:post_date><![CDATA[2013-04-10 08:00:00]]></wp:post_date>
+	<wp:status><![CDATA[publish]]></wp:status>
+	<wp:post_type><![CDATA[post]]></wp:post_type>
+	<category domain="speaker" nicename="Claudia Krummenacher"><![CDATA[Claudia Krummenacher]]></category>
+	<title>Printed Books versus eBooks; What we will use DTP for in the future.</title>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://medialab-prado.es/mmedia/10/10831/10831.flv]]></wp:meta_value>
+	</wp:postmeta>
+	<category domain="category" nicename="lgm-2013"><![CDATA[LGM 2013]]></category>
+</item>
+
+<item>
+	<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+	<content:encoded><![CDATA[EXAMPLE]]></content:encoded>
+	<wp:post_date><![CDATA[2013-04-10 08:00:00]]></wp:post_date>
+	<wp:status><![CDATA[publish]]></wp:status>
+	<wp:post_type><![CDATA[post]]></wp:post_type>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://libregraphicsmag.com]]></wp:meta_value>
+	</wp:postmeta>
+	<title>Making pages turn: The physical side of F/LOSS design</title>
+	<category domain="speaker" nicename="Ana Isabel Carvalho"><![CDATA[Ana Isabel Carvalho]]></category>
+	<category domain="speaker" nicename="ginger coons"><![CDATA[ginger coons]]></category>
+	<category domain="speaker" nicename="Ricardo Lafuente"><![CDATA[Ricardo Lafuente]]></category>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://medialab-prado.es/mmedia/10/10836/10836.flv]]></wp:meta_value>
+	</wp:postmeta>
+	<category domain="category" nicename="lgm-2013"><![CDATA[LGM 2013]]></category>
+</item>
+
+<item>
+	<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+	<content:encoded><![CDATA[EXAMPLE]]></content:encoded>
+	<wp:post_date><![CDATA[2013-04-10 08:00:00]]></wp:post_date>
+	<wp:status><![CDATA[publish]]></wp:status>
+	<wp:post_type><![CDATA[post]]></wp:post_type>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://tavmjong.free.fr]]></wp:meta_value>
+	</wp:postmeta>
+	<title>The future of SVG and Web standards.</title>
+	<category domain="speaker" nicename="Tavmjong Bah"><![CDATA[Tavmjong Bah]]></category>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://medialab-prado.es/mmedia/10/10841/10841.flv]]></wp:meta_value>
+	</wp:postmeta>
+	<category domain="category" nicename="lgm-2013"><![CDATA[LGM 2013]]></category>
+</item>
+
+<item>
+	<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+	<content:encoded><![CDATA[EXAMPLE]]></content:encoded>
+	<wp:post_date><![CDATA[2013-04-10 08:00:00]]></wp:post_date>
+	<wp:status><![CDATA[publish]]></wp:status>
+	<wp:post_type><![CDATA[post]]></wp:post_type>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://fontforge.github.com]]></wp:meta_value>
+	</wp:postmeta>
+	<title>Fonts of DOOM: Real Time Collaboration in FontForge</title>
+	<category domain="speaker" nicename="Ben Martin"><![CDATA[Ben Martin]]></category>
+	<category domain="speaker" nicename="Dave Crossland"><![CDATA[Dave Crossland]]></category>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://medialab-prado.es/mmedia/10/10866/10866.flv]]></wp:meta_value>
+	</wp:postmeta>
+	<category domain="category" nicename="lgm-2013"><![CDATA[LGM 2013]]></category>
+</item>
+
+<item>
+	<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+	<content:encoded><![CDATA[EXAMPLE]]></content:encoded>
+	<wp:post_date><![CDATA[2013-04-10 08:00:00]]></wp:post_date>
+	<wp:status><![CDATA[publish]]></wp:status>
+	<wp:post_type><![CDATA[post]]></wp:post_type>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://www.madrimasd.org/blogs/futurosdellibro]]></wp:meta_value>
+	</wp:postmeta>
+	<title>Digital Potlatch</title>
+	<category domain="speaker" nicename="Joaquin Rodriguez"><![CDATA[Joaquin Rodriguez]]></category>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://medialab-prado.es/mmedia/10/10694/10694.flv]]></wp:meta_value>
+	</wp:postmeta>
+	<category domain="category" nicename="lgm-2013"><![CDATA[LGM 2013]]></category>
+</item>
+
+<item>
+	<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+	<content:encoded><![CDATA[EXAMPLE]]></content:encoded>
+	<wp:post_date><![CDATA[2013-04-10 08:00:00]]></wp:post_date>
+	<wp:status><![CDATA[publish]]></wp:status>
+	<wp:post_type><![CDATA[post]]></wp:post_type>
+	<category domain="speaker" nicename="José María Blanco"><![CDATA[José María Blanco]]></category>
+	<category domain="speaker" nicename="María Solé Bravo"><![CDATA[María Solé Bravo]]></category>
+	<category domain="speaker" nicename="Anna Carreras"><![CDATA[Anna Carreras]]></category>
+	<title>Free Freedom of Speech Kit (F2SK)</title>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://medialab-prado.es/mmedia/10/10926/10926.flv]]></wp:meta_value>
+	</wp:postmeta>
+	<category domain="category" nicename="lgm-2013"><![CDATA[LGM 2013]]></category>
+</item>
+
+<item>
+	<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+	<content:encoded><![CDATA[EXAMPLE]]></content:encoded>
+	<wp:post_date><![CDATA[2013-04-10 08:00:00]]></wp:post_date>
+	<wp:status><![CDATA[publish]]></wp:status>
+	<wp:post_type><![CDATA[post]]></wp:post_type>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://w.xuv.be/projects/design_with_git]]></wp:meta_value>
+	</wp:postmeta>
+	<title>Design with Git</title>
+	<category domain="speaker" nicename="Julien Deswaef"><![CDATA[Julien Deswaef]]></category>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://medialab-prado.es/mmedia/10/10931/10931.flv]]></wp:meta_value>
+	</wp:postmeta>
+	<category domain="category" nicename="lgm-2013"><![CDATA[LGM 2013]]></category>
+</item>
+
+<item>
+	<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+	<content:encoded><![CDATA[EXAMPLE]]></content:encoded>
+	<wp:post_date><![CDATA[2013-04-10 08:00:00]]></wp:post_date>
+	<wp:status><![CDATA[publish]]></wp:status>
+	<wp:post_type><![CDATA[post]]></wp:post_type>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://www.robocicla.net/]]></wp:meta_value>
+	</wp:postmeta>
+	<title>Colaboratorio de Relatos</title>
+	<category domain="speaker" nicename="Carla Bosermann"><![CDATA[Carla Bosermann]]></category>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://medialab-prado.es/mmedia/10/10936/10936.flv]]></wp:meta_value>
+	</wp:postmeta>
+	<category domain="category" nicename="lgm-2013"><![CDATA[LGM 2013]]></category>
+</item>
+
+<item>
+	<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+	<content:encoded><![CDATA[EXAMPLE]]></content:encoded>
+	<wp:post_date><![CDATA[2013-04-10 08:00:00]]></wp:post_date>
+	<wp:status><![CDATA[publish]]></wp:status>
+	<wp:post_type><![CDATA[post]]></wp:post_type>
+	<category domain="speaker" nicename="Ben Martin"><![CDATA[Ben Martin]]></category>
+	<title>ZeroMQ and Real Time Collaborative Font Design</title>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://medialab-prado.es/mmedia/11/11376/11376.flv]]></wp:meta_value>
+	</wp:postmeta>
+	<category domain="category" nicename="lgm-2013"><![CDATA[LGM 2013]]></category>
+</item>
+
+<item>
+	<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+	<content:encoded><![CDATA[EXAMPLE]]></content:encoded>
+	<wp:post_date><![CDATA[2013-04-10 08:00:00]]></wp:post_date>
+	<wp:status><![CDATA[publish]]></wp:status>
+	<wp:post_type><![CDATA[post]]></wp:post_type>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://eleanorg.org/]]></wp:meta_value>
+	</wp:postmeta>
+	<title>Yes, No? Maybe</title>
+	<category domain="speaker" nicename="Eleanor Greenhalgh"><![CDATA[Eleanor Greenhalgh]]></category>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://medialab-prado.es/mmedia/11/11023/11023.flv]]></wp:meta_value>
+	</wp:postmeta>
+	<category domain="category" nicename="lgm-2013"><![CDATA[LGM 2013]]></category>
+</item>
+
+<item>
+	<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+	<content:encoded><![CDATA[EXAMPLE]]></content:encoded>
+	<wp:post_date><![CDATA[2013-04-10 08:00:00]]></wp:post_date>
+	<wp:status><![CDATA[publish]]></wp:status>
+	<wp:post_type><![CDATA[post]]></wp:post_type>
+	<category domain="speaker" nicename="Miguel Arana Catania"><![CDATA[Miguel Arana Catania]]></category>
+	<category domain="speaker" nicename="Carlos Barragán"><![CDATA[Carlos Barragán]]></category>
+	<title>Incoma. Exploiting the &quot;collective&quot; of the collective intelligence</title>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://medialab-prado.es/mmedia/10/10978/10978.flv]]></wp:meta_value>
+	</wp:postmeta>
+	<category domain="category" nicename="lgm-2013"><![CDATA[LGM 2013]]></category>
+</item>
+
+<item>
+	<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+	<content:encoded><![CDATA[EXAMPLE]]></content:encoded>
+	<wp:post_date><![CDATA[2013-04-10 08:00:00]]></wp:post_date>
+	<wp:status><![CDATA[publish]]></wp:status>
+	<wp:post_type><![CDATA[post]]></wp:post_type>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://www.makeatuvida.net/?page_id=11]]></wp:meta_value>
+	</wp:postmeta>
+	<category domain="speaker" nicename="Makeatuvida"><![CDATA[Makeatuvida]]></category>
+	<title>El Recetario</title>
+	<category domain="category" nicename="lgm-2013"><![CDATA[LGM 2013]]></category>
+</item>
+
+<item>
+	<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+	<content:encoded><![CDATA[EXAMPLE]]></content:encoded>
+	<wp:post_date><![CDATA[2013-04-10 08:00:00]]></wp:post_date>
+	<wp:status><![CDATA[publish]]></wp:status>
+	<wp:post_type><![CDATA[post]]></wp:post_type>
+	<category domain="speaker" nicename="Enrique César"><![CDATA[Enrique César]]></category>
+	<title>Prometeo: Libre copia</title>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://medialab-prado.es/mmedia/10/10983/10983.flv]]></wp:meta_value>
+	</wp:postmeta>
+	<category domain="category" nicename="lgm-2013"><![CDATA[LGM 2013]]></category>
+</item>
+
+<item>
+	<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+	<content:encoded><![CDATA[EXAMPLE]]></content:encoded>
+	<wp:post_date><![CDATA[2013-04-10 08:00:00]]></wp:post_date>
+	<wp:status><![CDATA[publish]]></wp:status>
+	<wp:post_type><![CDATA[post]]></wp:post_type>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://www.taumeta.org]]></wp:meta_value>
+	</wp:postmeta>
+	<title>Tau Meta Tau Physica</title>
+	<category domain="speaker" nicename="Susan Spencer"><![CDATA[Susan Spencer]]></category>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://medialab-prado.es/mmedia/10/10973/10973.flv]]></wp:meta_value>
+	</wp:postmeta>
+	<category domain="category" nicename="lgm-2013"><![CDATA[LGM 2013]]></category>
+</item>
+
+<item>
+	<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+	<content:encoded><![CDATA[EXAMPLE]]></content:encoded>
+	<wp:post_date><![CDATA[2013-04-10 08:00:00]]></wp:post_date>
+	<wp:status><![CDATA[publish]]></wp:status>
+	<wp:post_type><![CDATA[post]]></wp:post_type>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://krita.org]]></wp:meta_value>
+	</wp:postmeta>
+	<title>Introducing the Krita Foundation</title>
+	<category domain="speaker" nicename="Boudewijn Rempt"><![CDATA[Boudewijn Rempt]]></category>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://medialab-prado.es/mmedia/11/11018/11018.flv]]></wp:meta_value>
+	</wp:postmeta>
+	<category domain="category" nicename="lgm-2013"><![CDATA[LGM 2013]]></category>
+</item>
+
+<item>
+	<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+	<content:encoded><![CDATA[EXAMPLE]]></content:encoded>
+	<wp:post_date><![CDATA[2013-04-10 08:00:00]]></wp:post_date>
+	<wp:status><![CDATA[publish]]></wp:status>
+	<wp:post_type><![CDATA[post]]></wp:post_type>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://www.timotheegiet.com]]></wp:meta_value>
+	</wp:postmeta>
+	<title>The &quot;Krita Sketch&quot; project</title>
+	<category domain="speaker" nicename="Timothée Giet"><![CDATA[Timothée Giet]]></category>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://medialab-prado.es/mmedia/10/10998/10998.flv]]></wp:meta_value>
+	</wp:postmeta>
+	<category domain="category" nicename="lgm-2013"><![CDATA[LGM 2013]]></category>
+</item>
+
+<item>
+	<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+	<content:encoded><![CDATA[EXAMPLE]]></content:encoded>
+	<wp:post_date><![CDATA[2013-04-10 08:00:00]]></wp:post_date>
+	<wp:status><![CDATA[publish]]></wp:status>
+	<wp:post_type><![CDATA[post]]></wp:post_type>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://www.hughsie.com]]></wp:meta_value>
+	</wp:postmeta>
+	<title>The Inconvenient Truth About Display Calibration</title>
+	<category domain="speaker" nicename="Richard Hughes"><![CDATA[Richard Hughes]]></category>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://medialab-prado.es/mmedia/11/11003/11003.flv]]></wp:meta_value>
+	</wp:postmeta>
+	<category domain="category" nicename="lgm-2013"><![CDATA[LGM 2013]]></category>
+</item>
+
+<item>
+	<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+	<content:encoded><![CDATA[EXAMPLE]]></content:encoded>
+	<wp:post_date><![CDATA[2013-04-10 08:00:00]]></wp:post_date>
+	<wp:status><![CDATA[publish]]></wp:status>
+	<wp:post_type><![CDATA[post]]></wp:post_type>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://roussos.cc]]></wp:meta_value>
+	</wp:postmeta>
+	<title>Make Popcorn</title>
+	<category domain="speaker" nicename="Nikos Roussos"><![CDATA[Nikos Roussos]]></category>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://medialab-prado.es/mmedia/10/10988/10988.flv]]></wp:meta_value>
+	</wp:postmeta>
+	<category domain="category" nicename="lgm-2013"><![CDATA[LGM 2013]]></category>
+</item>
+
+<item>
+	<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+	<content:encoded><![CDATA[EXAMPLE]]></content:encoded>
+	<wp:post_date><![CDATA[2013-04-10 08:00:00]]></wp:post_date>
+	<wp:status><![CDATA[publish]]></wp:status>
+	<wp:post_type><![CDATA[post]]></wp:post_type>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://gmic.sourceforge.net]]></wp:meta_value>
+	</wp:postmeta>
+	<title>G'MIC : A full-featured framework for image processing with various interfaces</title>
+	<category domain="speaker" nicename="David Tschumperlé"><![CDATA[David Tschumperlé]]></category>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://medialab-prado.es/mmedia/10/10993/10993.flv]]></wp:meta_value>
+	</wp:postmeta>
+	<category domain="category" nicename="lgm-2013"><![CDATA[LGM 2013]]></category>
+</item>
+
+<item>
+	<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+	<content:encoded><![CDATA[EXAMPLE]]></content:encoded>
+	<wp:post_date><![CDATA[2013-04-10 08:00:00]]></wp:post_date>
+	<wp:status><![CDATA[publish]]></wp:status>
+	<wp:post_type><![CDATA[post]]></wp:post_type>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://bitergia.com]]></wp:meta_value>
+	</wp:postmeta>
+	<title>vizGrimoireJS: A framework for Metrics Visualization in Javascript</title>
+	<category domain="speaker" nicename="Alvaro del Castillo San Felix"><![CDATA[Alvaro del Castillo San Felix]]></category>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://medialab-prado.es/mmedia/11/11013/11013.flv]]></wp:meta_value>
+	</wp:postmeta>
+	<category domain="category" nicename="lgm-2013"><![CDATA[LGM 2013]]></category>
+</item>
+
+<item>
+	<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+	<content:encoded><![CDATA[EXAMPLE]]></content:encoded>
+	<wp:post_date><![CDATA[2013-04-10 08:00:00]]></wp:post_date>
+	<wp:status><![CDATA[publish]]></wp:status>
+	<wp:post_type><![CDATA[post]]></wp:post_type>
+	<category domain="speaker" nicename="GIMP team"><![CDATA[GIMP team]]></category>
+	<title>Save your work, export results^W^W^W^W^W^WQ+A with GIMPers</title>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://medialab-prado.es/mmedia/11/11028/11028.flv]]></wp:meta_value>
+	</wp:postmeta>
+	<category domain="category" nicename="lgm-2013"><![CDATA[LGM 2013]]></category>
+</item>
+
+<item>
+	<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+	<content:encoded><![CDATA[EXAMPLE]]></content:encoded>
+	<wp:post_date><![CDATA[2013-04-10 08:00:00]]></wp:post_date>
+	<wp:status><![CDATA[publish]]></wp:status>
+	<wp:post_type><![CDATA[post]]></wp:post_type>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://kelty.org/]]></wp:meta_value>
+	</wp:postmeta>
+	<title>The Internet and its Parasites: Freedom and Participation</title>
+	<category domain="speaker" nicename="Chris Kelty"><![CDATA[Chris Kelty]]></category>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://medialab-prado.es/mmedia/10/10727/10727.flv]]></wp:meta_value>
+	</wp:postmeta>
+	<category domain="category" nicename="lgm-2013"><![CDATA[LGM 2013]]></category>
+</item>
+
+<item>
+	<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+	<content:encoded><![CDATA[EXAMPLE]]></content:encoded>
+	<wp:post_date><![CDATA[2013-04-10 08:00:00]]></wp:post_date>
+	<wp:status><![CDATA[publish]]></wp:status>
+	<wp:post_type><![CDATA[post]]></wp:post_type>
+	<category domain="speaker" nicename="Vernon Adams"><![CDATA[Vernon Adams]]></category>
+	<title>Free-ness as an aspect of type design.</title>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://medialab-prado.es/mmedia/10/10895/10895.flv]]></wp:meta_value>
+	</wp:postmeta>
+	<category domain="category" nicename="lgm-2013"><![CDATA[LGM 2013]]></category>
+</item>
+
+<item>
+	<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+	<content:encoded><![CDATA[EXAMPLE]]></content:encoded>
+	<wp:post_date><![CDATA[2013-04-10 08:00:00]]></wp:post_date>
+	<wp:status><![CDATA[publish]]></wp:status>
+	<wp:post_type><![CDATA[post]]></wp:post_type>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://glyphography.com/fonts]]></wp:meta_value>
+	</wp:postmeta>
+	<title>How we wrote a FontForge user manual in three days</title>
+	<category domain="speaker" nicename="Nathan Willis"><![CDATA[Nathan Willis]]></category>
+	<category domain="speaker" nicename="Vernon Adams"><![CDATA[Vernon Adams]]></category>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://medialab-prado.es/mmedia/10/10900/10900.flv]]></wp:meta_value>
+	</wp:postmeta>
+	<category domain="category" nicename="lgm-2013"><![CDATA[LGM 2013]]></category>
+</item>
+
+<item>
+	<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+	<content:encoded><![CDATA[EXAMPLE]]></content:encoded>
+	<wp:post_date><![CDATA[2013-04-10 08:00:00]]></wp:post_date>
+	<wp:status><![CDATA[publish]]></wp:status>
+	<wp:post_type><![CDATA[post]]></wp:post_type>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://greyscalepress.com]]></wp:meta_value>
+	</wp:postmeta>
+	<title>Designing a Libre Font Specimen Book</title>
+	<category domain="speaker" nicename="Manuel Schmalstieg"><![CDATA[Manuel Schmalstieg]]></category>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://medialab-prado.es/mmedia/10/10906/10906.flv]]></wp:meta_value>
+	</wp:postmeta>
+	<category domain="category" nicename="lgm-2013"><![CDATA[LGM 2013]]></category>
+</item>
+
+<item>
+	<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+	<content:encoded><![CDATA[EXAMPLE]]></content:encoded>
+	<wp:post_date><![CDATA[2013-04-10 08:00:00]]></wp:post_date>
+	<wp:status><![CDATA[publish]]></wp:status>
+	<wp:post_type><![CDATA[post]]></wp:post_type>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://110design.ru]]></wp:meta_value>
+	</wp:postmeta>
+	<title>It takes a team to make a font</title>
+	<category domain="speaker" nicename="Alexei Vanyashin"><![CDATA[Alexei Vanyashin]]></category>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://medialab-prado.es/mmedia/10/10911/10911.flv]]></wp:meta_value>
+	</wp:postmeta>
+	<category domain="category" nicename="lgm-2013"><![CDATA[LGM 2013]]></category>
+</item>
+
+<item>
+	<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+	<content:encoded><![CDATA[EXAMPLE]]></content:encoded>
+	<wp:post_date><![CDATA[2013-04-10 08:00:00]]></wp:post_date>
+	<wp:status><![CDATA[publish]]></wp:status>
+	<wp:post_type><![CDATA[post]]></wp:post_type>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://github.com/raphaelbastide]]></wp:meta_value>
+	</wp:postmeta>
+	<title>Unified Typeface Design</title>
+	<category domain="speaker" nicename="Raphaël Bastide"><![CDATA[Raphaël Bastide]]></category>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://medialab-prado.es/mmedia/10/10916/10916.flv]]></wp:meta_value>
+	</wp:postmeta>
+	<category domain="category" nicename="lgm-2013"><![CDATA[LGM 2013]]></category>
+</item>
+
+<item>
+	<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+	<content:encoded><![CDATA[EXAMPLE]]></content:encoded>
+	<wp:post_date><![CDATA[2013-04-10 08:00:00]]></wp:post_date>
+	<wp:status><![CDATA[publish]]></wp:status>
+	<wp:post_type><![CDATA[post]]></wp:post_type>
+	<category domain="speaker" nicename="Werner Lemberg"><![CDATA[Werner Lemberg]]></category>
+	<title>The development of ttfautohint, a TrueType auto-hinter</title>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://medialab-prado.es/mmedia/10/10921/10921.flv]]></wp:meta_value>
+	</wp:postmeta>
+	<category domain="category" nicename="lgm-2013"><![CDATA[LGM 2013]]></category>
+</item>
+
+<item>
+	<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+	<content:encoded><![CDATA[EXAMPLE]]></content:encoded>
+	<wp:post_date><![CDATA[2013-04-10 08:00:00]]></wp:post_date>
+	<wp:status><![CDATA[publish]]></wp:status>
+	<wp:post_type><![CDATA[post]]></wp:post_type>
+	<category domain="speaker" nicename="Miroslav Mazel"><![CDATA[Miroslav Mazel]]></category>
+	<title>Design and LibreOffice</title>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://medialab-prado.es/mmedia/11/11392/11392.flv]]></wp:meta_value>
+	</wp:postmeta>
+	<category domain="category" nicename="lgm-2013"><![CDATA[LGM 2013]]></category>
+</item>
+
+<item>
+	<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+	<content:encoded><![CDATA[EXAMPLE]]></content:encoded>
+	<wp:post_date><![CDATA[2013-04-10 08:00:00]]></wp:post_date>
+	<wp:status><![CDATA[publish]]></wp:status>
+	<wp:post_type><![CDATA[post]]></wp:post_type>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://apertus.org]]></wp:meta_value>
+	</wp:postmeta>
+	<title>Libre Cinema! Apertus Axiom: the open digital cinema camera</title>
+	<category domain="speaker" nicename="Jehan Pagès"><![CDATA[Jehan Pagès]]></category>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://medialab-prado.es/mmedia/10/10941/10941.flv]]></wp:meta_value>
+	</wp:postmeta>
+	<category domain="category" nicename="lgm-2013"><![CDATA[LGM 2013]]></category>
+</item>
+
+<item>
+	<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+	<content:encoded><![CDATA[EXAMPLE]]></content:encoded>
+	<wp:post_date><![CDATA[2013-04-10 08:00:00]]></wp:post_date>
+	<wp:status><![CDATA[publish]]></wp:status>
+	<wp:post_type><![CDATA[post]]></wp:post_type>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://karl-tux-stadt.de/ktuxs/]]></wp:meta_value>
+	</wp:postmeta>
+	<title>Make The Movies Free</title>
+	<category domain="speaker" nicename="Sirko Kemter"><![CDATA[Sirko Kemter]]></category>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://medialab-prado.es/mmedia/11/11106/11106.flv]]></wp:meta_value>
+	</wp:postmeta>
+	<category domain="category" nicename="lgm-2013"><![CDATA[LGM 2013]]></category>
+</item>
+
+<item>
+	<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+	<content:encoded><![CDATA[EXAMPLE]]></content:encoded>
+	<wp:post_date><![CDATA[2013-04-10 08:00:00]]></wp:post_date>
+	<wp:status><![CDATA[publish]]></wp:status>
+	<wp:post_type><![CDATA[post]]></wp:post_type>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://ninapaley.com]]></wp:meta_value>
+	</wp:postmeta>
+	<title>It's 2013. Do You Know Where My Free Vector Animation Software Is?</title>
+	<category domain="speaker" nicename="Nina Paley"><![CDATA[Nina Paley]]></category>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://medialab-prado.es/mmedia/10/10951/10951.flv]]></wp:meta_value>
+	</wp:postmeta>
+	<category domain="category" nicename="lgm-2013"><![CDATA[LGM 2013]]></category>
+</item>
+
+<item>
+	<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+	<content:encoded><![CDATA[EXAMPLE]]></content:encoded>
+	<wp:post_date><![CDATA[2013-04-10 08:00:00]]></wp:post_date>
+	<wp:status><![CDATA[publish]]></wp:status>
+	<wp:post_type><![CDATA[post]]></wp:post_type>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://ospwork.constantvzw.org/work/]]></wp:meta_value>
+	</wp:postmeta>
+	<title>Along school fences.</title>
+	<category domain="speaker" nicename="Pierre Huyghebaert"><![CDATA[Pierre Huyghebaert]]></category>
+	<category domain="speaker" nicename="Alexandre Leray"><![CDATA[Alexandre Leray]]></category>
+	<category domain="speaker" nicename="Ludivine Loiseau"><![CDATA[Ludivine Loiseau]]></category>
+	<category domain="speaker" nicename="Pierre Marchand"><![CDATA[Pierre Marchand]]></category>
+	<category domain="speaker" nicename="Eric Schrijver"><![CDATA[Eric Schrijver]]></category>
+	<category domain="speaker" nicename="Stéphanie Vilayphiou"><![CDATA[Stéphanie Vilayphiou]]></category>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://medialab-prado.es/mmedia/10/10956/10956.flv]]></wp:meta_value>
+	</wp:postmeta>
+	<category domain="category" nicename="lgm-2013"><![CDATA[LGM 2013]]></category>
+</item>
+
+<item>
+	<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+	<content:encoded><![CDATA[EXAMPLE]]></content:encoded>
+	<wp:post_date><![CDATA[2013-04-10 08:00:00]]></wp:post_date>
+	<wp:status><![CDATA[publish]]></wp:status>
+	<wp:post_type><![CDATA[post]]></wp:post_type>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://wdka.nl]]></wp:meta_value>
+	</wp:postmeta>
+	<title>Willem de Kooning Academie strikes back: open source approach in art and design BA education</title>
+	<category domain="speaker" nicename="Aymeric Mansoux"><![CDATA[Aymeric Mansoux]]></category>
+	<category domain="speaker" nicename="Aldje van Meer"><![CDATA[Aldje van Meer]]></category>
+	<category domain="speaker" nicename="Deanna Herst"><![CDATA[Deanna Herst]]></category>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://medialab-prado.es/mmedia/10/10962/10962.flv]]></wp:meta_value>
+	</wp:postmeta>
+	<category domain="category" nicename="lgm-2013"><![CDATA[LGM 2013]]></category>
+</item>
+
+<item>
+	<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+	<content:encoded><![CDATA[EXAMPLE]]></content:encoded>
+	<wp:post_date><![CDATA[2013-04-10 08:00:00]]></wp:post_date>
+	<wp:status><![CDATA[publish]]></wp:status>
+	<wp:post_type><![CDATA[post]]></wp:post_type>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://iamnotarchitect.wordpress.com/2013/01/09/furniture/]]></wp:meta_value>
+	</wp:postmeta>
+	<title>smart furnitures' database</title>
+	<category domain="speaker" nicename="verónica velaz garcía"><![CDATA[verónica velaz garcía]]></category>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://medialab-prado.es/mmedia/11/11397/11397.flv]]></wp:meta_value>
+	</wp:postmeta>
+	<category domain="category" nicename="lgm-2013"><![CDATA[LGM 2013]]></category>
+</item>
+
+<item>
+	<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+	<content:encoded><![CDATA[EXAMPLE]]></content:encoded>
+	<wp:post_date><![CDATA[2013-04-10 08:00:00]]></wp:post_date>
+	<wp:status><![CDATA[publish]]></wp:status>
+	<wp:post_type><![CDATA[post]]></wp:post_type>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://xuv.be]]></wp:meta_value>
+	</wp:postmeta>
+	<title>uHbench: open source hardware public bench</title>
+	<category domain="speaker" nicename="Julien Deswaef"><![CDATA[Julien Deswaef]]></category>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://medialab-prado.es/mmedia/11/11066/11066.flv]]></wp:meta_value>
+	</wp:postmeta>
+	<category domain="category" nicename="lgm-2013"><![CDATA[LGM 2013]]></category>
+</item>
+
+<item>
+	<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+	<content:encoded><![CDATA[EXAMPLE]]></content:encoded>
+	<wp:post_date><![CDATA[2013-04-10 08:00:00]]></wp:post_date>
+	<wp:status><![CDATA[publish]]></wp:status>
+	<wp:post_type><![CDATA[post]]></wp:post_type>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://www.hotglue.org]]></wp:meta_value>
+	</wp:postmeta>
+	<title>Hotglue, Superglue</title>
+	<category domain="speaker" nicename="Daniil Vasiliev"><![CDATA[Daniil Vasiliev]]></category>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://medialab-prado.es/mmedia/11/11066/11066.flv]]></wp:meta_value>
+	</wp:postmeta>
+	<category domain="category" nicename="lgm-2013"><![CDATA[LGM 2013]]></category>
+</item>
+
+<item>
+	<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+	<content:encoded><![CDATA[EXAMPLE]]></content:encoded>
+	<wp:post_date><![CDATA[2013-04-10 08:00:00]]></wp:post_date>
+	<wp:status><![CDATA[publish]]></wp:status>
+	<wp:post_type><![CDATA[post]]></wp:post_type>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://www.numediart.org/projects/project-18-2-eye-nimation/]]></wp:meta_value>
+	</wp:postmeta>
+	<title>EYE-NIMATION: Interfacing of animation software for didactic purposes</title>
+	<category domain="speaker" nicename="Thierry Ravet"><![CDATA[Thierry Ravet]]></category>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://medialab-prado.es/mmedia/11/11046/11046.flv]]></wp:meta_value>
+	</wp:postmeta>
+	<category domain="category" nicename="lgm-2013"><![CDATA[LGM 2013]]></category>
+</item>
+
+<item>
+	<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+	<content:encoded><![CDATA[EXAMPLE]]></content:encoded>
+	<wp:post_date><![CDATA[2013-04-10 08:00:00]]></wp:post_date>
+	<wp:status><![CDATA[publish]]></wp:status>
+	<wp:post_type><![CDATA[post]]></wp:post_type>
+	<category domain="speaker" nicename="Ale Rimoldi"><![CDATA[Ale Rimoldi]]></category>
+	<title>Ceci n'est pas une pipe</title>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://medialab-prado.es/mmedia/11/11051/11051.flv]]></wp:meta_value>
+	</wp:postmeta>
+	<category domain="category" nicename="lgm-2013"><![CDATA[LGM 2013]]></category>
+</item>
+
+<item>
+	<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+	<content:encoded><![CDATA[EXAMPLE]]></content:encoded>
+	<wp:post_date><![CDATA[2013-04-10 08:00:00]]></wp:post_date>
+	<wp:status><![CDATA[publish]]></wp:status>
+	<wp:post_type><![CDATA[post]]></wp:post_type>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://laidout.org]]></wp:meta_value>
+	</wp:postmeta>
+	<title>New Laidout Tools</title>
+	<category domain="speaker" nicename="Tom Lechner"><![CDATA[Tom Lechner]]></category>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://medialab-prado.es/mmedia/11/11112/11112.flv]]></wp:meta_value>
+	</wp:postmeta>
+	<category domain="category" nicename="lgm-2013"><![CDATA[LGM 2013]]></category>
+</item>
+
+<item>
+	<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+	<content:encoded><![CDATA[EXAMPLE]]></content:encoded>
+	<wp:post_date><![CDATA[2013-04-10 08:00:00]]></wp:post_date>
+	<wp:status><![CDATA[publish]]></wp:status>
+	<wp:post_type><![CDATA[post]]></wp:post_type>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://jenniferdopazo.com/nm/portfolio/flossify-digitalfoundations/]]></wp:meta_value>
+	</wp:postmeta>
+	<title>Digital Foundations</title>
+	<category domain="speaker" nicename="Jennifer Dopazo"><![CDATA[Jennifer Dopazo]]></category>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://medialab-prado.es/mmedia/11/11056/11056.flv]]></wp:meta_value>
+	</wp:postmeta>
+	<category domain="category" nicename="lgm-2013"><![CDATA[LGM 2013]]></category>
+</item>
+
+<item>
+	<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+	<content:encoded><![CDATA[EXAMPLE]]></content:encoded>
+	<wp:post_date><![CDATA[2013-04-10 08:00:00]]></wp:post_date>
+	<wp:status><![CDATA[publish]]></wp:status>
+	<wp:post_type><![CDATA[post]]></wp:post_type>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://mondonerd.com]]></wp:meta_value>
+	</wp:postmeta>
+	<title>ARsenico: Libre Augmented Reality Platform</title>
+	<category domain="speaker" nicename="Massimo Maria Avvisati"><![CDATA[Massimo Maria Avvisati]]></category>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://medialab-prado.es/mmedia/11/11061/11061.flv]]></wp:meta_value>
+	</wp:postmeta>
+	<category domain="category" nicename="lgm-2013"><![CDATA[LGM 2013]]></category>
+</item>
+
+<item>
+	<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+	<content:encoded><![CDATA[EXAMPLE]]></content:encoded>
+	<wp:post_date><![CDATA[2013-04-10 08:00:00]]></wp:post_date>
+	<wp:status><![CDATA[publish]]></wp:status>
+	<wp:post_type><![CDATA[post]]></wp:post_type>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://maefloresta.com]]></wp:meta_value>
+	</wp:postmeta>
+	<title>Tupi: Open 2D Magic (to rule them all!)</title>
+	<category domain="speaker" nicename="Gustav Gonzalez"><![CDATA[Gustav Gonzalez]]></category>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://medialab-prado.es/mmedia/11/11071/11071.flv]]></wp:meta_value>
+	</wp:postmeta>
+	<category domain="category" nicename="lgm-2013"><![CDATA[LGM 2013]]></category>
+</item>
+
+<item>
+	<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+	<content:encoded><![CDATA[EXAMPLE]]></content:encoded>
+	<wp:post_date><![CDATA[2013-04-10 08:00:00]]></wp:post_date>
+	<wp:status><![CDATA[publish]]></wp:status>
+	<wp:post_type><![CDATA[post]]></wp:post_type>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://research.dataflower.org]]></wp:meta_value>
+	</wp:postmeta>
+	<title>dataflower - harnessing heterogeneous parallelism for creative applications</title>
+	<category domain="speaker" nicename="Pedro Ângelo"><![CDATA[Pedro Ângelo]]></category>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://medialab-prado.es/mmedia/11/11076/11076.flv]]></wp:meta_value>
+	</wp:postmeta>
+	<category domain="category" nicename="lgm-2013"><![CDATA[LGM 2013]]></category>
+</item>
+
+<item>
+	<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+	<content:encoded><![CDATA[EXAMPLE]]></content:encoded>
+	<wp:post_date><![CDATA[2013-04-10 08:00:00]]></wp:post_date>
+	<wp:status><![CDATA[publish]]></wp:status>
+	<wp:post_type><![CDATA[post]]></wp:post_type>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://www.numediart.org]]></wp:meta_value>
+	</wp:postmeta>
+	<title>Melon - a kinect based controller</title>
+	<category domain="speaker" nicename="François Zajéga"><![CDATA[François Zajéga]]></category>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://medialab-prado.es/mmedia/11/11091/11091.flv]]></wp:meta_value>
+	</wp:postmeta>
+	<category domain="category" nicename="lgm-2013"><![CDATA[LGM 2013]]></category>
+</item>
+
+<item>
+	<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+	<content:encoded><![CDATA[EXAMPLE]]></content:encoded>
+	<wp:post_date><![CDATA[2013-04-10 08:00:00]]></wp:post_date>
+	<wp:status><![CDATA[publish]]></wp:status>
+	<wp:post_type><![CDATA[post]]></wp:post_type>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://okfn.org]]></wp:meta_value>
+	</wp:postmeta>
+	<title>Open Design</title>
+	<category domain="speaker" nicename="Kat Braybrooke"><![CDATA[Kat Braybrooke]]></category>
+	<category domain="speaker" nicename="Primavera De Fillipi"><![CDATA[Primavera De Fillipi]]></category>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://medialab-prado.es/mmedia/11/11096/11096.flv]]></wp:meta_value>
+	</wp:postmeta>
+	<category domain="category" nicename="lgm-2013"><![CDATA[LGM 2013]]></category>
+</item>
+
+<item>
+	<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+	<content:encoded><![CDATA[EXAMPLE]]></content:encoded>
+	<wp:post_date><![CDATA[2013-04-10 08:00:00]]></wp:post_date>
+	<wp:status><![CDATA[publish]]></wp:status>
+	<wp:post_type><![CDATA[post]]></wp:post_type>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://gimpmagazine.org]]></wp:meta_value>
+	</wp:postmeta>
+	<title>GIMP Magazine</title>
+	<category domain="speaker" nicename="Steve Czajka"><![CDATA[Steve Czajka]]></category>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://medialab-prado.es/mmedia/10/10761/10761.flv]]></wp:meta_value>
+	</wp:postmeta>
+	<category domain="category" nicename="lgm-2013"><![CDATA[LGM 2013]]></category>
+</item>
+
+<item>
+	<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+	<content:encoded><![CDATA[EXAMPLE]]></content:encoded>
+	<wp:post_date><![CDATA[2013-04-10 08:00:00]]></wp:post_date>
+	<wp:status><![CDATA[publish]]></wp:status>
+	<wp:post_type><![CDATA[post]]></wp:post_type>
+	<category domain="speaker" nicename="Stella Carrera"><![CDATA[Stella Carrera]]></category>
+	<title>Use of Open Source Software in Secundary Education</title>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://medialab-prado.es/mmedia/10/10816/10816.flv]]></wp:meta_value>
+	</wp:postmeta>
+	<category domain="category" nicename="lgm-2013"><![CDATA[LGM 2013]]></category>
+</item>
+
+<item>
+	<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+	<content:encoded><![CDATA[EXAMPLE]]></content:encoded>
+	<wp:post_date><![CDATA[2013-04-10 08:00:00]]></wp:post_date>
+	<wp:status><![CDATA[publish]]></wp:status>
+	<wp:post_type><![CDATA[post]]></wp:post_type>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://www.proyectoinfancia.com]]></wp:meta_value>
+	</wp:postmeta>
+	<title>Proyecto Infancia Digital Poor Camera</title>
+	<category domain="speaker" nicename="José Mogrol"><![CDATA[José Mogrol]]></category>
+	<category domain="speaker" nicename="Andrés Vargas LLano"><![CDATA[Andrés Vargas LLano]]></category>
+	<category domain="speaker" nicename="Rebeca Rodriguez"><![CDATA[Rebeca Rodriguez]]></category>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://medialab-prado.es/mmedia/10/10786/10786.flv]]></wp:meta_value>
+	</wp:postmeta>
+	<category domain="category" nicename="lgm-2013"><![CDATA[LGM 2013]]></category>
+</item>
+
+<item>
+	<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+	<content:encoded><![CDATA[EXAMPLE]]></content:encoded>
+	<wp:post_date><![CDATA[2013-04-10 08:00:00]]></wp:post_date>
+	<wp:status><![CDATA[publish]]></wp:status>
+	<wp:post_type><![CDATA[post]]></wp:post_type>
+	<category domain="speaker" nicename="Fridrich Strba"><![CDATA[Fridrich Strba]]></category>
+	<category domain="speaker" nicename="Valentin Filippov"><![CDATA[Valentin Filippov]]></category>
+	<title>Give me my drawing back! - Dragging your proprietary files to free-sofware world</title>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://medialab-prado.es/mmedia/10/10771/10771.flv]]></wp:meta_value>
+	</wp:postmeta>
+	<category domain="category" nicename="lgm-2013"><![CDATA[LGM 2013]]></category>
+</item>
+
+<item>
+	<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+	<content:encoded><![CDATA[EXAMPLE]]></content:encoded>
+	<wp:post_date><![CDATA[2013-04-10 08:00:00]]></wp:post_date>
+	<wp:status><![CDATA[publish]]></wp:status>
+	<wp:post_type><![CDATA[post]]></wp:post_type>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://joaclintistgud.wordpress.com/]]></wp:meta_value>
+	</wp:postmeta>
+	<title>Presentation of the eBook Blender: 3D for Educatión</title>
+	<category domain="speaker" nicename="Joaquín Herrera"><![CDATA[Joaquín Herrera]]></category>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://medialab-prado.es/mmedia/10/10766/10766.flv]]></wp:meta_value>
+	</wp:postmeta>
+	<category domain="category" nicename="lgm-2013"><![CDATA[LGM 2013]]></category>
+</item>
+
+<item>
+	<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+	<content:encoded><![CDATA[EXAMPLE]]></content:encoded>
+	<wp:post_date><![CDATA[2013-04-10 08:00:00]]></wp:post_date>
+	<wp:status><![CDATA[publish]]></wp:status>
+	<wp:post_type><![CDATA[post]]></wp:post_type>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://tavmjong.free.fr]]></wp:meta_value>
+	</wp:postmeta>
+	<title>Inkscape Update</title>
+	<category domain="speaker" nicename="Tavmjong Bah"><![CDATA[Tavmjong Bah]]></category>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://medialab-prado.es/mmedia/10/10791/10791.flv]]></wp:meta_value>
+	</wp:postmeta>
+	<category domain="category" nicename="lgm-2013"><![CDATA[LGM 2013]]></category>
+</item>
+
+<item>
+	<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+	<content:encoded><![CDATA[EXAMPLE]]></content:encoded>
+	<wp:post_date><![CDATA[2013-04-10 08:00:00]]></wp:post_date>
+	<wp:status><![CDATA[publish]]></wp:status>
+	<wp:post_type><![CDATA[post]]></wp:post_type>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://graficantsdetrisseny.net/]]></wp:meta_value>
+	</wp:postmeta>
+	<title>Imago Sonification </title>
+	<category domain="speaker" nicename="Xavi Manzanares"><![CDATA[Xavi Manzanares]]></category>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://medialab-prado.es/mmedia/10/10796/10796.flv]]></wp:meta_value>
+	</wp:postmeta>
+	<category domain="category" nicename="lgm-2013"><![CDATA[LGM 2013]]></category>
+</item>
+
+<item>
+	<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+	<content:encoded><![CDATA[EXAMPLE]]></content:encoded>
+	<wp:post_date><![CDATA[2013-04-10 08:00:00]]></wp:post_date>
+	<wp:status><![CDATA[publish]]></wp:status>
+	<wp:post_type><![CDATA[post]]></wp:post_type>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://jimmac.musichall.cz]]></wp:meta_value>
+	</wp:postmeta>
+	<title>Localized Animation with Blender</title>
+	<category domain="speaker" nicename="Jakub Steiner"><![CDATA[Jakub Steiner]]></category>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://medialab-prado.es/mmedia/10/10801/10801.flv]]></wp:meta_value>
+	</wp:postmeta>
+	<category domain="category" nicename="lgm-2013"><![CDATA[LGM 2013]]></category>
+</item>
+
+<item>
+	<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+	<content:encoded><![CDATA[EXAMPLE]]></content:encoded>
+	<wp:post_date><![CDATA[2013-04-10 08:00:00]]></wp:post_date>
+	<wp:status><![CDATA[publish]]></wp:status>
+	<wp:post_type><![CDATA[post]]></wp:post_type>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://www.jonnor.com]]></wp:meta_value>
+	</wp:postmeta>
+	<title>libmypaint: MyPaint brushes in every application</title>
+	<category domain="speaker" nicename="Jon Nordby"><![CDATA[Jon Nordby]]></category>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://medialab-prado.es/mmedia/10/10806/10806.flv]]></wp:meta_value>
+	</wp:postmeta>
+	<category domain="category" nicename="lgm-2013"><![CDATA[LGM 2013]]></category>
+</item>
+
+<item>
+	<dc:creator><![CDATA[lgm-infra]]></dc:creator>
+	<content:encoded><![CDATA[EXAMPLE]]></content:encoded>
+	<wp:post_date><![CDATA[2013-04-10 08:00:00]]></wp:post_date>
+	<wp:status><![CDATA[publish]]></wp:status>
+	<wp:post_type><![CDATA[post]]></wp:post_type>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://manufacturaindependente.org]]></wp:meta_value>
+	</wp:postmeta>
+	<title>Libre type design: breaking tradition and going new ways</title>
+	<category domain="speaker" nicename="Ana Isabel Carvalho"><![CDATA[Ana Isabel Carvalho]]></category>
+	<category domain="speaker" nicename="Ricardo Lafuente"><![CDATA[Ricardo Lafuente]]></category>
+	<wp:postmeta>
+		<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://medialab-prado.es/mmedia/10/10811/10811.flv]]></wp:meta_value>
+	</wp:postmeta>
+	<category domain="category" nicename="lgm-2013"><![CDATA[LGM 2013]]></category>
+</item>
+
+	

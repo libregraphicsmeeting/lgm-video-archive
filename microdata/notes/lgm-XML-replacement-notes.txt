@@ -4,6 +4,10 @@ LGM 2007: 39 talks
 
 LGM 2008: 33 talks - 22 videos
 
+LGM 2014: 56 talks - 55 videos - 28 slides
+
+LGM 2013: 63 talks
+
 replace:
 <properties>
 </properties>
@@ -18,6 +22,10 @@ in atom: \t\t</properties>\n
 replace:
 <item></item>
 
+</item>\r
+replace:
+</item>\r\r
+
 ***
 
 ### Add Category ###
@@ -29,10 +37,20 @@ with:
 <year>2008</year>
 <category domain="category" nicename="lgm-2008"><![CDATA[LGM 2008]]></category>
 
+<year>2013</year>
+<category domain="category" nicename="lgm-2013"><![CDATA[LGM 2013]]></category>	
+
+
+***
+
+Remove city:
+Search: 
+\t\t\t<city>([^<]*)</city>\n
+
 ***
 
 <title>Opening Talk</title>
-stays the same!
+= stays the same!
 
 <presenter>Louis Desjardins</presenter>
 with:
@@ -40,8 +58,10 @@ with:
 
 REGEX:
 
-Search: <presenter>([^<]*)</presenter>
-Replace: <category domain="speaker"><![CDATA[\1]]></category>
+Search: 
+<presenter>([^<]*)</presenter>
+Replace: 
+<category domain="speaker" nicename="\1"><![CDATA[\1]]></category>
 
 ***
 
@@ -59,16 +79,31 @@ Replace:
 <video>http://people.xiph.org/~giles/2007/lgm/LGM_20070504-6-Peter_Linnell.ogg</video>
 REGEX:
 
-Search: <video>([^<]*)</video>
-
+Search: 
+<video>([^<]*)</video>
+Replace:
 <wp:postmeta>
 \t\t\t\t<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
 \t\t\t\t<wp:meta_value><![CDATA[\1]]></wp:meta_value>
 \t\t\t</wp:postmeta>
 
+FIX:
+
+search:
+<category domain="speaker" nicename="http://medialab-prado.es/([^\"]*)"><!\[CDATA\[http://medialab-prado.es/([^\"]*)]]></category>
+
+do:
+<wp:postmeta>
+\t\t\t\t<wp:meta_key><![CDATA[talk_video]]></wp:meta_key>
+\t\t\t\t<wp:meta_value><![CDATA[http://medialab-prado.es/\1]]></wp:meta_value>
+\t\t\t</wp:postmeta>
+
+***
+
 <audio>http://people.xiph.org/~giles/2007/lgm/LGM_20070504-0-Louis_Desjardins.audio.ogg</audio>
 
-search: <audio>([^<]*)</audio>
+search: 
+<audio>([^<]*)</audio>
 replace:
 <wp:postmeta>
         <wp:meta_key><![CDATA[talk_audio]]></wp:meta_key>
@@ -79,14 +114,30 @@ replace:
 
 <slides>http://gould.cx/ted/presentations/lgm/</slides>
 replace:
-Search: <slides>([^<]*)</slides>
+Search: 
+<slides>([^<]*)</slides>
+replace:
 <wp:postmeta>
-        <wp:meta_key><![CDATA[talk_slides]]></wp:meta_key>
-        <wp:meta_value><![CDATA[\1]]></wp:meta_value>
-      </wp:postmeta>
+\t\t\t\t<wp:meta_key><![CDATA[talk_slides]]></wp:meta_key>
+\t\t\t\t<wp:meta_value><![CDATA[\1]]></wp:meta_value>
+\t\t\t</wp:postmeta>
+
 
 ***
-Add some defaults:
+
+<website>http://superglue.it</website>
+
+Search: 
+<website>([^<]*)</website>
+replace:
+<wp:postmeta>
+\t\t\t\t<wp:meta_key><![CDATA[talk_website]]></wp:meta_key>
+\t\t\t\t<wp:meta_value><![CDATA[\1]]></wp:meta_value>
+\t\t\t</wp:postmeta>
+
+***
+
+Finally, add some defaults:
 
   <item>
   
@@ -94,9 +145,10 @@ Add some defaults:
   
 <item>
 \t\t\t<dc:creator><![CDATA[lgm-infra]]></dc:creator>
-\t\t\t<content:encoded><![CDATA[]]></content:encoded>
-\t\t\t<wp:post_date><![CDATA[2008-05-08 08:00:00]]></wp:post_date>
+\t\t\t<content:encoded><![CDATA[EXAMPLE]]></content:encoded>
+\t\t\t<wp:post_date><![CDATA[2013-04-10 08:00:00]]></wp:post_date>
 \t\t\t<wp:status><![CDATA[publish]]></wp:status>
 \t\t\t<wp:post_type><![CDATA[post]]></wp:post_type>
 
+***
 ***
