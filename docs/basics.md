@@ -19,6 +19,7 @@ The content metadata we want to attach to Talks. They are implemented as WordPre
 - **Video URL**: `talk_video` - can be a direct link to video file, for example: http://video.constantvzw.org/LGM15/day-04/38-Snelting-Conversations.ogv ... or a link to Youtube or Archive.org
 - **Slides URL**: `talk_slides` - can be a direct link to the slides, or to a web page displaying them. 
 - **Audio URL**: `talk_audio` - audio recording
+- **Website**: `talk_website` - URL related to the talk
 
 Other metadata we could add at some moment: 
 
