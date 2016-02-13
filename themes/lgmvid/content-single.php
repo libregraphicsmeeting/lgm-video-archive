@@ -99,7 +99,7 @@
 			echo '<div class="lgm-speakers">';
 			foreach ( $speakers as $speaker ) {
 					echo '<div class="lgm-speaker-info">';
-					echo '<h4 class="lgm-speaker-name"><a href="'.site_url('/speakers/').$speaker->slug.'/">'.$speaker->name.'</a></h4>'; 
+					echo '<h4 class="lgm-speaker-name"><a href="'.site_url('/speaker/').$speaker->slug.'/">'.$speaker->name.'</a></h4>'; 
 					echo '<p class="lgm-speaker-bio">'.$speaker->description.'</p>';
 						// test if speaker has term_meta: key: speaker_url
 //						$speaker_url = get_term_meta ( $speaker->ID, 'speaker_url', true );
